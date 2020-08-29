@@ -1,0 +1,18 @@
+# from gitignore:
+*~
+.DS_Store
+node_modules/
+.idea
+.vscode
+*.log
+*.cache
+dist/*dev.js
+
+# npmignore:
+/docs
+/test
+webpack.config*
+.babelrc
+.editorconfig
+.gitignore
+.npmignore

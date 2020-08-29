@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="588" height="600" viewBox="0 0 588 600">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="長方形_3225" data-name="長方形 3225" width="588" height="600" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="アートワーク_56" data-name="アートワーク 56" transform="translate(294 300)">
+    <g id="グループ_16635" data-name="グループ 16635" transform="translate(-294 -300)" clip-path="url(#clip-path)">
+      <path id="パス_98440" data-name="パス 98440" d="M306.741,2a228,228,0,0,0-188,356l-104,102.667A52,52,0,0,0,88.074,534L193.408,428.667A228,228,0,1,0,306.741,2" transform="translate(26.592 24.667)" fill="#fff"/>
+      <path id="パス_98441" data-name="パス 98441" d="M306.741,2a228,228,0,0,0-188,356l-104,102.667A52,52,0,0,0,88.074,534L193.408,428.667A228,228,0,1,0,306.741,2Z" transform="translate(26.592 24.667)" fill="none" stroke="#333" stroke-linejoin="round" stroke-width="40"/>
+      <path id="パス_98442" data-name="パス 98442" d="M136.193,10.207a118.667,118.667,0,1,0,117.333,120A118.667,118.667,0,0,0,134.86,11.54" transform="translate(199.807 125.793)" fill="#333" fill-rule="evenodd"/>
+      <path id="パス_98443" data-name="パス 98443" d="M136.193,10.207a118.667,118.667,0,1,0,117.333,120,118.667,118.667,0,0,0-117.333-120Z" transform="translate(199.807 125.793)" fill="none" stroke="#333" stroke-linecap="round" stroke-linejoin="round" stroke-width="53.333"/>
+      <path id="パス_98444" data-name="パス 98444" d="M122.533,62.667A50.667,50.667,0,0,1,73.2,20h-56a106.667,106.667,0,0,0,212,0h-56a50.667,50.667,0,0,1-49.333,42.667" transform="translate(212.133 246.667)" fill="#fff"/>
+      <path id="パス_98445" data-name="パス 98445" d="M123.767,63.486A50.667,50.667,0,0,1,173.1,106.153h56a106.667,106.667,0,0,0-212,0h56a50.667,50.667,0,0,1,49.333-42.667" transform="translate(210.9 140.514)" fill="#e40b20" fill-rule="evenodd"/>
+      <path id="パス_98446" data-name="パス 98446" d="M57.267,16.6A34.667,34.667,0,1,0,91.933,51.267,34.667,34.667,0,0,0,57.267,16.6" transform="translate(278.733 204.733)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

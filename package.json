@@ -1,0 +1,9 @@
+{
+  "name": "pokemon-assets",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/itsjavi/pokemon-assets",
+    "type": "git"
+  },
+  "license": "MIT"
+}

@@ -4,6 +4,39 @@ build: spritesheets pretty
 
 install:
 	yarn install
+	rm -rf .gh-pages && git clone -b gh-pages git@github.com:itsjavi/pokemon-assets.git .gh-pages
+
+index-page: # TODO: add google analytics, etc.
+	rm -rf tmp/pandoc-css && git clone https://gist.github.com/5917178.git tmp/pandoc-css
+	pandoc --from gfm --to html --standalone README.md --output .gh-pages/index.html \
+	--template src/index.template.html
+
+pages: build
+	cd .gh-pages
+	git add -A && git stash && git pull --rebase # have a clean & updated git history
+	cd ..
+	mv .gh-pages/.git tmp/gh-pages-git
+	rm -rf .gh-pages/*
+	mv tmp/gh-pages-git .gh-pages/.git
+	mkdir -p .gh-pages/ref
+	cp -R tmp/output-items .gh-pages/ref/items
+	cp -R tmp/output-marks .gh-pages/ref/marks
+	cp -R tmp/output-pokemon .gh-pages/ref/pokemon
+	cp -R tmp/output-pokemon-shiny .gh-pages/ref/pokemon/shiny
+	cp -R tmp/output-ribbons .gh-pages/ref/ribbons
+	cp -R tmp/output-symbols .gh-pages/ref/symbols
+	make index-page
+	rm -rf tmp/pandoc-css
+	git clone https://gist.github.com/5917178.git tmp/pandoc-css
+	cp tmp/pandoc-css/pandoc.css .gh-pages/gfm.css
+	cd .gh-pages
+	pwd
+	git add -A
+	git commit -m "update gh-pages"
+
+deploy: pages
+	cd .gh-pages
+	git push -u origin gh-pages
 
 pretty:
 	npx prettier --write ./sass/* ./data/* ./css/*
@@ -16,7 +49,7 @@ spritesheets:
 	./src/scripts/generate-spritesheet.sh img/ribbons pkribbon ribbons && ./src/scripts/import-generated-spritesheet.sh ribbons
 	./src/scripts/generate-spritesheet.sh img/symbols pksymbol symbols && ./src/scripts/import-generated-spritesheet.sh symbols
 
-svg-exports:
+pngs:
 	mkdir -p img/symbols
 	npx svgexport src/svg/gender-female.svg img/symbols/gender-female.png pad 128:128
 	npx svgexport src/svg/gender-male.svg img/symbols/gender-male.png pad 128:128
@@ -70,5 +103,5 @@ audit-fix:
 	yarn import
 	rm -f package-lock.json
 
-$(V).SILENT: build svg-exports spritesheets pretty install
-.PHONY:
+.SILENT:
+.PHONY: build

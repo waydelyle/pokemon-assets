@@ -24,3 +24,5 @@ yarn-error.log*
 package-lock.json
 /tmp
 *_tmp/
+/.gh-pages
+/gh-pages

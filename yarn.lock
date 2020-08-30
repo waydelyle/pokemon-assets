@@ -637,7 +637,7 @@ pirates@^4.0.1:
 
 "pokemon-showdown@https://github.com/smogon/pokemon-showdown#master":
   version "0.11.2"
-  resolved "git+https://github.com/smogon/pokemon-showdown.git#c9fa3fc389fed630081e3781d148ef98d068100c"
+  resolved "https://github.com/smogon/pokemon-showdown#8744adaeca0f597de45ea1cfbb5207978a2fb928"
   dependencies:
     probe-image-size "^5.0.0"
     sockjs "0.3.20"
@@ -652,7 +652,7 @@ pirates@^4.0.1:
 
 "pokesprite-images@https://github.com/msikma/pokesprite#master":
   version "2.2.5"
-  resolved "git+https://github.com/msikma/pokesprite.git#99721cdca1cdbeb35a56de5919b4e5ae4f922aa1"
+  resolved "https://github.com/msikma/pokesprite#99721cdca1cdbeb35a56de5919b4e5ae4f922aa1"
 
 probe-image-size@^5.0.0:
   version "5.0.0"

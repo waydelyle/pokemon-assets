@@ -1,50 +1,48 @@
 #!/usr/bin/env zsh
 
 function create_png() {
-  npx svgexport "src/svg/${1}.svg" "assets/img/symbols/${S1//\//-}.png" pad 128:128
+  npx svgexport "src/svg/${1}.svg" "assets/img/symbols/${2}.png" pad 128:128
 }
 
-mkdir -p img/symbols
-
-create_png gender-female
-create_png gender-male
-create_png pokeball
-create_png pokedollar
-create_png sort-button
-create_png search-button
-create_png types/bug
-create_png types/badge/bug
-create_png types/dark
-create_png types/badge/dark
-create_png types/dragon
-create_png types/badge/dragon
-create_png types/electric
-create_png types/badge/electric
-create_png types/fairy
-create_png types/badge/fairy
-create_png types/fighting
-create_png types/badge/fighting
-create_png types/fire
-create_png types/badge/fire
-create_png types/flying
-create_png types/badge/flying
-create_png types/ghost
-create_png types/badge/ghost
-create_png types/grass
-create_png types/badge/grass
-create_png types/ground
-create_png types/badge/ground
-create_png types/ice
-create_png types/badge/ice
-create_png types/normal
-create_png types/badge/normal
-create_png types/poison
-create_png types/badge/poison
-create_png types/psychic
-create_png types/badge/psychic
-create_png types/rock
-create_png types/badge/rock
-create_png types/steel
-create_png types/badge/steel
-create_png types/water
-create_png types/badge/water
+create_png gender-female gender-female
+create_png gender-male gender-male
+create_png pokeball pokeball-logo
+create_png pokedollar pokedollar-glyph
+create_png sync-button ui-sync
+create_png search-button ui-search
+create_png types/bug type-bug
+create_png types/badge/bug type-bug-badge
+create_png types/dark type-dark
+create_png types/badge/dark type-dark-badge
+create_png types/dragon type-dragon
+create_png types/badge/dragon type-dragon-badge
+create_png types/electric type-electric
+create_png types/badge/electric type-electric-badge
+create_png types/fairy type-fairy
+create_png types/badge/fairy type-fairy-badge
+create_png types/fighting type-fighting
+create_png types/badge/fighting type-fighting-badge
+create_png types/fire type-fire
+create_png types/badge/fire type-fire-badge
+create_png types/flying type-flying
+create_png types/badge/flying type-flying-badge
+create_png types/ghost type-ghost
+create_png types/badge/ghost type-ghost-badge
+create_png types/grass type-grass
+create_png types/badge/grass type-grass-badge
+create_png types/ground type-ground
+create_png types/badge/ground type-ground-badge
+create_png types/ice type-ice
+create_png types/badge/ice type-ice-badge
+create_png types/normal type-normal
+create_png types/badge/normal type-normal-badge
+create_png types/poison type-poison
+create_png types/badge/poison type-poison-badge
+create_png types/psychic type-psychic
+create_png types/badge/psychic type-psychic-badge
+create_png types/rock type-rock
+create_png types/badge/rock type-rock-badge
+create_png types/steel type-steel
+create_png types/badge/steel type-steel-badge
+create_png types/water type-water
+create_png types/badge/water type-water-badge

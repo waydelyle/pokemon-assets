@@ -16,12 +16,12 @@ You can check all available assets in the following [reference pages](https://it
 
 ### JSON Data
 
-- [Pokémon and Forms](https://itsjavi.com/pokemon-assets/data/pokemon.json)
-- [Abilities](https://itsjavi.com/pokemon-assets/data/abilities.json)
-- [Items](https://itsjavi.com/pokemon-assets/data/items.json)
-- [Moves](https://itsjavi.com/pokemon-assets/data/moves.json)
-- [Move Learn Sets](https://itsjavi.com/pokemon-assets/data/learnsets.json)
-- [Natures](https://itsjavi.com/pokemon-assets/data/natures.json)
+- [Pokémon and Forms](https://itsjavi.com/pokemon-assets/assets/data/pokemon.json)
+- [Abilities](https://itsjavi.com/pokemon-assets/assets/data/abilities.json)
+- [Items](https://itsjavi.com/pokemon-assets/assets/data/items.json)
+- [Moves](https://itsjavi.com/pokemon-assets/assets/data/moves.json)
+- [Move Learn Sets](https://itsjavi.com/pokemon-assets/assets/data/learnsets.json)
+- [Natures](https://itsjavi.com/pokemon-assets/assets/data/natures.json)
 
 ### Imagery and CSS
 

@@ -9,12 +9,12 @@ pretty:
 	npx prettier --write ./sass/* ./data/* ./css/*
 
 spritesheets:
-	./src/generate-spritesheet.sh img/items pkitem items && ./src/import-generated-spritesheet.sh items
-	./src/generate-spritesheet.sh img/marks pkmark marks && ./src/import-generated-spritesheet.sh marks
-	./src/generate-spritesheet.sh img/pokemon pkm pokemon && ./src/import-generated-spritesheet.sh pokemon
-	./src/generate-spritesheet.sh img/pokemon/shiny pkms pokemon-shiny && ./src/import-shiny-pokemon-spritesheet.sh
-	./src/generate-spritesheet.sh img/ribbons pkribbon ribbons && ./src/import-generated-spritesheet.sh ribbons
-	./src/generate-spritesheet.sh img/symbols pksymbol symbols && ./src/import-generated-spritesheet.sh symbols
+	./src/scripts/generate-spritesheet.sh img/items pkitem items && ./src/scripts/import-generated-spritesheet.sh items
+	./src/scripts/generate-spritesheet.sh img/marks pkmark marks && ./src/scripts/import-generated-spritesheet.sh marks
+	./src/scripts/generate-spritesheet.sh img/pokemon pkm pokemon && ./src/scripts/import-generated-spritesheet.sh pokemon
+	./src/scripts/generate-spritesheet.sh img/pokemon/shiny pkms pokemon-shiny && ./src/scripts/import-shiny-pokemon-spritesheet.sh
+	./src/scripts/generate-spritesheet.sh img/ribbons pkribbon ribbons && ./src/scripts/import-generated-spritesheet.sh ribbons
+	./src/scripts/generate-spritesheet.sh img/symbols pksymbol symbols && ./src/scripts/import-generated-spritesheet.sh symbols
 
 svg-exports:
 	mkdir -p img/symbols

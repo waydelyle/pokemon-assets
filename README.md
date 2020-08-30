@@ -1,6 +1,21 @@
 # pokemon-assets
 Pokémon assets for your projects: menu sprites, json pokedex, symbols, etc.
 
+## Contents
+
+- All Pokémon menu sprites up to Gen 8, with their shiny version.
+- All sprites for items, ribbons, marks and UI symbols.
+- Sprite sheets with all sprites, with CSS and SASS files.
+- Essential Pokémon metagame data (abilities, items, moves, natures, pokemon, learnsets).
+- SVG images for type symbols and other UI elements.
+
+## Credits
+
+- Sprites: [msikma/pokesprite](https://github.com/msikma/pokesprite)
+- SVGs: [zukan.pokemon.co.jp](https://zukan.pokemon.co.jp)
+- Data: [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown/tree/master/data),
+[veekun/pokedex](https://github.com/veekun/pokedex)
+
 ## License
 
 This software is copyrighted and licensed under the

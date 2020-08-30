@@ -1,6 +1,14 @@
 #!/usr/bin/env bash
 
-function rename_pngs {
+function remove_suffix() {
+  for filename in *.png; do
+    name="${filename%${1}.*}";
+    echo "${name}.png";
+    #mv "$filename" "${name}.png";
+  done;
+}
+
+function rename_pngs() {
   for f in ${1}/*; do
     name="${f%.*}"
     ext=${f#*.}
@@ -11,7 +19,7 @@ function rename_pngs {
   done
 }
 
-function prefix_rename_pngs {
+function prefix_rename_pngs() {
   for f in ${1}/*; do
     name="${f%.*}"
     ext=${f#*.}
@@ -22,7 +30,7 @@ function prefix_rename_pngs {
   done
 }
 
-function move_pngs {
+function move_pngs() {
   for f in ${1}/*; do
     name="${f%.*}"
     ext=${f#*.}

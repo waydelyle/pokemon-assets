@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 # This script creates the sprite sorting individual images by size and trimming them. Also generates the sprite CSS file.
 # Inspired in this article http://eosrei.net/articles/2015/12/generating-css-image-sprites-bash-and-imagemagick
 
@@ -9,12 +9,14 @@ _TRIM=0
 _SORT=0
 _PADDING=1
 _MAX_COLS=30
+_CSS_PREFIX='sprite'
 
-while getopts 'htsp:c:' opt; do
+while getopts 'htspni:c:' opt; do
   case "${opt}" in
     h)
     echo 'Available options: -h (help), -t (trim),'
     echo '-s (sort), -p NUM (padding), -c NUM (max cols)'
+    echo '-i PREFIX (css icon class prefix)'
     echo '-n (child folder name, used for generate files too)'
     exit
     ;;
@@ -26,6 +28,7 @@ while getopts 'htsp:c:' opt; do
     _SORT=1
     _OUT_NAME=${_OUT_NAME}'_sorted'
     ;;
+    i) _CSS_PREFIX="${OPTARG}" ;;
     p) _PADDING="${OPTARG}" ;;
     n) _NAME="${OPTARG}" ;;
     c) _MAX_COLS="${OPTARG}" ;;
@@ -33,9 +36,12 @@ while getopts 'htsp:c:' opt; do
   esac
 done
 
+echo "Generating..."
+
 # Create a temporary directory to not mess up with original one
-cp -r ${_NAME} ${_NAME}_tmp
-cd ${_NAME}_tmp
+rm -rf ${_NAME}_tmp
+cp -r ${_NAME} ${_NAME}_tmp/icons
+cd ${_NAME}_tmp/icons
 
 if [ ${_TRIM} -eq 1 ]
 then
@@ -46,13 +52,15 @@ fi
 if [ ${_SORT} -eq 1 ]
 then
     # Sort / rename images by size and height (like 1200-30___ )
-    for a in [0-9]*.png; do
-        mv $a `identify -format "%[fx:w*h]-%hpx___%[base].png" ${a}`
+    for a in *.png; do
+      # echo "$(identify -format "%[fx:w*h]-%hpx___%[basename].png" ${a})";
+      mv $a "$(identify -format "%[fx:w*h]-%hpx___%[basename].png" ${a})"
     done
 
     # Add leading zeros if needed to the filename (all will end up having 4 digits)
     for a in [0-9][0-9][0-9][-]*.png; do
-        mv $a 0${a}
+      # echo $a;
+      mv $a "0${a}"
     done
 fi
 
@@ -77,7 +85,7 @@ HIGHEST=0
 WIDEST_ALL=0
 HIGHEST_ALL=0
 
-css=".sprite { display:inline-block; vertical-align:bottom; background-image:url(${_OUT_NAME}.png); }"
+css=".${_CSS_PREFIX} { display:inline-block; vertical-align:bottom; background-image:url(${_OUT_NAME}.png); }"
 scss=$css
 html="<!DOCTYPE html>
 <html>
@@ -95,16 +103,16 @@ for img in *.png; do
     W=`identify -format "%w" ${img}`
     H=`identify -format "%h" ${img}`
     css="$css
-.sprite-$ALIAS{
+.${_CSS_PREFIX}-$ALIAS{
   width:${W}px;
   height:${H}px;
   background-position: ${X_POS}px ${Y_POS}px;
 }"
     scss="$scss
-.sprite-$ALIAS{
-  @include sprite(${W}px, ${H}px, ${X_POS}px, ${Y_POS}px);
+.${_CSS_PREFIX}-$ALIAS{
+  @include ${_CSS_PREFIX}(${W}px, ${H}px, ${X_POS}px, ${Y_POS}px);
 }"
-    html="$html <span class='sprite-wrapper'><i class=\"sprite sprite-${ALIAS}\"></i></span>"
+    html="$html <span class='${_CSS_PREFIX}-wrapper'><i class=\"${_CSS_PREFIX} ${_CSS_PREFIX}-${ALIAS}\"></i></span>"
     MONTAGE_FILES="$MONTAGE_FILES $img"
     X=$(($X + 1))
     X_POS=$(($X_POS - $(($W + $(($_PADDING * 2)) )) ))
@@ -139,7 +147,7 @@ done
 
 html="$html
 <style>
-        .sprite-wrapper {
+        .${_CSS_PREFIX}-wrapper {
             width:${WIDEST_ALL}px;
             height:${HIGHEST_ALL}px;
             line-height:${HIGHEST_ALL}px;
@@ -149,16 +157,16 @@ html="$html
             margin:4px;
             border:1px solid #ddd;
         }
-        .sprite{
+        .${_CSS_PREFIX}{
             background-color:cyan;
         }
     </style>
 <body></html>"
 
-rm ../${_OUT_NAME}.css ../${_OUT_NAME}.scss ../${_OUT_NAME}.html
-echo ${css} >> ../${_OUT_NAME}.css
-echo ${scss} >> ../${_OUT_NAME}.scss
-echo ${html} >> ../${_OUT_NAME}.html
+rm -f ../${_OUT_NAME}.css ../${_OUT_NAME}.scss ../${_OUT_NAME}.html
+echo -e "${css}" >> ../${_OUT_NAME}.css
+echo -e "${scss}" >> ../${_OUT_NAME}.scss
+echo -e "${html}" >> ../${_OUT_NAME}.html
 
 # Mount sprite with 35 tiles per row and a padding of 2x2 pixels each
 montage -background none *.png -gravity NorthWest -tile ${_MAX_COLS}x -geometry +${_PADDING}+${_PADDING} ../${_OUT_NAME}.png
@@ -172,5 +180,3 @@ then
     mogrify -trim ${_OUT_NAME}.png
 fi
 
-# Remove the temporary dir
-rm -rf ${_NAME}_tmp

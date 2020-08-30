@@ -58,6 +58,8 @@ svg-exports:
 	npx svgexport src/svg/types/badge/steel.svg img/symbols/type-steel-badge.png pad 128:128
 	npx svgexport src/svg/types/water.svg img/symbols/type-water.png pad 128:128
 	npx svgexport src/svg/types/badge/water.svg img/symbols/type-water-badge.png pad 128:128
+	npx svgexport src/svg/sort-button.svg img/symbols/ui-sort.png pad 128:128
+	npx svgexport src/svg/search-button.svg img/symbols/ui-search.png pad 128:128
 
-$(V).SILENT: build svg-exports spritesheets
+$(V).SILENT: build svg-exports spritesheets pretty install
 .PHONY:

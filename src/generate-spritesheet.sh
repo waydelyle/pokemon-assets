@@ -12,6 +12,8 @@ _MAX_COLS=30
 _MAX_ROW_WIDTH=${4:-480}
 _TRIM=1
 _SORT=1
+_MAX_IMG_WIDTH=$((67 * 1)) # standard gen 8 sprite size 67x58
+_MAX_IMG_HEIGHT=$((58 * 1))
 
 echo "Generating '${_OUT_NAME}' spritesheet files..."
 
@@ -95,6 +97,18 @@ for img in *.png; do
   ALIAS=${ALIAS/*___/} # removes sorting prefix (like 1200-30___ )
   W=$(identify -format "%w" ${img})
   H=$(identify -format "%h" ${img})
+
+  # keep image size to max size
+  if [ "${W}" -ge "${_MAX_IMG_WIDTH}" ] || [ "${H}" -ge "${_MAX_IMG_HEIGHT}" ]; then
+
+    # resize all PNGs to the maximum
+    magick mogrify -resize "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}" $img
+    #convert "$img" -resize "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}^" -gravity center -extent "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}" "$img"
+  fi
+
+  W=$(identify -format "%w" ${img})
+  H=$(identify -format "%h" ${img})
+
   css="$css
 .${_CSS_PREFIX}-$ALIAS{
   width:${W}px;

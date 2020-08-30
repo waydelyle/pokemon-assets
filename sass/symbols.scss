@@ -1,0 +1,359 @@
+.pksymbol {
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url(../img/symbols.png);
+}
+@mixin sprite-rect($w, $h, $x, $y) {
+  width: $w;
+  height: $h;
+  background-position: $x $y;
+}
+
+.pksymbol-form-mega4 {
+  @include sprite-rect(15px, 15px, 0px, 0px);
+}
+.pksymbol-form-mega-overlay {
+  @include sprite-rect(16px, 16px, -17px, 0px);
+}
+.pksymbol-form-mega3 {
+  @include sprite-rect(16px, 16px, -35px, 0px);
+}
+.pksymbol-body-head-base-gen6 {
+  @include sprite-rect(18px, 27px, -53px, 0px);
+}
+.pksymbol-body-head-gen6 {
+  @include sprite-rect(24px, 20px, -73px, 0px);
+}
+.pksymbol-body-head-legs-gen6 {
+  @include sprite-rect(23px, 22px, -99px, 0px);
+}
+.pksymbol-body-fins-gen6 {
+  @include sprite-rect(24px, 23px, -124px, 0px);
+}
+.pksymbol-body-bipedal-tailless-gen6 {
+  @include sprite-rect(19px, 30px, -150px, 0px);
+}
+.pksymbol-body-tentacles-gen6 {
+  @include sprite-rect(26px, 23px, -171px, 0px);
+}
+.pksymbol-body-insectoid-gen6 {
+  @include sprite-rect(26px, 25px, -199px, 0px);
+}
+.pksymbol-body-multiple-gen6 {
+  @include sprite-rect(24px, 27px, -227px, 0px);
+}
+.pksymbol-body-serpentine-gen6 {
+  @include sprite-rect(27px, 23px, -253px, 0px);
+}
+.pksymbol-body-wings-multiple-gen6 {
+  @include sprite-rect(29px, 24px, -282px, 0px);
+}
+.pksymbol-form-gigantamax {
+  @include sprite-rect(30px, 23px, -313px, 0px);
+}
+.pksymbol-body-head-arms-gen6 {
+  @include sprite-rect(32px, 23px, -345px, 0px);
+}
+.pksymbol-body-quadruped-gen6 {
+  @include sprite-rect(25px, 29px, -379px, 0px);
+}
+.pksymbol-body-wings-single-gen6 {
+  @include sprite-rect(29px, 26px, -406px, 0px);
+}
+.pksymbol-body-bipedal-tailed-gen6 {
+  @include sprite-rect(27px, 30px, -437px, 0px);
+}
+.pksymbol-form-mega2 {
+  @include sprite-rect(28px, 28px, -466px, 0px);
+}
+.pksymbol-move-special {
+  @include sprite-rect(43px, 28px, -496px, 0px);
+}
+.pksymbol-move-physical {
+  @include sprite-rect(43px, 30px, -541px, 0px);
+}
+.pksymbol-move-status {
+  @include sprite-rect(43px, 30px, -586px, 0px);
+}
+.pksymbol-body-head {
+  @include sprite-rect(51px, 42px, -631px, 0px);
+}
+.pksymbol-body-head-base {
+  @include sprite-rect(39px, 57px, -684px, 0px);
+}
+.pksymbol-body-bipedal-tailless {
+  @include sprite-rect(39px, 61px, -725px, 0px);
+}
+.pksymbol-body-head-legs {
+  @include sprite-rect(48px, 53px, -766px, 0px);
+}
+.pksymbol-body-serpentine {
+  @include sprite-rect(53px, 48px, -816px, 0px);
+}
+.pksymbol-body-fins {
+  @include sprite-rect(59px, 43px, -871px, 0px);
+}
+.pksymbol-body-multiple {
+  @include sprite-rect(52px, 51px, -932px, 0px);
+}
+.pksymbol-body-tentacles {
+  @include sprite-rect(49px, 54px, -986px, 0px);
+}
+.pksymbol-body-wings-multiple {
+  @include sprite-rect(56px, 46px, 0px, -63px);
+}
+.pksymbol-body-insectoid {
+  @include sprite-rect(55px, 51px, -58px, -63px);
+}
+.pksymbol-body-wings-single {
+  @include sprite-rect(58px, 49px, -115px, -63px);
+}
+.pksymbol-body-bipedal-tailed {
+  @include sprite-rect(51px, 57px, -175px, -63px);
+}
+.pksymbol-body-head-arms {
+  @include sprite-rect(60px, 48px, -228px, -63px);
+}
+.pksymbol-body-quadruped {
+  @include sprite-rect(53px, 59px, -290px, -63px);
+}
+.pksymbol-type-bug-badge-go {
+  @include sprite-rect(64px, 64px, -345px, -63px);
+}
+.pksymbol-type-dark-badge-go {
+  @include sprite-rect(64px, 64px, -411px, -63px);
+}
+.pksymbol-type-dragon-badge-go {
+  @include sprite-rect(64px, 64px, -477px, -63px);
+}
+.pksymbol-type-electric-badge-go {
+  @include sprite-rect(64px, 64px, -543px, -63px);
+}
+.pksymbol-type-fairy-badge-go {
+  @include sprite-rect(64px, 64px, -609px, -63px);
+}
+.pksymbol-type-fighting-badge-go {
+  @include sprite-rect(64px, 64px, -675px, -63px);
+}
+.pksymbol-type-fire-badge-go {
+  @include sprite-rect(64px, 64px, -741px, -63px);
+}
+.pksymbol-type-flying-badge-go {
+  @include sprite-rect(64px, 64px, -807px, -63px);
+}
+.pksymbol-type-ghost-badge-go {
+  @include sprite-rect(64px, 64px, -873px, -63px);
+}
+.pksymbol-type-grass-badge-go {
+  @include sprite-rect(64px, 64px, -939px, -63px);
+}
+.pksymbol-type-ground-badge-go {
+  @include sprite-rect(64px, 64px, -1005px, -63px);
+}
+.pksymbol-type-ice-badge-go {
+  @include sprite-rect(64px, 64px, -1071px, -63px);
+}
+.pksymbol-type-normal-badge-go {
+  @include sprite-rect(64px, 64px, -1137px, -63px);
+}
+.pksymbol-type-poison-badge-go {
+  @include sprite-rect(64px, 64px, -1203px, -63px);
+}
+.pksymbol-type-psychic-badge-go {
+  @include sprite-rect(64px, 64px, -1269px, -63px);
+}
+.pksymbol-type-rock-badge-go {
+  @include sprite-rect(64px, 64px, -1335px, -63px);
+}
+.pksymbol-type-steel-badge-go {
+  @include sprite-rect(64px, 64px, -1401px, -63px);
+}
+.pksymbol-type-water-badge-go {
+  @include sprite-rect(64px, 64px, -1467px, -63px);
+}
+.pksymbol-type-electric {
+  @include sprite-rect(59px, 76px, -1533px, -63px);
+}
+.pksymbol-type-water {
+  @include sprite-rect(58px, 82px, -1594px, -63px);
+}
+.pksymbol-type-fighting {
+  @include sprite-rect(81px, 62px, -1654px, -63px);
+}
+.pksymbol-type-psychic {
+  @include sprite-rect(74px, 74px, -1737px, -63px);
+}
+.pksymbol-type-rock {
+  @include sprite-rect(82px, 67px, -1813px, -63px);
+}
+.pksymbol-type-ground {
+  @include sprite-rect(94px, 57px, -1897px, -63px);
+}
+.pksymbol-type-bug {
+  @include sprite-rect(76px, 83px, 0px, -147px);
+}
+.pksymbol-type-flying {
+  @include sprite-rect(84px, 74px, -78px, -147px);
+}
+.pksymbol-type-ghost {
+  @include sprite-rect(78px, 80px, -164px, -147px);
+}
+.pksymbol-type-poison {
+  @include sprite-rect(80px, 78px, -244px, -147px);
+}
+.pksymbol-type-grass {
+  @include sprite-rect(78px, 82px, -326px, -147px);
+}
+.pksymbol-type-normal {
+  @include sprite-rect(80px, 80px, -406px, -147px);
+}
+.pksymbol-type-dark {
+  @include sprite-rect(82px, 82px, -488px, -147px);
+}
+.pksymbol-type-fire {
+  @include sprite-rect(72px, 93px, -572px, -147px);
+}
+.pksymbol-type-steel {
+  @include sprite-rect(88px, 76px, -646px, -147px);
+}
+.pksymbol-type-dragon {
+  @include sprite-rect(77px, 91px, -736px, -147px);
+}
+.pksymbol-pokedollar-glyph {
+  @include sprite-rect(81px, 92px, -815px, -147px);
+}
+.pksymbol-type-fairy {
+  @include sprite-rect(89px, 89px, -898px, -147px);
+}
+.pksymbol-type-ice {
+  @include sprite-rect(98px, 84px, -989px, -147px);
+}
+.pksymbol-gender-male {
+  @include sprite-rect(103px, 104px, -1089px, -147px);
+}
+.pksymbol-gender-female {
+  @include sprite-rect(84px, 128px, -1194px, -147px);
+}
+.pksymbol-type-bug-badge {
+  @include sprite-rect(126px, 126px, -1280px, -147px);
+}
+.pksymbol-type-dark-badge {
+  @include sprite-rect(126px, 126px, -1408px, -147px);
+}
+.pksymbol-type-dragon-badge {
+  @include sprite-rect(126px, 126px, -1536px, -147px);
+}
+.pksymbol-type-electric-badge {
+  @include sprite-rect(126px, 126px, -1664px, -147px);
+}
+.pksymbol-type-fairy-badge {
+  @include sprite-rect(126px, 126px, -1792px, -147px);
+}
+.pksymbol-type-fighting-badge {
+  @include sprite-rect(126px, 126px, -1920px, -147px);
+}
+.pksymbol-type-fire-badge {
+  @include sprite-rect(126px, 126px, -2048px, -147px);
+}
+.pksymbol-type-flying-badge {
+  @include sprite-rect(126px, 126px, -2176px, -147px);
+}
+.pksymbol-type-ghost-badge {
+  @include sprite-rect(126px, 126px, -2304px, -147px);
+}
+.pksymbol-type-grass-badge {
+  @include sprite-rect(126px, 126px, -2432px, -147px);
+}
+.pksymbol-type-ground-badge {
+  @include sprite-rect(126px, 126px, -2560px, -147px);
+}
+.pksymbol-type-ice-badge {
+  @include sprite-rect(126px, 126px, -2688px, -147px);
+}
+.pksymbol-type-normal-badge {
+  @include sprite-rect(126px, 126px, -2816px, -147px);
+}
+.pksymbol-type-poison-badge {
+  @include sprite-rect(126px, 126px, -2944px, -147px);
+}
+.pksymbol-type-psychic-badge {
+  @include sprite-rect(126px, 126px, -3072px, -147px);
+}
+.pksymbol-type-rock-badge {
+  @include sprite-rect(126px, 126px, 0px, -277px);
+}
+.pksymbol-type-steel-badge {
+  @include sprite-rect(126px, 126px, -128px, -277px);
+}
+.pksymbol-type-water-badge {
+  @include sprite-rect(126px, 126px, -256px, -277px);
+}
+.pksymbol-type-bug-badge-masters {
+  @include sprite-rect(127px, 128px, -384px, -277px);
+}
+.pksymbol-type-dark-badge-masters {
+  @include sprite-rect(127px, 128px, -513px, -277px);
+}
+.pksymbol-type-dragon-badge-masters {
+  @include sprite-rect(127px, 128px, -642px, -277px);
+}
+.pksymbol-type-electric-badge-masters {
+  @include sprite-rect(127px, 128px, -771px, -277px);
+}
+.pksymbol-type-fairy-badge-masters {
+  @include sprite-rect(127px, 128px, -900px, -277px);
+}
+.pksymbol-type-fighting-badge-masters {
+  @include sprite-rect(127px, 128px, -1029px, -277px);
+}
+.pksymbol-type-fire-badge-masters {
+  @include sprite-rect(127px, 128px, -1158px, -277px);
+}
+.pksymbol-type-flying-badge-masters {
+  @include sprite-rect(127px, 128px, -1287px, -277px);
+}
+.pksymbol-type-ghost-badge-masters {
+  @include sprite-rect(127px, 128px, -1416px, -277px);
+}
+.pksymbol-type-grass-badge-masters {
+  @include sprite-rect(127px, 128px, -1545px, -277px);
+}
+.pksymbol-type-ground-badge-masters {
+  @include sprite-rect(127px, 128px, -1674px, -277px);
+}
+.pksymbol-type-ice-badge-masters {
+  @include sprite-rect(127px, 128px, -1803px, -277px);
+}
+.pksymbol-type-normal-badge-masters {
+  @include sprite-rect(127px, 128px, -1932px, -277px);
+}
+.pksymbol-type-poison-badge-masters {
+  @include sprite-rect(127px, 128px, -2061px, -277px);
+}
+.pksymbol-type-psychic-badge-masters {
+  @include sprite-rect(127px, 128px, -2190px, -277px);
+}
+.pksymbol-type-rock-badge-masters {
+  @include sprite-rect(127px, 128px, -2319px, -277px);
+}
+.pksymbol-type-steel-badge-masters {
+  @include sprite-rect(127px, 128px, -2448px, -277px);
+}
+.pksymbol-type-water-badge-masters {
+  @include sprite-rect(127px, 128px, -2577px, -277px);
+}
+.pksymbol-pokeball-logo {
+  @include sprite-rect(128px, 128px, -2706px, -277px);
+}
+.pksymbol-move-special-home {
+  @include sprite-rect(190px, 134px, -2836px, -277px);
+}
+.pksymbol-move-status-home {
+  @include sprite-rect(198px, 134px, -3028px, -277px);
+}
+.pksymbol-move-physical-home {
+  @include sprite-rect(220px, 171px, -3228px, -277px);
+}
+.pksymbol-form-mega {
+  @include sprite-rect(200px, 200px, -3450px, -277px);
+}

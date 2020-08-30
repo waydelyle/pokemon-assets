@@ -13,10 +13,10 @@ _MAX_ROW_WIDTH=${4:-480}
 _TRIM=1
 _SORT=1
 
-echo "Generating '${_OUT_NAME}' spritesheet..."
+echo "Generating '${_OUT_NAME}' spritesheet files..."
 
 # Create a temporary directory to not mess up with original one
-rm -rf tmp
+rm -rf tmp/icons
 mkdir -p tmp
 cp -r ${_NAME} tmp/icons
 cd tmp/icons

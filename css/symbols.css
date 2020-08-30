@@ -1,0 +1,585 @@
+.pksymbol {
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url(../img/symbols.png);
+}
+.pksymbol-form-mega4 {
+  width: 15px;
+  height: 15px;
+  background-position: 0px 0px;
+}
+.pksymbol-form-mega-overlay {
+  width: 16px;
+  height: 16px;
+  background-position: -17px 0px;
+}
+.pksymbol-form-mega3 {
+  width: 16px;
+  height: 16px;
+  background-position: -35px 0px;
+}
+.pksymbol-body-head-base-gen6 {
+  width: 18px;
+  height: 27px;
+  background-position: -53px 0px;
+}
+.pksymbol-body-head-gen6 {
+  width: 24px;
+  height: 20px;
+  background-position: -73px 0px;
+}
+.pksymbol-body-head-legs-gen6 {
+  width: 23px;
+  height: 22px;
+  background-position: -99px 0px;
+}
+.pksymbol-body-fins-gen6 {
+  width: 24px;
+  height: 23px;
+  background-position: -124px 0px;
+}
+.pksymbol-body-bipedal-tailless-gen6 {
+  width: 19px;
+  height: 30px;
+  background-position: -150px 0px;
+}
+.pksymbol-body-tentacles-gen6 {
+  width: 26px;
+  height: 23px;
+  background-position: -171px 0px;
+}
+.pksymbol-body-insectoid-gen6 {
+  width: 26px;
+  height: 25px;
+  background-position: -199px 0px;
+}
+.pksymbol-body-multiple-gen6 {
+  width: 24px;
+  height: 27px;
+  background-position: -227px 0px;
+}
+.pksymbol-body-serpentine-gen6 {
+  width: 27px;
+  height: 23px;
+  background-position: -253px 0px;
+}
+.pksymbol-body-wings-multiple-gen6 {
+  width: 29px;
+  height: 24px;
+  background-position: -282px 0px;
+}
+.pksymbol-form-gigantamax {
+  width: 30px;
+  height: 23px;
+  background-position: -313px 0px;
+}
+.pksymbol-body-head-arms-gen6 {
+  width: 32px;
+  height: 23px;
+  background-position: -345px 0px;
+}
+.pksymbol-body-quadruped-gen6 {
+  width: 25px;
+  height: 29px;
+  background-position: -379px 0px;
+}
+.pksymbol-body-wings-single-gen6 {
+  width: 29px;
+  height: 26px;
+  background-position: -406px 0px;
+}
+.pksymbol-body-bipedal-tailed-gen6 {
+  width: 27px;
+  height: 30px;
+  background-position: -437px 0px;
+}
+.pksymbol-form-mega2 {
+  width: 28px;
+  height: 28px;
+  background-position: -466px 0px;
+}
+.pksymbol-move-special {
+  width: 43px;
+  height: 28px;
+  background-position: -496px 0px;
+}
+.pksymbol-move-physical {
+  width: 43px;
+  height: 30px;
+  background-position: -541px 0px;
+}
+.pksymbol-move-status {
+  width: 43px;
+  height: 30px;
+  background-position: -586px 0px;
+}
+.pksymbol-body-head {
+  width: 51px;
+  height: 42px;
+  background-position: -631px 0px;
+}
+.pksymbol-body-head-base {
+  width: 39px;
+  height: 57px;
+  background-position: -684px 0px;
+}
+.pksymbol-body-bipedal-tailless {
+  width: 39px;
+  height: 61px;
+  background-position: -725px 0px;
+}
+.pksymbol-body-head-legs {
+  width: 48px;
+  height: 53px;
+  background-position: -766px 0px;
+}
+.pksymbol-body-serpentine {
+  width: 53px;
+  height: 48px;
+  background-position: -816px 0px;
+}
+.pksymbol-body-fins {
+  width: 59px;
+  height: 43px;
+  background-position: -871px 0px;
+}
+.pksymbol-body-multiple {
+  width: 52px;
+  height: 51px;
+  background-position: -932px 0px;
+}
+.pksymbol-body-tentacles {
+  width: 49px;
+  height: 54px;
+  background-position: -986px 0px;
+}
+.pksymbol-body-wings-multiple {
+  width: 56px;
+  height: 46px;
+  background-position: 0px -63px;
+}
+.pksymbol-body-insectoid {
+  width: 55px;
+  height: 51px;
+  background-position: -58px -63px;
+}
+.pksymbol-body-wings-single {
+  width: 58px;
+  height: 49px;
+  background-position: -115px -63px;
+}
+.pksymbol-body-bipedal-tailed {
+  width: 51px;
+  height: 57px;
+  background-position: -175px -63px;
+}
+.pksymbol-body-head-arms {
+  width: 60px;
+  height: 48px;
+  background-position: -228px -63px;
+}
+.pksymbol-body-quadruped {
+  width: 53px;
+  height: 59px;
+  background-position: -290px -63px;
+}
+.pksymbol-type-bug-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -345px -63px;
+}
+.pksymbol-type-dark-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -411px -63px;
+}
+.pksymbol-type-dragon-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -477px -63px;
+}
+.pksymbol-type-electric-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -543px -63px;
+}
+.pksymbol-type-fairy-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -609px -63px;
+}
+.pksymbol-type-fighting-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -675px -63px;
+}
+.pksymbol-type-fire-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -741px -63px;
+}
+.pksymbol-type-flying-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -807px -63px;
+}
+.pksymbol-type-ghost-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -873px -63px;
+}
+.pksymbol-type-grass-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -939px -63px;
+}
+.pksymbol-type-ground-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1005px -63px;
+}
+.pksymbol-type-ice-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1071px -63px;
+}
+.pksymbol-type-normal-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1137px -63px;
+}
+.pksymbol-type-poison-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1203px -63px;
+}
+.pksymbol-type-psychic-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1269px -63px;
+}
+.pksymbol-type-rock-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1335px -63px;
+}
+.pksymbol-type-steel-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1401px -63px;
+}
+.pksymbol-type-water-badge-go {
+  width: 64px;
+  height: 64px;
+  background-position: -1467px -63px;
+}
+.pksymbol-type-electric {
+  width: 59px;
+  height: 76px;
+  background-position: -1533px -63px;
+}
+.pksymbol-type-water {
+  width: 58px;
+  height: 82px;
+  background-position: -1594px -63px;
+}
+.pksymbol-type-fighting {
+  width: 81px;
+  height: 62px;
+  background-position: -1654px -63px;
+}
+.pksymbol-type-psychic {
+  width: 74px;
+  height: 74px;
+  background-position: -1737px -63px;
+}
+.pksymbol-type-rock {
+  width: 82px;
+  height: 67px;
+  background-position: -1813px -63px;
+}
+.pksymbol-type-ground {
+  width: 94px;
+  height: 57px;
+  background-position: -1897px -63px;
+}
+.pksymbol-type-bug {
+  width: 76px;
+  height: 83px;
+  background-position: 0px -147px;
+}
+.pksymbol-type-flying {
+  width: 84px;
+  height: 74px;
+  background-position: -78px -147px;
+}
+.pksymbol-type-ghost {
+  width: 78px;
+  height: 80px;
+  background-position: -164px -147px;
+}
+.pksymbol-type-poison {
+  width: 80px;
+  height: 78px;
+  background-position: -244px -147px;
+}
+.pksymbol-type-grass {
+  width: 78px;
+  height: 82px;
+  background-position: -326px -147px;
+}
+.pksymbol-type-normal {
+  width: 80px;
+  height: 80px;
+  background-position: -406px -147px;
+}
+.pksymbol-type-dark {
+  width: 82px;
+  height: 82px;
+  background-position: -488px -147px;
+}
+.pksymbol-type-fire {
+  width: 72px;
+  height: 93px;
+  background-position: -572px -147px;
+}
+.pksymbol-type-steel {
+  width: 88px;
+  height: 76px;
+  background-position: -646px -147px;
+}
+.pksymbol-type-dragon {
+  width: 77px;
+  height: 91px;
+  background-position: -736px -147px;
+}
+.pksymbol-pokedollar-glyph {
+  width: 81px;
+  height: 92px;
+  background-position: -815px -147px;
+}
+.pksymbol-type-fairy {
+  width: 89px;
+  height: 89px;
+  background-position: -898px -147px;
+}
+.pksymbol-type-ice {
+  width: 98px;
+  height: 84px;
+  background-position: -989px -147px;
+}
+.pksymbol-gender-male {
+  width: 103px;
+  height: 104px;
+  background-position: -1089px -147px;
+}
+.pksymbol-gender-female {
+  width: 84px;
+  height: 128px;
+  background-position: -1194px -147px;
+}
+.pksymbol-type-bug-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -1280px -147px;
+}
+.pksymbol-type-dark-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -1408px -147px;
+}
+.pksymbol-type-dragon-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -1536px -147px;
+}
+.pksymbol-type-electric-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -1664px -147px;
+}
+.pksymbol-type-fairy-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -1792px -147px;
+}
+.pksymbol-type-fighting-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -1920px -147px;
+}
+.pksymbol-type-fire-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2048px -147px;
+}
+.pksymbol-type-flying-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2176px -147px;
+}
+.pksymbol-type-ghost-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2304px -147px;
+}
+.pksymbol-type-grass-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2432px -147px;
+}
+.pksymbol-type-ground-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2560px -147px;
+}
+.pksymbol-type-ice-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2688px -147px;
+}
+.pksymbol-type-normal-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2816px -147px;
+}
+.pksymbol-type-poison-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -2944px -147px;
+}
+.pksymbol-type-psychic-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -3072px -147px;
+}
+.pksymbol-type-rock-badge {
+  width: 126px;
+  height: 126px;
+  background-position: 0px -277px;
+}
+.pksymbol-type-steel-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -128px -277px;
+}
+.pksymbol-type-water-badge {
+  width: 126px;
+  height: 126px;
+  background-position: -256px -277px;
+}
+.pksymbol-type-bug-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -384px -277px;
+}
+.pksymbol-type-dark-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -513px -277px;
+}
+.pksymbol-type-dragon-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -642px -277px;
+}
+.pksymbol-type-electric-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -771px -277px;
+}
+.pksymbol-type-fairy-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -900px -277px;
+}
+.pksymbol-type-fighting-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1029px -277px;
+}
+.pksymbol-type-fire-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1158px -277px;
+}
+.pksymbol-type-flying-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1287px -277px;
+}
+.pksymbol-type-ghost-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1416px -277px;
+}
+.pksymbol-type-grass-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1545px -277px;
+}
+.pksymbol-type-ground-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1674px -277px;
+}
+.pksymbol-type-ice-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1803px -277px;
+}
+.pksymbol-type-normal-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -1932px -277px;
+}
+.pksymbol-type-poison-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -2061px -277px;
+}
+.pksymbol-type-psychic-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -2190px -277px;
+}
+.pksymbol-type-rock-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -2319px -277px;
+}
+.pksymbol-type-steel-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -2448px -277px;
+}
+.pksymbol-type-water-badge-masters {
+  width: 127px;
+  height: 128px;
+  background-position: -2577px -277px;
+}
+.pksymbol-pokeball-logo {
+  width: 128px;
+  height: 128px;
+  background-position: -2706px -277px;
+}
+.pksymbol-move-special-home {
+  width: 190px;
+  height: 134px;
+  background-position: -2836px -277px;
+}
+.pksymbol-move-status-home {
+  width: 198px;
+  height: 134px;
+  background-position: -3028px -277px;
+}
+.pksymbol-move-physical-home {
+  width: 220px;
+  height: 171px;
+  background-position: -3228px -277px;
+}
+.pksymbol-form-mega {
+  width: 200px;
+  height: 200px;
+  background-position: -3450px -277px;
+}

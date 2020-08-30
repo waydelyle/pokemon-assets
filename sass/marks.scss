@@ -1,0 +1,146 @@
+.pkmark {
+  display: inline-block;
+  vertical-align: middle;
+  background-image: url(../img/marks.png);
+}
+@mixin sprite-rect($w, $h, $x, $y) {
+  width: $w;
+  height: $h;
+  background-position: $x $y;
+}
+
+.pkmark-smiley {
+  @include sprite-rect(87px, 63px, 0px, 0px);
+}
+.pkmark-rare {
+  @include sprite-rect(62px, 90px, -89px, 0px);
+}
+.pkmark-zero-energy {
+  @include sprite-rect(61px, 93px, -153px, 0px);
+}
+.pkmark-kindly {
+  @include sprite-rect(90px, 66px, -216px, 0px);
+}
+.pkmark-unsure {
+  @include sprite-rect(81px, 78px, -308px, 0px);
+}
+.pkmark-prideful {
+  @include sprite-rect(73px, 103px, -391px, 0px);
+}
+.pkmark-teary {
+  @include sprite-rect(95px, 87px, -466px, 0px);
+}
+.pkmark-zoned-out {
+  @include sprite-rect(79px, 103px, -563px, 0px);
+}
+.pkmark-snowy {
+  @include sprite-rect(79px, 106px, -644px, 0px);
+}
+.pkmark-scowling {
+  @include sprite-rect(101px, 85px, -725px, 0px);
+}
+.pkmark-flustered {
+  @include sprite-rect(85px, 105px, -828px, 0px);
+}
+.pkmark-peeved {
+  @include sprite-rect(87px, 104px, -915px, 0px);
+}
+.pkmark-lunchtime {
+  @include sprite-rect(88px, 108px, -1004px, 0px);
+}
+.pkmark-sleepy-time {
+  @include sprite-rect(119px, 77px, -1094px, 0px);
+}
+.pkmark-humble {
+  @include sprite-rect(101px, 97px, -1215px, 0px);
+}
+.pkmark-sandstorm {
+  @include sprite-rect(101px, 100px, -1318px, 0px);
+}
+.pkmark-angry {
+  @include sprite-rect(102px, 101px, -1421px, 0px);
+}
+.pkmark-dusk {
+  @include sprite-rect(118px, 87px, -1525px, 0px);
+}
+.pkmark-pumped-up {
+  @include sprite-rect(119px, 88px, -1645px, 0px);
+}
+.pkmark-vigor {
+  @include sprite-rect(103px, 105px, -1766px, 0px);
+}
+.pkmark-calmness {
+  @include sprite-rect(115px, 95px, -1871px, 0px);
+}
+.pkmark-misty {
+  @include sprite-rect(109px, 102px, -1988px, 0px);
+}
+.pkmark-upbeat {
+  @include sprite-rect(113px, 99px, -2099px, 0px);
+}
+.pkmark-rowdy {
+  @include sprite-rect(103px, 111px, -2214px, 0px);
+}
+.pkmark-absent-minded {
+  @include sprite-rect(107px, 109px, -2319px, 0px);
+}
+.pkmark-intense {
+  @include sprite-rect(97px, 120px, -2428px, 0px);
+}
+.pkmark-joyful {
+  @include sprite-rect(117px, 99px, -2527px, 0px);
+}
+.pkmark-rainy {
+  @include sprite-rect(109px, 109px, -2646px, 0px);
+}
+.pkmark-cloudy {
+  @include sprite-rect(125px, 96px, -2757px, 0px);
+}
+.pkmark-crafty {
+  @include sprite-rect(120px, 101px, -2884px, 0px);
+}
+.pkmark-destiny {
+  @include sprite-rect(119px, 101px, 0px, -122px);
+}
+.pkmark-charismatic {
+  @include sprite-rect(117px, 105px, -121px, -122px);
+}
+.pkmark-curry {
+  @include sprite-rect(118px, 106px, -240px, -122px);
+}
+.pkmark-dawn {
+  @include sprite-rect(118px, 106px, -360px, -122px);
+}
+.pkmark-intellectual {
+  @include sprite-rect(117px, 107px, -480px, -122px);
+}
+.pkmark-excited {
+  @include sprite-rect(116px, 111px, -599px, -122px);
+}
+.pkmark-ferocious {
+  @include sprite-rect(115px, 112px, -717px, -122px);
+}
+.pkmark-slump {
+  @include sprite-rect(114px, 113px, -834px, -122px);
+}
+.pkmark-thorny {
+  @include sprite-rect(107px, 119px, -950px, -122px);
+}
+.pkmark-fishing {
+  @include sprite-rect(119px, 109px, -1059px, -122px);
+}
+.pkmark-stormy {
+  @include sprite-rect(108px, 120px, -1180px, -122px);
+}
+.pkmark-jittery {
+  @include sprite-rect(123px, 107px, -1290px, -122px);
+}
+.pkmark-uncommon {
+  @include sprite-rect(121px, 109px, -1415px, -122px);
+}
+.pkmark-blizzard {
+  @include sprite-rect(117px, 119px, -1538px, -122px);
+}
+.pkmark-dry {
+  @include sprite-rect(120px, 121px, -1657px, -122px);
+}

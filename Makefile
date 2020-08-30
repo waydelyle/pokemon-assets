@@ -1,6 +1,6 @@
 default: build
 
-build: svg-exports spritesheets
+build: spritesheets pretty
 
 install:
 	yarn install
@@ -15,7 +15,6 @@ spritesheets:
 	./src/generate-spritesheet.sh img/pokemon/shiny pkms pokemon-shiny && ./src/import-shiny-pokemon-spritesheet.sh
 	./src/generate-spritesheet.sh img/ribbons pkribbon ribbons && ./src/import-generated-spritesheet.sh ribbons
 	./src/generate-spritesheet.sh img/symbols pksymbol symbols && ./src/import-generated-spritesheet.sh symbols
-	make pretty
 
 svg-exports:
 	mkdir -p img/symbols

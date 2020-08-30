@@ -119,7 +119,11 @@ for img in *.png; do
 .${_CSS_PREFIX}-$ALIAS{
   @include sprite-rect(${W}px, ${H}px, ${X_POS}px, ${Y_POS}px);
 }"
-  html="$html <span title=\"${_CSS_PREFIX}-${ALIAS} (${W}px x ${H}px)\" class='${_CSS_PREFIX}-wrapper'><i class=\"${_CSS_PREFIX} ${_CSS_PREFIX}-${ALIAS}\"></i></span>"
+  html="$html
+    <span title=\".${_CSS_PREFIX} .${_CSS_PREFIX}-${ALIAS} (${W}px x ${H}px)\" class='${_CSS_PREFIX}-wrapper'>
+      <i class=\"${_CSS_PREFIX} ${_CSS_PREFIX}-${ALIAS}\"></i>
+    </span>
+  "
   MONTAGE_FILES="$MONTAGE_FILES $img"
   X=$(($X + 1))
   X_POS=$(($X_POS - $(($W + $(($_PADDING * 2))))))

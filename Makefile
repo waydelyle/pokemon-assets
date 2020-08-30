@@ -61,5 +61,14 @@ svg-exports:
 	npx svgexport src/svg/sort-button.svg img/symbols/ui-sort.png pad 128:128
 	npx svgexport src/svg/search-button.svg img/symbols/ui-search.png pad 128:128
 
+
+audit-fix:
+	rm -rf package-lock.json ./node_modules
+	npm i --package-lock-only
+	npm audit fix
+	rm -f yarn.lock
+	yarn import
+	rm -f package-lock.json
+
 $(V).SILENT: build svg-exports spritesheets pretty install
 .PHONY:

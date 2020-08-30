@@ -10,6 +10,8 @@ mv .gh-pages/.git tmp/gh-pages-git
 rm -rf .gh-pages/*
 mv tmp/gh-pages-git .gh-pages/.git
 
+cp -R assets .gh-pages/assets
+
 mkdir -p .gh-pages/ref
 cp -R tmp/output-items .gh-pages/ref/items
 cp -R tmp/output-marks .gh-pages/ref/marks

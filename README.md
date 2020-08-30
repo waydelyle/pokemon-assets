@@ -1,5 +1,6 @@
 # pokemon-assets
-Pokémon assets for your projects: menu sprites, json pokedex, symbols, etc.
+
+Essential Pokémon assets for any kind of project: menu icons, fonts, data, SASS/CSS sprites and more.
 
 ## Contents
 
@@ -44,6 +45,8 @@ Maintenance scripts are self-explanatory by checking the Makefile.
 You don't need them or anything under the 'src` folder to use the assets.
 
 ## Credits
+
+Created by [@route1rodent](https://route1rodent.com) with the help of other projects:
 
 - Sprites: [msikma/pokesprite](https://github.com/msikma/pokesprite)
 - SVGs: [zukan.pokemon.co.jp](https://zukan.pokemon.co.jp)

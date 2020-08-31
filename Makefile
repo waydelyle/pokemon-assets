@@ -1,6 +1,6 @@
 default: build
 
-build: spritesheets pretty
+build: spritesheets pages pretty
 
 install:
 	yarn install
@@ -11,10 +11,10 @@ install:
 index-page:
 	pandoc --from gfm --to html --standalone README.md --output .gh-pages/index.html --template src/index.template.html
 
-pages: build
+pages:
 	./src/scripts/build-gh-pages.sh
 
-publish-pages: pages
+publish:
 	cd .gh-pages && git push -u origin gh-pages
 
 pretty:

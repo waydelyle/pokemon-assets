@@ -71,6 +71,11 @@ css="
   display: inline-block;
   vertical-align: middle;
   background-image: url(../img/${_OUT_NAME}.png);
+  image-rendering: crisp-edges;
+  image-rendering: -ms-interpolation-mode:nearest-neighbor;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }"
 scss="$css
 @mixin sprite-rect (\$w, \$h, \$x, \$y) {
@@ -87,6 +92,7 @@ html="<!DOCTYPE html>
     <link href=\"https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css\" rel=\"stylesheet\" type=\"text/css\">
     <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Exo+2:300,400,500\">
     <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\">
+    <script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\" integrity=\"sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs=\" crossorigin=\"anonymous\"></script>
     <style>
        html, body {
         font-family: \"Exo 2\", \"Helvetica Neue\", sans-serif;
@@ -100,6 +106,23 @@ html="<!DOCTYPE html>
         image-rendering: -moz-crisp-edges;
         image-rendering: -webkit-crisp-edges;
         image-rendering: pixelated;
+      }
+      body {
+        max-width: 42em;
+        margin: auto;
+        padding: 50px 20px;
+        background: #ffde41;
+      }
+      #css-class-viewer {
+        position: fixed;
+        bottom: 0;
+        left:0;
+        right:0;
+        height:20px;
+        background: rgba(0,0,0,0.8);
+        color: #fff;
+        font-size:16px;
+        text-align:center;
       }
     </style>
     <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-85082661-2\"></script>
@@ -140,7 +163,7 @@ for img in *.png; do
   @include sprite-rect(${W}px, ${H}px, ${X_POS}px, ${Y_POS}px);
 }"
   html="$html
-    <span title=\".${_CSS_PREFIX} .${_CSS_PREFIX}-${ALIAS} (${W}px x ${H}px)\" class='${_CSS_PREFIX}-wrapper'>
+    <span title=\".${_CSS_PREFIX} .${_CSS_PREFIX}-${ALIAS}\" class='${_CSS_PREFIX}-wrapper'>
       <i class=\"${_CSS_PREFIX} ${_CSS_PREFIX}-${ALIAS}\"></i>
     </span>
   "
@@ -172,6 +195,14 @@ for img in *.png; do
 done
 
 html="$html
+<div id=\"css-class-viewer\"> - </div>
+<script>
+  \$('${_CSS_PREFIX}-wrapper').click(
+    function(e) {
+      \$('#css-class-viewer').text(this.title);
+    }
+  );
+</script>
 <style>
         .${_CSS_PREFIX}-wrapper {
             width:${WIDEST_ALL}px;
@@ -183,17 +214,15 @@ html="$html
             margin:4px;
             border:1px solid #000;
             background: rgba(255,255,255,0.2);
+            cursor: pointer;
+        }
+        .${_CSS_PREFIX}-wrapper:active,
+        .${_CSS_PREFIX}-wrapper:target {
+          background: rgba(255,255,255,0.3);
         }
         .${_CSS_PREFIX}{
            /* background-color:cyan;*/
            background-image: url(img/sprites.png);
-        }
-        body {
-            max-width: 42em;
-            margin: auto;
-            padding: 20px;
-            margin-top: 20px;
-            background: #ffde41;
         }
     </style>
 <body></html>"

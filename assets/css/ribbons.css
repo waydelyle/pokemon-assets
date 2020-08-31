@@ -1,7 +1,21 @@
+.pkribbon-wrapper {
+  width: 67px;
+  height: 58px;
+  line-height: 56px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px;
+}
+
 .pkribbon {
   display: inline-block;
   vertical-align: middle;
   background-image: url(../img/ribbons.png);
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }
 .pkribbon-beauty-ribbon-hoenn {
   width: 16px;

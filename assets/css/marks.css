@@ -1,7 +1,21 @@
+.pkmark-wrapper {
+  width: 67px;
+  height: 58px;
+  line-height: 56px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px;
+}
+
 .pkmark {
   display: inline-block;
   vertical-align: middle;
   background-image: url(../img/marks.png);
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }
 .pkmark-smiley {
   width: 67px;

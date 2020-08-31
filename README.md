@@ -4,11 +4,14 @@ Essential Pokémon assets for any kind of project: menu icons, fonts, data, SASS
 
 ## Contents
 
-- All Pokémon menu sprites up to Gen 8, with their shiny version.
-- All sprites for items, ribbons, marks and UI symbols.
-- Sprite sheets with all sprites, with CSS and SASS files.
-- Essential Pokémon metagame data (abilities, items, moves, natures, pokemon, learnsets).
+- All Pokémon menu icon sprites up to Gen 8, with their shiny version.
+- Icon sprites for items, ribbons, marks and UI symbols.
+- Sprite sheets for all sprite sets, with CSS and SASS files.
+- Data of the essential metagame info (abilities, items, moves, natures, pokemon, learn sets).
 - SVG images for type symbols and other UI elements.
+- Fonts from the GBC, GBA and DS games.
+- Music of the most relevant game events.
+- Audio effects for typical game actions.
 
 ## Asset Reference
 
@@ -32,6 +35,12 @@ You can check all available assets in the following [reference pages](https://it
 - [Ribbons](https://itsjavi.com/pokemon-assets/ref/ribbons)
 - [Symbols](https://itsjavi.com/pokemon-assets/ref/symbols)
 
+---
+
+For fonts and audio reference, check the `/assets/` folder.
+
+---
+
 ## Development Dependencies
 
 Apart from the package.json devDependencies, your machine (which has to be macOS or Linux) should to have
@@ -40,6 +49,7 @@ the following software in order to run the maintenance scripts:
 - node 10+
 - ImageMagick
 - pandoc
+- ffmpeg
 
 Maintenance scripts are self-explanatory by checking the Makefile.
 You don't need them or anything under the 'src` folder to use the assets.

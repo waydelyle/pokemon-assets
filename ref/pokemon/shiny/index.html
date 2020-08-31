@@ -1,8 +1,10 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <meta name="theme-color" content="#ffde41"/>
     <title>Pokémon Assets - pokemon-shiny sprite sheet</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css" rel="stylesheet" type="text/css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
@@ -38,7 +40,32 @@
         font-size:14px;
         text-align:center;
         padding:20px;
-        font-family: sans-serif, monospace;
+        font-family: Courier, "Courier New", monospace;
+      }
+
+      #home-btn {
+        display: inline-block;
+        margin-right: 12px;
+      }
+
+      #home-btn img {
+        max-height: 32px;
+        vertical-align: bottom;
+      }
+
+      h1#main-title {
+        display: inline-block;
+        margin-top: 0;
+        font-weight: bolder;
+        color: #fff;
+        text-shadow: -2px -2px 0 #000,
+        0 -2px 0 #000,
+        2px -2px 0 #000,
+        2px 0 0 #000,
+        2px 2px 0 #000,
+        0 2px 0 #000,
+        -2px 2px 0 #000,
+        -2px 0 0 #000;
       }
     </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85082661-2"></script>
@@ -49,7 +76,11 @@
       gtag('config', 'UA-85082661-2');
     </script>
 </head>
-<body><h1>pokemon-shiny</h1>
+<body>
+
+<a id="home-btn" href="https://itsjavi.com/pokemon-assets">
+<img alt="logo" src="https://itsjavi.com/pokemon-assets/assets/img/symbols/pokeball-logo.png" /></a>
+<h1 id="main-title">pokemon-shiny</h1><br>
     <span title=".pkms .pkms-tynamo" class='pkms-wrapper'>
       <i class="pkms pkms-tynamo"></i>
     </span>
@@ -5290,12 +5321,12 @@
       <i class="pkms pkms-eternatus-eternamax"></i>
     </span>
   
-<div id="css-class-viewer"> - </div>
+<div id="css-class-viewer">  - Click on any sprite to see the HTML code here -  </div>
 <script>
 $(function(){
   $('.pkms-wrapper').click(
     function(e) {
-      $('#css-class-viewer').text("<span class='pkms-wrapper">'+ this.innerHTML + '</span>');
+      $('#css-class-viewer').text("<span class='pkms-wrapper>" + this.innerHTML.trim() + '</span>');
     }
   );
 })
@@ -5313,7 +5344,7 @@ $(function(){
 }
 
         .pkms-wrapper {
-            margin:0 2px;
+            margin:2px;
             border:1px solid #000;
             background: rgba(255,255,255,0.2);
             cursor: pointer;

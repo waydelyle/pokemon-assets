@@ -72,7 +72,6 @@ css="
   vertical-align: middle;
   background-image: url(../img/${_OUT_NAME}.png);
   image-rendering: crisp-edges;
-  image-rendering: -ms-interpolation-mode:nearest-neighbor;
   image-rendering: -moz-crisp-edges;
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
@@ -85,10 +84,12 @@ scss="$css
 }
 "
 html="<!DOCTYPE html>
-<html>
+<html lang=\"en\">
 <head>
+    <meta charset=\"utf-8\"/>
+    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\"/>
+    <meta name=\"theme-color\" content=\"#ffde41\"/>
     <title>Pokémon Assets - ${_OUT_NAME} sprite sheet</title>
-    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
     <link href=\"https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css\" rel=\"stylesheet\" type=\"text/css\">
     <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Exo+2:300,400,500\">
     <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\">
@@ -102,7 +103,6 @@ html="<!DOCTYPE html>
       }
       body, img, image {
         image-rendering: crisp-edges;
-        image-rendering: -ms-interpolation-mode:nearest-neighbor;
         image-rendering: -moz-crisp-edges;
         image-rendering: -webkit-crisp-edges;
         image-rendering: pixelated;
@@ -112,6 +112,7 @@ html="<!DOCTYPE html>
         margin: auto;
         padding: 50px 20px;
         background: #ffde41;
+        margin-bottom:40px;
       }
       #css-class-viewer {
         position: fixed;
@@ -121,8 +122,35 @@ html="<!DOCTYPE html>
         height:20px;
         background: rgba(0,0,0,0.8);
         color: #fff;
-        font-size:16px;
+        font-size:14px;
         text-align:center;
+        padding:20px;
+        font-family: Courier, \"Courier New\", monospace;
+      }
+
+      #home-btn {
+        display: inline-block;
+        margin-right: 12px;
+      }
+
+      #home-btn img {
+        max-height: 32px;
+        vertical-align: bottom;
+      }
+
+      h1#main-title {
+        display: inline-block;
+        margin-top: 0;
+        font-weight: bolder;
+        color: #fff;
+        text-shadow: -2px -2px 0 #000,
+        0 -2px 0 #000,
+        2px -2px 0 #000,
+        2px 0 0 #000,
+        2px 2px 0 #000,
+        0 2px 0 #000,
+        -2px 2px 0 #000,
+        -2px 0 0 #000;
       }
     </style>
     <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-85082661-2\"></script>
@@ -133,7 +161,11 @@ html="<!DOCTYPE html>
       gtag('config', 'UA-85082661-2');
     </script>
 </head>
-<body><h1>${_OUT_NAME}</h1>"
+<body>
+
+<a id=\"home-btn\" href=\"https://itsjavi.com/pokemon-assets\">
+<img alt=\"logo\" src=\"https://itsjavi.com/pokemon-assets/assets/img/symbols/pokeball-logo.png\" /></a>
+<h1 id=\"main-title\">${_OUT_NAME}</h1><br>"
 
 for img in *.png; do
   ALIAS=$(basename $img .png)
@@ -194,31 +226,45 @@ for img in *.png; do
   fi
 done
 
+LINE_HEIGHT=$((HIGHEST_ALL - 2))
+
+sprite_wrapper_css="
+.${_CSS_PREFIX}-wrapper {
+    width:${WIDEST_ALL}px;
+    height:${HIGHEST_ALL}px;
+    line-height:${LINE_HEIGHT}px;
+    text-align:center;
+    display:inline-block;
+    vertical-align:middle;
+    padding:1px;
+}
+"
+
+css="${sprite_wrapper_css} $css"
+scss="${sprite_wrapper_css} $scss"
+
 html="$html
-<div id=\"css-class-viewer\"> - </div>
+<div id=\"css-class-viewer\">  - Click on any sprite to see the HTML code here -  </div>
 <script>
-  \$('${_CSS_PREFIX}-wrapper').click(
+\$(function(){
+  \$('.${_CSS_PREFIX}-wrapper').click(
     function(e) {
-      \$('#css-class-viewer').text(this.title);
+      \$('#css-class-viewer').text(\"<span class='${_CSS_PREFIX}-wrapper>\" + this.innerHTML.trim() + '</span>');
     }
   );
+})
 </script>
 <style>
+        ${sprite_wrapper_css}
         .${_CSS_PREFIX}-wrapper {
-            width:${WIDEST_ALL}px;
-            height:${HIGHEST_ALL}px;
-            line-height:${HIGHEST_ALL}px;
-            text-align:center;
-            display:inline-block;
-            vertical-align:bottom;
-            margin:4px;
+            margin:2px;
             border:1px solid #000;
             background: rgba(255,255,255,0.2);
             cursor: pointer;
         }
         .${_CSS_PREFIX}-wrapper:active,
         .${_CSS_PREFIX}-wrapper:target {
-          background: rgba(255,255,255,0.3);
+          background: rgba(255,255,255,0.65);
         }
         .${_CSS_PREFIX}{
            /* background-color:cyan;*/

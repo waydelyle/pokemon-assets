@@ -15,7 +15,7 @@ pages:
 	./src/scripts/build-gh-pages.sh
 
 publish:
-	cd .gh-pages && git push -u origin gh-pages
+	cd .gh-pages && git add -A && git commit -m "update gh-pages" && git push -u origin gh-pages
 
 pretty:
 	npx prettier --write ./assets/sass/* ./assets/data/* ./assets/css/*

@@ -22,7 +22,3 @@ cp -R tmp/output-symbols .gh-pages/ref/symbols
 
 make index-page
 cp tmp/pandoc-css/pandoc.css .gh-pages/gfm.css
-
-cd .gh-pages
-git add -A
-git commit -m "update gh-pages"

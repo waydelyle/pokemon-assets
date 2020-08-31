@@ -1,4 +1,14 @@
 
+.pksymbol-wrapper {
+    width:67px;
+    height:58px;
+    line-height:56px;
+    text-align:center;
+    display:inline-block;
+    vertical-align:middle;
+    padding:1px;
+}
+ 
 .pksymbol {
   display: inline-block;
   vertical-align: middle;

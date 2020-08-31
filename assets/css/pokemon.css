@@ -1,5 +1,15 @@
 .pkm.shiny { background-image: url(../img/pokemon-shiny.png); }
 
+.pkm-wrapper {
+    width:67px;
+    height:56px;
+    line-height:54px;
+    text-align:center;
+    display:inline-block;
+    vertical-align:middle;
+    padding:1px;
+}
+ 
 .pkm {
   display: inline-block;
   vertical-align: middle;

@@ -82,13 +82,33 @@ scss="$css
 html="<!DOCTYPE html>
 <html>
 <head>
-    <title>${_OUT_NAME} - sprite sheet</title>
+    <title>Pokémon Assets - ${_OUT_NAME} sprite sheet</title>
     <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">
     <link href=\"https://cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css\" rel=\"stylesheet\" type=\"text/css\">
+    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/css?family=Exo+2:300,400,500\">
     <link href=\"css/styles.css\" rel=\"stylesheet\" type=\"text/css\">
     <style>
-       body {padding: 20px}
+       html, body {
+        font-family: \"Exo 2\", \"Helvetica Neue\", sans-serif;
+        background: #ffde41;
+        color: #000;
+        font-size: 20px;
+      }
+      body, img, image {
+        image-rendering: crisp-edges;
+        image-rendering: -ms-interpolation-mode:nearest-neighbor;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: -webkit-crisp-edges;
+        image-rendering: pixelated;
+      }
     </style>
+    <script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-85082661-2\"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-85082661-2');
+    </script>
 </head>
 <body><h1>${_OUT_NAME}</h1>"
 
@@ -161,11 +181,19 @@ html="$html
             display:inline-block;
             vertical-align:bottom;
             margin:4px;
-            border:1px solid #ddd;
+            border:1px solid #000;
+            background: rgba(255,255,255,0.2);
         }
         .${_CSS_PREFIX}{
            /* background-color:cyan;*/
            background-image: url(img/sprites.png);
+        }
+        body {
+            max-width: 42em;
+            margin: auto;
+            padding: 20px;
+            margin-top: 20px;
+            background: #ffde41;
         }
     </style>
 <body></html>"

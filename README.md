@@ -35,9 +35,11 @@ You can check all available assets in the following [reference pages](https://it
 - [Ribbons](https://itsjavi.com/pokemon-assets/ref/ribbons)
 - [Symbols](https://itsjavi.com/pokemon-assets/ref/symbols)
 
+<br>
+
 ---
 
-For fonts and audio reference, check the `/assets/` folder.
+For fonts and audio reference, check the [`/assets/`](https://github.com/itsjavi/pokemon-assets/tree/master/assets) folder.
 
 ---
 

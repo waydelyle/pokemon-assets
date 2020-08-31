@@ -1,815 +1,821 @@
+
 .pkribbon {
   display: inline-block;
   vertical-align: middle;
   background-image: url(../img/ribbons.png);
+  image-rendering: crisp-edges;
+  image-rendering: -ms-interpolation-mode:nearest-neighbor;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }
-.pkribbon-beauty-ribbon-hoenn {
-  width: 16px;
-  height: 23px;
+.pkribbon-beauty-ribbon-hoenn{
+  width:16px;
+  height:23px;
   background-position: 0px 0px;
 }
-.pkribbon-cool-ribbon-hoenn {
-  width: 16px;
-  height: 23px;
+.pkribbon-cool-ribbon-hoenn{
+  width:16px;
+  height:23px;
   background-position: -18px 0px;
 }
-.pkribbon-cute-ribbon-hoenn {
-  width: 16px;
-  height: 23px;
+.pkribbon-cute-ribbon-hoenn{
+  width:16px;
+  height:23px;
   background-position: -36px 0px;
 }
-.pkribbon-smart-ribbon-hoenn {
-  width: 16px;
-  height: 23px;
+.pkribbon-smart-ribbon-hoenn{
+  width:16px;
+  height:23px;
   background-position: -54px 0px;
 }
-.pkribbon-tough-ribbon-hoenn {
-  width: 16px;
-  height: 23px;
+.pkribbon-tough-ribbon-hoenn{
+  width:16px;
+  height:23px;
   background-position: -72px 0px;
 }
-.pkribbon-beauty-ribbon-sinnoh {
-  width: 18px;
-  height: 25px;
+.pkribbon-beauty-ribbon-sinnoh{
+  width:18px;
+  height:25px;
   background-position: -90px 0px;
 }
-.pkribbon-cool-ribbon-sinnoh {
-  width: 18px;
-  height: 25px;
+.pkribbon-cool-ribbon-sinnoh{
+  width:18px;
+  height:25px;
   background-position: -110px 0px;
 }
-.pkribbon-cute-ribbon-sinnoh {
-  width: 18px;
-  height: 25px;
+.pkribbon-cute-ribbon-sinnoh{
+  width:18px;
+  height:25px;
   background-position: -130px 0px;
 }
-.pkribbon-smart-ribbon-sinnoh {
-  width: 18px;
-  height: 25px;
+.pkribbon-smart-ribbon-sinnoh{
+  width:18px;
+  height:25px;
   background-position: -150px 0px;
 }
-.pkribbon-tough-ribbon-sinnoh {
-  width: 18px;
-  height: 25px;
+.pkribbon-tough-ribbon-sinnoh{
+  width:18px;
+  height:25px;
   background-position: -170px 0px;
 }
-.pkribbon-battle-tree-great {
-  width: 17px;
-  height: 28px;
+.pkribbon-battle-tree-great{
+  width:17px;
+  height:28px;
   background-position: -190px 0px;
 }
-.pkribbon-beauty-ribbon-super-hoenn {
-  width: 18px;
-  height: 26px;
+.pkribbon-beauty-ribbon-super-hoenn{
+  width:18px;
+  height:26px;
   background-position: -209px 0px;
 }
-.pkribbon-cool-ribbon-super-hoenn {
-  width: 18px;
-  height: 26px;
+.pkribbon-cool-ribbon-super-hoenn{
+  width:18px;
+  height:26px;
   background-position: -229px 0px;
 }
-.pkribbon-cute-ribbon-super-hoenn {
-  width: 18px;
-  height: 26px;
+.pkribbon-cute-ribbon-super-hoenn{
+  width:18px;
+  height:26px;
   background-position: -249px 0px;
 }
-.pkribbon-smart-ribbon-super-hoenn {
-  width: 18px;
-  height: 26px;
+.pkribbon-smart-ribbon-super-hoenn{
+  width:18px;
+  height:26px;
   background-position: -269px 0px;
 }
-.pkribbon-tough-ribbon-super-hoenn {
-  width: 18px;
-  height: 26px;
+.pkribbon-tough-ribbon-super-hoenn{
+  width:18px;
+  height:26px;
   background-position: -289px 0px;
 }
-.pkribbon-battle-tree-master {
-  width: 18px;
-  height: 28px;
+.pkribbon-battle-tree-master{
+  width:18px;
+  height:28px;
   background-position: -309px 0px;
 }
-.pkribbon-beauty-ribbon-great-sinnoh {
-  width: 20px;
-  height: 27px;
+.pkribbon-beauty-ribbon-great-sinnoh{
+  width:20px;
+  height:27px;
   background-position: -329px 0px;
 }
-.pkribbon-champion {
-  width: 18px;
-  height: 28px;
+.pkribbon-champion{
+  width:18px;
+  height:28px;
   background-position: -351px 0px;
 }
-.pkribbon-cool-ribbon-great-sinnoh {
-  width: 20px;
-  height: 27px;
+.pkribbon-cool-ribbon-great-sinnoh{
+  width:20px;
+  height:27px;
   background-position: -371px 0px;
 }
-.pkribbon-cute-ribbon-great-sinnoh {
-  width: 20px;
-  height: 27px;
+.pkribbon-cute-ribbon-great-sinnoh{
+  width:20px;
+  height:27px;
   background-position: -393px 0px;
 }
-.pkribbon-gorgeous {
-  width: 18px;
-  height: 28px;
+.pkribbon-gorgeous{
+  width:18px;
+  height:28px;
   background-position: -415px 0px;
 }
-.pkribbon-smart-ribbon-great-sinnoh {
-  width: 20px;
-  height: 27px;
+.pkribbon-smart-ribbon-great-sinnoh{
+  width:20px;
+  height:27px;
   background-position: -435px 0px;
 }
-.pkribbon-tough-ribbon-great-sinnoh {
-  width: 20px;
-  height: 27px;
+.pkribbon-tough-ribbon-great-sinnoh{
+  width:20px;
+  height:27px;
   background-position: -457px 0px;
 }
-.pkribbon-ability {
-  width: 20px;
-  height: 29px;
+.pkribbon-ability{
+  width:20px;
+  height:29px;
   background-position: -479px 0px;
 }
-.pkribbon-alert {
-  width: 20px;
-  height: 28px;
+.pkribbon-alert{
+  width:20px;
+  height:28px;
   background-position: -501px 0px;
 }
-.pkribbon-careless {
-  width: 20px;
-  height: 28px;
+.pkribbon-careless{
+  width:20px;
+  height:28px;
   background-position: -523px 0px;
 }
-.pkribbon-double-ability {
-  width: 20px;
-  height: 29px;
+.pkribbon-double-ability{
+  width:20px;
+  height:29px;
   background-position: -545px 0px;
 }
-.pkribbon-downcast {
-  width: 20px;
-  height: 28px;
+.pkribbon-downcast{
+  width:20px;
+  height:28px;
   background-position: -567px 0px;
 }
-.pkribbon-great-ability {
-  width: 20px;
-  height: 29px;
+.pkribbon-great-ability{
+  width:20px;
+  height:29px;
   background-position: -589px 0px;
 }
-.pkribbon-kalos-champion {
-  width: 20px;
-  height: 28px;
+.pkribbon-kalos-champion{
+  width:20px;
+  height:28px;
   background-position: 0px -31px;
 }
-.pkribbon-relax {
-  width: 20px;
-  height: 28px;
+.pkribbon-relax{
+  width:20px;
+  height:28px;
   background-position: -22px -31px;
 }
-.pkribbon-shock {
-  width: 20px;
-  height: 28px;
+.pkribbon-shock{
+  width:20px;
+  height:28px;
   background-position: -44px -31px;
 }
-.pkribbon-smile {
-  width: 20px;
-  height: 28px;
+.pkribbon-smile{
+  width:20px;
+  height:28px;
   background-position: -66px -31px;
 }
-.pkribbon-snooze {
-  width: 20px;
-  height: 28px;
+.pkribbon-snooze{
+  width:20px;
+  height:28px;
   background-position: -88px -31px;
 }
-.pkribbon-victory {
-  width: 20px;
-  height: 29px;
+.pkribbon-victory{
+  width:20px;
+  height:29px;
   background-position: -110px -31px;
 }
-.pkribbon-winning {
-  width: 20px;
-  height: 29px;
+.pkribbon-winning{
+  width:20px;
+  height:29px;
   background-position: -132px -31px;
 }
-.pkribbon-artist {
-  width: 28px;
-  height: 22px;
+.pkribbon-artist{
+  width:28px;
+  height:22px;
   background-position: -154px -31px;
 }
-.pkribbon-hoenn-champion {
-  width: 20px;
-  height: 30px;
+.pkribbon-hoenn-champion{
+  width:20px;
+  height:30px;
   background-position: -184px -31px;
 }
-.pkribbon-record {
-  width: 20px;
-  height: 30px;
+.pkribbon-record{
+  width:20px;
+  height:30px;
   background-position: -206px -31px;
 }
-.pkribbon-best-friends {
-  width: 28px;
-  height: 25px;
+.pkribbon-best-friends{
+  width:28px;
+  height:25px;
   background-position: -228px -31px;
 }
-.pkribbon-effort {
-  width: 26px;
-  height: 26px;
+.pkribbon-effort{
+  width:26px;
+  height:26px;
   background-position: -258px -31px;
 }
-.pkribbon-event {
-  width: 22px;
-  height: 30px;
+.pkribbon-event{
+  width:22px;
+  height:30px;
   background-position: -286px -31px;
 }
-.pkribbon-history {
-  width: 22px;
-  height: 30px;
+.pkribbon-history{
+  width:22px;
+  height:30px;
   background-position: -310px -31px;
 }
-.pkribbon-multi-ability {
-  width: 22px;
-  height: 31px;
+.pkribbon-multi-ability{
+  width:22px;
+  height:31px;
   background-position: -334px -31px;
 }
-.pkribbon-royal {
-  width: 22px;
-  height: 30px;
+.pkribbon-royal{
+  width:22px;
+  height:30px;
   background-position: -358px -31px;
 }
-.pkribbon-tough-ribbon-hyper-hoenn {
-  width: 28px;
-  height: 25px;
+.pkribbon-tough-ribbon-hyper-hoenn{
+  width:28px;
+  height:25px;
   background-position: -382px -31px;
 }
-.pkribbon-beauty-ribbon-hyper-hoenn {
-  width: 28px;
-  height: 26px;
+.pkribbon-beauty-ribbon-hyper-hoenn{
+  width:28px;
+  height:26px;
   background-position: -412px -31px;
 }
-.pkribbon-beauty-ribbon-ultra-sinnoh {
-  width: 28px;
-  height: 27px;
+.pkribbon-beauty-ribbon-ultra-sinnoh{
+  width:28px;
+  height:27px;
   background-position: -442px -31px;
 }
-.pkribbon-blue {
-  width: 26px;
-  height: 29px;
+.pkribbon-blue{
+  width:26px;
+  height:29px;
   background-position: -472px -31px;
 }
-.pkribbon-cool-ribbon-hyper-hoenn {
-  width: 28px;
-  height: 26px;
+.pkribbon-cool-ribbon-hyper-hoenn{
+  width:28px;
+  height:26px;
   background-position: -500px -31px;
 }
-.pkribbon-cool-ribbon-ultra-sinnoh {
-  width: 28px;
-  height: 27px;
+.pkribbon-cool-ribbon-ultra-sinnoh{
+  width:28px;
+  height:27px;
   background-position: -530px -31px;
 }
-.pkribbon-cute-ribbon-hyper-hoenn {
-  width: 28px;
-  height: 26px;
+.pkribbon-cute-ribbon-hyper-hoenn{
+  width:28px;
+  height:26px;
   background-position: -560px -31px;
 }
-.pkribbon-cute-ribbon-ultra-sinnoh {
-  width: 28px;
-  height: 27px;
+.pkribbon-cute-ribbon-ultra-sinnoh{
+  width:28px;
+  height:27px;
   background-position: -590px -31px;
 }
-.pkribbon-gorgeous-royal {
-  width: 24px;
-  height: 30px;
+.pkribbon-gorgeous-royal{
+  width:24px;
+  height:30px;
   background-position: -620px -31px;
 }
-.pkribbon-green {
-  width: 25px;
-  height: 29px;
+.pkribbon-green{
+  width:25px;
+  height:29px;
   background-position: -646px -31px;
 }
-.pkribbon-red {
-  width: 26px;
-  height: 29px;
+.pkribbon-red{
+  width:26px;
+  height:29px;
   background-position: -673px -31px;
 }
-.pkribbon-smart-ribbon-hyper-hoenn {
-  width: 28px;
-  height: 26px;
+.pkribbon-smart-ribbon-hyper-hoenn{
+  width:28px;
+  height:26px;
   background-position: -701px -31px;
 }
-.pkribbon-smart-ribbon-ultra-sinnoh {
-  width: 28px;
-  height: 27px;
+.pkribbon-smart-ribbon-ultra-sinnoh{
+  width:28px;
+  height:27px;
   background-position: -731px -31px;
 }
-.pkribbon-tough-ribbon-ultra-sinnoh {
-  width: 28px;
-  height: 27px;
+.pkribbon-tough-ribbon-ultra-sinnoh{
+  width:28px;
+  height:27px;
   background-position: -761px -31px;
 }
-.pkribbon-alola-champion {
-  width: 24px;
-  height: 33px;
+.pkribbon-alola-champion{
+  width:24px;
+  height:33px;
   background-position: 0px -64px;
 }
-.pkribbon-beauty-ribbon-master-hoenn {
-  width: 28px;
-  height: 29px;
+.pkribbon-beauty-ribbon-master-hoenn{
+  width:28px;
+  height:29px;
   background-position: -26px -64px;
 }
-.pkribbon-cool-ribbon-master-hoenn {
-  width: 28px;
-  height: 29px;
+.pkribbon-cool-ribbon-master-hoenn{
+  width:28px;
+  height:29px;
   background-position: -56px -64px;
 }
-.pkribbon-cute-ribbon-master-hoenn {
-  width: 28px;
-  height: 29px;
+.pkribbon-cute-ribbon-master-hoenn{
+  width:28px;
+  height:29px;
   background-position: -86px -64px;
 }
-.pkribbon-smart-ribbon-master-hoenn {
-  width: 28px;
-  height: 29px;
+.pkribbon-smart-ribbon-master-hoenn{
+  width:28px;
+  height:29px;
   background-position: -116px -64px;
 }
-.pkribbon-special {
-  width: 28px;
-  height: 28px;
+.pkribbon-special{
+  width:28px;
+  height:28px;
   background-position: -146px -64px;
 }
-.pkribbon-tough-ribbon-master-hoenn {
-  width: 28px;
-  height: 29px;
+.pkribbon-tough-ribbon-master-hoenn{
+  width:28px;
+  height:29px;
   background-position: -176px -64px;
 }
-.pkribbon-battle-champion {
-  width: 28px;
-  height: 31px;
+.pkribbon-battle-champion{
+  width:28px;
+  height:31px;
   background-position: -206px -64px;
 }
-.pkribbon-beauty-ribbon-master-sinnoh {
-  width: 28px;
-  height: 30px;
+.pkribbon-beauty-ribbon-master-sinnoh{
+  width:28px;
+  height:30px;
   background-position: -236px -64px;
 }
-.pkribbon-birthday {
-  width: 28px;
-  height: 30px;
+.pkribbon-birthday{
+  width:28px;
+  height:30px;
   background-position: -266px -64px;
 }
-.pkribbon-classic {
-  width: 30px;
-  height: 29px;
+.pkribbon-classic{
+  width:30px;
+  height:29px;
   background-position: -296px -64px;
 }
-.pkribbon-cool-ribbon-master-sinnoh {
-  width: 28px;
-  height: 30px;
+.pkribbon-cool-ribbon-master-sinnoh{
+  width:28px;
+  height:30px;
   background-position: -328px -64px;
 }
-.pkribbon-country {
-  width: 28px;
-  height: 30px;
+.pkribbon-country{
+  width:28px;
+  height:30px;
   background-position: -358px -64px;
 }
-.pkribbon-cute-ribbon-master-sinnoh {
-  width: 28px;
-  height: 30px;
+.pkribbon-cute-ribbon-master-sinnoh{
+  width:28px;
+  height:30px;
   background-position: -388px -64px;
 }
-.pkribbon-legend {
-  width: 28px;
-  height: 30px;
+.pkribbon-legend{
+  width:28px;
+  height:30px;
   background-position: -418px -64px;
 }
-.pkribbon-national-champion {
-  width: 30px;
-  height: 29px;
+.pkribbon-national-champion{
+  width:30px;
+  height:29px;
   background-position: -448px -64px;
 }
-.pkribbon-national {
-  width: 28px;
-  height: 30px;
+.pkribbon-national{
+  width:28px;
+  height:30px;
   background-position: -480px -64px;
 }
-.pkribbon-sinnoh-champion {
-  width: 30px;
-  height: 28px;
+.pkribbon-sinnoh-champion{
+  width:30px;
+  height:28px;
   background-position: -510px -64px;
 }
-.pkribbon-skillful-battler {
-  width: 30px;
-  height: 28px;
+.pkribbon-skillful-battler{
+  width:30px;
+  height:28px;
   background-position: -542px -64px;
 }
-.pkribbon-smart-ribbon-master-sinnoh {
-  width: 28px;
-  height: 30px;
+.pkribbon-smart-ribbon-master-sinnoh{
+  width:28px;
+  height:30px;
   background-position: -574px -64px;
 }
-.pkribbon-tough-ribbon-master-sinnoh {
-  width: 28px;
-  height: 30px;
+.pkribbon-tough-ribbon-master-sinnoh{
+  width:28px;
+  height:30px;
   background-position: -604px -64px;
 }
-.pkribbon-training {
-  width: 31px;
-  height: 27px;
+.pkribbon-training{
+  width:31px;
+  height:27px;
   background-position: -634px -64px;
 }
-.pkribbon-world-champion {
-  width: 30px;
-  height: 29px;
+.pkribbon-world-champion{
+  width:30px;
+  height:29px;
   background-position: -667px -64px;
 }
-.pkribbon-earth {
-  width: 32px;
-  height: 28px;
+.pkribbon-earth{
+  width:32px;
+  height:28px;
   background-position: -699px -64px;
 }
-.pkribbon-expert-battler {
-  width: 30px;
-  height: 31px;
+.pkribbon-expert-battler{
+  width:30px;
+  height:31px;
   background-position: -733px -64px;
 }
-.pkribbon-land {
-  width: 30px;
-  height: 30px;
+.pkribbon-land{
+  width:30px;
+  height:30px;
   background-position: -765px -64px;
 }
-.pkribbon-marine {
-  width: 30px;
-  height: 30px;
+.pkribbon-marine{
+  width:30px;
+  height:30px;
   background-position: -797px -64px;
 }
-.pkribbon-pair-ability {
-  width: 30px;
-  height: 30px;
+.pkribbon-pair-ability{
+  width:30px;
+  height:30px;
   background-position: -829px -64px;
 }
-.pkribbon-premier {
-  width: 30px;
-  height: 30px;
+.pkribbon-premier{
+  width:30px;
+  height:30px;
   background-position: -861px -64px;
 }
-.pkribbon-sky {
-  width: 30px;
-  height: 30px;
+.pkribbon-sky{
+  width:30px;
+  height:30px;
   background-position: -893px -64px;
 }
-.pkribbon-world-ability {
-  width: 30px;
-  height: 30px;
+.pkribbon-world-ability{
+  width:30px;
+  height:30px;
   background-position: 0px -99px;
 }
-.pkribbon-world {
-  width: 32px;
-  height: 28px;
+.pkribbon-world{
+  width:32px;
+  height:28px;
   background-position: -32px -99px;
 }
-.pkribbon-battle-royal-master {
-  width: 25px;
-  height: 37px;
+.pkribbon-battle-royal-master{
+  width:25px;
+  height:37px;
   background-position: -66px -99px;
 }
-.pkribbon-beauty-master {
-  width: 34px;
-  height: 28px;
+.pkribbon-beauty-master{
+  width:34px;
+  height:28px;
   background-position: -93px -99px;
 }
-.pkribbon-carnival {
-  width: 32px;
-  height: 31px;
+.pkribbon-carnival{
+  width:32px;
+  height:31px;
   background-position: -129px -99px;
 }
-.pkribbon-cleverness-master {
-  width: 34px;
-  height: 28px;
+.pkribbon-cleverness-master{
+  width:34px;
+  height:28px;
   background-position: -163px -99px;
 }
-.pkribbon-coolness-master {
-  width: 34px;
-  height: 28px;
+.pkribbon-coolness-master{
+  width:34px;
+  height:28px;
   background-position: -199px -99px;
 }
-.pkribbon-cuteness-master {
-  width: 34px;
-  height: 28px;
+.pkribbon-cuteness-master{
+  width:34px;
+  height:28px;
   background-position: -235px -99px;
 }
-.pkribbon-festival {
-  width: 32px;
-  height: 31px;
+.pkribbon-festival{
+  width:32px;
+  height:31px;
   background-position: -271px -99px;
 }
-.pkribbon-footprint {
-  width: 32px;
-  height: 30px;
+.pkribbon-footprint{
+  width:32px;
+  height:30px;
   background-position: -305px -99px;
 }
-.pkribbon-regional-champion {
-  width: 32px;
-  height: 31px;
+.pkribbon-regional-champion{
+  width:32px;
+  height:31px;
   background-position: -339px -99px;
 }
-.pkribbon-souvenir {
-  width: 32px;
-  height: 31px;
+.pkribbon-souvenir{
+  width:32px;
+  height:31px;
   background-position: -373px -99px;
 }
-.pkribbon-toughness-master {
-  width: 34px;
-  height: 28px;
+.pkribbon-toughness-master{
+  width:34px;
+  height:28px;
   background-position: -407px -99px;
 }
-.pkribbon-wishing {
-  width: 32px;
-  height: 31px;
+.pkribbon-wishing{
+  width:32px;
+  height:31px;
   background-position: -443px -99px;
 }
-.pkribbon-battle-memory {
-  width: 31px;
-  height: 36px;
+.pkribbon-battle-memory{
+  width:31px;
+  height:36px;
   background-position: -477px -99px;
 }
-.pkribbon-contest-memory {
-  width: 31px;
-  height: 35px;
+.pkribbon-contest-memory{
+  width:31px;
+  height:35px;
   background-position: -510px -99px;
 }
-.pkribbon-contest-star {
-  width: 36px;
-  height: 32px;
+.pkribbon-contest-star{
+  width:36px;
+  height:32px;
   background-position: -543px -99px;
 }
-.pkribbon-battle-memory-ribbon-gold {
-  width: 39px;
-  height: 37px;
+.pkribbon-battle-memory-ribbon-gold{
+  width:39px;
+  height:37px;
   background-position: -581px -99px;
 }
-.pkribbon-contest-memory-ribbon-gold {
-  width: 39px;
-  height: 37px;
+.pkribbon-contest-memory-ribbon-gold{
+  width:39px;
+  height:37px;
   background-position: -622px -99px;
 }
-.pkribbon-tower-master-gen8 {
-  width: 27px;
-  height: 58px;
+.pkribbon-tower-master-gen8{
+  width:27px;
+  height:58px;
   background-position: -663px -99px;
 }
-.pkribbon-battle-tree-great-gen8 {
-  width: 36px;
-  height: 58px;
+.pkribbon-battle-tree-great-gen8{
+  width:36px;
+  height:58px;
   background-position: -692px -99px;
 }
-.pkribbon-battle-tree-master-gen8 {
-  width: 36px;
-  height: 58px;
+.pkribbon-battle-tree-master-gen8{
+  width:36px;
+  height:58px;
   background-position: -730px -99px;
 }
-.pkribbon-alola-champion-gen8 {
-  width: 37px;
-  height: 58px;
+.pkribbon-alola-champion-gen8{
+  width:37px;
+  height:58px;
   background-position: -768px -99px;
 }
-.pkribbon-galar-champion-gen8 {
-  width: 36px;
-  height: 58px;
+.pkribbon-galar-champion-gen8{
+  width:36px;
+  height:58px;
   background-position: -807px -99px;
 }
-.pkribbon-record-gen8 {
-  width: 37px;
-  height: 58px;
+.pkribbon-record-gen8{
+  width:37px;
+  height:58px;
   background-position: -845px -99px;
 }
-.pkribbon-battle-royal-master-gen8 {
-  width: 40px;
-  height: 58px;
+.pkribbon-battle-royal-master-gen8{
+  width:40px;
+  height:58px;
   background-position: -884px -99px;
 }
-.pkribbon-gorgeous-gen8 {
-  width: 41px;
-  height: 58px;
+.pkribbon-gorgeous-gen8{
+  width:41px;
+  height:58px;
   background-position: -926px -99px;
 }
-.pkribbon-alert-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-alert-gen8{
+  width:43px;
+  height:58px;
   background-position: -969px -99px;
 }
-.pkribbon-careless-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-careless-gen8{
+  width:43px;
+  height:58px;
   background-position: -1014px -99px;
 }
-.pkribbon-downcast-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-downcast-gen8{
+  width:43px;
+  height:58px;
   background-position: -1059px -99px;
 }
-.pkribbon-relax-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-relax-gen8{
+  width:43px;
+  height:58px;
   background-position: 0px -159px;
 }
-.pkribbon-shock-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-shock-gen8{
+  width:43px;
+  height:58px;
   background-position: -45px -159px;
 }
-.pkribbon-smile-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-smile-gen8{
+  width:43px;
+  height:58px;
   background-position: -90px -159px;
 }
-.pkribbon-snooze-gen8 {
-  width: 43px;
-  height: 58px;
+.pkribbon-snooze-gen8{
+  width:43px;
+  height:58px;
   background-position: -135px -159px;
 }
-.pkribbon-event-gen8 {
-  width: 44px;
-  height: 58px;
+.pkribbon-event-gen8{
+  width:44px;
+  height:58px;
   background-position: -180px -159px;
 }
-.pkribbon-champion-gen8 {
-  width: 44px;
-  height: 58px;
+.pkribbon-champion-gen8{
+  width:44px;
+  height:58px;
   background-position: -226px -159px;
 }
-.pkribbon-hoenn-champion-gen8 {
-  width: 45px;
-  height: 58px;
+.pkribbon-hoenn-champion-gen8{
+  width:45px;
+  height:58px;
   background-position: -272px -159px;
 }
-.pkribbon-kalos-champion-gen8 {
-  width: 45px;
-  height: 58px;
+.pkribbon-kalos-champion-gen8{
+  width:45px;
+  height:58px;
   background-position: -319px -159px;
 }
-.pkribbon-royal-gen8 {
-  width: 45px;
-  height: 58px;
+.pkribbon-royal-gen8{
+  width:45px;
+  height:58px;
   background-position: -366px -159px;
 }
-.pkribbon-artist-gen8 {
-  width: 67px;
-  height: 53px;
+.pkribbon-artist-gen8{
+  width:67px;
+  height:53px;
   background-position: -413px -159px;
 }
-.pkribbon-beauty-master-gen8 {
-  width: 67px;
-  height: 53px;
+.pkribbon-beauty-master-gen8{
+  width:67px;
+  height:53px;
   background-position: -482px -159px;
 }
-.pkribbon-cleverness-master-gen8 {
-  width: 67px;
-  height: 53px;
+.pkribbon-cleverness-master-gen8{
+  width:67px;
+  height:53px;
   background-position: -551px -159px;
 }
-.pkribbon-coolness-master-gen8 {
-  width: 67px;
-  height: 53px;
+.pkribbon-coolness-master-gen8{
+  width:67px;
+  height:53px;
   background-position: -620px -159px;
 }
-.pkribbon-cuteness-master-gen8 {
-  width: 67px;
-  height: 53px;
+.pkribbon-cuteness-master-gen8{
+  width:67px;
+  height:53px;
   background-position: -689px -159px;
 }
-.pkribbon-toughness-master-gen8 {
-  width: 67px;
-  height: 53px;
+.pkribbon-toughness-master-gen8{
+  width:67px;
+  height:53px;
   background-position: -758px -159px;
 }
-.pkribbon-best-friends-gen8 {
-  width: 67px;
-  height: 55px;
+.pkribbon-best-friends-gen8{
+  width:67px;
+  height:55px;
   background-position: -827px -159px;
 }
-.pkribbon-earth-gen8 {
-  width: 67px;
-  height: 55px;
+.pkribbon-earth-gen8{
+  width:67px;
+  height:55px;
   background-position: -896px -159px;
 }
-.pkribbon-gorgeous-royal-gen8 {
-  width: 47px;
-  height: 58px;
+.pkribbon-gorgeous-royal-gen8{
+  width:47px;
+  height:58px;
   background-position: -965px -159px;
 }
-.pkribbon-world-gen8 {
-  width: 67px;
-  height: 55px;
+.pkribbon-world-gen8{
+  width:67px;
+  height:55px;
   background-position: -1014px -159px;
 }
-.pkribbon-training-gen8 {
-  width: 67px;
-  height: 56px;
+.pkribbon-training-gen8{
+  width:67px;
+  height:56px;
   background-position: -1083px -159px;
 }
-.pkribbon-battle-champion-gen8 {
-  width: 51px;
-  height: 58px;
+.pkribbon-battle-champion-gen8{
+  width:51px;
+  height:58px;
   background-position: -1152px -159px;
 }
-.pkribbon-contest-star-gen8 {
-  width: 65px;
-  height: 58px;
+.pkribbon-contest-star-gen8{
+  width:65px;
+  height:58px;
   background-position: -1205px -159px;
 }
-.pkribbon-country-gen8 {
-  width: 51px;
-  height: 58px;
+.pkribbon-country-gen8{
+  width:51px;
+  height:58px;
   background-position: -1272px -159px;
 }
-.pkribbon-national-gen8 {
-  width: 51px;
-  height: 58px;
+.pkribbon-national-gen8{
+  width:51px;
+  height:58px;
   background-position: -1325px -159px;
 }
-.pkribbon-skillful-battler-gen8 {
-  width: 65px;
-  height: 58px;
+.pkribbon-skillful-battler-gen8{
+  width:65px;
+  height:58px;
   background-position: -1378px -159px;
 }
-.pkribbon-souvenir-gen8 {
-  width: 65px;
-  height: 58px;
+.pkribbon-souvenir-gen8{
+  width:65px;
+  height:58px;
   background-position: -1445px -159px;
 }
-.pkribbon-battle-memory-gen8 {
-  width: 52px;
-  height: 58px;
+.pkribbon-battle-memory-gen8{
+  width:52px;
+  height:58px;
   background-position: -1512px -159px;
 }
-.pkribbon-contest-memory-gen8 {
-  width: 52px;
-  height: 58px;
+.pkribbon-contest-memory-gen8{
+  width:52px;
+  height:58px;
   background-position: -1566px -159px;
 }
-.pkribbon-birthday-gen8 {
-  width: 55px;
-  height: 58px;
+.pkribbon-birthday-gen8{
+  width:55px;
+  height:58px;
   background-position: -1620px -159px;
 }
-.pkribbon-regional-champion-gen8 {
-  width: 54px;
-  height: 58px;
+.pkribbon-regional-champion-gen8{
+  width:54px;
+  height:58px;
   background-position: -1677px -159px;
 }
-.pkribbon-wishing-gen8 {
-  width: 62px;
-  height: 58px;
+.pkribbon-wishing-gen8{
+  width:62px;
+  height:58px;
   background-position: 0px -219px;
 }
-.pkribbon-footprint-gen8 {
-  width: 61px;
-  height: 58px;
+.pkribbon-footprint-gen8{
+  width:61px;
+  height:58px;
   background-position: -64px -219px;
 }
-.pkribbon-special-gen8 {
-  width: 56px;
-  height: 58px;
+.pkribbon-special-gen8{
+  width:56px;
+  height:58px;
   background-position: -127px -219px;
 }
-.pkribbon-master-rank-gen8 {
-  width: 57px;
-  height: 58px;
+.pkribbon-master-rank-gen8{
+  width:57px;
+  height:58px;
   background-position: -185px -219px;
 }
-.pkribbon-expert-battler-gen8 {
-  width: 58px;
-  height: 58px;
+.pkribbon-expert-battler-gen8{
+  width:58px;
+  height:58px;
   background-position: -244px -219px;
 }
-.pkribbon-legend-gen8 {
-  width: 58px;
-  height: 58px;
+.pkribbon-legend-gen8{
+  width:58px;
+  height:58px;
   background-position: -304px -219px;
 }
-.pkribbon-national-champion-gen8 {
-  width: 57px;
-  height: 58px;
+.pkribbon-national-champion-gen8{
+  width:57px;
+  height:58px;
   background-position: -364px -219px;
 }
-.pkribbon-premier-gen8 {
-  width: 57px;
-  height: 58px;
+.pkribbon-premier-gen8{
+  width:57px;
+  height:58px;
   background-position: -423px -219px;
 }
-.pkribbon-effort-gen8 {
-  width: 58px;
-  height: 58px;
+.pkribbon-effort-gen8{
+  width:58px;
+  height:58px;
   background-position: -482px -219px;
 }
-.pkribbon-world-champion-gen8 {
-  width: 58px;
-  height: 58px;
+.pkribbon-world-champion-gen8{
+  width:58px;
+  height:58px;
   background-position: -542px -219px;
 }
-.pkribbon-classic-gen8 {
-  width: 59px;
-  height: 58px;
+.pkribbon-classic-gen8{
+  width:59px;
+  height:58px;
   background-position: -602px -219px;
 }
-.pkribbon-sinnoh-champion-gen8 {
-  width: 59px;
-  height: 58px;
+.pkribbon-sinnoh-champion-gen8{
+  width:59px;
+  height:58px;
   background-position: -663px -219px;
 }

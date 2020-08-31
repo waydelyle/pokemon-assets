@@ -3,6 +3,11 @@
   display: inline-block;
   vertical-align: middle;
   background-image: url(../img/ribbons.png);
+  image-rendering: crisp-edges;
+  image-rendering: -ms-interpolation-mode:nearest-neighbor;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }
 .pkribbon-beauty-ribbon-hoenn{
   width:16px;

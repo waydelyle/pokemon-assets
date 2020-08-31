@@ -16,7 +16,6 @@
       }
       body, img, image {
         image-rendering: crisp-edges;
-        image-rendering: -ms-interpolation-mode:nearest-neighbor;
         image-rendering: -moz-crisp-edges;
         image-rendering: -webkit-crisp-edges;
         image-rendering: pixelated;
@@ -26,6 +25,7 @@
         margin: auto;
         padding: 50px 20px;
         background: #ffde41;
+        margin-bottom:40px;
       }
       #css-class-viewer {
         position: fixed;
@@ -35,8 +35,10 @@
         height:20px;
         background: rgba(0,0,0,0.8);
         color: #fff;
-        font-size:16px;
+        font-size:14px;
         text-align:center;
+        padding:20px;
+        font-family: sans-serif, monospace;
       }
     </style>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85082661-2"></script>
@@ -522,13 +524,13 @@
   
 <div id="css-class-viewer"> - </div>
 <script>
-  $('pksymbol-wrapper').click(
+$(function(){
+  $('.pksymbol-wrapper').click(
     function(e) {
-      $('#css-class-viewer').text(this.outerHTML.replace(/(
-|
-|)/gm,' '));
+      $('#css-class-viewer').text("<span class='pksymbol-wrapper">'+ this.innerHTML + '</span>');
     }
   );
+})
 </script>
 <style>
         .pksymbol-wrapper {
@@ -545,7 +547,7 @@
         }
         .pksymbol-wrapper:active,
         .pksymbol-wrapper:target {
-          background: rgba(255,255,255,0.3);
+          background: rgba(255,255,255,0.65);
         }
         .pksymbol{
            /* background-color:cyan;*/

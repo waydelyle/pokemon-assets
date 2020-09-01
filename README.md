@@ -49,6 +49,8 @@ Apart from the package.json devDependencies, your machine (which has to be macOS
 the following software in order to run the maintenance scripts:
 
 - node 10+
+- typescript
+- ts-node
 - ImageMagick
 - pandoc
 - ffmpeg

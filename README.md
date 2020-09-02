@@ -41,7 +41,8 @@ You can check all available assets in the following [reference pages](https://it
 
 ---
 
-For fonts and audio reference, check the [`/assets/`](https://github.com/itsjavi/pokemon-assets/tree/master/assets) folder.
+For fonts and audio reference,
+check the [`/assets/`](https://github.com/itsjavi/pokemon-assets/tree/master/assets) folder.
 
 ---
 

@@ -66,21 +66,30 @@ HIGHEST=0
 WIDEST_ALL=0
 HIGHEST_ALL=0
 
-css="
-.${_CSS_PREFIX} {
+styles_base_main="
   display: inline-block;
   vertical-align: middle;
-  background-image: url(../img/${_OUT_NAME}.png);
   image-rendering: crisp-edges;
   image-rendering: -moz-crisp-edges;
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
+"
+
+css="
+.${_CSS_PREFIX} {
+  background-image: url(../img/${_OUT_NAME}.png);
+${styles_base_main}
 }"
-scss="$css
+
+scss="
 @mixin sprite-rect (\$w, \$h, \$x, \$y) {
   width: \$w;
   height: \$h;
   background-position: \$x \$y;
+}
+.${_CSS_PREFIX} {
+  background-image: url(../../assets/img/${_OUT_NAME}.png);
+${styles_base_main}
 }
 "
 html="<!DOCTYPE html>

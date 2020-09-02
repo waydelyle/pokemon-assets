@@ -9,7 +9,7 @@ install:
 	rm -rf tmp/pandoc-css && git clone https://gist.github.com/5917178.git tmp/pandoc-css
 
 index-page:
-	pandoc --from gfm --to html --standalone README.md --output .gh-pages/index.html --template src/index.template.html
+	pandoc --from gfm --to html --standalone README.md --output .gh-pages/index.html --template src/docs/index.template.html
 
 pages:
 	./src/scripts/build-gh-pages.sh

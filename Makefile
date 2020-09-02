@@ -1,6 +1,6 @@
 default: build
 
-build: spritesheets pages pretty
+build: spritesheets data pages pretty
 
 install:
 	yarn install
@@ -18,10 +18,13 @@ publish:
 	cd .gh-pages && git add -A && git commit -m "update gh-pages" && git push -u origin gh-pages
 
 pretty:
-	npx prettier --write ./assets/sass/* ./assets/data/* ./assets/css/*
+	npx prettier --write ./src ./assets ./.gh-pages
 
 spritesheets:
 	./src/scripts/generate-all-spritesheets.sh
+
+data:
+	node src/js/js-data-to-json.js
 
 pngs:
 	./src/scripts/export-svgs-to-pngs.sh

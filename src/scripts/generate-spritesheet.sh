@@ -293,7 +293,8 @@ function selectText(node) {
            background-image: url(img/sprites.png);
         }
     </style>
-<body></html>"
+</body>
+</html>"
 
 OUTPUT_DIR="output-${_OUT_NAME}"
 rm -rf "../${OUTPUT_DIR}"

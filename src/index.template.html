@@ -1,111 +1,126 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="theme-color" content="#ffde41"/>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffde41" />
 
-  <title>Pokémon Assets - Pokémon JSON Data API, Pokémon icons CSS spritesheet, Fonts, Type icons SVG and more!</title>
+    <title>
+      Pokémon Assets - Pokémon JSON Data API, Pokémon icons CSS spritesheet,
+      Fonts, Type icons SVG and more!
+    </title>
 
-  <link rel="shortcut icon" type="image/png" href="assets/img/symbols/pokeball-logo.png"/>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85082661-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-85082661-2');
-  </script>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500">
-  <link rel="stylesheet" href="gfm.css" type="text/css"/>
-  $for(css)$
-  <link rel="stylesheet" href="$css$" type="text/css"/>
-  $endfor$
-  <style>
-    @font-face {
-      font-family: Pokemon-DP;
-      src: url(assets/fonts/Pokemon-DP.ttf);
-    }
-
-    @font-face {
-      font-family: Pokemon-DP-Bold;
-      src: url(assets/fonts/Pokemon-DP-Bold.ttf);
-    }
-
-    html, body {
-      font-family: "Exo 2", "Helvetica Neue", sans-serif;
-      background: #ffde41;
-      color: #000;
-    }
-
-    body, img, image {
-      image-rendering: crisp-edges;
-      image-rendering: -ms-interpolation-mode:nearest-neighbor;
-      image-rendering: -moz-crisp-edges;
-      image-rendering: -webkit-crisp-edges;
-      image-rendering: pixelated;
-    }
-
-    a:visited {
-      color: #0645ad;
-    }
-
-    hr {
-      border-top-color: #000;
-      border-bottom: none;
-    }
-
-    h1, h2, h3, h4, h5, h6, b, strong {
-      font-family: Pokemon-DP, "Exo 2", "Helvetica Neue", sans-serif;
-      color: inherit;
-    }
-
-    @media only screen and (min-width: 480px) {
-      body {
-        font-size: 20px;
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="assets/img/symbols/pokeball-logo.png"
+    />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-85082661-2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
       }
-    }
-
-    @media only screen and (min-width: 768px) {
-      body {
-        font-size: 20px;
+      gtag("js", new Date());
+      gtag("config", "UA-85082661-2");
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500"
+    />
+    <link rel="stylesheet" href="gfm.css" type="text/css" />
+    $for(css)$
+    <link rel="stylesheet" href="$css$" type="text/css" />
+    $endfor$
+    <style>
+      @font-face {
+        font-family: Pokemon-DP;
+        src: url(assets/fonts/Pokemon-DP.ttf);
       }
-    }
 
-    body {
-      padding-top: 3em;
-      font-size: 20px;
-      /*color: #fff;*/
-      /*background: #222;*/
-    }
+      @font-face {
+        font-family: Pokemon-DP-Bold;
+        src: url(assets/fonts/Pokemon-DP-Bold.ttf);
+      }
 
-    #logo {
-      display: inline-block;
-      margin-right: 12px;
-    }
+      html, body {
+        font-family: "Exo 2", "Helvetica Neue", sans-serif;
+        background: #ffde41;
+        color: #000;
+      }
 
-    #logo img {
-      max-height: 32px;
-      vertical-align: bottom;
-    }
+      body, img, image {
+        image-rendering: crisp-edges;
+        image-rendering: -ms-interpolation-mode:nearest-neighbor;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: -webkit-crisp-edges;
+        image-rendering: pixelated;
+      }
 
-    h1#pokemon-assets {
-      display: inline-block;
-      margin-top: 0;
-      font-weight: bolder;
-      color: #fff;
-      text-shadow: -2px -2px 0 #000,
-      0 -2px 0 #000,
-      2px -2px 0 #000,
-      2px 0 0 #000,
-      2px 2px 0 #000,
-      0 2px 0 #000,
-      -2px 2px 0 #000,
-      -2px 0 0 #000;
-    }
-  </style>
-</head>
-<body>
-<div id="logo"><img src="assets/img/symbols/pokeball-logo.png"/></div>
-$body$
-</body>
+      a:visited {
+        color: #0645ad;
+      }
+
+      hr {
+        border-top-color: #000;
+        border-bottom: none;
+      }
+
+      h1, h2, h3, h4, h5, h6, b, strong {
+        font-family: Pokemon-DP, "Exo 2", "Helvetica Neue", sans-serif;
+        color: inherit;
+      }
+
+      @media only screen and (min-width: 480px) {
+        body {
+          font-size: 20px;
+        }
+      }
+
+      @media only screen and (min-width: 768px) {
+        body {
+          font-size: 20px;
+        }
+      }
+
+      body {
+        padding-top: 3em;
+        font-size: 20px;
+        /*color: #fff;*/
+        /*background: #222;*/
+      }
+
+      #logo {
+        display: inline-block;
+        margin-right: 12px;
+      }
+
+      #logo img {
+        max-height: 32px;
+        vertical-align: bottom;
+      }
+
+      h1#pokemon-assets {
+        display: inline-block;
+        margin-top: 0;
+        font-weight: bolder;
+        color: #fff;
+        text-shadow: -2px -2px 0 #000,
+        0 -2px 0 #000,
+        2px -2px 0 #000,
+        2px 0 0 #000,
+        2px 2px 0 #000,
+        0 2px 0 #000,
+        -2px 2px 0 #000,
+        -2px 0 0 #000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="logo"><img src="assets/img/symbols/pokeball-logo.png" /></div>
+    $body$
+  </body>
 </html>

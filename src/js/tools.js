@@ -1,4 +1,4 @@
-const fs = require('fs')
+const fs = require("fs");
 
 /**
  * @param data
@@ -7,16 +7,17 @@ const fs = require('fs')
  * @returns {string|null}
  */
 const vv = (data, path, defaultValue = null) => {
-  let val = path.split('.').reduce((o, i) => o === undefined ? o : o[i], data);
+  let val = path
+    .split(".")
+    .reduce((o, i) => (o === undefined ? o : o[i]), data);
   return val === undefined ? defaultValue : val;
-}
+};
 
 const list_files = (dir, fileRegex) => {
-  return fs.readdirSync(dir)
-    .filter(function (file) {
-      return file.match(fileRegex);
-    });
-}
+  return fs.readdirSync(dir).filter(function (file) {
+    return file.match(fileRegex);
+  });
+};
 
 /**
  * @param data
@@ -25,9 +26,11 @@ const list_files = (dir, fileRegex) => {
  * @returns {string|null}
  */
 const lcvv = (data, path, defaultValue = null) => {
-  let val = path.split('.').reduce((o, i) => o === undefined ? o : o[i], data);
+  let val = path
+    .split(".")
+    .reduce((o, i) => (o === undefined ? o : o[i]), data);
   return val === undefined ? defaultValue : val.toLowerCase();
-}
+};
 
 const print_joined_props = (items) => {
   let allProps = {};
@@ -35,29 +38,32 @@ const print_joined_props = (items) => {
     allProps = Object.assign({}, allProps, value);
   }
   console.log(JSON.stringify(allProps));
-}
+};
 
-const slugize = (str) => str
-  .replace(/\s/g, '-')
-  .replace(/['’.%:]/g, '')
-  .normalize("NFD")
-  .replace(/[\u0300-\u036f]/g, "")
-  .toLowerCase();
+const slugize = (str) =>
+  str
+    .replace(/\s/g, "-")
+    .replace(/['’.%:]/g, "")
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase();
 
-const slug_to_title = (str) => str.replace(/([-_’]|--)/gi, ' ')
-  .replace(/[ ]+/gi, ' ')
-  .replace(/\b\w/g, l => l.toUpperCase());
+const slug_to_title = (str) =>
+  str
+    .replace(/([-_’]|--)/gi, " ")
+    .replace(/[ ]+/gi, " ")
+    .replace(/\b\w/g, (l) => l.toUpperCase());
 
-const aliasize = (str) => str.replace(/[-_ ]{1,}/gi, '')
+const aliasize = (str) => str.replace(/[-_ ]{1,}/gi, "");
 
 module.exports = {
-  'vv': vv,
-  'lcvv': lcvv,
-  'slugize': slugize,
-  'print_joined_props': print_joined_props,
-  'assets_dir': __dirname + "/../../assets",
-  "output_dir": __dirname + "/../../assets/data",
-  "list_files": list_files,
-  'slug_to_title': slug_to_title,
-  'aliasize': aliasize
-}
+  vv: vv,
+  lcvv: lcvv,
+  slugize: slugize,
+  print_joined_props: print_joined_props,
+  assets_dir: __dirname + "/../../assets",
+  output_dir: __dirname + "/../../assets/data",
+  list_files: list_files,
+  slug_to_title: slug_to_title,
+  aliasize: aliasize,
+};

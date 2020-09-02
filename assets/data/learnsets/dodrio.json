@@ -1,0 +1,117 @@
+{
+  "pokemon": "dodrio",
+  "learnset": {
+    "acupressure": ["7L34", "6L28", "5L28", "4L28"],
+    "aerialace": ["7M", "6M", "5M", "4M", "3M"],
+    "agility": ["8V", "7L26", "7V", "6L35", "5L41", "4L41", "3L60", "3S0"],
+    "aircutter": ["4T"],
+    "attract": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "batonpass": ["3S0"],
+    "bide": ["7V"],
+    "bodyslam": ["7V", "3T"],
+    "captivate": ["4M"],
+    "confide": ["7M", "6M"],
+    "curse": ["7V"],
+    "doubleedge": ["7V", "3T"],
+    "doublehit": ["7L22"],
+    "doubleteam": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "drillpeck": ["8V", "7L47", "7V", "6L41", "5L47", "4L47", "3L47", "3S0"],
+    "echoedvoice": ["7M", "6M", "5M"],
+    "endeavor": ["7T", "7L52", "6T", "6L53", "5T", "5L54", "4T", "4L54"],
+    "endure": ["7V", "4M", "3T"],
+    "facade": ["8V", "7M", "6M", "5M", "4M", "3M"],
+    "fly": ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
+    "frustration": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "furyattack": ["8V", "7L12", "7V", "6L13", "5L14", "4L14", "3L1"],
+    "gigaimpact": ["7M", "6M", "5M", "4M"],
+    "growl": ["8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
+    "headbutt": ["8V"],
+    "hiddenpower": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "hyperbeam": ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
+    "jumpkick": ["8V", "7L43"],
+    "knockoff": ["7T", "6T", "5T", "4T"],
+    "mimic": ["7V", "3T"],
+    "mirrormove": ["8V"],
+    "mudslap": ["7V", "4T", "3T"],
+    "naturalgift": ["4M"],
+    "payback": ["7M", "6M", "5M", "4M"],
+    "peck": ["8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
+    "pluck": ["7L19", "6L1", "5M", "5L1", "4M", "4L1"],
+    "protect": ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
+    "pursuit": ["7L15", "7V", "6L17", "5L19", "4L19", "3L1"],
+    "quickattack": ["8V", "7L1", "6L1", "5L1", "4L1"],
+    "rage": ["8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L25"],
+    "reflect": ["8V", "7V"],
+    "rest": ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
+    "return": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "roost": ["8V", "7M", "6M", "5T", "4M"],
+    "round": ["7M", "6M", "5M"],
+    "secretpower": ["6M", "4M", "3M"],
+    "skullbash": ["7V"],
+    "skyattack": ["7T", "7V", "6T", "5T", "4T", "3T"],
+    "sleeptalk": ["7M", "7V", "6M", "5T", "4M", "3T"],
+    "snore": ["7T", "7V", "6T", "5T", "4T", "3T"],
+    "steelwing": ["7M", "7V", "6M", "4M", "3M"],
+    "stompingtantrum": ["7T"],
+    "substitute": ["8V", "7M", "7V", "6M", "5M", "4M", "3T"],
+    "sunnyday": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "supersonic": ["8V"],
+    "swagger": ["7M", "7V", "6M", "5M", "4M", "3T"],
+    "swift": ["7V", "4T", "3T"],
+    "swordsdance": ["8V", "7M", "7L38"],
+    "takedown": ["7V"],
+    "taunt": ["8V", "7M", "6M", "5M", "4M", "3M"],
+    "thief": ["7M", "7V", "6M", "5M", "4M", "3M"],
+    "thrash": ["8V", "7L56", "6L59", "5L60"],
+    "torment": ["7M", "6M", "5M", "4M", "3M"],
+    "toxic": ["8V", "7M", "7V", "6M", "5M", "4M", "3M"],
+    "triattack": ["8V", "7L1", "7V", "6L25", "5L34", "4L34", "3L21", "3S0"],
+    "uproar": ["7T", "7L29", "6T", "6L23", "5T", "5L23", "4T", "4L23", "3L38"],
+    "whirlwind": ["7V"],
+    "workup": ["7M", "5M"]
+  },
+  "eventData": [
+    {
+      "generation": 3,
+      "level": 34,
+      "moves": ["batonpass", "drillpeck", "agility", "triattack"]
+    }
+  ],
+  "encounters": [
+    {
+      "generation": 1,
+      "level": 29
+    },
+    {
+      "generation": 2,
+      "level": 10,
+      "gender": "F"
+    },
+    {
+      "generation": 2,
+      "level": 30
+    },
+    {
+      "generation": 3,
+      "level": 29,
+      "pokeball": "safariball"
+    },
+    {
+      "generation": 4,
+      "level": 15,
+      "gender": "F",
+      "nature": "Impish",
+      "ivs": {
+        "hp": 20,
+        "atk": 20,
+        "def": 20,
+        "spa": 15,
+        "spd": 15,
+        "spe": 15
+      },
+      "abilities": ["runaway"],
+      "pokeball": "pokeball"
+    }
+  ],
+  "eventOnly": false
+}

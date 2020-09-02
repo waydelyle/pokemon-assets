@@ -1,0 +1,10 @@
+{
+  "pokemon": "necrozmaultra",
+  "learnset": {
+    "moongeistbeam": ["8R", "7R"],
+    "sunsteelstrike": ["8R", "7R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

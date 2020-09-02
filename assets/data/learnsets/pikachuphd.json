@@ -1,0 +1,9 @@
+{
+  "pokemon": "pikachuphd",
+  "learnset": {
+    "electricterrain": ["6R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": true
+}

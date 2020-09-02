@@ -1,0 +1,60 @@
+{
+  "pokemon": "poipole",
+  "learnset": {
+    "acid": ["7L1"],
+    "charm": ["7L19", "7S0"],
+    "confide": ["7M"],
+    "covet": ["7T"],
+    "dragonpulse": ["7T", "7L1", "7S1"],
+    "echoedvoice": ["7M"],
+    "facade": ["7M"],
+    "fellstinger": ["7L47"],
+    "frustration": ["7M"],
+    "furyattack": ["7L7"],
+    "gastroacid": ["7T"],
+    "growl": ["7L1"],
+    "gunkshot": ["7T"],
+    "helpinghand": ["7T", "7L1"],
+    "hiddenpower": ["7M"],
+    "irontail": ["7T"],
+    "nastyplot": ["7L31", "7S0", "7S1"],
+    "peck": ["7L1"],
+    "poisonjab": ["7M", "7L37", "7S0", "7S1"],
+    "protect": ["7M"],
+    "rest": ["7M"],
+    "return": ["7M"],
+    "round": ["7M"],
+    "signalbeam": ["7T"],
+    "sleeptalk": ["7M"],
+    "sludgebomb": ["7M"],
+    "sludgewave": ["7M"],
+    "snatch": ["7T"],
+    "snore": ["7T"],
+    "substitute": ["7M"],
+    "toxic": ["7M", "7L41"],
+    "uproar": ["7T"],
+    "venomdrench": ["7L23", "7S0", "7S1"],
+    "venoshock": ["7M", "7L13"]
+  },
+  "eventData": [
+    {
+      "generation": 7,
+      "level": 40,
+      "shiny": 1,
+      "perfectIVs": 3,
+      "moves": ["charm", "venomdrench", "nastyplot", "poisonjab"],
+      "pokeball": "pokeball"
+    },
+    {
+      "generation": 7,
+      "level": 40,
+      "shiny": true,
+      "nature": "Modest",
+      "perfectIVs": 3,
+      "moves": ["venomdrench", "nastyplot", "poisonjab", "dragonpulse"],
+      "pokeball": "cherishball"
+    }
+  ],
+  "encounters": [],
+  "eventOnly": true
+}

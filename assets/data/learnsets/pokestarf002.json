@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarf002",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 52,
+      "moves": ["flareblitz", "ironhead", "psychic", "wildcharge"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

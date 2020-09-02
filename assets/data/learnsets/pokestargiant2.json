@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestargiant2",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 99,
+      "moves": ["crushgrip", "doubleslap", "teeterdance", "stomp"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

@@ -1,0 +1,23 @@
+{
+  "pokemon": "pokestarf00",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 10,
+      "moves": ["teeterdance", "growl", "flail", "chatter"]
+    },
+    {
+      "generation": 5,
+      "level": 58,
+      "moves": ["needlearm", "headsmash", "headbutt", "defensecurl"]
+    },
+    {
+      "generation": 5,
+      "level": 60,
+      "moves": ["hammerarm", "perishsong", "ironhead", "thrash"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

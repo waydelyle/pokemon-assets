@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarufo",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 38,
+      "moves": ["bubblebeam", "counter", "recover", "signalbeam"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

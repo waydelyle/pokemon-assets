@@ -1,0 +1,14 @@
+{
+  "pokemon": "scatterbug",
+  "learnset": {
+    "bugbite": ["7T", "7L15", "6T", "6L15"],
+    "poisonpowder": ["7E", "6E"],
+    "ragepowder": ["7E", "6E"],
+    "stringshot": ["7L1", "6L1"],
+    "stunspore": ["7L6", "7E", "6L6", "6E"],
+    "tackle": ["7L1", "6L1"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

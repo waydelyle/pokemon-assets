@@ -1,0 +1,17 @@
+{
+  "pokemon": "kricketot",
+  "learnset": {
+    "bide": ["7L1", "6L1", "5L1", "4L1"],
+    "bugbite": ["7T", "7L16", "6T", "6L16", "5T", "5L16", "4T", "4L16"],
+    "endeavor": ["7T", "6T", "5T", "5D", "4T"],
+    "growl": ["7L1", "6L1", "5L1", "4L1"],
+    "mudslap": ["4T"],
+    "snore": ["7T", "6T", "5T", "4T"],
+    "stringshot": ["4T"],
+    "strugglebug": ["7L6", "6M", "6L6", "5L6", "5D"],
+    "uproar": ["7T", "6T", "5T", "5D", "4T"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

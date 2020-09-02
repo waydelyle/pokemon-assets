@@ -1,0 +1,47 @@
+{
+  "pokemon": "eeveestarter",
+  "learnset": {
+    "baddybad": ["8V", "7T"],
+    "bite": ["8V", "7L17"],
+    "bouncybubble": ["8V", "7T"],
+    "buzzybuzz": ["8V", "7T"],
+    "dig": ["8V", "7M"],
+    "doubleedge": ["8V", "7L28"],
+    "doublekick": ["8V", "7L10"],
+    "facade": ["8V", "7M"],
+    "freezyfrost": ["8V", "7T"],
+    "glitzyglow": ["8V", "7T"],
+    "growl": ["8V", "7L1", "7S0"],
+    "headbutt": ["8V", "7M"],
+    "helpinghand": ["8V", "7M", "7L31"],
+    "irontail": ["8V", "7M"],
+    "payday": ["8V", "7M"],
+    "protect": ["8V", "7M"],
+    "quickattack": ["8V", "7L6"],
+    "reflect": ["8V", "7M"],
+    "rest": ["8V", "7M"],
+    "sandattack": ["8V", "7L14"],
+    "sappyseed": ["8V", "7T"],
+    "shadowball": ["8V", "7M"],
+    "sizzlyslide": ["8V", "7T"],
+    "sparklyswirl": ["8V", "7T"],
+    "substitute": ["8V", "7M"],
+    "swift": ["8V", "7L21"],
+    "tackle": ["8V", "7L1", "7S0"],
+    "tailwhip": ["8V", "7L3", "7S0"],
+    "takedown": ["8V", "7L24"],
+    "toxic": ["8V", "7M"],
+    "veeveevolley": ["8V", "7T"]
+  },
+  "eventData": [
+    {
+      "generation": 7,
+      "level": 5,
+      "perfectIVs": 6,
+      "moves": ["tackle", "tailwhip", "growl"],
+      "pokeball": "pokeball"
+    }
+  ],
+  "encounters": [],
+  "eventOnly": true
+}

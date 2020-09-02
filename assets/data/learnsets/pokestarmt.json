@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarmt",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 63,
+      "moves": ["earthquake", "ironhead", "spark", "surf"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

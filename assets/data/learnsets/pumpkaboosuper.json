@@ -1,0 +1,19 @@
+{
+  "pokemon": "pumpkaboosuper",
+  "learnset": {
+    "astonish": ["6S0"],
+    "scaryface": ["6S0"],
+    "shadowsneak": ["6S0"],
+    "trickortreat": ["6S0"]
+  },
+  "eventData": [
+    {
+      "generation": 6,
+      "level": 50,
+      "moves": ["trickortreat", "astonish", "scaryface", "shadowsneak"],
+      "pokeball": "cherishball"
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

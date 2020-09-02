@@ -1,0 +1,19 @@
+{
+  "pokemon": "wurmple",
+  "learnset": {
+    "bugbite": ["7T", "7L15", "6T", "6L15", "5T", "5L15", "5D", "4T", "4L15"],
+    "electroweb": ["7T", "6T", "5T"],
+    "poisonsting": ["7L5", "6L5", "5L5", "5D", "4L5", "3L5"],
+    "snore": ["7T", "6T", "5T", "5D", "4T"],
+    "stringshot": ["7L1", "6L1", "5L1", "4T", "4L1", "3L1"],
+    "tackle": ["7L1", "6L1", "5L1", "4L1", "3L1"]
+  },
+  "eventData": [],
+  "encounters": [
+    {
+      "generation": 3,
+      "level": 2
+    }
+  ],
+  "eventOnly": false
+}

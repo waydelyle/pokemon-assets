@@ -1,0 +1,33 @@
+{
+  "pokemon": "dreepy",
+  "learnset": {
+    "astonish": ["8L1"],
+    "attract": ["8M"],
+    "batonpass": ["8M"],
+    "bite": ["8L1"],
+    "confuseray": ["8E"],
+    "curse": ["8E"],
+    "disable": ["8E"],
+    "doubleteam": ["8E"],
+    "dracometeor": ["8T"],
+    "dragontail": ["8E"],
+    "endure": ["8M"],
+    "facade": ["8M"],
+    "grudge": ["8E"],
+    "helpinghand": ["8M"],
+    "infestation": ["8L1"],
+    "protect": ["8M"],
+    "quickattack": ["8L1"],
+    "rest": ["8M"],
+    "round": ["8M"],
+    "sleeptalk": ["8M"],
+    "snore": ["8M"],
+    "substitute": ["8M"],
+    "suckerpunch": ["8E"],
+    "swift": ["8M"],
+    "thunderwave": ["8M"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

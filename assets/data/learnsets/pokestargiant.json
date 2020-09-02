@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestargiant",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 99,
+      "moves": ["crushgrip", "focuspunch", "growl", "rage"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

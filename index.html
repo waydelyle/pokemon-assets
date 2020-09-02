@@ -1,168 +1,292 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1"/>
-  <meta name="theme-color" content="#ffde41"/>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#ffde41" />
 
-  <title>Pokémon Assets - Pokémon JSON Data API, Pokémon icons CSS spritesheet, Fonts, Type icons SVG and more!</title>
+    <title>
+      Pokémon Assets - Pokémon JSON Data API, Pokémon icons CSS spritesheet,
+      Fonts, Type icons SVG and more!
+    </title>
 
-  <link rel="shortcut icon" type="image/png" href="assets/img/symbols/pokeball-logo.png"/>
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85082661-2"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'UA-85082661-2');
-  </script>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500">
-  <link rel="stylesheet" href="gfm.css" type="text/css"/>
+    <link
+      rel="shortcut icon"
+      type="image/png"
+      href="assets/img/symbols/pokeball-logo.png"
+    />
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-85082661-2"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+      gtag("config", "UA-85082661-2");
+    </script>
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Exo+2:300,400,500"
+    />
+    <link rel="stylesheet" href="gfm.css" type="text/css" />
     <style>
-    @font-face {
-      font-family: Pokemon-DP;
-      src: url(assets/fonts/Pokemon-DP.ttf);
-    }
-
-    @font-face {
-      font-family: Pokemon-DP-Bold;
-      src: url(assets/fonts/Pokemon-DP-Bold.ttf);
-    }
-
-    html, body {
-      font-family: "Exo 2", "Helvetica Neue", sans-serif;
-      background: #ffde41;
-      color: #000;
-    }
-
-    body, img, image {
-      image-rendering: crisp-edges;
-      image-rendering: -ms-interpolation-mode:nearest-neighbor;
-      image-rendering: -moz-crisp-edges;
-      image-rendering: -webkit-crisp-edges;
-      image-rendering: pixelated;
-    }
-
-    a:visited {
-      color: #0645ad;
-    }
-
-    hr {
-      border-top-color: #000;
-      border-bottom: none;
-    }
-
-    h1, h2, h3, h4, h5, h6, b, strong {
-      font-family: Pokemon-DP, "Exo 2", "Helvetica Neue", sans-serif;
-      color: inherit;
-    }
-
-    @media only screen and (min-width: 480px) {
-      body {
-        font-size: 20px;
+      @font-face {
+        font-family: Pokemon-DP;
+        src: url(assets/fonts/Pokemon-DP.ttf);
       }
-    }
 
-    @media only screen and (min-width: 768px) {
-      body {
-        font-size: 20px;
+      @font-face {
+        font-family: Pokemon-DP-Bold;
+        src: url(assets/fonts/Pokemon-DP-Bold.ttf);
       }
-    }
 
-    body {
-      padding-top: 3em;
-      font-size: 20px;
-      /*color: #fff;*/
-      /*background: #222;*/
-    }
+      html, body {
+        font-family: "Exo 2", "Helvetica Neue", sans-serif;
+        background: #ffde41;
+        color: #000;
+      }
 
-    #logo {
-      display: inline-block;
-      margin-right: 12px;
-    }
+      body, img, image {
+        image-rendering: crisp-edges;
+        image-rendering: -ms-interpolation-mode:nearest-neighbor;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: -webkit-crisp-edges;
+        image-rendering: pixelated;
+      }
 
-    #logo img {
-      max-height: 32px;
-      vertical-align: bottom;
-    }
+      a:visited {
+        color: #0645ad;
+      }
 
-    h1#pokemon-assets {
-      display: inline-block;
-      margin-top: 0;
-      font-weight: bolder;
-      color: #fff;
-      text-shadow: -2px -2px 0 #000,
-      0 -2px 0 #000,
-      2px -2px 0 #000,
-      2px 0 0 #000,
-      2px 2px 0 #000,
-      0 2px 0 #000,
-      -2px 2px 0 #000,
-      -2px 0 0 #000;
-    }
-  </style>
-</head>
-<body>
-<div id="logo"><img src="assets/img/symbols/pokeball-logo.png"/></div>
-<h1 id="pokemon-assets">pokemon-assets</h1>
-<p>Essential Pokémon assets for any kind of project: menu icons, fonts, data, SASS/CSS sprites and more.</p>
-<h2 id="contents">Contents</h2>
-<ul>
-<li>All Pokémon menu icon sprites up to Gen 8, with their shiny version.</li>
-<li>Icon sprites for items, ribbons, marks and UI symbols.</li>
-<li>Sprite sheets for all sprite sets, with CSS and SASS files.</li>
-<li>Data of the essential metagame info (abilities, items, moves, natures, pokemon, learn sets).</li>
-<li>SVG images for type symbols and other UI elements.</li>
-<li>Fonts from the GBC, GBA and DS games.</li>
-<li>Music of the most relevant game events.</li>
-<li>Audio effects for typical game actions.</li>
-</ul>
-<h2 id="asset-reference">Asset Reference</h2>
-<p>You can check all available assets in the following <a href="https://itsjavi.com/pokemon-assets">reference pages</a>.</p>
-<h3 id="json-data">JSON Data</h3>
-<ul>
-<li><a href="https://itsjavi.com/pokemon-assets/assets/data/pokemon.json">Pokémon and Forms</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/assets/data/abilities.json">Abilities</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/assets/data/items.json">Items</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/assets/data/moves.json">Moves</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/assets/data/learnsets.json">Move Learn Sets</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/assets/data/natures.json">Natures</a></li>
-</ul>
-<h3 id="imagery-and-css">Imagery and CSS</h3>
-<ul>
-<li><a href="https://itsjavi.com/pokemon-assets/ref/pokemon">Pokémon</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/ref/pokemon/shiny">Shiny Pokémon</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/ref/items">Items</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/ref/marks">Pokémon Marks</a> (from Sword and Shield)</li>
-<li><a href="https://itsjavi.com/pokemon-assets/ref/ribbons">Ribbons</a></li>
-<li><a href="https://itsjavi.com/pokemon-assets/ref/symbols">Symbols</a></li>
-</ul>
-<br>
+      hr {
+        border-top-color: #000;
+        border-bottom: none;
+      }
 
-<hr />
-<p>For fonts and audio reference, check the <a href="https://github.com/itsjavi/pokemon-assets/tree/master/assets"><code>/assets/</code></a> folder.</p>
-<hr />
-<h2 id="development-dependencies">Development Dependencies</h2>
-<p>Apart from the package.json devDependencies, your machine (which has to be macOS or Linux) should to have the following software in order to run the maintenance scripts:</p>
-<ul>
-<li>node 10+</li>
-<li>ImageMagick</li>
-<li>pandoc</li>
-<li>ffmpeg</li>
-</ul>
-<p>Maintenance scripts are self-explanatory by checking the Makefile. You don't need them or anything under the 'src` folder to use the assets.</p>
-<h2 id="credits">Credits</h2>
-<p>Created by <a href="https://route1rodent.com">@route1rodent</a> with the help of other projects:</p>
-<ul>
-<li>Sprites: <a href="https://github.com/msikma/pokesprite">msikma/pokesprite</a></li>
-<li>SVGs: <a href="https://zukan.pokemon.co.jp">zukan.pokemon.co.jp</a></li>
-<li>Data: <a href="https://github.com/smogon/pokemon-showdown/tree/master/data">smogon/pokemon-showdown</a>, <a href="https://github.com/veekun/pokedex">veekun/pokedex</a></li>
-</ul>
-<h2 id="license">License</h2>
-<p>This software is copyrighted and licensed under the <a href="https://github.com/itsjavi/pokemon-assets/LICENSE">MIT license</a>.</p>
-<h3 id="disclaimer">Disclaimer</h3>
-<p>This software comes bundled with data and graphics extracted from the Pokémon series of video games. Some terminology from the Pokémon franchise is also necessarily used within the software itself. This is all the intellectual property of Nintendo, Creatures, inc., and GAME FREAK, inc. and is protected by various copyrights and trademarks.</p>
-<p>The authors believe that the use of this intellectual property for a fan reference is covered by fair use and that the software is significantly impaired without said property included. Any use of this copyrighted property is at your own legal risk.</p>
-<p>This software is not affiliated in any way with Nintendo, Pokémon or any other game company.</p>
-<p>A complete revision history of this software is available in Github <a href="https://github.com/itsjavi/pokemon-assets"><a href="https://github.com/itsjavi/pokemon-assets">https://github.com/itsjavi/pokemon-assets</a></a></p>
-</body>
+      h1, h2, h3, h4, h5, h6, b, strong {
+        font-family: Pokemon-DP, "Exo 2", "Helvetica Neue", sans-serif;
+        color: inherit;
+      }
+
+      @media only screen and (min-width: 480px) {
+        body {
+          font-size: 20px;
+        }
+      }
+
+      @media only screen and (min-width: 768px) {
+        body {
+          font-size: 20px;
+        }
+      }
+
+      body {
+        padding-top: 3em;
+        font-size: 20px;
+        /*color: #fff;*/
+        /*background: #222;*/
+      }
+
+      #logo {
+        display: inline-block;
+        margin-right: 12px;
+      }
+
+      #logo img {
+        max-height: 32px;
+        vertical-align: bottom;
+      }
+
+      h1#pokemon-assets {
+        display: inline-block;
+        margin-top: 0;
+        font-weight: bolder;
+        color: #fff;
+        text-shadow: -2px -2px 0 #000,
+        0 -2px 0 #000,
+        2px -2px 0 #000,
+        2px 0 0 #000,
+        2px 2px 0 #000,
+        0 2px 0 #000,
+        -2px 2px 0 #000,
+        -2px 0 0 #000;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="logo"><img src="assets/img/symbols/pokeball-logo.png" /></div>
+    <h1 id="pokemon-assets">pokemon-assets</h1>
+    <p>
+      Essential Pokémon assets for any kind of project: menu icons, fonts, data,
+      SASS/CSS sprites and more.
+    </p>
+    <h2 id="contents">Contents</h2>
+    <ul>
+      <li>
+        All Pokémon menu icon sprites up to Gen 8, with their shiny version.
+      </li>
+      <li>Icon sprites for items, ribbons, marks and UI symbols.</li>
+      <li>Sprite sheets for all sprite sets, with CSS and SASS files.</li>
+      <li>
+        Data of the essential metagame info (abilities, items, moves, natures,
+        pokemon, learn sets).
+      </li>
+      <li>SVG images for type symbols and other UI elements.</li>
+      <li>Fonts from the GBC, GBA and DS games.</li>
+      <li>Music of the most relevant game events.</li>
+      <li>Audio effects for typical game actions.</li>
+    </ul>
+    <h2 id="asset-reference">Asset Reference</h2>
+    <p>
+      You can check all available assets in the following
+      <a href="https://itsjavi.com/pokemon-assets">reference pages</a>.
+    </p>
+    <h3 id="json-data">JSON Data</h3>
+    <ul>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/pokemon.json"
+          >Pokémon</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/abilities.json"
+          >Abilities</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/items.json"
+          >Items</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/moves.json"
+          >Moves</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/learnsets.json"
+          >Move Learn Sets</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/natures.json"
+          >Natures</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/types.json"
+          >Types</a
+        >
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/assets/data/egg-groups.json"
+          >Egg Groups</a
+        >
+      </li>
+    </ul>
+    <h3 id="imagery-and-css">Imagery and CSS</h3>
+    <ul>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/ref/pokemon">Pokémon</a>
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/ref/pokemon/shiny"
+          >Shiny Pokémon</a
+        >
+      </li>
+      <li><a href="https://itsjavi.com/pokemon-assets/ref/items">Items</a></li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/ref/marks">Pokémon Marks</a>
+        (from Sword and Shield)
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/ref/ribbons">Ribbons</a>
+      </li>
+      <li>
+        <a href="https://itsjavi.com/pokemon-assets/ref/symbols">Symbols</a>
+      </li>
+    </ul>
+    <br />
+
+    <hr />
+    <p>
+      For fonts and audio reference, check the
+      <a href="https://github.com/itsjavi/pokemon-assets/tree/master/assets"
+        ><code>/assets/</code></a
+      >
+      folder.
+    </p>
+    <hr />
+    <h2 id="development-dependencies">Development Dependencies</h2>
+    <p>
+      Apart from the package.json devDependencies, your machine (which has to be
+      macOS or Linux) should to have the following software in order to run the
+      maintenance scripts:
+    </p>
+    <ul>
+      <li>node 10+</li>
+      <li>ImageMagick</li>
+      <li>pandoc</li>
+      <li>ffmpeg</li>
+    </ul>
+    <p>
+      Maintenance scripts are self-explanatory by checking the Makefile. You
+      don't need them or anything under the 'src` folder to use the assets.
+    </p>
+    <h2 id="credits">Credits</h2>
+    <p>
+      Created by <a href="https://route1rodent.com">@route1rodent</a> with the
+      help of other projects:
+    </p>
+    <ul>
+      <li>
+        Sprites:
+        <a href="https://github.com/msikma/pokesprite">msikma/pokesprite</a>
+      </li>
+      <li>
+        SVGs: <a href="https://zukan.pokemon.co.jp">zukan.pokemon.co.jp</a>
+      </li>
+      <li>
+        Data:
+        <a href="https://github.com/smogon/pokemon-showdown/tree/master/data"
+          >smogon/pokemon-showdown</a
+        >, <a href="https://github.com/veekun/pokedex">veekun/pokedex</a>
+      </li>
+    </ul>
+    <h2 id="license">License</h2>
+    <p>
+      This software is copyrighted and licensed under the
+      <a href="https://github.com/itsjavi/pokemon-assets/LICENSE">MIT license</a
+      >.
+    </p>
+    <h3 id="disclaimer">Disclaimer</h3>
+    <p>
+      This software comes bundled with data and graphics extracted from the
+      Pokémon series of video games. Some terminology from the Pokémon franchise
+      is also necessarily used within the software itself. This is all the
+      intellectual property of Nintendo, Creatures, inc., and GAME FREAK, inc.
+      and is protected by various copyrights and trademarks.
+    </p>
+    <p>
+      The authors believe that the use of this intellectual property for a fan
+      reference is covered by fair use and that the software is significantly
+      impaired without said property included. Any use of this copyrighted
+      property is at your own legal risk.
+    </p>
+    <p>
+      This software is not affiliated in any way with Nintendo, Pokémon or any
+      other game company.
+    </p>
+    <p>
+      A complete revision history of this software is available in Github
+      <a href="https://github.com/itsjavi/pokemon-assets"
+        ><a href="https://github.com/itsjavi/pokemon-assets"
+          >https://github.com/itsjavi/pokemon-assets</a
+        ></a
+      >
+    </p>
+  </body>
 </html>

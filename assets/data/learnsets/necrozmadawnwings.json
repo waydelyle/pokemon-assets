@@ -1,0 +1,9 @@
+{
+  "pokemon": "necrozmadawnwings",
+  "learnset": {
+    "moongeistbeam": ["8R", "7R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": true
+}

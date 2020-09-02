@@ -1,14 +1,13 @@
-
 .pkms-wrapper {
-    width:67px;
-    height:56px;
-    line-height:54px;
-    text-align:center;
-    display:inline-block;
-    vertical-align:middle;
-    padding:1px;
+  width: 67px;
+  height: 56px;
+  line-height: 54px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px;
 }
- 
+
 .pkms {
   display: inline-block;
   vertical-align: middle;
@@ -18,3939 +17,3924 @@
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
 }
-@mixin sprite-rect ($w, $h, $x, $y) {
+@mixin sprite-rect($w, $h, $x, $y) {
   width: $w;
   height: $h;
   background-position: $x $y;
 }
 
-.pkms-tynamo{
+.pkms-tynamo {
   @include sprite-rect(14px, 11px, 0px, 0px);
 }
-.pkms-carbink{
+.pkms-carbink {
   @include sprite-rect(14px, 13px, -16px, 0px);
 }
-.pkms-egg-manaphy{
+.pkms-egg-manaphy {
   @include sprite-rect(12px, 15px, -32px, 0px);
 }
-.pkms-egg{
+.pkms-egg {
   @include sprite-rect(13px, 14px, -46px, 0px);
 }
-.pkms-goomy{
+.pkms-goomy {
   @include sprite-rect(12px, 14px, -61px, 0px);
 }
-.pkms-tympole{
+.pkms-tympole {
   @include sprite-rect(14px, 13px, -75px, 0px);
 }
-.pkms-unown-x{
+.pkms-unown-x {
   @include sprite-rect(13px, 14px, -91px, 0px);
 }
-.pkms-aron{
+.pkms-aron {
   @include sprite-rect(16px, 12px, -106px, 0px);
 }
-.pkms-bronzor{
+.pkms-bronzor {
   @include sprite-rect(13px, 16px, -124px, 0px);
 }
-.pkms-diglett{
+.pkms-diglett {
   @include sprite-rect(15px, 14px, -139px, 0px);
 }
-.pkms-ditto{
+.pkms-ditto {
   @include sprite-rect(16px, 13px, -156px, 0px);
 }
-.pkms-kabuto{
+.pkms-kabuto {
   @include sprite-rect(16px, 13px, -174px, 0px);
 }
-.pkms-karrablast{
+.pkms-karrablast {
   @include sprite-rect(12px, 17px, -192px, 0px);
 }
-.pkms-luvdisc{
+.pkms-luvdisc {
   @include sprite-rect(12px, 17px, -206px, 0px);
 }
-.pkms-munna{
+.pkms-munna {
   @include sprite-rect(15px, 14px, -220px, 0px);
 }
-.pkms-roggenrola{
+.pkms-roggenrola {
   @include sprite-rect(11px, 17px, -237px, 0px);
 }
-.pkms-solosis{
+.pkms-solosis {
   @include sprite-rect(15px, 14px, -250px, 0px);
 }
-.pkms-unown-r{
+.pkms-unown-r {
   @include sprite-rect(10px, 18px, -267px, 0px);
 }
-.pkms-unown-z{
+.pkms-unown-z {
   @include sprite-rect(10px, 19px, -279px, 0px);
 }
-.pkms-vanillite{
+.pkms-vanillite {
   @include sprite-rect(12px, 16px, -291px, 0px);
 }
-.pkms-voltorb{
+.pkms-voltorb {
   @include sprite-rect(14px, 14px, -305px, 0px);
 }
-.pkms-budew{
+.pkms-budew {
   @include sprite-rect(12px, 18px, -321px, 0px);
 }
-.pkms-caterpie{
+.pkms-caterpie {
   @include sprite-rect(14px, 16px, -335px, 0px);
 }
-.pkms-ferroseed{
+.pkms-ferroseed {
   @include sprite-rect(15px, 16px, -351px, 0px);
 }
-.pkms-foongus{
+.pkms-foongus {
   @include sprite-rect(14px, 17px, -368px, 0px);
 }
-.pkms-grubbin{
+.pkms-grubbin {
   @include sprite-rect(17px, 13px, -384px, 0px);
 }
-.pkms-kakuna{
+.pkms-kakuna {
   @include sprite-rect(13px, 18px, -403px, 0px);
 }
-.pkms-litwick{
+.pkms-litwick {
   @include sprite-rect(13px, 18px, -418px, 0px);
 }
-.pkms-metapod{
+.pkms-metapod {
   @include sprite-rect(12px, 18px, -433px, 0px);
 }
-.pkms-petilil{
+.pkms-petilil {
   @include sprite-rect(12px, 18px, -447px, 0px);
 }
-.pkms-scraggy{
+.pkms-scraggy {
   @include sprite-rect(15px, 16px, 0px, -21px);
 }
-.pkms-sinistea{
+.pkms-sinistea {
   @include sprite-rect(17px, 14px, -17px, -21px);
 }
-.pkms-sizzlipede{
+.pkms-sizzlipede {
   @include sprite-rect(21px, 10px, -36px, -21px);
 }
-.pkms-snom{
+.pkms-snom {
   @include sprite-rect(17px, 14px, -59px, -21px);
 }
-.pkms-spritzee{
+.pkms-spritzee {
   @include sprite-rect(15px, 16px, -78px, -21px);
 }
-.pkms-sunkern{
+.pkms-sunkern {
   @include sprite-rect(13px, 18px, -95px, -21px);
 }
-.pkms-swinub{
+.pkms-swinub {
   @include sprite-rect(18px, 13px, -110px, -21px);
 }
-.pkms-unown-exclamation{
+.pkms-unown-exclamation {
   @include sprite-rect(10px, 20px, -130px, -21px);
 }
-.pkms-unown-g{
+.pkms-unown-g {
   @include sprite-rect(10px, 21px, -142px, -21px);
 }
-.pkms-unown-i{
+.pkms-unown-i {
   @include sprite-rect(10px, 20px, -154px, -21px);
 }
-.pkms-unown-j{
+.pkms-unown-j {
   @include sprite-rect(11px, 19px, -166px, -21px);
 }
-.pkms-unown-p{
+.pkms-unown-p {
   @include sprite-rect(11px, 20px, -179px, -21px);
 }
-.pkms-unown-q{
+.pkms-unown-q {
   @include sprite-rect(14px, 16px, -192px, -21px);
 }
-.pkms-unown-t{
+.pkms-unown-t {
   @include sprite-rect(12px, 19px, -208px, -21px);
 }
-.pkms-unown{
+.pkms-unown {
   @include sprite-rect(10px, 21px, -222px, -21px);
 }
-.pkms-wishiwashi{
+.pkms-wishiwashi {
   @include sprite-rect(18px, 13px, -234px, -21px);
 }
-.pkms-applin{
+.pkms-applin {
   @include sprite-rect(15px, 17px, -254px, -21px);
 }
-.pkms-bonsly{
+.pkms-bonsly {
   @include sprite-rect(12px, 20px, -271px, -21px);
 }
-.pkms-castform{
+.pkms-castform {
   @include sprite-rect(13px, 20px, -285px, -21px);
 }
-.pkms-celebi{
+.pkms-celebi {
   @include sprite-rect(14px, 18px, -300px, -21px);
 }
-.pkms-cleffa{
+.pkms-cleffa {
   @include sprite-rect(16px, 16px, -316px, -21px);
 }
-.pkms-cubchoo{
+.pkms-cubchoo {
   @include sprite-rect(14px, 18px, -334px, -21px);
 }
-.pkms-darumaka-galar{
+.pkms-darumaka-galar {
   @include sprite-rect(17px, 15px, -350px, -21px);
 }
-.pkms-darumaka{
+.pkms-darumaka {
   @include sprite-rect(17px, 15px, -369px, -21px);
 }
-.pkms-diglett-alola{
+.pkms-diglett-alola {
   @include sprite-rect(15px, 18px, -388px, -21px);
 }
-.pkms-electrode{
+.pkms-electrode {
   @include sprite-rect(16px, 16px, -405px, -21px);
 }
-.pkms-elgyem{
+.pkms-elgyem {
   @include sprite-rect(13px, 19px, -423px, -21px);
 }
-.pkms-flabebe-blue{
+.pkms-flabebe-blue {
   @include sprite-rect(15px, 18px, -438px, -21px);
 }
-.pkms-flabebe-orange{
+.pkms-flabebe-orange {
   @include sprite-rect(15px, 18px, -455px, -21px);
 }
-.pkms-flabebe-white{
+.pkms-flabebe-white {
   @include sprite-rect(15px, 18px, -472px, -21px);
 }
-.pkms-flabebe-yellow{
+.pkms-flabebe-yellow {
   @include sprite-rect(15px, 18px, 0px, -44px);
 }
-.pkms-flabebe{
+.pkms-flabebe {
   @include sprite-rect(15px, 18px, -17px, -44px);
 }
-.pkms-fletchling{
+.pkms-fletchling {
   @include sprite-rect(18px, 15px, -34px, -44px);
 }
-.pkms-fomantis{
+.pkms-fomantis {
   @include sprite-rect(14px, 19px, -54px, -44px);
 }
-.pkms-gothita{
+.pkms-gothita {
   @include sprite-rect(14px, 18px, -70px, -44px);
 }
-.pkms-happiny{
+.pkms-happiny {
   @include sprite-rect(14px, 19px, -86px, -44px);
 }
-.pkms-igglybuff{
+.pkms-igglybuff {
   @include sprite-rect(15px, 18px, -102px, -44px);
 }
-.pkms-lotad{
+.pkms-lotad {
   @include sprite-rect(17px, 15px, -119px, -44px);
 }
-.pkms-milcery{
+.pkms-milcery {
   @include sprite-rect(16px, 17px, -138px, -44px);
 }
-.pkms-munchlax{
+.pkms-munchlax {
   @include sprite-rect(14px, 19px, -156px, -44px);
 }
-.pkms-pidove{
+.pkms-pidove {
   @include sprite-rect(16px, 16px, -172px, -44px);
 }
-.pkms-piplup{
+.pkms-piplup {
   @include sprite-rect(13px, 19px, -190px, -44px);
 }
-.pkms-pumpkaboo-small{
+.pkms-pumpkaboo-small {
   @include sprite-rect(15px, 17px, -205px, -44px);
 }
-.pkms-ralts{
+.pkms-ralts {
   @include sprite-rect(14px, 18px, -222px, -44px);
 }
-.pkms-remoraid{
+.pkms-remoraid {
   @include sprite-rect(17px, 16px, -238px, -44px);
 }
-.pkms-seedot{
+.pkms-seedot {
   @include sprite-rect(15px, 17px, -257px, -44px);
 }
-.pkms-sewaddle{
+.pkms-sewaddle {
   @include sprite-rect(15px, 17px, -274px, -44px);
 }
-.pkms-shelmet{
+.pkms-shelmet {
   @include sprite-rect(18px, 15px, -291px, -44px);
 }
-.pkms-shroomish{
+.pkms-shroomish {
   @include sprite-rect(18px, 15px, -311px, -44px);
 }
-.pkms-spewpa{
+.pkms-spewpa {
   @include sprite-rect(16px, 17px, -331px, -44px);
 }
-.pkms-spinarak{
+.pkms-spinarak {
   @include sprite-rect(18px, 14px, -349px, -44px);
 }
-.pkms-swirlix{
+.pkms-swirlix {
   @include sprite-rect(17px, 16px, -369px, -44px);
 }
-.pkms-taillow{
+.pkms-taillow {
   @include sprite-rect(18px, 15px, -388px, -44px);
 }
-.pkms-torchic{
+.pkms-torchic {
   @include sprite-rect(13px, 19px, -408px, -44px);
 }
-.pkms-unown-b{
+.pkms-unown-b {
   @include sprite-rect(12px, 21px, -423px, -44px);
 }
-.pkms-unown-d{
+.pkms-unown-d {
   @include sprite-rect(14px, 19px, -437px, -44px);
 }
-.pkms-unown-k{
+.pkms-unown-k {
   @include sprite-rect(13px, 20px, -453px, -44px);
 }
-.pkms-unown-l{
+.pkms-unown-l {
   @include sprite-rect(13px, 20px, -468px, -44px);
 }
-.pkms-unown-question{
+.pkms-unown-question {
   @include sprite-rect(11px, 21px, -483px, -44px);
 }
-.pkms-unown-v{
+.pkms-unown-v {
   @include sprite-rect(14px, 18px, -496px, -44px);
 }
-.pkms-unown-y{
+.pkms-unown-y {
   @include sprite-rect(13px, 19px, 0px, -67px);
 }
-.pkms-venipede{
+.pkms-venipede {
   @include sprite-rect(18px, 14px, -15px, -67px);
 }
-.pkms-weedle{
+.pkms-weedle {
   @include sprite-rect(16px, 17px, -35px, -67px);
 }
-.pkms-whismur{
+.pkms-whismur {
   @include sprite-rect(17px, 16px, -53px, -67px);
 }
-.pkms-zorua{
+.pkms-zorua {
   @include sprite-rect(16px, 17px, -72px, -67px);
 }
-.pkms-alomomola{
+.pkms-alomomola {
   @include sprite-rect(13px, 22px, -90px, -67px);
 }
-.pkms-azurill{
+.pkms-azurill {
   @include sprite-rect(15px, 19px, -105px, -67px);
 }
-.pkms-bagon{
+.pkms-bagon {
   @include sprite-rect(15px, 20px, -122px, -67px);
 }
-.pkms-barboach{
+.pkms-barboach {
   @include sprite-rect(21px, 13px, -139px, -67px);
 }
-.pkms-bellsprout{
+.pkms-bellsprout {
   @include sprite-rect(20px, 15px, -162px, -67px);
 }
-.pkms-bergmite{
+.pkms-bergmite {
   @include sprite-rect(17px, 18px, -184px, -67px);
 }
-.pkms-bounsweet{
+.pkms-bounsweet {
   @include sprite-rect(16px, 19px, -203px, -67px);
 }
-.pkms-castform-rainy{
+.pkms-castform-rainy {
   @include sprite-rect(14px, 21px, -221px, -67px);
 }
-.pkms-chikorita{
+.pkms-chikorita {
   @include sprite-rect(15px, 19px, -237px, -67px);
 }
-.pkms-cottonee{
+.pkms-cottonee {
   @include sprite-rect(21px, 14px, -254px, -67px);
 }
-.pkms-croagunk{
+.pkms-croagunk {
   @include sprite-rect(17px, 17px, -277px, -67px);
 }
-.pkms-dewpider{
+.pkms-dewpider {
   @include sprite-rect(14px, 20px, -296px, -67px);
 }
-.pkms-ducklett{
+.pkms-ducklett {
   @include sprite-rect(16px, 19px, -312px, -67px);
 }
-.pkms-duosion{
+.pkms-duosion {
   @include sprite-rect(16px, 19px, -330px, -67px);
 }
-.pkms-eevee{
+.pkms-eevee {
   @include sprite-rect(17px, 18px, -348px, -67px);
 }
-.pkms-electrike{
+.pkms-electrike {
   @include sprite-rect(19px, 15px, -367px, -67px);
 }
-.pkms-espurr{
+.pkms-espurr {
   @include sprite-rect(16px, 18px, -388px, -67px);
 }
-.pkms-gossifleur{
+.pkms-gossifleur {
   @include sprite-rect(17px, 18px, -406px, -67px);
 }
-.pkms-gulpin{
+.pkms-gulpin {
   @include sprite-rect(17px, 17px, -425px, -67px);
 }
-.pkms-helioptile{
+.pkms-helioptile {
   @include sprite-rect(18px, 17px, -444px, -67px);
 }
-.pkms-horsea{
+.pkms-horsea {
   @include sprite-rect(18px, 17px, -464px, -67px);
 }
-.pkms-larvitar{
+.pkms-larvitar {
   @include sprite-rect(15px, 20px, -484px, -67px);
 }
-.pkms-leavanny{
+.pkms-leavanny {
   @include sprite-rect(14px, 21px, -501px, -67px);
 }
-.pkms-ledyba{
+.pkms-ledyba {
   @include sprite-rect(16px, 18px, -517px, -67px);
 }
-.pkms-meloetta{
+.pkms-meloetta {
   @include sprite-rect(14px, 21px, -535px, -67px);
 }
-.pkms-meltan{
+.pkms-meltan {
   @include sprite-rect(17px, 17px, 0px, -91px);
 }
-.pkms-mime-jr{
+.pkms-mime-jr {
   @include sprite-rect(14px, 21px, -19px, -91px);
 }
-.pkms-minior-blue-gen7{
+.pkms-minior-blue {
   @include sprite-rect(17px, 18px, -35px, -91px);
 }
-.pkms-minior-blue{
+.pkms-minior-green {
   @include sprite-rect(17px, 18px, -54px, -91px);
 }
-.pkms-minior-green-gen7{
+.pkms-minior-indigo {
   @include sprite-rect(17px, 18px, -73px, -91px);
 }
-.pkms-minior-green{
+.pkms-minior-orange {
   @include sprite-rect(17px, 18px, -92px, -91px);
 }
-.pkms-minior-indigo-gen7{
+.pkms-minior-red {
   @include sprite-rect(17px, 18px, -111px, -91px);
 }
-.pkms-minior-indigo{
+.pkms-minior-violet {
   @include sprite-rect(17px, 18px, -130px, -91px);
 }
-.pkms-minior-orange-gen7{
+.pkms-minior-yellow {
   @include sprite-rect(17px, 18px, -149px, -91px);
 }
-.pkms-minior-orange{
+.pkms-minior {
   @include sprite-rect(17px, 18px, -168px, -91px);
 }
-.pkms-minior-red-gen7{
-  @include sprite-rect(17px, 18px, -187px, -91px);
+.pkms-minun {
+  @include sprite-rect(16px, 19px, -187px, -91px);
 }
-.pkms-minior-red{
-  @include sprite-rect(17px, 18px, -206px, -91px);
+.pkms-misdreavus {
+  @include sprite-rect(16px, 19px, -205px, -91px);
 }
-.pkms-minior-violet-gen7{
-  @include sprite-rect(17px, 18px, -225px, -91px);
+.pkms-natu {
+  @include sprite-rect(17px, 18px, -223px, -91px);
 }
-.pkms-minior-violet{
-  @include sprite-rect(17px, 18px, -244px, -91px);
+.pkms-nosepass {
+  @include sprite-rect(17px, 18px, -242px, -91px);
 }
-.pkms-minior-yellow-gen7{
-  @include sprite-rect(17px, 18px, -263px, -91px);
+.pkms-oshawott {
+  @include sprite-rect(16px, 18px, -261px, -91px);
 }
-.pkms-minior-yellow{
-  @include sprite-rect(17px, 18px, -282px, -91px);
+.pkms-pancham {
+  @include sprite-rect(15px, 19px, -279px, -91px);
 }
-.pkms-minior{
-  @include sprite-rect(17px, 18px, -301px, -91px);
+.pkms-pawniard {
+  @include sprite-rect(14px, 20px, -296px, -91px);
 }
-.pkms-minun{
-  @include sprite-rect(16px, 19px, -320px, -91px);
+.pkms-pichu-spiky-eared {
+  @include sprite-rect(15px, 19px, -312px, -91px);
 }
-.pkms-misdreavus{
-  @include sprite-rect(16px, 19px, -338px, -91px);
+.pkms-pichu {
+  @include sprite-rect(15px, 19px, -329px, -91px);
 }
-.pkms-natu{
-  @include sprite-rect(17px, 18px, -356px, -91px);
+.pkms-pidgey {
+  @include sprite-rect(18px, 17px, -346px, -91px);
 }
-.pkms-nosepass{
-  @include sprite-rect(17px, 18px, -375px, -91px);
+.pkms-plusle {
+  @include sprite-rect(16px, 19px, -366px, -91px);
 }
-.pkms-oshawott{
-  @include sprite-rect(16px, 18px, -394px, -91px);
+.pkms-poliwag {
+  @include sprite-rect(20px, 15px, -384px, -91px);
 }
-.pkms-pancham{
-  @include sprite-rect(15px, 19px, -412px, -91px);
+.pkms-pupitar {
+  @include sprite-rect(16px, 19px, -406px, -91px);
 }
-.pkms-pawniard{
-  @include sprite-rect(14px, 20px, -429px, -91px);
+.pkms-rookidee {
+  @include sprite-rect(19px, 16px, -424px, -91px);
 }
-.pkms-pichu-spiky-eared{
-  @include sprite-rect(15px, 19px, -445px, -91px);
+.pkms-rowlet {
+  @include sprite-rect(17px, 18px, -445px, -91px);
 }
-.pkms-pichu{
-  @include sprite-rect(15px, 19px, -462px, -91px);
+.pkms-scatterbug {
+  @include sprite-rect(14px, 21px, -464px, -91px);
 }
-.pkms-pidgey{
-  @include sprite-rect(18px, 17px, -479px, -91px);
+.pkms-shaymin {
+  @include sprite-rect(18px, 16px, -480px, -91px);
 }
-.pkms-plusle{
-  @include sprite-rect(16px, 19px, -499px, -91px);
+.pkms-shuppet {
+  @include sprite-rect(15px, 19px, -500px, -91px);
 }
-.pkms-poliwag{
-  @include sprite-rect(20px, 15px, -517px, -91px);
+.pkms-skiddo {
+  @include sprite-rect(17px, 18px, -517px, -91px);
 }
-.pkms-pupitar{
-  @include sprite-rect(16px, 19px, -539px, -91px);
+.pkms-smoochum {
+  @include sprite-rect(14px, 20px, -536px, -91px);
 }
-.pkms-rookidee{
-  @include sprite-rect(19px, 16px, 0px, -114px);
+.pkms-snorunt {
+  @include sprite-rect(15px, 19px, 0px, -114px);
 }
-.pkms-rowlet{
-  @include sprite-rect(17px, 18px, -21px, -114px);
+.pkms-spearow {
+  @include sprite-rect(19px, 16px, -17px, -114px);
 }
-.pkms-scatterbug{
-  @include sprite-rect(14px, 21px, -40px, -114px);
+.pkms-spheal {
+  @include sprite-rect(19px, 16px, -38px, -114px);
 }
-.pkms-shaymin{
-  @include sprite-rect(18px, 16px, -56px, -114px);
+.pkms-spoink {
+  @include sprite-rect(14px, 20px, -59px, -114px);
 }
-.pkms-shuppet{
-  @include sprite-rect(15px, 19px, -76px, -114px);
+.pkms-staryu {
+  @include sprite-rect(17px, 17px, -75px, -114px);
 }
-.pkms-skiddo{
-  @include sprite-rect(17px, 18px, -93px, -114px);
+.pkms-swablu {
+  @include sprite-rect(19px, 16px, -94px, -114px);
 }
-.pkms-smoochum{
-  @include sprite-rect(14px, 20px, -112px, -114px);
+.pkms-togepi {
+  @include sprite-rect(16px, 18px, -115px, -114px);
 }
-.pkms-snorunt{
-  @include sprite-rect(15px, 19px, -128px, -114px);
+.pkms-tyrogue {
+  @include sprite-rect(13px, 21px, -133px, -114px);
 }
-.pkms-spearow{
-  @include sprite-rect(19px, 16px, -145px, -114px);
+.pkms-unown-c {
+  @include sprite-rect(15px, 20px, -148px, -114px);
 }
-.pkms-spheal{
-  @include sprite-rect(19px, 16px, -166px, -114px);
+.pkms-unown-e {
+  @include sprite-rect(14px, 20px, -165px, -114px);
 }
-.pkms-spoink{
-  @include sprite-rect(14px, 20px, -187px, -114px);
+.pkms-unown-f {
+  @include sprite-rect(15px, 19px, -181px, -114px);
 }
-.pkms-staryu{
-  @include sprite-rect(17px, 17px, -203px, -114px);
+.pkms-unown-u {
+  @include sprite-rect(18px, 16px, -198px, -114px);
 }
-.pkms-swablu{
-  @include sprite-rect(19px, 16px, -222px, -114px);
+.pkms-unown-w {
+  @include sprite-rect(17px, 17px, -218px, -114px);
 }
-.pkms-togepi{
-  @include sprite-rect(16px, 18px, -243px, -114px);
+.pkms-woobat {
+  @include sprite-rect(20px, 15px, -237px, -114px);
 }
-.pkms-tyrogue{
-  @include sprite-rect(13px, 21px, -261px, -114px);
+.pkms-wurmple {
+  @include sprite-rect(18px, 17px, -259px, -114px);
 }
-.pkms-unown-c{
-  @include sprite-rect(15px, 20px, -276px, -114px);
+.pkms-archen {
+  @include sprite-rect(21px, 15px, -279px, -114px);
 }
-.pkms-unown-e{
-  @include sprite-rect(14px, 20px, -293px, -114px);
+.pkms-baltoy {
+  @include sprite-rect(16px, 21px, -302px, -114px);
 }
-.pkms-unown-f{
-  @include sprite-rect(15px, 19px, -309px, -114px);
+.pkms-beldum {
+  @include sprite-rect(19px, 17px, -320px, -114px);
 }
-.pkms-unown-u{
-  @include sprite-rect(18px, 16px, -326px, -114px);
+.pkms-bidoof {
+  @include sprite-rect(20px, 16px, -341px, -114px);
 }
-.pkms-unown-w{
-  @include sprite-rect(17px, 17px, -346px, -114px);
+.pkms-charjabug {
+  @include sprite-rect(18px, 19px, -363px, -114px);
 }
-.pkms-woobat{
-  @include sprite-rect(20px, 15px, -365px, -114px);
+.pkms-cherubi {
+  @include sprite-rect(18px, 18px, -383px, -114px);
 }
-.pkms-wurmple{
-  @include sprite-rect(18px, 17px, -387px, -114px);
+.pkms-chimecho {
+  @include sprite-rect(15px, 21px, -403px, -114px);
 }
-.pkms-archen{
-  @include sprite-rect(21px, 15px, -407px, -114px);
+.pkms-clefairy {
+  @include sprite-rect(18px, 19px, -420px, -114px);
 }
-.pkms-baltoy{
-  @include sprite-rect(16px, 21px, -430px, -114px);
+.pkms-clobbopus {
+  @include sprite-rect(19px, 17px, -440px, -114px);
 }
-.pkms-beldum{
-  @include sprite-rect(19px, 17px, -448px, -114px);
+.pkms-deino {
+  @include sprite-rect(16px, 20px, -461px, -114px);
 }
-.pkms-bidoof{
-  @include sprite-rect(20px, 16px, -469px, -114px);
+.pkms-drifloon {
+  @include sprite-rect(15px, 22px, -479px, -114px);
 }
-.pkms-charjabug{
-  @include sprite-rect(18px, 19px, -491px, -114px);
+.pkms-dwebble {
+  @include sprite-rect(19px, 17px, -496px, -114px);
 }
-.pkms-cherubi{
-  @include sprite-rect(18px, 18px, -511px, -114px);
+.pkms-fennekin {
+  @include sprite-rect(17px, 19px, -517px, -114px);
 }
-.pkms-chimecho{
-  @include sprite-rect(15px, 21px, -531px, -114px);
+.pkms-froakie {
+  @include sprite-rect(18px, 19px, -536px, -114px);
 }
-.pkms-clefairy{
-  @include sprite-rect(18px, 19px, -548px, -114px);
+.pkms-golett {
+  @include sprite-rect(18px, 18px, -556px, -114px);
 }
-.pkms-clobbopus{
-  @include sprite-rect(19px, 17px, 0px, -137px);
+.pkms-hoothoot {
+  @include sprite-rect(17px, 20px, 0px, -138px);
 }
-.pkms-deino{
-  @include sprite-rect(16px, 20px, -21px, -137px);
+.pkms-impidimp {
+  @include sprite-rect(17px, 20px, -19px, -138px);
 }
-.pkms-drifloon{
-  @include sprite-rect(15px, 22px, -39px, -137px);
+.pkms-joltik {
+  @include sprite-rect(21px, 16px, -38px, -138px);
 }
-.pkms-dwebble{
-  @include sprite-rect(19px, 17px, -56px, -137px);
+.pkms-lampent {
+  @include sprite-rect(19px, 18px, -61px, -138px);
 }
-.pkms-fennekin{
-  @include sprite-rect(17px, 19px, -77px, -137px);
+.pkms-lillipup {
+  @include sprite-rect(18px, 18px, -82px, -138px);
 }
-.pkms-froakie{
-  @include sprite-rect(18px, 19px, -96px, -137px);
+.pkms-machop {
+  @include sprite-rect(16px, 20px, -102px, -138px);
 }
-.pkms-golett{
-  @include sprite-rect(18px, 18px, -116px, -137px);
+.pkms-magby {
+  @include sprite-rect(16px, 20px, -120px, -138px);
 }
-.pkms-hoothoot{
-  @include sprite-rect(17px, 20px, -136px, -137px);
+.pkms-makuhita {
+  @include sprite-rect(18px, 19px, -138px, -138px);
 }
-.pkms-impidimp{
-  @include sprite-rect(17px, 20px, -155px, -137px);
+.pkms-mantyke {
+  @include sprite-rect(20px, 17px, -158px, -138px);
 }
-.pkms-joltik{
-  @include sprite-rect(21px, 16px, -174px, -137px);
+.pkms-meditite {
+  @include sprite-rect(17px, 20px, -180px, -138px);
 }
-.pkms-lampent{
-  @include sprite-rect(19px, 18px, -197px, -137px);
+.pkms-mienfoo {
+  @include sprite-rect(18px, 19px, -199px, -138px);
 }
-.pkms-lillipup{
-  @include sprite-rect(18px, 18px, -218px, -137px);
+.pkms-morelull {
+  @include sprite-rect(13px, 24px, -219px, -138px);
 }
-.pkms-machop{
-  @include sprite-rect(16px, 20px, -238px, -137px);
+.pkms-mudkip {
+  @include sprite-rect(19px, 18px, -234px, -138px);
 }
-.pkms-magby{
-  @include sprite-rect(16px, 20px, -256px, -137px);
+.pkms-nidoran-f {
+  @include sprite-rect(18px, 19px, -255px, -138px);
 }
-.pkms-makuhita{
-  @include sprite-rect(18px, 19px, -274px, -137px);
+.pkms-nincada {
+  @include sprite-rect(23px, 14px, -275px, -138px);
 }
-.pkms-mantyke{
-  @include sprite-rect(20px, 17px, -294px, -137px);
+.pkms-numel {
+  @include sprite-rect(19px, 18px, -300px, -138px);
 }
-.pkms-meditite{
-  @include sprite-rect(17px, 20px, -316px, -137px);
+.pkms-oddish {
+  @include sprite-rect(17px, 19px, -321px, -138px);
 }
-.pkms-mienfoo{
-  @include sprite-rect(18px, 19px, -335px, -137px);
+.pkms-omanyte {
+  @include sprite-rect(18px, 18px, -340px, -138px);
 }
-.pkms-morelull{
-  @include sprite-rect(13px, 24px, -355px, -137px);
+.pkms-oricorio {
+  @include sprite-rect(17px, 19px, -360px, -138px);
 }
-.pkms-mudkip{
-  @include sprite-rect(19px, 18px, -370px, -137px);
+.pkms-palpitoad {
+  @include sprite-rect(18px, 18px, -379px, -138px);
 }
-.pkms-nidoran-f{
-  @include sprite-rect(18px, 19px, -391px, -137px);
+.pkms-phanpy {
+  @include sprite-rect(20px, 16px, -399px, -138px);
 }
-.pkms-nincada{
-  @include sprite-rect(23px, 14px, -411px, -137px);
+.pkms-pincurchin {
+  @include sprite-rect(19px, 17px, -421px, -138px);
 }
-.pkms-numel{
-  @include sprite-rect(19px, 18px, -436px, -137px);
+.pkms-pineco {
+  @include sprite-rect(17px, 19px, -442px, -138px);
 }
-.pkms-oddish{
-  @include sprite-rect(17px, 19px, -457px, -137px);
+.pkms-popplio {
+  @include sprite-rect(17px, 20px, -461px, -138px);
 }
-.pkms-omanyte{
-  @include sprite-rect(18px, 18px, -476px, -137px);
+.pkms-porygon {
+  @include sprite-rect(19px, 18px, -480px, -138px);
 }
-.pkms-oricorio{
-  @include sprite-rect(17px, 19px, -496px, -137px);
+.pkms-pumpkaboo-large {
+  @include sprite-rect(17px, 20px, -501px, -138px);
 }
-.pkms-palpitoad{
-  @include sprite-rect(18px, 18px, -515px, -137px);
+.pkms-pumpkaboo {
+  @include sprite-rect(17px, 19px, -520px, -138px);
 }
-.pkms-phanpy{
-  @include sprite-rect(20px, 16px, -535px, -137px);
+.pkms-riolu {
+  @include sprite-rect(18px, 18px, -539px, -138px);
 }
-.pkms-pincurchin{
-  @include sprite-rect(19px, 17px, -557px, -137px);
+.pkms-rolycoly {
+  @include sprite-rect(20px, 17px, -559px, -138px);
 }
-.pkms-pineco{
-  @include sprite-rect(17px, 19px, -578px, -137px);
+.pkms-salandit {
+  @include sprite-rect(19px, 18px, -581px, -138px);
 }
-.pkms-popplio{
-  @include sprite-rect(17px, 20px, 0px, -163px);
+.pkms-shellder {
+  @include sprite-rect(19px, 18px, 0px, -164px);
 }
-.pkms-porygon{
-  @include sprite-rect(19px, 18px, -19px, -163px);
+.pkms-shellos {
+  @include sprite-rect(17px, 20px, -21px, -164px);
 }
-.pkms-pumpkaboo-large{
-  @include sprite-rect(17px, 20px, -40px, -163px);
+.pkms-silicobra {
+  @include sprite-rect(18px, 19px, -40px, -164px);
 }
-.pkms-pumpkaboo{
-  @include sprite-rect(17px, 19px, -59px, -163px);
+.pkms-skiploom {
+  @include sprite-rect(19px, 17px, -60px, -164px);
 }
-.pkms-riolu{
-  @include sprite-rect(18px, 18px, -78px, -163px);
+.pkms-sliggoo {
+  @include sprite-rect(15px, 22px, -81px, -164px);
 }
-.pkms-rolycoly{
-  @include sprite-rect(20px, 17px, -98px, -163px);
+.pkms-snivy {
+  @include sprite-rect(20px, 17px, -98px, -164px);
 }
-.pkms-salandit{
-  @include sprite-rect(19px, 18px, -120px, -163px);
+.pkms-spinda-blank {
+  @include sprite-rect(15px, 21px, -120px, -164px);
 }
-.pkms-shellder{
-  @include sprite-rect(19px, 18px, -141px, -163px);
+.pkms-spinda-filled {
+  @include sprite-rect(15px, 21px, -137px, -164px);
 }
-.pkms-shellos{
-  @include sprite-rect(17px, 20px, -162px, -163px);
+.pkms-spinda {
+  @include sprite-rect(15px, 21px, -154px, -164px);
 }
-.pkms-silicobra{
-  @include sprite-rect(18px, 19px, -181px, -163px);
+.pkms-starly {
+  @include sprite-rect(19px, 18px, -171px, -164px);
 }
-.pkms-skiploom{
-  @include sprite-rect(19px, 17px, -201px, -163px);
+.pkms-stufful {
+  @include sprite-rect(17px, 19px, -192px, -164px);
 }
-.pkms-sliggoo{
-  @include sprite-rect(15px, 22px, -222px, -163px);
+.pkms-swadloon {
+  @include sprite-rect(20px, 16px, -211px, -164px);
 }
-.pkms-snivy{
-  @include sprite-rect(20px, 17px, -239px, -163px);
+.pkms-tangela {
+  @include sprite-rect(19px, 18px, -233px, -164px);
 }
-.pkms-spinda-blank{
-  @include sprite-rect(15px, 21px, -261px, -163px);
+.pkms-teddiursa {
+  @include sprite-rect(16px, 20px, -254px, -164px);
 }
-.pkms-spinda-filled{
-  @include sprite-rect(15px, 21px, -278px, -163px);
+.pkms-tepig {
+  @include sprite-rect(18px, 18px, -272px, -164px);
 }
-.pkms-spinda{
-  @include sprite-rect(15px, 21px, -295px, -163px);
+.pkms-totodile {
+  @include sprite-rect(18px, 18px, -292px, -164px);
 }
-.pkms-starly{
-  @include sprite-rect(19px, 18px, -312px, -163px);
+.pkms-tyrunt {
+  @include sprite-rect(20px, 17px, -312px, -164px);
 }
-.pkms-stufful{
-  @include sprite-rect(17px, 19px, -333px, -163px);
+.pkms-unown-h {
+  @include sprite-rect(18px, 19px, -334px, -164px);
 }
-.pkms-swadloon{
-  @include sprite-rect(20px, 16px, -352px, -163px);
+.pkms-unown-n {
+  @include sprite-rect(22px, 14px, -354px, -164px);
 }
-.pkms-tangela{
-  @include sprite-rect(19px, 18px, -374px, -163px);
+.pkms-unown-o {
+  @include sprite-rect(18px, 19px, -378px, -164px);
 }
-.pkms-teddiursa{
-  @include sprite-rect(16px, 20px, -395px, -163px);
+.pkms-unown-s {
+  @include sprite-rect(14px, 23px, -398px, -164px);
 }
-.pkms-tepig{
-  @include sprite-rect(18px, 18px, -413px, -163px);
+.pkms-vanillish {
+  @include sprite-rect(15px, 21px, -414px, -164px);
 }
-.pkms-totodile{
-  @include sprite-rect(18px, 18px, -433px, -163px);
+.pkms-wooper {
+  @include sprite-rect(20px, 17px, -431px, -164px);
 }
-.pkms-tyrunt{
-  @include sprite-rect(20px, 17px, -453px, -163px);
+.pkms-axew {
+  @include sprite-rect(18px, 20px, -453px, -164px);
 }
-.pkms-unown-h{
-  @include sprite-rect(18px, 19px, -475px, -163px);
+.pkms-blitzle {
+  @include sprite-rect(17px, 22px, -473px, -164px);
 }
-.pkms-unown-n{
-  @include sprite-rect(22px, 14px, -495px, -163px);
+.pkms-bulbasaur {
+  @include sprite-rect(20px, 19px, -492px, -164px);
 }
-.pkms-unown-o{
-  @include sprite-rect(18px, 19px, -519px, -163px);
+.pkms-burmy-sandy {
+  @include sprite-rect(15px, 23px, -514px, -164px);
 }
-.pkms-unown-s{
-  @include sprite-rect(14px, 23px, -539px, -163px);
+.pkms-burmy-trash {
+  @include sprite-rect(16px, 23px, -531px, -164px);
 }
-.pkms-vanillish{
-  @include sprite-rect(15px, 21px, -555px, -163px);
+.pkms-burmy {
+  @include sprite-rect(17px, 22px, -549px, -164px);
 }
-.pkms-wooper{
-  @include sprite-rect(20px, 17px, -572px, -163px);
+.pkms-cacnea {
+  @include sprite-rect(22px, 17px, -568px, -164px);
 }
-.pkms-axew{
-  @include sprite-rect(18px, 20px, 0px, -188px);
+.pkms-carvanha {
+  @include sprite-rect(19px, 19px, 0px, -189px);
 }
-.pkms-blitzle{
-  @include sprite-rect(17px, 22px, -20px, -188px);
+.pkms-cascoon {
+  @include sprite-rect(21px, 18px, -21px, -189px);
 }
-.pkms-bulbasaur{
-  @include sprite-rect(20px, 19px, -39px, -188px);
+.pkms-castform-sunny {
+  @include sprite-rect(18px, 20px, -44px, -189px);
 }
-.pkms-burmy-sandy{
-  @include sprite-rect(15px, 23px, -61px, -188px);
+.pkms-chansey {
+  @include sprite-rect(19px, 20px, -64px, -189px);
 }
-.pkms-burmy-trash{
-  @include sprite-rect(16px, 23px, -78px, -188px);
+.pkms-chespin {
+  @include sprite-rect(17px, 22px, -85px, -189px);
 }
-.pkms-burmy{
-  @include sprite-rect(17px, 22px, -96px, -188px);
+.pkms-chewtle {
+  @include sprite-rect(16px, 23px, -104px, -189px);
 }
-.pkms-cacnea{
-  @include sprite-rect(22px, 17px, -115px, -188px);
+.pkms-clamperl {
+  @include sprite-rect(19px, 19px, -122px, -189px);
 }
-.pkms-carvanha{
-  @include sprite-rect(19px, 19px, -139px, -188px);
+.pkms-cryogonal {
+  @include sprite-rect(19px, 20px, -143px, -189px);
 }
-.pkms-cascoon{
-  @include sprite-rect(21px, 18px, -160px, -188px);
+.pkms-cubone {
+  @include sprite-rect(20px, 19px, -164px, -189px);
 }
-.pkms-castform-sunny{
-  @include sprite-rect(18px, 20px, -183px, -188px);
+.pkms-cutiefly {
+  @include sprite-rect(19px, 20px, -186px, -189px);
 }
-.pkms-chansey{
-  @include sprite-rect(19px, 20px, -203px, -188px);
+.pkms-cyndaquil {
+  @include sprite-rect(20px, 18px, -207px, -189px);
 }
-.pkms-chespin{
-  @include sprite-rect(17px, 22px, -224px, -188px);
+.pkms-dartrix {
+  @include sprite-rect(17px, 22px, -229px, -189px);
 }
-.pkms-chewtle{
-  @include sprite-rect(16px, 23px, -243px, -188px);
+.pkms-doduo {
+  @include sprite-rect(21px, 18px, -248px, -189px);
 }
-.pkms-clamperl{
-  @include sprite-rect(19px, 19px, -261px, -188px);
+.pkms-dratini {
+  @include sprite-rect(20px, 18px, -271px, -189px);
 }
-.pkms-cryogonal{
-  @include sprite-rect(19px, 20px, -282px, -188px);
+.pkms-drilbur {
+  @include sprite-rect(21px, 17px, -293px, -189px);
 }
-.pkms-cubone{
-  @include sprite-rect(20px, 19px, -303px, -188px);
+.pkms-duskull {
+  @include sprite-rect(18px, 21px, -316px, -189px);
 }
-.pkms-cutiefly{
-  @include sprite-rect(19px, 20px, -325px, -188px);
+.pkms-ekans {
+  @include sprite-rect(18px, 21px, -336px, -189px);
 }
-.pkms-cyndaquil{
-  @include sprite-rect(20px, 18px, -346px, -188px);
+.pkms-feebas {
+  @include sprite-rect(17px, 21px, -356px, -189px);
 }
-.pkms-dartrix{
-  @include sprite-rect(17px, 22px, -368px, -188px);
+.pkms-finneon {
+  @include sprite-rect(20px, 18px, -375px, -189px);
 }
-.pkms-doduo{
-  @include sprite-rect(21px, 18px, -387px, -188px);
+.pkms-frillish-f {
+  @include sprite-rect(19px, 20px, -397px, -189px);
 }
-.pkms-dratini{
-  @include sprite-rect(20px, 18px, -410px, -188px);
+.pkms-frillish {
+  @include sprite-rect(19px, 20px, -418px, -189px);
 }
-.pkms-drilbur{
-  @include sprite-rect(21px, 17px, -432px, -188px);
+.pkms-geodude-alola {
+  @include sprite-rect(24px, 15px, -439px, -189px);
 }
-.pkms-duskull{
-  @include sprite-rect(18px, 21px, -455px, -188px);
+.pkms-geodude {
+  @include sprite-rect(24px, 15px, -465px, -189px);
 }
-.pkms-ekans{
-  @include sprite-rect(18px, 21px, -475px, -188px);
+.pkms-gible {
+  @include sprite-rect(19px, 19px, -491px, -189px);
 }
-.pkms-feebas{
-  @include sprite-rect(17px, 21px, -495px, -188px);
+.pkms-grimer-alola {
+  @include sprite-rect(21px, 18px, -512px, -189px);
 }
-.pkms-finneon{
-  @include sprite-rect(20px, 18px, -514px, -188px);
+.pkms-grimer {
+  @include sprite-rect(21px, 18px, -535px, -189px);
 }
-.pkms-frillish-female{
-  @include sprite-rect(19px, 20px, -536px, -188px);
+.pkms-houndour {
+  @include sprite-rect(19px, 20px, -558px, -189px);
 }
-.pkms-frillish{
-  @include sprite-rect(19px, 20px, -557px, -188px);
+.pkms-illumise {
+  @include sprite-rect(19px, 20px, -579px, -189px);
 }
-.pkms-geodude-alola{
-  @include sprite-rect(24px, 15px, -578px, -188px);
+.pkms-inkay {
+  @include sprite-rect(18px, 20px, -600px, -189px);
 }
-.pkms-geodude{
-  @include sprite-rect(24px, 15px, -604px, -188px);
+.pkms-jigglypuff {
+  @include sprite-rect(18px, 20px, -620px, -189px);
 }
-.pkms-gible{
-  @include sprite-rect(19px, 19px, 0px, -213px);
+.pkms-klink {
+  @include sprite-rect(22px, 16px, 0px, -214px);
 }
-.pkms-grimer-alola{
-  @include sprite-rect(21px, 18px, -21px, -213px);
+.pkms-kricketot {
+  @include sprite-rect(17px, 22px, -24px, -214px);
 }
-.pkms-grimer{
-  @include sprite-rect(21px, 18px, -44px, -213px);
+.pkms-larvesta {
+  @include sprite-rect(20px, 19px, -43px, -214px);
 }
-.pkms-houndour{
-  @include sprite-rect(19px, 20px, -67px, -213px);
+.pkms-lileep {
+  @include sprite-rect(18px, 20px, -65px, -214px);
 }
-.pkms-illumise{
-  @include sprite-rect(19px, 20px, -88px, -213px);
+.pkms-magnemite {
+  @include sprite-rect(23px, 15px, -85px, -214px);
 }
-.pkms-inkay{
-  @include sprite-rect(18px, 20px, -109px, -213px);
+.pkms-meloetta-pirouette {
+  @include sprite-rect(15px, 23px, -110px, -214px);
 }
-.pkms-jigglypuff{
-  @include sprite-rect(18px, 20px, -129px, -213px);
+.pkms-morpeko-hangry {
+  @include sprite-rect(17px, 21px, -127px, -214px);
 }
-.pkms-klink{
-  @include sprite-rect(22px, 16px, -149px, -213px);
+.pkms-morpeko {
+  @include sprite-rect(17px, 21px, -146px, -214px);
 }
-.pkms-kricketot{
-  @include sprite-rect(17px, 22px, -173px, -213px);
+.pkms-nidoran-m {
+  @include sprite-rect(18px, 20px, -165px, -214px);
 }
-.pkms-larvesta{
-  @include sprite-rect(20px, 19px, -192px, -213px);
+.pkms-nuzleaf {
+  @include sprite-rect(16px, 23px, -185px, -214px);
 }
-.pkms-lileep{
-  @include sprite-rect(18px, 20px, -214px, -213px);
+.pkms-patrat {
+  @include sprite-rect(20px, 18px, -203px, -214px);
 }
-.pkms-magnemite{
-  @include sprite-rect(23px, 15px, -234px, -213px);
+.pkms-pikipek {
+  @include sprite-rect(17px, 22px, -225px, -214px);
 }
-.pkms-meloetta-pirouette{
-  @include sprite-rect(15px, 23px, -259px, -213px);
+.pkms-poochyena {
+  @include sprite-rect(21px, 18px, -244px, -214px);
 }
-.pkms-morpeko-hangry{
-  @include sprite-rect(17px, 21px, -276px, -213px);
+.pkms-prinplup {
+  @include sprite-rect(17px, 22px, -267px, -214px);
 }
-.pkms-morpeko{
-  @include sprite-rect(17px, 21px, -295px, -213px);
+.pkms-psyduck {
+  @include sprite-rect(18px, 21px, -286px, -214px);
 }
-.pkms-nidoran-m{
-  @include sprite-rect(18px, 20px, -314px, -213px);
+.pkms-rufflet {
+  @include sprite-rect(17px, 21px, -306px, -214px);
 }
-.pkms-nuzleaf{
-  @include sprite-rect(16px, 23px, -334px, -213px);
+.pkms-sandile {
+  @include sprite-rect(22px, 16px, -325px, -214px);
 }
-.pkms-patrat{
-  @include sprite-rect(20px, 18px, -352px, -213px);
+.pkms-sandshrew-alola {
+  @include sprite-rect(21px, 18px, -349px, -214px);
 }
-.pkms-pikipek{
-  @include sprite-rect(17px, 22px, -374px, -213px);
+.pkms-sandshrew {
+  @include sprite-rect(20px, 18px, -372px, -214px);
 }
-.pkms-poochyena{
-  @include sprite-rect(21px, 18px, -393px, -213px);
+.pkms-shellos-east {
+  @include sprite-rect(19px, 20px, -394px, -214px);
 }
-.pkms-prinplup{
-  @include sprite-rect(17px, 22px, -416px, -213px);
+.pkms-silcoon {
+  @include sprite-rect(21px, 18px, -415px, -214px);
 }
-.pkms-psyduck{
-  @include sprite-rect(18px, 21px, -435px, -213px);
+.pkms-skrelp {
+  @include sprite-rect(18px, 21px, -438px, -214px);
 }
-.pkms-rufflet{
-  @include sprite-rect(17px, 21px, -455px, -213px);
+.pkms-slugma {
+  @include sprite-rect(17px, 21px, -458px, -214px);
 }
-.pkms-sandile{
-  @include sprite-rect(22px, 16px, -474px, -213px);
+.pkms-sneasel {
+  @include sprite-rect(17px, 21px, -477px, -214px);
 }
-.pkms-sandshrew-alola{
-  @include sprite-rect(21px, 18px, -498px, -213px);
+.pkms-squirtle {
+  @include sprite-rect(21px, 17px, -496px, -214px);
 }
-.pkms-sandshrew{
-  @include sprite-rect(20px, 18px, -521px, -213px);
+.pkms-swalot {
+  @include sprite-rect(20px, 18px, -519px, -214px);
 }
-.pkms-shellos-east{
-  @include sprite-rect(19px, 20px, -543px, -213px);
+.pkms-tirtouga {
+  @include sprite-rect(23px, 15px, -541px, -214px);
 }
-.pkms-silcoon{
-  @include sprite-rect(21px, 18px, -564px, -213px);
+.pkms-togetic {
+  @include sprite-rect(17px, 21px, -566px, -214px);
 }
-.pkms-skrelp{
-  @include sprite-rect(18px, 21px, -587px, -213px);
+.pkms-toxel {
+  @include sprite-rect(18px, 21px, -585px, -214px);
 }
-.pkms-slugma{
-  @include sprite-rect(17px, 21px, -607px, -213px);
+.pkms-tranquill {
+  @include sprite-rect(19px, 20px, -605px, -214px);
 }
-.pkms-sneasel{
-  @include sprite-rect(17px, 21px, 0px, -238px);
+.pkms-trapinch {
+  @include sprite-rect(19px, 19px, 0px, -239px);
 }
-.pkms-squirtle{
-  @include sprite-rect(21px, 17px, -19px, -238px);
+.pkms-trubbish {
+  @include sprite-rect(21px, 18px, -21px, -239px);
 }
-.pkms-swalot{
-  @include sprite-rect(20px, 18px, -42px, -238px);
+.pkms-unown-m {
+  @include sprite-rect(18px, 20px, -44px, -239px);
 }
-.pkms-tirtouga{
-  @include sprite-rect(23px, 15px, -64px, -238px);
+.pkms-whirlipede {
+  @include sprite-rect(22px, 16px, -64px, -239px);
 }
-.pkms-togetic{
-  @include sprite-rect(17px, 21px, -89px, -238px);
+.pkms-wimpod {
+  @include sprite-rect(24px, 14px, -88px, -239px);
 }
-.pkms-toxel{
-  @include sprite-rect(18px, 21px, -108px, -238px);
+.pkms-wooloo {
+  @include sprite-rect(20px, 19px, -114px, -239px);
 }
-.pkms-tranquill{
-  @include sprite-rect(19px, 20px, -128px, -238px);
+.pkms-yamask-galar {
+  @include sprite-rect(22px, 16px, -136px, -239px);
 }
-.pkms-trapinch{
-  @include sprite-rect(19px, 19px, -149px, -238px);
+.pkms-yamask {
+  @include sprite-rect(22px, 16px, -160px, -239px);
 }
-.pkms-trubbish{
-  @include sprite-rect(21px, 18px, -170px, -238px);
+.pkms-zigzagoon-galar {
+  @include sprite-rect(22px, 16px, -184px, -239px);
 }
-.pkms-unown-m{
-  @include sprite-rect(18px, 20px, -193px, -238px);
+.pkms-zigzagoon {
+  @include sprite-rect(22px, 16px, -208px, -239px);
 }
-.pkms-whirlipede{
-  @include sprite-rect(22px, 16px, -213px, -238px);
+.pkms-amaura {
+  @include sprite-rect(17px, 24px, -232px, -239px);
 }
-.pkms-wimpod{
-  @include sprite-rect(24px, 14px, -237px, -238px);
+.pkms-arrokuda {
+  @include sprite-rect(25px, 15px, -251px, -239px);
 }
-.pkms-wooloo{
-  @include sprite-rect(20px, 19px, -263px, -238px);
+.pkms-banette {
+  @include sprite-rect(22px, 19px, -278px, -239px);
 }
-.pkms-yamask-galar{
-  @include sprite-rect(22px, 16px, -285px, -238px);
+.pkms-binacle {
+  @include sprite-rect(16px, 24px, -302px, -239px);
 }
-.pkms-yamask{
-  @include sprite-rect(22px, 16px, -309px, -238px);
+.pkms-bruxish {
+  @include sprite-rect(21px, 20px, -320px, -239px);
 }
-.pkms-zigzagoon-galar{
-  @include sprite-rect(22px, 16px, -333px, -238px);
+.pkms-buizel {
+  @include sprite-rect(21px, 20px, -343px, -239px);
 }
-.pkms-zigzagoon{
-  @include sprite-rect(22px, 16px, -357px, -238px);
+.pkms-buneary {
+  @include sprite-rect(18px, 22px, -366px, -239px);
 }
-.pkms-amaura{
-  @include sprite-rect(17px, 24px, -381px, -238px);
+.pkms-bunnelby {
+  @include sprite-rect(16px, 25px, -386px, -239px);
 }
-.pkms-arrokuda{
-  @include sprite-rect(25px, 15px, -400px, -238px);
+.pkms-castform-snowy {
+  @include sprite-rect(17px, 23px, -404px, -239px);
 }
-.pkms-banette{
-  @include sprite-rect(22px, 19px, -427px, -238px);
+.pkms-charmander {
+  @include sprite-rect(21px, 19px, -423px, -239px);
 }
-.pkms-binacle{
-  @include sprite-rect(16px, 24px, -451px, -238px);
+.pkms-chimchar {
+  @include sprite-rect(19px, 22px, -446px, -239px);
 }
-.pkms-bruxish{
-  @include sprite-rect(21px, 20px, -469px, -238px);
+.pkms-chinchou {
+  @include sprite-rect(22px, 19px, -467px, -239px);
 }
-.pkms-buizel{
-  @include sprite-rect(21px, 20px, -492px, -238px);
+.pkms-clauncher {
+  @include sprite-rect(24px, 17px, -491px, -239px);
 }
-.pkms-buneary{
-  @include sprite-rect(18px, 22px, -515px, -238px);
+.pkms-corphish {
+  @include sprite-rect(21px, 19px, -517px, -239px);
 }
-.pkms-bunnelby{
-  @include sprite-rect(16px, 25px, -535px, -238px);
+.pkms-corsola-galar {
+  @include sprite-rect(21px, 20px, -540px, -239px);
 }
-.pkms-castform-snowy{
-  @include sprite-rect(17px, 23px, -553px, -238px);
+.pkms-corsola {
+  @include sprite-rect(21px, 20px, -563px, -239px);
 }
-.pkms-charmander{
-  @include sprite-rect(21px, 19px, -572px, -238px);
+.pkms-corvisquire {
+  @include sprite-rect(22px, 19px, -586px, -239px);
 }
-.pkms-chimchar{
-  @include sprite-rect(19px, 22px, -595px, -238px);
+.pkms-cosmoem {
+  @include sprite-rect(21px, 19px, -610px, -239px);
 }
-.pkms-chinchou{
-  @include sprite-rect(22px, 19px, -616px, -238px);
+.pkms-crabrawler {
+  @include sprite-rect(20px, 21px, -633px, -239px);
 }
-.pkms-clauncher{
-  @include sprite-rect(24px, 17px, -640px, -238px);
+.pkms-cranidos {
+  @include sprite-rect(21px, 19px, -655px, -239px);
 }
-.pkms-corphish{
-  @include sprite-rect(21px, 19px, 0px, -265px);
+.pkms-deerling-autumn {
+  @include sprite-rect(18px, 22px, 0px, -266px);
 }
-.pkms-corsola-galar{
-  @include sprite-rect(21px, 20px, -23px, -265px);
+.pkms-deerling-summer {
+  @include sprite-rect(18px, 22px, -20px, -266px);
 }
-.pkms-corsola{
-  @include sprite-rect(21px, 20px, -46px, -265px);
+.pkms-deerling-winter {
+  @include sprite-rect(18px, 22px, -40px, -266px);
 }
-.pkms-corvisquire{
-  @include sprite-rect(22px, 19px, -69px, -265px);
+.pkms-deerling {
+  @include sprite-rect(18px, 22px, -60px, -266px);
 }
-.pkms-cosmoem{
-  @include sprite-rect(21px, 19px, -93px, -265px);
+.pkms-dreepy {
+  @include sprite-rect(24px, 17px, -80px, -266px);
 }
-.pkms-crabrawler{
-  @include sprite-rect(20px, 21px, -116px, -265px);
+.pkms-eelektrik {
+  @include sprite-rect(21px, 19px, -106px, -266px);
 }
-.pkms-cranidos{
-  @include sprite-rect(21px, 19px, -138px, -265px);
+.pkms-elekid {
+  @include sprite-rect(21px, 20px, -129px, -266px);
 }
-.pkms-deerling-autumn{
-  @include sprite-rect(18px, 22px, -161px, -265px);
+.pkms-floette-blue {
+  @include sprite-rect(19px, 22px, -152px, -266px);
 }
-.pkms-deerling-summer{
-  @include sprite-rect(18px, 22px, -181px, -265px);
+.pkms-floette-orange {
+  @include sprite-rect(19px, 22px, -173px, -266px);
 }
-.pkms-deerling-winter{
-  @include sprite-rect(18px, 22px, -201px, -265px);
+.pkms-floette-white {
+  @include sprite-rect(19px, 22px, -194px, -266px);
 }
-.pkms-deerling{
-  @include sprite-rect(18px, 22px, -221px, -265px);
+.pkms-floette-yellow {
+  @include sprite-rect(19px, 22px, -215px, -266px);
 }
-.pkms-dreepy{
-  @include sprite-rect(24px, 17px, -241px, -265px);
+.pkms-floette {
+  @include sprite-rect(19px, 22px, -236px, -266px);
 }
-.pkms-eelektrik{
-  @include sprite-rect(21px, 19px, -267px, -265px);
+.pkms-forretress {
+  @include sprite-rect(23px, 18px, -257px, -266px);
 }
-.pkms-elekid{
-  @include sprite-rect(21px, 20px, -290px, -265px);
+.pkms-gourgeist-small {
+  @include sprite-rect(18px, 22px, -282px, -266px);
 }
-.pkms-floette-blue{
-  @include sprite-rect(19px, 22px, -313px, -265px);
+.pkms-hoopa {
+  @include sprite-rect(21px, 19px, -302px, -266px);
 }
-.pkms-floette-orange{
-  @include sprite-rect(19px, 22px, -334px, -265px);
+.pkms-ivysaur {
+  @include sprite-rect(21px, 20px, -325px, -266px);
 }
-.pkms-floette-white{
-  @include sprite-rect(19px, 22px, -355px, -265px);
+.pkms-kecleon {
+  @include sprite-rect(20px, 20px, -348px, -266px);
 }
-.pkms-floette-yellow{
-  @include sprite-rect(19px, 22px, -376px, -265px);
+.pkms-kirlia {
+  @include sprite-rect(18px, 23px, -370px, -266px);
 }
-.pkms-floette{
-  @include sprite-rect(19px, 22px, -397px, -265px);
+.pkms-komala {
+  @include sprite-rect(21px, 20px, -390px, -266px);
 }
-.pkms-forretress{
-  @include sprite-rect(23px, 18px, -418px, -265px);
+.pkms-kubfu {
+  @include sprite-rect(18px, 22px, -413px, -266px);
 }
-.pkms-gourgeist-small{
-  @include sprite-rect(18px, 22px, -443px, -265px);
+.pkms-lairon {
+  @include sprite-rect(23px, 17px, -433px, -266px);
 }
-.pkms-hoopa{
-  @include sprite-rect(21px, 19px, -463px, -265px);
+.pkms-ledian {
+  @include sprite-rect(19px, 21px, -458px, -266px);
 }
-.pkms-ivysaur{
-  @include sprite-rect(21px, 20px, -486px, -265px);
+.pkms-lickitung {
+  @include sprite-rect(23px, 18px, -479px, -266px);
 }
-.pkms-kecleon{
-  @include sprite-rect(20px, 20px, -509px, -265px);
+.pkms-litleo {
+  @include sprite-rect(21px, 20px, -504px, -266px);
 }
-.pkms-kirlia{
-  @include sprite-rect(18px, 23px, -531px, -265px);
+.pkms-lombre {
+  @include sprite-rect(19px, 22px, -527px, -266px);
 }
-.pkms-komala{
-  @include sprite-rect(21px, 20px, -551px, -265px);
+.pkms-marill {
+  @include sprite-rect(23px, 17px, -548px, -266px);
 }
-.pkms-kubfu{
-  @include sprite-rect(18px, 22px, -574px, -265px);
+.pkms-marshtomp {
+  @include sprite-rect(20px, 21px, -573px, -266px);
 }
-.pkms-lairon{
-  @include sprite-rect(23px, 17px, -594px, -265px);
+.pkms-minccino {
+  @include sprite-rect(22px, 19px, -595px, -266px);
 }
-.pkms-ledian{
-  @include sprite-rect(19px, 21px, -619px, -265px);
+.pkms-murkrow {
+  @include sprite-rect(19px, 21px, -619px, -266px);
 }
-.pkms-lickitung{
-  @include sprite-rect(23px, 18px, -640px, -265px);
+.pkms-nidorina {
+  @include sprite-rect(19px, 22px, -640px, -266px);
 }
-.pkms-litleo{
-  @include sprite-rect(21px, 20px, 0px, -290px);
+.pkms-nidorino {
+  @include sprite-rect(19px, 22px, 0px, -291px);
 }
-.pkms-lombre{
-  @include sprite-rect(19px, 22px, -23px, -290px);
+.pkms-noibat {
+  @include sprite-rect(21px, 20px, -21px, -291px);
 }
-.pkms-marill{
-  @include sprite-rect(23px, 17px, -44px, -290px);
+.pkms-oricorio-pau {
+  @include sprite-rect(18px, 22px, -44px, -291px);
 }
-.pkms-marshtomp{
-  @include sprite-rect(20px, 21px, -69px, -290px);
+.pkms-oricorio-pom-pom {
+  @include sprite-rect(20px, 20px, -64px, -291px);
 }
-.pkms-minccino{
-  @include sprite-rect(22px, 19px, -91px, -290px);
+.pkms-oricorio-sensu {
+  @include sprite-rect(17px, 23px, -86px, -291px);
 }
-.pkms-murkrow{
-  @include sprite-rect(19px, 21px, -115px, -290px);
+.pkms-pansage {
+  @include sprite-rect(20px, 21px, -105px, -291px);
 }
-.pkms-nidorina{
-  @include sprite-rect(19px, 22px, -136px, -290px);
+.pkms-pansear {
+  @include sprite-rect(20px, 20px, -127px, -291px);
 }
-.pkms-nidorino{
-  @include sprite-rect(19px, 22px, -157px, -290px);
+.pkms-phione {
+  @include sprite-rect(23px, 17px, -149px, -291px);
 }
-.pkms-noibat{
-  @include sprite-rect(21px, 20px, -178px, -290px);
+.pkms-pidgeotto {
+  @include sprite-rect(21px, 20px, -174px, -291px);
 }
-.pkms-oricorio-pau{
-  @include sprite-rect(18px, 22px, -201px, -290px);
+.pkms-pikachu-cosplay {
+  @include sprite-rect(21px, 20px, -197px, -291px);
 }
-.pkms-oricorio-pom-pom{
-  @include sprite-rect(20px, 20px, -221px, -290px);
+.pkms-pikachu-f {
+  @include sprite-rect(21px, 20px, -220px, -291px);
 }
-.pkms-oricorio-sensu{
-  @include sprite-rect(17px, 23px, -243px, -290px);
+.pkms-pikachu-libre {
+  @include sprite-rect(21px, 20px, -243px, -291px);
 }
-.pkms-pansage{
-  @include sprite-rect(20px, 21px, -262px, -290px);
+.pkms-pikachu-phd {
+  @include sprite-rect(21px, 20px, -266px, -291px);
 }
-.pkms-pansear{
-  @include sprite-rect(20px, 20px, -284px, -290px);
+.pkms-pikachu-rock-star {
+  @include sprite-rect(21px, 20px, -289px, -291px);
 }
-.pkms-phione{
-  @include sprite-rect(23px, 17px, -306px, -290px);
+.pkms-pikachu {
+  @include sprite-rect(21px, 20px, -312px, -291px);
 }
-.pkms-pidgeotto{
-  @include sprite-rect(21px, 20px, -331px, -290px);
+.pkms-poliwhirl {
+  @include sprite-rect(22px, 19px, -335px, -291px);
 }
-.pkms-pikachu-cosplay{
-  @include sprite-rect(21px, 20px, -354px, -290px);
+.pkms-pumpkaboo-super {
+  @include sprite-rect(20px, 21px, -359px, -291px);
 }
-.pkms-pikachu-female{
-  @include sprite-rect(21px, 20px, -377px, -290px);
+.pkms-rattata {
+  @include sprite-rect(20px, 21px, -381px, -291px);
 }
-.pkms-pikachu-libre{
-  @include sprite-rect(21px, 20px, -400px, -290px);
+.pkms-rockruff {
+  @include sprite-rect(19px, 22px, -403px, -291px);
 }
-.pkms-pikachu-phd{
-  @include sprite-rect(21px, 20px, -423px, -290px);
+.pkms-sentret {
+  @include sprite-rect(15px, 26px, -424px, -291px);
 }
-.pkms-pikachu-rock-star{
-  @include sprite-rect(21px, 20px, -446px, -290px);
+.pkms-shelgon {
+  @include sprite-rect(20px, 21px, -441px, -291px);
 }
-.pkms-pikachu{
-  @include sprite-rect(21px, 20px, -469px, -290px);
+.pkms-shieldon {
+  @include sprite-rect(20px, 20px, -463px, -291px);
 }
-.pkms-poliwhirl{
-  @include sprite-rect(22px, 19px, -492px, -290px);
+.pkms-skitty {
+  @include sprite-rect(20px, 20px, -485px, -291px);
 }
-.pkms-pumpkaboo-super{
-  @include sprite-rect(20px, 21px, -516px, -290px);
+.pkms-slakoth {
+  @include sprite-rect(25px, 15px, -507px, -291px);
 }
-.pkms-rattata{
-  @include sprite-rect(20px, 21px, -538px, -290px);
+.pkms-slowpoke-galar {
+  @include sprite-rect(26px, 14px, -534px, -291px);
 }
-.pkms-rockruff{
-  @include sprite-rect(19px, 22px, -560px, -290px);
+.pkms-snover {
+  @include sprite-rect(21px, 20px, -562px, -291px);
 }
-.pkms-sentret{
-  @include sprite-rect(15px, 26px, -581px, -290px);
+.pkms-snubbull {
+  @include sprite-rect(21px, 20px, -585px, -291px);
 }
-.pkms-shelgon{
-  @include sprite-rect(20px, 21px, -598px, -290px);
+.pkms-spiritomb {
+  @include sprite-rect(21px, 20px, -608px, -291px);
 }
-.pkms-shieldon{
-  @include sprite-rect(20px, 20px, -620px, -290px);
+.pkms-steenee {
+  @include sprite-rect(18px, 23px, -631px, -291px);
 }
-.pkms-skitty{
-  @include sprite-rect(20px, 20px, -642px, -290px);
+.pkms-sunflora {
+  @include sprite-rect(19px, 21px, -651px, -291px);
 }
-.pkms-slakoth{
-  @include sprite-rect(25px, 15px, 0px, -318px);
+.pkms-trumbeak {
+  @include sprite-rect(19px, 22px, 0px, -319px);
 }
-.pkms-slowpoke-galar{
-  @include sprite-rect(26px, 14px, -27px, -318px);
+.pkms-turtwig {
+  @include sprite-rect(18px, 22px, -21px, -319px);
 }
-.pkms-snover{
-  @include sprite-rect(21px, 20px, -55px, -318px);
+.pkms-victini {
+  @include sprite-rect(18px, 22px, -41px, -319px);
 }
-.pkms-snubbull{
-  @include sprite-rect(21px, 20px, -78px, -318px);
+.pkms-volbeat {
+  @include sprite-rect(20px, 20px, -61px, -319px);
 }
-.pkms-spiritomb{
-  @include sprite-rect(21px, 20px, -101px, -318px);
+.pkms-vullaby {
+  @include sprite-rect(22px, 19px, -83px, -319px);
 }
-.pkms-steenee{
-  @include sprite-rect(18px, 23px, -124px, -318px);
+.pkms-vulpix {
+  @include sprite-rect(20px, 20px, -107px, -319px);
 }
-.pkms-sunflora{
-  @include sprite-rect(19px, 21px, -144px, -318px);
+.pkms-wingull {
+  @include sprite-rect(26px, 14px, -129px, -319px);
 }
-.pkms-trumbeak{
-  @include sprite-rect(19px, 22px, -165px, -318px);
+.pkms-yungoos {
+  @include sprite-rect(25px, 16px, -157px, -319px);
 }
-.pkms-turtwig{
-  @include sprite-rect(18px, 22px, -186px, -318px);
+.pkms-zubat {
+  @include sprite-rect(21px, 20px, -184px, -319px);
 }
-.pkms-victini{
-  @include sprite-rect(18px, 22px, -206px, -318px);
+.pkms-aipom {
+  @include sprite-rect(24px, 19px, -207px, -319px);
 }
-.pkms-volbeat{
-  @include sprite-rect(20px, 20px, -226px, -318px);
+.pkms-anorith {
+  @include sprite-rect(22px, 20px, -233px, -319px);
 }
-.pkms-vullaby{
-  @include sprite-rect(22px, 19px, -248px, -318px);
+.pkms-bayleef {
+  @include sprite-rect(20px, 23px, -257px, -319px);
 }
-.pkms-vulpix{
-  @include sprite-rect(20px, 20px, -272px, -318px);
+.pkms-braixen {
+  @include sprite-rect(20px, 22px, -279px, -319px);
 }
-.pkms-wingull{
-  @include sprite-rect(26px, 14px, -294px, -318px);
+.pkms-chatot {
+  @include sprite-rect(20px, 22px, -301px, -319px);
 }
-.pkms-yungoos{
-  @include sprite-rect(25px, 16px, -322px, -318px);
+.pkms-chingling {
+  @include sprite-rect(23px, 19px, -323px, -319px);
 }
-.pkms-zubat{
-  @include sprite-rect(21px, 20px, -349px, -318px);
+.pkms-combee {
+  @include sprite-rect(25px, 18px, -348px, -319px);
 }
-.pkms-aipom{
-  @include sprite-rect(24px, 19px, -372px, -318px);
+.pkms-cosmog {
+  @include sprite-rect(23px, 20px, -375px, -319px);
 }
-.pkms-anorith{
-  @include sprite-rect(22px, 20px, -398px, -318px);
+.pkms-delcatty {
+  @include sprite-rect(22px, 21px, -400px, -319px);
 }
-.pkms-bayleef{
-  @include sprite-rect(20px, 23px, -422px, -318px);
+.pkms-dewott {
+  @include sprite-rect(19px, 23px, -424px, -319px);
 }
-.pkms-braixen{
-  @include sprite-rect(20px, 22px, -444px, -318px);
+.pkms-diancie {
+  @include sprite-rect(21px, 22px, -445px, -319px);
 }
-.pkms-chatot{
-  @include sprite-rect(20px, 22px, -466px, -318px);
+.pkms-exeggcute {
+  @include sprite-rect(24px, 18px, -468px, -319px);
 }
-.pkms-chingling{
-  @include sprite-rect(23px, 19px, -488px, -318px);
+.pkms-flaaffy {
+  @include sprite-rect(21px, 22px, -494px, -319px);
 }
-.pkms-combee{
-  @include sprite-rect(25px, 18px, -513px, -318px);
+.pkms-fletchinder {
+  @include sprite-rect(22px, 20px, -517px, -319px);
 }
-.pkms-cosmog{
-  @include sprite-rect(23px, 20px, -540px, -318px);
+.pkms-gloom {
+  @include sprite-rect(22px, 21px, -541px, -319px);
 }
-.pkms-delcatty{
-  @include sprite-rect(22px, 21px, -565px, -318px);
+.pkms-goldeen {
+  @include sprite-rect(24px, 19px, -565px, -319px);
 }
-.pkms-dewott{
-  @include sprite-rect(19px, 23px, -589px, -318px);
+.pkms-gothorita {
+  @include sprite-rect(22px, 20px, -591px, -319px);
 }
-.pkms-diancie{
-  @include sprite-rect(21px, 22px, -610px, -318px);
+.pkms-grookey {
+  @include sprite-rect(19px, 23px, -615px, -319px);
 }
-.pkms-exeggcute{
-  @include sprite-rect(24px, 18px, -633px, -318px);
+.pkms-grotle {
+  @include sprite-rect(22px, 21px, -636px, -319px);
 }
-.pkms-flaaffy{
-  @include sprite-rect(21px, 22px, -659px, -318px);
+.pkms-growlithe {
+  @include sprite-rect(21px, 22px, -660px, -319px);
 }
-.pkms-fletchinder{
-  @include sprite-rect(22px, 20px, -682px, -318px);
+.pkms-grumpig {
+  @include sprite-rect(23px, 19px, -683px, -319px);
 }
-.pkms-gloom{
-  @include sprite-rect(22px, 21px, 0px, -343px);
+.pkms-hatenna {
+  @include sprite-rect(19px, 23px, 0px, -344px);
 }
-.pkms-goldeen{
-  @include sprite-rect(24px, 19px, -24px, -343px);
+.pkms-herdier {
+  @include sprite-rect(21px, 22px, -21px, -344px);
 }
-.pkms-gothorita{
-  @include sprite-rect(22px, 20px, -50px, -343px);
+.pkms-hippopotas-f {
+  @include sprite-rect(24px, 18px, -44px, -344px);
 }
-.pkms-grookey{
-  @include sprite-rect(19px, 23px, -74px, -343px);
+.pkms-hippopotas {
+  @include sprite-rect(24px, 18px, -70px, -344px);
 }
-.pkms-grotle{
-  @include sprite-rect(22px, 21px, -95px, -343px);
+.pkms-honedge {
+  @include sprite-rect(18px, 24px, -96px, -344px);
 }
-.pkms-growlithe{
-  @include sprite-rect(21px, 22px, -119px, -343px);
+.pkms-hoppip {
+  @include sprite-rect(22px, 20px, -116px, -344px);
 }
-.pkms-grumpig{
-  @include sprite-rect(23px, 19px, -142px, -343px);
+.pkms-houndoom {
+  @include sprite-rect(20px, 23px, -140px, -344px);
 }
-.pkms-hatenna{
-  @include sprite-rect(19px, 23px, -167px, -343px);
+.pkms-jirachi {
+  @include sprite-rect(22px, 20px, -162px, -344px);
 }
-.pkms-herdier{
-  @include sprite-rect(21px, 22px, -188px, -343px);
+.pkms-linoone-galar {
+  @include sprite-rect(22px, 20px, -186px, -344px);
 }
-.pkms-hippopotas-female{
-  @include sprite-rect(24px, 18px, -211px, -343px);
+.pkms-linoone {
+  @include sprite-rect(22px, 20px, -210px, -344px);
 }
-.pkms-hippopotas{
-  @include sprite-rect(24px, 18px, -237px, -343px);
+.pkms-lucario-mega {
+  @include sprite-rect(19px, 24px, -234px, -344px);
 }
-.pkms-honedge{
-  @include sprite-rect(18px, 24px, -263px, -343px);
+.pkms-lunatone {
+  @include sprite-rect(18px, 24px, -255px, -344px);
 }
-.pkms-hoppip{
-  @include sprite-rect(22px, 20px, -283px, -343px);
+.pkms-magcargo {
+  @include sprite-rect(21px, 22px, -275px, -344px);
 }
-.pkms-houndoom{
-  @include sprite-rect(20px, 23px, -307px, -343px);
+.pkms-manaphy {
+  @include sprite-rect(22px, 20px, -298px, -344px);
 }
-.pkms-jirachi{
-  @include sprite-rect(22px, 20px, -329px, -343px);
+.pkms-mareanie {
+  @include sprite-rect(22px, 20px, -322px, -344px);
 }
-.pkms-linoone-galar{
-  @include sprite-rect(22px, 20px, -353px, -343px);
+.pkms-mareep {
+  @include sprite-rect(22px, 20px, -346px, -344px);
 }
-.pkms-linoone{
-  @include sprite-rect(22px, 20px, -377px, -343px);
+.pkms-medicham {
+  @include sprite-rect(17px, 25px, -370px, -344px);
 }
-.pkms-lucario-mega{
-  @include sprite-rect(19px, 24px, -401px, -343px);
+.pkms-meowth-alola {
+  @include sprite-rect(21px, 21px, -389px, -344px);
 }
-.pkms-lunatone{
-  @include sprite-rect(18px, 24px, -422px, -343px);
+.pkms-meowth-galar {
+  @include sprite-rect(21px, 21px, -412px, -344px);
 }
-.pkms-magcargo{
-  @include sprite-rect(21px, 22px, -442px, -343px);
+.pkms-meowth {
+  @include sprite-rect(21px, 21px, -435px, -344px);
 }
-.pkms-manaphy{
-  @include sprite-rect(22px, 20px, -465px, -343px);
+.pkms-panpour {
+  @include sprite-rect(21px, 21px, -458px, -344px);
 }
-.pkms-mareanie{
-  @include sprite-rect(22px, 20px, -489px, -343px);
+.pkms-paras {
+  @include sprite-rect(22px, 20px, -481px, -344px);
 }
-.pkms-mareep{
-  @include sprite-rect(22px, 20px, -513px, -343px);
+.pkms-piloswine {
+  @include sprite-rect(22px, 21px, -505px, -344px);
 }
-.pkms-medicham{
-  @include sprite-rect(17px, 25px, -537px, -343px);
+.pkms-purrloin {
+  @include sprite-rect(21px, 22px, -529px, -344px);
 }
-.pkms-meowth-alola{
-  @include sprite-rect(21px, 21px, -556px, -343px);
+.pkms-quilava {
+  @include sprite-rect(23px, 20px, -552px, -344px);
 }
-.pkms-meowth-galar{
-  @include sprite-rect(21px, 21px, -579px, -343px);
+.pkms-quilladin {
+  @include sprite-rect(21px, 22px, -577px, -344px);
 }
-.pkms-meowth{
-  @include sprite-rect(21px, 21px, -602px, -343px);
+.pkms-rattata-alola {
+  @include sprite-rect(21px, 21px, -600px, -344px);
 }
-.pkms-panpour{
-  @include sprite-rect(21px, 21px, -625px, -343px);
+.pkms-servine {
+  @include sprite-rect(22px, 20px, -623px, -344px);
 }
-.pkms-paras{
-  @include sprite-rect(22px, 20px, -648px, -343px);
+.pkms-seviper {
+  @include sprite-rect(23px, 20px, -647px, -344px);
 }
-.pkms-piloswine{
-  @include sprite-rect(22px, 21px, -672px, -343px);
+.pkms-shaymin-sky {
+  @include sprite-rect(21px, 22px, -672px, -344px);
 }
-.pkms-purrloin{
-  @include sprite-rect(21px, 22px, 0px, -370px);
+.pkms-skwovet {
+  @include sprite-rect(22px, 21px, 0px, -371px);
 }
-.pkms-quilava{
-  @include sprite-rect(23px, 20px, -23px, -370px);
+.pkms-slowpoke {
+  @include sprite-rect(21px, 21px, -24px, -371px);
 }
-.pkms-quilladin{
-  @include sprite-rect(21px, 22px, -48px, -370px);
+.pkms-surskit {
+  @include sprite-rect(23px, 19px, -47px, -371px);
 }
-.pkms-rattata-alola{
-  @include sprite-rect(21px, 21px, -71px, -370px);
+.pkms-swellow {
+  @include sprite-rect(23px, 19px, -72px, -371px);
 }
-.pkms-servine{
-  @include sprite-rect(22px, 20px, -94px, -370px);
+.pkms-timburr {
+  @include sprite-rect(24px, 19px, -97px, -371px);
 }
-.pkms-seviper{
-  @include sprite-rect(23px, 20px, -118px, -370px);
+.pkms-treecko {
+  @include sprite-rect(21px, 21px, -123px, -371px);
 }
-.pkms-shaymin-sky{
-  @include sprite-rect(21px, 22px, -143px, -370px);
+.pkms-venonat {
+  @include sprite-rect(17px, 26px, -146px, -371px);
 }
-.pkms-skwovet{
-  @include sprite-rect(22px, 21px, -166px, -370px);
+.pkms-vulpix-alola {
+  @include sprite-rect(22px, 21px, -165px, -371px);
 }
-.pkms-slowpoke{
-  @include sprite-rect(21px, 21px, -190px, -370px);
+.pkms-watchog {
+  @include sprite-rect(20px, 22px, -189px, -371px);
 }
-.pkms-surskit{
-  @include sprite-rect(23px, 19px, -213px, -370px);
+.pkms-weepinbell {
+  @include sprite-rect(22px, 20px, -211px, -371px);
 }
-.pkms-swellow{
-  @include sprite-rect(23px, 19px, -238px, -370px);
+.pkms-yamper {
+  @include sprite-rect(22px, 20px, -235px, -371px);
 }
-.pkms-timburr{
-  @include sprite-rect(24px, 19px, -263px, -370px);
+.pkms-abra {
+  @include sprite-rect(23px, 21px, -259px, -371px);
 }
-.pkms-treecko{
-  @include sprite-rect(21px, 21px, -289px, -370px);
+.pkms-altaria {
+  @include sprite-rect(20px, 24px, -284px, -371px);
 }
-.pkms-venonat{
-  @include sprite-rect(17px, 26px, -312px, -370px);
+.pkms-ampharos {
+  @include sprite-rect(20px, 25px, -306px, -371px);
 }
-.pkms-vulpix-alola{
-  @include sprite-rect(22px, 21px, -331px, -370px);
+.pkms-audino {
+  @include sprite-rect(22px, 22px, -328px, -371px);
 }
-.pkms-watchog{
-  @include sprite-rect(20px, 22px, -355px, -370px);
+.pkms-bibarel {
+  @include sprite-rect(22px, 22px, -352px, -371px);
 }
-.pkms-weepinbell{
-  @include sprite-rect(22px, 20px, -377px, -370px);
+.pkms-blipbug {
+  @include sprite-rect(18px, 27px, -376px, -371px);
 }
-.pkms-yamper{
-  @include sprite-rect(22px, 20px, -401px, -370px);
+.pkms-boldore {
+  @include sprite-rect(24px, 21px, -396px, -371px);
 }
-.pkms-abra{
-  @include sprite-rect(23px, 21px, -425px, -370px);
+.pkms-charmeleon {
+  @include sprite-rect(22px, 23px, -422px, -371px);
 }
-.pkms-altaria{
-  @include sprite-rect(20px, 24px, -450px, -370px);
+.pkms-dragonair {
+  @include sprite-rect(22px, 22px, -446px, -371px);
 }
-.pkms-ampharos{
-  @include sprite-rect(20px, 25px, -472px, -370px);
+.pkms-dustox {
+  @include sprite-rect(26px, 19px, -470px, -371px);
 }
-.pkms-audino{
-  @include sprite-rect(22px, 22px, -494px, -370px);
+.pkms-eiscue-noice {
+  @include sprite-rect(14px, 31px, -498px, -371px);
 }
-.pkms-bibarel{
-  @include sprite-rect(22px, 22px, -518px, -370px);
+.pkms-floette-eternal {
+  @include sprite-rect(23px, 21px, -514px, -371px);
 }
-.pkms-blipbug{
-  @include sprite-rect(18px, 27px, -542px, -370px);
+.pkms-frogadier {
+  @include sprite-rect(23px, 22px, -539px, -371px);
 }
-.pkms-boldore{
-  @include sprite-rect(24px, 21px, -562px, -370px);
+.pkms-furret {
+  @include sprite-rect(23px, 21px, -564px, -371px);
 }
-.pkms-charmeleon{
-  @include sprite-rect(22px, 23px, -588px, -370px);
+.pkms-gabite {
+  @include sprite-rect(23px, 21px, -589px, -371px);
 }
-.pkms-dragonair{
-  @include sprite-rect(22px, 22px, -612px, -370px);
+.pkms-gastly {
+  @include sprite-rect(23px, 21px, -614px, -371px);
 }
-.pkms-dustox{
-  @include sprite-rect(26px, 19px, -636px, -370px);
+.pkms-girafarig {
+  @include sprite-rect(22px, 23px, -639px, -371px);
 }
-.pkms-eiscue-noice{
-  @include sprite-rect(14px, 31px, -664px, -370px);
+.pkms-gogoat {
+  @include sprite-rect(23px, 22px, -663px, -371px);
 }
-.pkms-floette-eternal{
-  @include sprite-rect(23px, 21px, -680px, -370px);
+.pkms-granbull {
+  @include sprite-rect(22px, 23px, -688px, -371px);
 }
-.pkms-frogadier{
-  @include sprite-rect(23px, 22px, 0px, -403px);
+.pkms-gumshoos {
+  @include sprite-rect(20px, 24px, 0px, -404px);
 }
-.pkms-furret{
-  @include sprite-rect(23px, 21px, -25px, -403px);
+.pkms-hattrem {
+  @include sprite-rect(22px, 22px, -22px, -404px);
 }
-.pkms-gabite{
-  @include sprite-rect(23px, 21px, -50px, -403px);
+.pkms-jangmo-o {
+  @include sprite-rect(22px, 23px, -46px, -404px);
 }
-.pkms-gastly{
-  @include sprite-rect(23px, 21px, -75px, -403px);
+.pkms-jumpluff {
+  @include sprite-rect(22px, 22px, -70px, -404px);
 }
-.pkms-girafarig{
-  @include sprite-rect(22px, 23px, -100px, -403px);
+.pkms-kricketune {
+  @include sprite-rect(20px, 24px, -94px, -404px);
 }
-.pkms-gogoat{
-  @include sprite-rect(23px, 22px, -124px, -403px);
+.pkms-loudred {
+  @include sprite-rect(21px, 23px, -116px, -404px);
 }
-.pkms-granbull{
-  @include sprite-rect(22px, 23px, -149px, -403px);
+.pkms-lumineon {
+  @include sprite-rect(22px, 23px, -139px, -404px);
 }
-.pkms-gumshoos{
-  @include sprite-rect(20px, 24px, -173px, -403px);
+.pkms-monferno {
+  @include sprite-rect(22px, 23px, -163px, -404px);
 }
-.pkms-hattrem{
-  @include sprite-rect(22px, 22px, -195px, -403px);
+.pkms-morgrem {
+  @include sprite-rect(22px, 23px, -187px, -404px);
 }
-.pkms-jangmo-o{
-  @include sprite-rect(22px, 23px, -219px, -403px);
+.pkms-mothim {
+  @include sprite-rect(25px, 20px, -211px, -404px);
 }
-.pkms-jumpluff{
-  @include sprite-rect(22px, 22px, -243px, -403px);
+.pkms-mudbray {
+  @include sprite-rect(21px, 23px, -238px, -404px);
 }
-.pkms-kricketune{
-  @include sprite-rect(20px, 24px, -267px, -403px);
+.pkms-nickit {
+  @include sprite-rect(24px, 21px, -261px, -404px);
 }
-.pkms-loudred{
-  @include sprite-rect(21px, 23px, -289px, -403px);
+.pkms-nihilego {
+  @include sprite-rect(21px, 24px, -287px, -404px);
 }
-.pkms-lumineon{
-  @include sprite-rect(22px, 23px, -312px, -403px);
+.pkms-omastar {
+  @include sprite-rect(22px, 22px, -310px, -404px);
 }
-.pkms-monferno{
-  @include sprite-rect(22px, 23px, -336px, -403px);
+.pkms-pachirisu {
+  @include sprite-rect(22px, 23px, -334px, -404px);
 }
-.pkms-morgrem{
-  @include sprite-rect(22px, 23px, -360px, -403px);
+.pkms-parasect {
+  @include sprite-rect(22px, 22px, -358px, -404px);
 }
-.pkms-mothim{
-  @include sprite-rect(25px, 20px, -384px, -403px);
+.pkms-pignite {
+  @include sprite-rect(23px, 21px, -382px, -404px);
 }
-.pkms-mudbray{
-  @include sprite-rect(21px, 23px, -411px, -403px);
+.pkms-pikachu-alola-cap-female {
+  @include sprite-rect(24px, 21px, -407px, -404px);
 }
-.pkms-nickit{
-  @include sprite-rect(24px, 21px, -434px, -403px);
+.pkms-pikachu-alola-cap {
+  @include sprite-rect(24px, 21px, -433px, -404px);
 }
-.pkms-nihilego{
-  @include sprite-rect(21px, 24px, -460px, -403px);
+.pkms-pikachu-hoenn-cap-female {
+  @include sprite-rect(24px, 21px, -459px, -404px);
 }
-.pkms-omastar{
-  @include sprite-rect(22px, 22px, -483px, -403px);
+.pkms-pikachu-hoenn-cap {
+  @include sprite-rect(24px, 21px, -485px, -404px);
 }
-.pkms-pachirisu{
-  @include sprite-rect(22px, 23px, -507px, -403px);
+.pkms-pikachu-kalos-cap-female {
+  @include sprite-rect(24px, 21px, -511px, -404px);
 }
-.pkms-parasect{
-  @include sprite-rect(22px, 22px, -531px, -403px);
+.pkms-pikachu-kalos-cap {
+  @include sprite-rect(24px, 21px, -537px, -404px);
 }
-.pkms-pignite{
-  @include sprite-rect(23px, 21px, -555px, -403px);
+.pkms-pikachu-original-cap-female {
+  @include sprite-rect(24px, 21px, -563px, -404px);
 }
-.pkms-pikachu-alola-cap-female{
-  @include sprite-rect(24px, 21px, -580px, -403px);
+.pkms-pikachu-original-cap {
+  @include sprite-rect(24px, 21px, -589px, -404px);
 }
-.pkms-pikachu-alola-cap{
-  @include sprite-rect(24px, 21px, -606px, -403px);
+.pkms-pikachu-partner-cap-female {
+  @include sprite-rect(24px, 21px, -615px, -404px);
 }
-.pkms-pikachu-hoenn-cap-female{
-  @include sprite-rect(24px, 21px, -632px, -403px);
+.pkms-pikachu-partner-cap {
+  @include sprite-rect(24px, 21px, -641px, -404px);
 }
-.pkms-pikachu-hoenn-cap{
-  @include sprite-rect(24px, 21px, -658px, -403px);
+.pkms-pikachu-pop-star {
+  @include sprite-rect(24px, 20px, -667px, -404px);
 }
-.pkms-pikachu-kalos-cap-female{
-  @include sprite-rect(24px, 21px, -684px, -403px);
+.pkms-pikachu-sinnoh-cap-female {
+  @include sprite-rect(24px, 21px, -693px, -404px);
 }
-.pkms-pikachu-kalos-cap{
-  @include sprite-rect(24px, 21px, -710px, -403px);
+.pkms-pikachu-sinnoh-cap {
+  @include sprite-rect(24px, 21px, -719px, -404px);
 }
-.pkms-pikachu-original-cap-female{
-  @include sprite-rect(24px, 21px, 0px, -429px);
+.pkms-pikachu-unova-cap-female {
+  @include sprite-rect(24px, 21px, 0px, -430px);
 }
-.pkms-pikachu-original-cap{
-  @include sprite-rect(24px, 21px, -26px, -429px);
+.pkms-pikachu-unova-cap {
+  @include sprite-rect(24px, 21px, -26px, -430px);
 }
-.pkms-pikachu-partner-cap-female{
-  @include sprite-rect(24px, 21px, -52px, -429px);
+.pkms-pikachu-world-cap-female {
+  @include sprite-rect(24px, 21px, -52px, -430px);
 }
-.pkms-pikachu-partner-cap{
-  @include sprite-rect(24px, 21px, -78px, -429px);
+.pkms-pikachu-world-cap {
+  @include sprite-rect(24px, 21px, -78px, -430px);
 }
-.pkms-pikachu-pop-star{
-  @include sprite-rect(24px, 20px, -104px, -429px);
+.pkms-ponyta-galar {
+  @include sprite-rect(24px, 21px, -104px, -430px);
 }
-.pkms-pikachu-sinnoh-cap-female{
-  @include sprite-rect(24px, 21px, -130px, -429px);
+.pkms-purugly {
+  @include sprite-rect(23px, 21px, -130px, -430px);
 }
-.pkms-pikachu-sinnoh-cap{
-  @include sprite-rect(24px, 21px, -156px, -429px);
+.pkms-registeel {
+  @include sprite-rect(23px, 22px, -155px, -430px);
 }
-.pkms-pikachu-unova-cap-female{
-  @include sprite-rect(24px, 21px, -182px, -429px);
+.pkms-rhyhorn {
+  @include sprite-rect(24px, 20px, -180px, -430px);
 }
-.pkms-pikachu-unova-cap{
-  @include sprite-rect(24px, 21px, -208px, -429px);
+.pkms-sandygast {
+  @include sprite-rect(23px, 22px, -206px, -430px);
 }
-.pkms-pikachu-world-cap-female{
-  @include sprite-rect(24px, 21px, -234px, -429px);
+.pkms-seadra {
+  @include sprite-rect(24px, 20px, -231px, -430px);
 }
-.pkms-pikachu-world-cap{
-  @include sprite-rect(24px, 21px, -260px, -429px);
+.pkms-sealeo {
+  @include sprite-rect(26px, 18px, -257px, -430px);
 }
-.pkms-ponyta-galar{
-  @include sprite-rect(24px, 21px, -286px, -429px);
+.pkms-shinx {
+  @include sprite-rect(24px, 21px, -285px, -430px);
 }
-.pkms-purugly{
-  @include sprite-rect(23px, 21px, -312px, -429px);
+.pkms-simipour {
+  @include sprite-rect(24px, 21px, -311px, -430px);
 }
-.pkms-registeel{
-  @include sprite-rect(23px, 22px, -337px, -429px);
+.pkms-smeargle {
+  @include sprite-rect(24px, 21px, -337px, -430px);
 }
-.pkms-rhyhorn{
-  @include sprite-rect(24px, 20px, -362px, -429px);
+.pkms-staravia {
+  @include sprite-rect(22px, 23px, -363px, -430px);
 }
-.pkms-sandygast{
-  @include sprite-rect(23px, 22px, -388px, -429px);
+.pkms-stunky {
+  @include sprite-rect(26px, 19px, -387px, -430px);
 }
-.pkms-seadra{
-  @include sprite-rect(24px, 20px, -413px, -429px);
+.pkms-tapu-lele {
+  @include sprite-rect(20px, 25px, -415px, -430px);
 }
-.pkms-sealeo{
-  @include sprite-rect(26px, 18px, -439px, -429px);
+.pkms-toucannon {
+  @include sprite-rect(23px, 21px, -437px, -430px);
 }
-.pkms-shinx{
-  @include sprite-rect(24px, 21px, -467px, -429px);
+.pkms-unknown-pokemon2 {
+  @include sprite-rect(22px, 22px, -462px, -430px);
 }
-.pkms-simipour{
-  @include sprite-rect(24px, 21px, -493px, -429px);
+.pkms-ursaring {
+  @include sprite-rect(21px, 23px, -486px, -430px);
 }
-.pkms-smeargle{
-  @include sprite-rect(24px, 21px, -519px, -429px);
+.pkms-vibrava {
+  @include sprite-rect(25px, 20px, -509px, -430px);
 }
-.pkms-staravia{
-  @include sprite-rect(22px, 23px, -545px, -429px);
+.pkms-wormadam {
+  @include sprite-rect(22px, 23px, -536px, -430px);
 }
-.pkms-stunky{
-  @include sprite-rect(26px, 19px, -569px, -429px);
+.pkms-yanma {
+  @include sprite-rect(28px, 16px, -560px, -430px);
 }
-.pkms-tapu-lele{
-  @include sprite-rect(20px, 25px, -597px, -429px);
+.pkms-zangoose {
+  @include sprite-rect(23px, 22px, -590px, -430px);
 }
-.pkms-toucannon{
-  @include sprite-rect(23px, 21px, -619px, -429px);
+.pkms-archeops {
+  @include sprite-rect(26px, 21px, -615px, -430px);
 }
-.pkms-unknown-pokemon2{
-  @include sprite-rect(22px, 22px, -644px, -429px);
+.pkms-ariados {
+  @include sprite-rect(25px, 22px, -643px, -430px);
 }
-.pkms-ursaring{
-  @include sprite-rect(21px, 23px, -668px, -429px);
+.pkms-blacephalon {
+  @include sprite-rect(22px, 25px, -670px, -430px);
 }
-.pkms-vibrava{
-  @include sprite-rect(25px, 20px, -691px, -429px);
+.pkms-brionne {
+  @include sprite-rect(23px, 24px, -694px, -430px);
 }
-.pkms-wormadam{
-  @include sprite-rect(22px, 23px, -718px, -429px);
+.pkms-cacturne {
+  @include sprite-rect(19px, 27px, -719px, -430px);
 }
-.pkms-yanma{
-  @include sprite-rect(28px, 16px, -742px, -429px);
+.pkms-carkol {
+  @include sprite-rect(22px, 24px, -740px, -430px);
 }
-.pkms-zangoose{
-  @include sprite-rect(23px, 22px, 0px, -456px);
+.pkms-carracosta {
+  @include sprite-rect(25px, 22px, 0px, -459px);
 }
-.pkms-archeops{
-  @include sprite-rect(26px, 21px, -25px, -456px);
+.pkms-cherrim {
+  @include sprite-rect(19px, 27px, -27px, -459px);
 }
-.pkms-ariados{
-  @include sprite-rect(25px, 22px, -53px, -456px);
+.pkms-croconaw {
+  @include sprite-rect(21px, 25px, -48px, -459px);
 }
-.pkms-blacephalon{
-  @include sprite-rect(22px, 25px, -80px, -456px);
+.pkms-cufant {
+  @include sprite-rect(25px, 22px, -71px, -459px);
 }
-.pkms-brionne{
-  @include sprite-rect(23px, 24px, -104px, -456px);
+.pkms-dottler {
+  @include sprite-rect(25px, 22px, -98px, -459px);
 }
-.pkms-cacturne{
-  @include sprite-rect(19px, 27px, -129px, -456px);
+.pkms-drowzee {
+  @include sprite-rect(24px, 22px, -125px, -459px);
 }
-.pkms-carkol{
-  @include sprite-rect(22px, 24px, -150px, -456px);
+.pkms-dugtrio-alola {
+  @include sprite-rect(23px, 24px, -151px, -459px);
 }
-.pkms-carracosta{
-  @include sprite-rect(25px, 22px, -174px, -456px);
+.pkms-floatzel {
+  @include sprite-rect(25px, 21px, -176px, -459px);
 }
-.pkms-cherrim{
-  @include sprite-rect(19px, 27px, -201px, -456px);
+.pkms-fraxure {
+  @include sprite-rect(25px, 21px, -203px, -459px);
 }
-.pkms-croconaw{
-  @include sprite-rect(21px, 25px, -222px, -456px);
+.pkms-genesect--no-drive {
+  @include sprite-rect(22px, 24px, -230px, -459px);
 }
-.pkms-cufant{
-  @include sprite-rect(25px, 22px, -245px, -456px);
+.pkms-genesect-burn {
+  @include sprite-rect(22px, 24px, -254px, -459px);
 }
-.pkms-dottler{
-  @include sprite-rect(25px, 22px, -272px, -456px);
+.pkms-genesect-chill {
+  @include sprite-rect(22px, 24px, -278px, -459px);
 }
-.pkms-drowzee{
-  @include sprite-rect(24px, 22px, -299px, -456px);
+.pkms-genesect-douse {
+  @include sprite-rect(22px, 24px, -302px, -459px);
 }
-.pkms-dugtrio-alola{
-  @include sprite-rect(23px, 24px, -325px, -456px);
+.pkms-genesect-shock {
+  @include sprite-rect(22px, 24px, -326px, -459px);
 }
-.pkms-floatzel{
-  @include sprite-rect(25px, 21px, -350px, -456px);
+.pkms-genesect {
+  @include sprite-rect(22px, 24px, -350px, -459px);
 }
-.pkms-fraxure{
-  @include sprite-rect(25px, 21px, -377px, -456px);
+.pkms-glalie-mega {
+  @include sprite-rect(23px, 24px, -374px, -459px);
 }
-.pkms-genesect-burn{
-  @include sprite-rect(22px, 24px, -404px, -456px);
+.pkms-gorebyss {
+  @include sprite-rect(26px, 21px, -399px, -459px);
 }
-.pkms-genesect-chill{
-  @include sprite-rect(22px, 24px, -428px, -456px);
+.pkms-hariyama {
+  @include sprite-rect(24px, 23px, -427px, -459px);
 }
-.pkms-genesect-douse{
-  @include sprite-rect(22px, 24px, -452px, -456px);
+.pkms-klang {
+  @include sprite-rect(27px, 19px, -453px, -459px);
 }
-.pkms-genesect-shock{
-  @include sprite-rect(22px, 24px, -476px, -456px);
+.pkms-krokorok {
+  @include sprite-rect(25px, 21px, -482px, -459px);
 }
-.pkms-genesect-standard{
-  @include sprite-rect(22px, 24px, -500px, -456px);
+.pkms-litten {
+  @include sprite-rect(25px, 21px, -509px, -459px);
 }
-.pkms-genesect{
-  @include sprite-rect(22px, 24px, -524px, -456px);
+.pkms-magikarp {
+  @include sprite-rect(22px, 24px, -536px, -459px);
 }
-.pkms-glalie-mega{
-  @include sprite-rect(23px, 24px, -548px, -456px);
+.pkms-magmortar {
+  @include sprite-rect(25px, 22px, -560px, -459px);
 }
-.pkms-gorebyss{
-  @include sprite-rect(26px, 21px, -573px, -456px);
+.pkms-mewtwo-mega-x {
+  @include sprite-rect(21px, 26px, -587px, -459px);
 }
-.pkms-hariyama{
-  @include sprite-rect(24px, 23px, -601px, -456px);
+.pkms-mightyena {
+  @include sprite-rect(25px, 21px, -610px, -459px);
 }
-.pkms-klang{
-  @include sprite-rect(27px, 19px, -627px, -456px);
+.pkms-mismagius {
+  @include sprite-rect(19px, 28px, -637px, -459px);
 }
-.pkms-krokorok{
-  @include sprite-rect(25px, 21px, -656px, -456px);
+.pkms-persian-alola {
+  @include sprite-rect(24px, 22px, -658px, -459px);
 }
-.pkms-litten{
-  @include sprite-rect(25px, 21px, -683px, -456px);
+.pkms-phantump {
+  @include sprite-rect(25px, 21px, -684px, -459px);
 }
-.pkms-magikarp{
-  @include sprite-rect(22px, 24px, -710px, -456px);
+.pkms-pikachu-belle {
+  @include sprite-rect(22px, 25px, -711px, -459px);
 }
-.pkms-magmortar{
-  @include sprite-rect(25px, 22px, -734px, -456px);
+.pkms-ponyta {
+  @include sprite-rect(24px, 23px, -735px, -459px);
 }
-.pkms-mewtwo-mega-x{
-  @include sprite-rect(21px, 26px, 0px, -485px);
+.pkms-probopass {
+  @include sprite-rect(24px, 23px, 0px, -489px);
 }
-.pkms-mightyena{
-  @include sprite-rect(25px, 21px, -23px, -485px);
+.pkms-pyukumuku {
+  @include sprite-rect(26px, 20px, -26px, -489px);
 }
-.pkms-mismagius{
-  @include sprite-rect(19px, 28px, -50px, -485px);
+.pkms-raticate-alola {
+  @include sprite-rect(25px, 22px, -54px, -489px);
 }
-.pkms-persian-alola{
-  @include sprite-rect(24px, 22px, -71px, -485px);
+.pkms-raticate {
+  @include sprite-rect(25px, 21px, -81px, -489px);
 }
-.pkms-phantump{
-  @include sprite-rect(25px, 21px, -97px, -485px);
+.pkms-relicanth {
+  @include sprite-rect(25px, 21px, -108px, -489px);
 }
-.pkms-pikachu-belle{
-  @include sprite-rect(22px, 25px, -124px, -485px);
+.pkms-roselia {
+  @include sprite-rect(25px, 22px, -135px, -489px);
 }
-.pkms-ponyta{
-  @include sprite-rect(24px, 23px, -148px, -485px);
+.pkms-sawsbuck-summer {
+  @include sprite-rect(23px, 24px, -162px, -489px);
 }
-.pkms-probopass{
-  @include sprite-rect(24px, 23px, -174px, -485px);
+.pkms-sawsbuck-winter {
+  @include sprite-rect(23px, 24px, -187px, -489px);
 }
-.pkms-pyukumuku{
-  @include sprite-rect(26px, 20px, -200px, -485px);
+.pkms-sawsbuck {
+  @include sprite-rect(23px, 24px, -212px, -489px);
 }
-.pkms-raticate-alola{
-  @include sprite-rect(25px, 22px, -228px, -485px);
+.pkms-scorbunny {
+  @include sprite-rect(18px, 28px, -237px, -489px);
 }
-.pkms-raticate{
-  @include sprite-rect(25px, 21px, -255px, -485px);
+.pkms-skorupi {
+  @include sprite-rect(24px, 22px, -257px, -489px);
 }
-.pkms-relicanth{
-  @include sprite-rect(25px, 21px, -282px, -485px);
+.pkms-sobble {
+  @include sprite-rect(22px, 25px, -283px, -489px);
 }
-.pkms-roselia{
-  @include sprite-rect(25px, 22px, -309px, -485px);
+.pkms-stantler {
+  @include sprite-rect(21px, 25px, -307px, -489px);
 }
-.pkms-sawsbuck-summer{
-  @include sprite-rect(23px, 24px, -336px, -485px);
+.pkms-tentacool {
+  @include sprite-rect(24px, 22px, -330px, -489px);
 }
-.pkms-sawsbuck-winter{
-  @include sprite-rect(23px, 24px, -361px, -485px);
+.pkms-torracat {
+  @include sprite-rect(23px, 24px, -356px, -489px);
 }
-.pkms-sawsbuck{
-  @include sprite-rect(23px, 24px, -386px, -485px);
+.pkms-wartortle {
+  @include sprite-rect(24px, 22px, -381px, -489px);
 }
-.pkms-scorbunny{
-  @include sprite-rect(18px, 28px, -411px, -485px);
+.pkms-wormadam-sandy {
+  @include sprite-rect(24px, 23px, -407px, -489px);
 }
-.pkms-skorupi{
-  @include sprite-rect(24px, 22px, -431px, -485px);
+.pkms-wormadam-trash {
+  @include sprite-rect(23px, 23px, -433px, -489px);
 }
-.pkms-sobble{
-  @include sprite-rect(22px, 25px, -457px, -485px);
+.pkms-wynaut {
+  @include sprite-rect(25px, 22px, -458px, -489px);
 }
-.pkms-stantler{
-  @include sprite-rect(21px, 25px, -481px, -485px);
+.pkms-xurkitree {
+  @include sprite-rect(18px, 29px, -485px, -489px);
 }
-.pkms-tentacool{
-  @include sprite-rect(24px, 22px, -504px, -485px);
+.pkms-absol {
+  @include sprite-rect(23px, 25px, -505px, -489px);
 }
-.pkms-torracat{
-  @include sprite-rect(23px, 24px, -530px, -485px);
+.pkms-armaldo {
+  @include sprite-rect(26px, 23px, -530px, -489px);
 }
-.pkms-wartortle{
-  @include sprite-rect(24px, 22px, -555px, -485px);
+.pkms-audino-mega {
+  @include sprite-rect(22px, 26px, -558px, -489px);
 }
-.pkms-wormadam-sandy{
-  @include sprite-rect(24px, 23px, -581px, -485px);
+.pkms-bastiodon {
+  @include sprite-rect(26px, 23px, -582px, -489px);
 }
-.pkms-wormadam-trash{
-  @include sprite-rect(23px, 23px, -607px, -485px);
+.pkms-beautifly {
+  @include sprite-rect(25px, 24px, -610px, -489px);
 }
-.pkms-wynaut{
-  @include sprite-rect(25px, 22px, -632px, -485px);
+.pkms-beedrill {
+  @include sprite-rect(25px, 23px, -637px, -489px);
 }
-.pkms-xurkitree{
-  @include sprite-rect(18px, 29px, -659px, -485px);
+.pkms-breloom {
+  @include sprite-rect(23px, 25px, -664px, -489px);
 }
-.pkms-absol{
-  @include sprite-rect(23px, 25px, -679px, -485px);
+.pkms-camerupt {
+  @include sprite-rect(27px, 22px, -689px, -489px);
 }
-.pkms-armaldo{
-  @include sprite-rect(26px, 23px, -704px, -485px);
+.pkms-combusken {
+  @include sprite-rect(23px, 25px, -718px, -489px);
 }
-.pkms-audino-mega{
-  @include sprite-rect(22px, 26px, -732px, -485px);
+.pkms-cradily {
+  @include sprite-rect(25px, 24px, -743px, -489px);
 }
-.pkms-bastiodon{
-  @include sprite-rect(26px, 23px, 0px, -516px);
+.pkms-deoxys-defense {
+  @include sprite-rect(26px, 23px, 0px, -520px);
 }
-.pkms-beautifly{
-  @include sprite-rect(25px, 24px, -28px, -516px);
+.pkms-deoxys {
+  @include sprite-rect(26px, 22px, -28px, -520px);
 }
-.pkms-beedrill{
-  @include sprite-rect(25px, 23px, -55px, -516px);
+.pkms-eevee-starter {
+  @include sprite-rect(26px, 22px, -56px, -520px);
 }
-.pkms-breloom{
-  @include sprite-rect(23px, 25px, -82px, -516px);
+.pkms-electivire {
+  @include sprite-rect(26px, 23px, -84px, -520px);
 }
-.pkms-camerupt{
-  @include sprite-rect(27px, 22px, -107px, -516px);
+.pkms-empoleon {
+  @include sprite-rect(23px, 25px, -112px, -520px);
 }
-.pkms-combusken{
-  @include sprite-rect(23px, 25px, -136px, -516px);
+.pkms-entei {
+  @include sprite-rect(25px, 24px, -137px, -520px);
 }
-.pkms-cradily{
-  @include sprite-rect(25px, 24px, -161px, -516px);
+.pkms-farfetchd {
+  @include sprite-rect(26px, 22px, -164px, -520px);
 }
-.pkms-deoxys-defense{
-  @include sprite-rect(26px, 23px, -188px, -516px);
+.pkms-furfrou-matron {
+  @include sprite-rect(24px, 25px, -192px, -520px);
 }
-.pkms-deoxys{
-  @include sprite-rect(26px, 22px, -216px, -516px);
+.pkms-glameow {
+  @include sprite-rect(26px, 22px, -218px, -520px);
 }
-.pkms-eevee-starter{
-  @include sprite-rect(26px, 22px, -244px, -516px);
+.pkms-gligar {
+  @include sprite-rect(24px, 24px, -246px, -520px);
 }
-.pkms-electivire{
-  @include sprite-rect(26px, 23px, -272px, -516px);
+.pkms-gourgeist-large {
+  @include sprite-rect(23px, 25px, -272px, -520px);
 }
-.pkms-empoleon{
-  @include sprite-rect(23px, 25px, -300px, -516px);
+.pkms-gourgeist-super {
+  @include sprite-rect(23px, 25px, -297px, -520px);
 }
-.pkms-entei{
-  @include sprite-rect(25px, 24px, -325px, -516px);
+.pkms-graveler {
+  @include sprite-rect(26px, 22px, -322px, -520px);
 }
-.pkms-farfetchd{
-  @include sprite-rect(26px, 22px, -352px, -516px);
+.pkms-hakamo-o {
+  @include sprite-rect(21px, 27px, -350px, -520px);
 }
-.pkms-furfrou-matron{
-  @include sprite-rect(24px, 25px, -380px, -516px);
+.pkms-honchkrow {
+  @include sprite-rect(26px, 22px, -373px, -520px);
 }
-.pkms-glameow{
-  @include sprite-rect(26px, 22px, -406px, -516px);
+.pkms-huntail {
+  @include sprite-rect(25px, 24px, -401px, -520px);
 }
-.pkms-gligar{
-  @include sprite-rect(24px, 24px, -434px, -516px);
+.pkms-krabby {
+  @include sprite-rect(28px, 21px, -428px, -520px);
 }
-.pkms-gourgeist-large{
-  @include sprite-rect(23px, 25px, -460px, -516px);
+.pkms-latias {
+  @include sprite-rect(27px, 21px, -458px, -520px);
 }
-.pkms-gourgeist-super{
-  @include sprite-rect(23px, 25px, -485px, -516px);
+.pkms-machoke {
+  @include sprite-rect(26px, 22px, -487px, -520px);
 }
-.pkms-graveler{
-  @include sprite-rect(26px, 22px, -510px, -516px);
+.pkms-mankey {
+  @include sprite-rect(28px, 20px, -515px, -520px);
 }
-.pkms-hakamo-o{
-  @include sprite-rect(21px, 27px, -538px, -516px);
+.pkms-masquerain {
+  @include sprite-rect(26px, 23px, -545px, -520px);
 }
-.pkms-honchkrow{
-  @include sprite-rect(26px, 22px, -561px, -516px);
+.pkms-metang {
+  @include sprite-rect(27px, 22px, -573px, -520px);
 }
-.pkms-huntail{
-  @include sprite-rect(25px, 24px, -589px, -516px);
+.pkms-mew {
+  @include sprite-rect(23px, 25px, -602px, -520px);
 }
-.pkms-krabby{
-  @include sprite-rect(28px, 21px, -616px, -516px);
+.pkms-mimikyu-busted {
+  @include sprite-rect(29px, 20px, -627px, -520px);
 }
-.pkms-latias{
-  @include sprite-rect(27px, 21px, -646px, -516px);
+.pkms-poipole {
+  @include sprite-rect(23px, 25px, -658px, -520px);
 }
-.pkms-machoke{
-  @include sprite-rect(26px, 22px, -675px, -516px);
+.pkms-rampardos {
+  @include sprite-rect(25px, 23px, -683px, -520px);
 }
-.pkms-mankey{
-  @include sprite-rect(28px, 20px, -703px, -516px);
+.pkms-regice {
+  @include sprite-rect(25px, 23px, -710px, -520px);
 }
-.pkms-masquerain{
-  @include sprite-rect(26px, 23px, -733px, -516px);
+.pkms-sandslash-alola {
+  @include sprite-rect(25px, 24px, -737px, -520px);
 }
-.pkms-metang{
-  @include sprite-rect(27px, 22px, -761px, -516px);
+.pkms-seel {
+  @include sprite-rect(25px, 23px, -764px, -520px);
 }
-.pkms-mew{
-  @include sprite-rect(23px, 25px, -790px, -516px);
+.pkms-simisear {
+  @include sprite-rect(26px, 22px, -791px, -520px);
 }
-.pkms-poipole{
-  @include sprite-rect(23px, 25px, 0px, -545px);
+.pkms-staraptor {
+  @include sprite-rect(23px, 25px, 0px, -549px);
 }
-.pkms-rampardos{
-  @include sprite-rect(25px, 23px, -25px, -545px);
+.pkms-tapu-bulu {
+  @include sprite-rect(22px, 26px, -25px, -549px);
 }
-.pkms-regice{
-  @include sprite-rect(25px, 23px, -52px, -545px);
+.pkms-tapu-fini {
+  @include sprite-rect(22px, 26px, -49px, -549px);
 }
-.pkms-sandslash-alola{
-  @include sprite-rect(25px, 24px, -79px, -545px);
+.pkms-thwackey {
+  @include sprite-rect(22px, 26px, -73px, -549px);
 }
-.pkms-seel{
-  @include sprite-rect(25px, 23px, -106px, -545px);
+.pkms-typhlosion {
+  @include sprite-rect(23px, 25px, -97px, -549px);
 }
-.pkms-simisear{
-  @include sprite-rect(26px, 22px, -133px, -545px);
+.pkms-uxie {
+  @include sprite-rect(26px, 22px, -122px, -549px);
 }
-.pkms-staraptor{
-  @include sprite-rect(23px, 25px, -161px, -545px);
+.pkms-vigoroth {
+  @include sprite-rect(27px, 22px, -150px, -549px);
 }
-.pkms-tapu-bulu{
-  @include sprite-rect(22px, 26px, -186px, -545px);
+.pkms-zweilous {
+  @include sprite-rect(26px, 22px, -179px, -549px);
 }
-.pkms-tapu-fini{
-  @include sprite-rect(22px, 26px, -210px, -545px);
+.pkms-altaria-mega {
+  @include sprite-rect(27px, 23px, -207px, -549px);
 }
-.pkms-thwackey{
-  @include sprite-rect(22px, 26px, -234px, -545px);
+.pkms-amoonguss {
+  @include sprite-rect(24px, 26px, -236px, -549px);
 }
-.pkms-typhlosion{
-  @include sprite-rect(23px, 25px, -258px, -545px);
+.pkms-aurorus {
+  @include sprite-rect(24px, 27px, -262px, -549px);
 }
-.pkms-uxie{
-  @include sprite-rect(26px, 22px, -283px, -545px);
+.pkms-azelf {
+  @include sprite-rect(26px, 24px, -288px, -549px);
 }
-.pkms-vigoroth{
-  @include sprite-rect(27px, 22px, -311px, -545px);
+.pkms-basculin-blue-striped {
+  @include sprite-rect(27px, 23px, -316px, -549px);
 }
-.pkms-zweilous{
-  @include sprite-rect(26px, 22px, -340px, -545px);
+.pkms-basculin {
+  @include sprite-rect(28px, 23px, -345px, -549px);
 }
-.pkms-altaria-mega{
-  @include sprite-rect(27px, 23px, -368px, -545px);
+.pkms-blaziken {
+  @include sprite-rect(25px, 26px, -375px, -549px);
 }
-.pkms-amoonguss{
-  @include sprite-rect(24px, 26px, -397px, -545px);
+.pkms-carnivine {
+  @include sprite-rect(27px, 23px, -402px, -549px);
 }
-.pkms-aurorus{
-  @include sprite-rect(24px, 27px, -423px, -545px);
+.pkms-chesnaught {
+  @include sprite-rect(26px, 24px, -431px, -549px);
 }
-.pkms-azelf{
-  @include sprite-rect(26px, 24px, -449px, -545px);
+.pkms-cresselia {
+  @include sprite-rect(25px, 26px, -459px, -549px);
 }
-.pkms-basculin-blue-striped{
-  @include sprite-rect(27px, 23px, -477px, -545px);
+.pkms-darmanitan-zen {
+  @include sprite-rect(26px, 24px, -486px, -549px);
 }
-.pkms-basculin{
-  @include sprite-rect(28px, 23px, -506px, -545px);
+.pkms-delphox {
+  @include sprite-rect(27px, 23px, -514px, -549px);
 }
-.pkms-blaziken{
-  @include sprite-rect(25px, 26px, -536px, -545px);
+.pkms-deoxys-speed {
+  @include sprite-rect(25px, 25px, -543px, -549px);
 }
-.pkms-carnivine{
-  @include sprite-rect(27px, 23px, -563px, -545px);
+.pkms-donphan {
+  @include sprite-rect(29px, 22px, -570px, -549px);
 }
-.pkms-chesnaught{
-  @include sprite-rect(26px, 24px, -592px, -545px);
+.pkms-drakloak {
+  @include sprite-rect(26px, 24px, -601px, -549px);
 }
-.pkms-cresselia{
-  @include sprite-rect(25px, 26px, -620px, -545px);
+.pkms-dunsparce {
+  @include sprite-rect(24px, 26px, -629px, -549px);
 }
-.pkms-darmanitan-zen{
-  @include sprite-rect(26px, 24px, -647px, -545px);
+.pkms-dusclops {
+  @include sprite-rect(26px, 24px, -655px, -549px);
 }
-.pkms-delphox{
-  @include sprite-rect(27px, 23px, -675px, -545px);
+.pkms-furfrou-dandy {
+  @include sprite-rect(24px, 26px, -683px, -549px);
 }
-.pkms-deoxys-speed{
-  @include sprite-rect(25px, 25px, -704px, -545px);
+.pkms-furfrou-debutante {
+  @include sprite-rect(25px, 25px, -709px, -549px);
 }
-.pkms-donphan{
-  @include sprite-rect(29px, 22px, -731px, -545px);
+.pkms-furfrou-heart {
+  @include sprite-rect(25px, 26px, -736px, -549px);
 }
-.pkms-drakloak{
-  @include sprite-rect(26px, 24px, -762px, -545px);
+.pkms-furfrou-kabuki {
+  @include sprite-rect(25px, 25px, -763px, -549px);
 }
-.pkms-dunsparce{
-  @include sprite-rect(24px, 26px, -790px, -545px);
+.pkms-furfrou-la-reine {
+  @include sprite-rect(25px, 25px, -790px, -549px);
 }
-.pkms-dusclops{
-  @include sprite-rect(26px, 24px, 0px, -574px);
+.pkms-furfrou-pharaoh {
+  @include sprite-rect(24px, 26px, 0px, -578px);
 }
-.pkms-furfrou-dandy{
-  @include sprite-rect(24px, 26px, -28px, -574px);
+.pkms-furfrou {
+  @include sprite-rect(24px, 27px, -26px, -578px);
 }
-.pkms-furfrou-debutante{
-  @include sprite-rect(25px, 25px, -54px, -574px);
+.pkms-gallade-mega {
+  @include sprite-rect(25px, 26px, -52px, -578px);
 }
-.pkms-furfrou-heart{
-  @include sprite-rect(25px, 26px, -81px, -574px);
+.pkms-garchomp {
+  @include sprite-rect(29px, 22px, -79px, -578px);
 }
-.pkms-furfrou-kabuki{
-  @include sprite-rect(25px, 25px, -108px, -574px);
+.pkms-gardevoir-mega {
+  @include sprite-rect(26px, 24px, -110px, -578px);
 }
-.pkms-furfrou-la-reine{
-  @include sprite-rect(25px, 25px, -135px, -574px);
+.pkms-grovyle {
+  @include sprite-rect(28px, 22px, -138px, -578px);
 }
-.pkms-furfrou-pharaoh{
-  @include sprite-rect(24px, 26px, -162px, -574px);
+.pkms-gurdurr {
+  @include sprite-rect(27px, 24px, -168px, -578px);
 }
-.pkms-furfrou{
-  @include sprite-rect(24px, 27px, -188px, -574px);
+.pkms-houndoom-mega {
+  @include sprite-rect(23px, 27px, -197px, -578px);
 }
-.pkms-gallade-mega{
-  @include sprite-rect(25px, 26px, -214px, -574px);
+.pkms-indeedee {
+  @include sprite-rect(22px, 28px, -222px, -578px);
 }
-.pkms-garchomp{
-  @include sprite-rect(29px, 22px, -241px, -574px);
+.pkms-infernape {
+  @include sprite-rect(26px, 24px, -246px, -578px);
 }
-.pkms-gardevoir-mega{
-  @include sprite-rect(26px, 24px, -272px, -574px);
+.pkms-koffing {
+  @include sprite-rect(25px, 26px, -274px, -578px);
 }
-.pkms-grovyle{
-  @include sprite-rect(28px, 22px, -300px, -574px);
+.pkms-latios {
+  @include sprite-rect(28px, 22px, -301px, -578px);
 }
-.pkms-gurdurr{
-  @include sprite-rect(27px, 24px, -330px, -574px);
+.pkms-luxio {
+  @include sprite-rect(30px, 21px, -331px, -578px);
 }
-.pkms-houndoom-mega{
-  @include sprite-rect(23px, 27px, -359px, -574px);
+.pkms-manectric-mega {
+  @include sprite-rect(26px, 24px, -363px, -578px);
 }
-.pkms-indeedee{
-  @include sprite-rect(22px, 28px, -384px, -574px);
+.pkms-meganium {
+  @include sprite-rect(23px, 27px, -391px, -578px);
 }
-.pkms-infernape{
-  @include sprite-rect(26px, 24px, -408px, -574px);
+.pkms-mesprit {
+  @include sprite-rect(29px, 22px, -416px, -578px);
 }
-.pkms-koffing{
-  @include sprite-rect(25px, 26px, -436px, -574px);
+.pkms-mewtwo-mega-y {
+  @include sprite-rect(20px, 30px, -447px, -578px);
 }
-.pkms-latios{
-  @include sprite-rect(28px, 22px, -463px, -574px);
+.pkms-muk-alola {
+  @include sprite-rect(26px, 25px, -469px, -578px);
 }
-.pkms-luxio{
-  @include sprite-rect(30px, 21px, -493px, -574px);
+.pkms-muk {
+  @include sprite-rect(26px, 25px, -497px, -578px);
 }
-.pkms-manectric-mega{
-  @include sprite-rect(26px, 24px, -525px, -574px);
+.pkms-pikachu-starter-female {
+  @include sprite-rect(28px, 23px, -525px, -578px);
 }
-.pkms-meganium{
-  @include sprite-rect(23px, 27px, -553px, -574px);
+.pkms-pikachu-starter {
+  @include sprite-rect(28px, 23px, -555px, -578px);
 }
-.pkms-mesprit{
-  @include sprite-rect(29px, 22px, -578px, -574px);
+.pkms-primeape {
+  @include sprite-rect(28px, 23px, -585px, -578px);
 }
-.pkms-mewtwo-mega-y{
-  @include sprite-rect(20px, 30px, -609px, -574px);
+.pkms-qwilfish {
+  @include sprite-rect(29px, 22px, -615px, -578px);
 }
-.pkms-muk-alola{
-  @include sprite-rect(26px, 25px, -631px, -574px);
+.pkms-raboot {
+  @include sprite-rect(22px, 29px, -646px, -578px);
 }
-.pkms-muk{
-  @include sprite-rect(26px, 25px, -659px, -574px);
+.pkms-regirock {
+  @include sprite-rect(27px, 23px, -670px, -578px);
 }
-.pkms-pikachu-starter-female{
-  @include sprite-rect(28px, 23px, -687px, -574px);
+.pkms-sawsbuck-autumn {
+  @include sprite-rect(25px, 25px, -699px, -578px);
 }
-.pkms-pikachu-starter{
-  @include sprite-rect(28px, 23px, -717px, -574px);
+.pkms-serperior {
+  @include sprite-rect(28px, 22px, -726px, -578px);
 }
-.pkms-primeape{
-  @include sprite-rect(28px, 23px, -747px, -574px);
+.pkms-simisage {
+  @include sprite-rect(25px, 25px, -756px, -578px);
 }
-.pkms-qwilfish{
-  @include sprite-rect(29px, 22px, -777px, -574px);
+.pkms-slowbro-mega {
+  @include sprite-rect(25px, 26px, -783px, -578px);
 }
-.pkms-raboot{
-  @include sprite-rect(22px, 29px, -808px, -574px);
+.pkms-swampert {
+  @include sprite-rect(26px, 25px, -810px, -578px);
 }
-.pkms-regirock{
-  @include sprite-rect(27px, 23px, 0px, -606px);
+.pkms-torterra {
+  @include sprite-rect(28px, 23px, 0px, -610px);
 }
-.pkms-sawsbuck-autumn{
-  @include sprite-rect(25px, 25px, -29px, -606px);
+.pkms-unknown-pokemon {
+  @include sprite-rect(29px, 21px, -30px, -610px);
 }
-.pkms-serperior{
-  @include sprite-rect(28px, 22px, -56px, -606px);
+.pkms-vivillon-archipelago {
+  @include sprite-rect(26px, 25px, -61px, -610px);
 }
-.pkms-simisage{
-  @include sprite-rect(25px, 25px, -86px, -606px);
+.pkms-vivillon-continental {
+  @include sprite-rect(26px, 25px, -89px, -610px);
 }
-.pkms-slowbro-mega{
-  @include sprite-rect(25px, 26px, -113px, -606px);
+.pkms-vivillon-elegant {
+  @include sprite-rect(26px, 25px, -117px, -610px);
 }
-.pkms-swampert{
-  @include sprite-rect(26px, 25px, -140px, -606px);
+.pkms-vivillon-fancy {
+  @include sprite-rect(26px, 25px, -145px, -610px);
 }
-.pkms-torterra{
-  @include sprite-rect(28px, 23px, -168px, -606px);
+.pkms-vivillon-garden {
+  @include sprite-rect(26px, 25px, -173px, -610px);
 }
-.pkms-unknown-pokemon{
-  @include sprite-rect(29px, 21px, -198px, -606px);
+.pkms-vivillon-high-plains {
+  @include sprite-rect(26px, 25px, -201px, -610px);
 }
-.pkms-vivillon-archipelago{
-  @include sprite-rect(26px, 25px, -229px, -606px);
+.pkms-vivillon-icy-snow {
+  @include sprite-rect(26px, 25px, -229px, -610px);
 }
-.pkms-vivillon-continental{
-  @include sprite-rect(26px, 25px, -257px, -606px);
+.pkms-vivillon-jungle {
+  @include sprite-rect(26px, 25px, -257px, -610px);
 }
-.pkms-vivillon-elegant{
-  @include sprite-rect(26px, 25px, -285px, -606px);
+.pkms-vivillon-marine {
+  @include sprite-rect(26px, 25px, -285px, -610px);
 }
-.pkms-vivillon-fancy{
-  @include sprite-rect(26px, 25px, -313px, -606px);
+.pkms-vivillon-modern {
+  @include sprite-rect(26px, 25px, -313px, -610px);
 }
-.pkms-vivillon-garden{
-  @include sprite-rect(26px, 25px, -341px, -606px);
+.pkms-vivillon-monsoon {
+  @include sprite-rect(26px, 25px, -341px, -610px);
 }
-.pkms-vivillon-high-plains{
-  @include sprite-rect(26px, 25px, -369px, -606px);
+.pkms-vivillon-ocean {
+  @include sprite-rect(26px, 25px, -369px, -610px);
 }
-.pkms-vivillon-icy-snow{
-  @include sprite-rect(26px, 25px, -397px, -606px);
+.pkms-vivillon-pokeball {
+  @include sprite-rect(26px, 25px, -397px, -610px);
 }
-.pkms-vivillon-jungle{
-  @include sprite-rect(26px, 25px, -425px, -606px);
+.pkms-vivillon-polar {
+  @include sprite-rect(26px, 25px, -425px, -610px);
 }
-.pkms-vivillon-marine{
-  @include sprite-rect(26px, 25px, -453px, -606px);
+.pkms-vivillon-river {
+  @include sprite-rect(26px, 25px, -453px, -610px);
 }
-.pkms-vivillon-modern{
-  @include sprite-rect(26px, 25px, -481px, -606px);
+.pkms-vivillon-sandstorm {
+  @include sprite-rect(26px, 25px, -481px, -610px);
 }
-.pkms-vivillon-monsoon{
-  @include sprite-rect(26px, 25px, -509px, -606px);
+.pkms-vivillon-savanna {
+  @include sprite-rect(26px, 25px, -509px, -610px);
 }
-.pkms-vivillon-ocean{
-  @include sprite-rect(26px, 25px, -537px, -606px);
+.pkms-vivillon-sun {
+  @include sprite-rect(26px, 25px, -537px, -610px);
 }
-.pkms-vivillon-poke-ball{
-  @include sprite-rect(26px, 25px, -565px, -606px);
+.pkms-vivillon-tundra {
+  @include sprite-rect(26px, 25px, -565px, -610px);
 }
-.pkms-vivillon-polar{
-  @include sprite-rect(26px, 25px, -593px, -606px);
+.pkms-vivillon {
+  @include sprite-rect(26px, 25px, -593px, -610px);
 }
-.pkms-vivillon-river{
-  @include sprite-rect(26px, 25px, -621px, -606px);
+.pkms-walrein {
+  @include sprite-rect(28px, 22px, -621px, -610px);
 }
-.pkms-vivillon-sandstorm{
-  @include sprite-rect(26px, 25px, -649px, -606px);
+.pkms-yanmega {
+  @include sprite-rect(30px, 21px, -651px, -610px);
 }
-.pkms-vivillon-savanna{
-  @include sprite-rect(26px, 25px, -677px, -606px);
+.pkms-zebstrika {
+  @include sprite-rect(27px, 23px, -683px, -610px);
 }
-.pkms-vivillon-sun{
-  @include sprite-rect(26px, 25px, -705px, -606px);
+.pkms-absol-mega {
+  @include sprite-rect(26px, 26px, -712px, -610px);
 }
-.pkms-vivillon-tundra{
-  @include sprite-rect(26px, 25px, -733px, -606px);
+.pkms-aggron {
+  @include sprite-rect(29px, 24px, -740px, -610px);
 }
-.pkms-vivillon{
-  @include sprite-rect(26px, 25px, -761px, -606px);
+.pkms-alcremie-caramel-swirl-berry {
+  @include sprite-rect(23px, 30px, -771px, -610px);
 }
-.pkms-walrein{
-  @include sprite-rect(28px, 22px, -789px, -606px);
+.pkms-alcremie-caramel-swirl-clover {
+  @include sprite-rect(23px, 30px, -796px, -610px);
 }
-.pkms-yanmega{
-  @include sprite-rect(30px, 21px, -819px, -606px);
+.pkms-alcremie-caramel-swirl-flower {
+  @include sprite-rect(23px, 30px, -821px, -610px);
 }
-.pkms-zebstrika{
-  @include sprite-rect(27px, 23px, 0px, -634px);
+.pkms-alcremie-caramel-swirl-love {
+  @include sprite-rect(23px, 30px, 0px, -642px);
 }
-.pkms-absol-mega{
-  @include sprite-rect(26px, 26px, -29px, -634px);
+.pkms-alcremie-caramel-swirl-plain {
+  @include sprite-rect(23px, 30px, -25px, -642px);
 }
-.pkms-aggron{
-  @include sprite-rect(29px, 24px, -57px, -634px);
+.pkms-alcremie-caramel-swirl-star {
+  @include sprite-rect(23px, 30px, -50px, -642px);
 }
-.pkms-alcremie-caramel-swirl-berry{
-  @include sprite-rect(23px, 30px, -88px, -634px);
+.pkms-alcremie-caramel-swirl-strawberry {
+  @include sprite-rect(23px, 30px, -75px, -642px);
 }
-.pkms-alcremie-caramel-swirl-clover{
-  @include sprite-rect(23px, 30px, -113px, -634px);
+.pkms-alcremie-lemon-cream-berry {
+  @include sprite-rect(23px, 30px, -100px, -642px);
 }
-.pkms-alcremie-caramel-swirl-flower{
-  @include sprite-rect(23px, 30px, -138px, -634px);
+.pkms-alcremie-lemon-cream-clover {
+  @include sprite-rect(23px, 30px, -125px, -642px);
 }
-.pkms-alcremie-caramel-swirl-love{
-  @include sprite-rect(23px, 30px, -163px, -634px);
+.pkms-alcremie-lemon-cream-flower {
+  @include sprite-rect(23px, 30px, -150px, -642px);
 }
-.pkms-alcremie-caramel-swirl-plain{
-  @include sprite-rect(23px, 30px, -188px, -634px);
+.pkms-alcremie-lemon-cream-love {
+  @include sprite-rect(23px, 30px, -175px, -642px);
 }
-.pkms-alcremie-caramel-swirl-star{
-  @include sprite-rect(23px, 30px, -213px, -634px);
+.pkms-alcremie-lemon-cream-plain {
+  @include sprite-rect(23px, 30px, -200px, -642px);
 }
-.pkms-alcremie-caramel-swirl-strawberry{
-  @include sprite-rect(23px, 30px, -238px, -634px);
+.pkms-alcremie-lemon-cream-star {
+  @include sprite-rect(23px, 30px, -225px, -642px);
 }
-.pkms-alcremie-lemon-cream-berry{
-  @include sprite-rect(23px, 30px, -263px, -634px);
+.pkms-alcremie-lemon-cream-strawberry {
+  @include sprite-rect(23px, 30px, -250px, -642px);
 }
-.pkms-alcremie-lemon-cream-clover{
-  @include sprite-rect(23px, 30px, -288px, -634px);
+.pkms-alcremie-matcha-cream-berry {
+  @include sprite-rect(23px, 30px, -275px, -642px);
 }
-.pkms-alcremie-lemon-cream-flower{
-  @include sprite-rect(23px, 30px, -313px, -634px);
+.pkms-alcremie-matcha-cream-clover {
+  @include sprite-rect(23px, 30px, -300px, -642px);
 }
-.pkms-alcremie-lemon-cream-love{
-  @include sprite-rect(23px, 30px, -338px, -634px);
+.pkms-alcremie-matcha-cream-flower {
+  @include sprite-rect(23px, 30px, -325px, -642px);
 }
-.pkms-alcremie-lemon-cream-plain{
-  @include sprite-rect(23px, 30px, -363px, -634px);
+.pkms-alcremie-matcha-cream-love {
+  @include sprite-rect(23px, 30px, -350px, -642px);
 }
-.pkms-alcremie-lemon-cream-star{
-  @include sprite-rect(23px, 30px, -388px, -634px);
+.pkms-alcremie-matcha-cream-plain {
+  @include sprite-rect(23px, 30px, -375px, -642px);
 }
-.pkms-alcremie-lemon-cream-strawberry{
-  @include sprite-rect(23px, 30px, -413px, -634px);
+.pkms-alcremie-matcha-cream-star {
+  @include sprite-rect(23px, 30px, -400px, -642px);
 }
-.pkms-alcremie-matcha-cream-berry{
-  @include sprite-rect(23px, 30px, -438px, -634px);
+.pkms-alcremie-matcha-cream-strawberry {
+  @include sprite-rect(23px, 30px, -425px, -642px);
 }
-.pkms-alcremie-matcha-cream-clover{
-  @include sprite-rect(23px, 30px, -463px, -634px);
+.pkms-alcremie-mint-cream-berry {
+  @include sprite-rect(23px, 30px, -450px, -642px);
 }
-.pkms-alcremie-matcha-cream-flower{
-  @include sprite-rect(23px, 30px, -488px, -634px);
+.pkms-alcremie-mint-cream-clover {
+  @include sprite-rect(23px, 30px, -475px, -642px);
 }
-.pkms-alcremie-matcha-cream-love{
-  @include sprite-rect(23px, 30px, -513px, -634px);
+.pkms-alcremie-mint-cream-flower {
+  @include sprite-rect(23px, 30px, -500px, -642px);
 }
-.pkms-alcremie-matcha-cream-plain{
-  @include sprite-rect(23px, 30px, -538px, -634px);
+.pkms-alcremie-mint-cream-love {
+  @include sprite-rect(23px, 30px, -525px, -642px);
 }
-.pkms-alcremie-matcha-cream-star{
-  @include sprite-rect(23px, 30px, -563px, -634px);
+.pkms-alcremie-mint-cream-plain {
+  @include sprite-rect(23px, 30px, -550px, -642px);
 }
-.pkms-alcremie-matcha-cream-strawberry{
-  @include sprite-rect(23px, 30px, -588px, -634px);
+.pkms-alcremie-mint-cream-star {
+  @include sprite-rect(23px, 30px, -575px, -642px);
 }
-.pkms-alcremie-mint-cream-berry{
-  @include sprite-rect(23px, 30px, -613px, -634px);
+.pkms-alcremie-mint-cream-strawberry {
+  @include sprite-rect(23px, 30px, -600px, -642px);
 }
-.pkms-alcremie-mint-cream-clover{
-  @include sprite-rect(23px, 30px, -638px, -634px);
+.pkms-alcremie-rainbow-swirl-berry {
+  @include sprite-rect(23px, 30px, -625px, -642px);
 }
-.pkms-alcremie-mint-cream-flower{
-  @include sprite-rect(23px, 30px, -663px, -634px);
+.pkms-alcremie-rainbow-swirl-clover {
+  @include sprite-rect(23px, 30px, -650px, -642px);
 }
-.pkms-alcremie-mint-cream-love{
-  @include sprite-rect(23px, 30px, -688px, -634px);
+.pkms-alcremie-rainbow-swirl-flower {
+  @include sprite-rect(23px, 30px, -675px, -642px);
 }
-.pkms-alcremie-mint-cream-plain{
-  @include sprite-rect(23px, 30px, -713px, -634px);
+.pkms-alcremie-rainbow-swirl-love {
+  @include sprite-rect(23px, 30px, -700px, -642px);
 }
-.pkms-alcremie-mint-cream-star{
-  @include sprite-rect(23px, 30px, -738px, -634px);
+.pkms-alcremie-rainbow-swirl-plain {
+  @include sprite-rect(23px, 30px, -725px, -642px);
 }
-.pkms-alcremie-mint-cream-strawberry{
-  @include sprite-rect(23px, 30px, 0px, -666px);
+.pkms-alcremie-rainbow-swirl-star {
+  @include sprite-rect(23px, 30px, 0px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-berry{
-  @include sprite-rect(23px, 30px, -25px, -666px);
+.pkms-alcremie-rainbow-swirl-strawberry {
+  @include sprite-rect(23px, 30px, -25px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-clover{
-  @include sprite-rect(23px, 30px, -50px, -666px);
+.pkms-alcremie-ruby-cream-berry {
+  @include sprite-rect(23px, 30px, -50px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-flower{
-  @include sprite-rect(23px, 30px, -75px, -666px);
+.pkms-alcremie-ruby-cream-clover {
+  @include sprite-rect(23px, 30px, -75px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-love{
-  @include sprite-rect(23px, 30px, -100px, -666px);
+.pkms-alcremie-ruby-cream-flower {
+  @include sprite-rect(23px, 30px, -100px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-plain{
-  @include sprite-rect(23px, 30px, -125px, -666px);
+.pkms-alcremie-ruby-cream-love {
+  @include sprite-rect(23px, 30px, -125px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-star{
-  @include sprite-rect(23px, 30px, -150px, -666px);
+.pkms-alcremie-ruby-cream-plain {
+  @include sprite-rect(23px, 30px, -150px, -674px);
 }
-.pkms-alcremie-rainbow-swirl-strawberry{
-  @include sprite-rect(23px, 30px, -175px, -666px);
+.pkms-alcremie-ruby-cream-star {
+  @include sprite-rect(23px, 30px, -175px, -674px);
 }
-.pkms-alcremie-ruby-cream-berry{
-  @include sprite-rect(23px, 30px, -200px, -666px);
+.pkms-alcremie-ruby-cream-strawberry {
+  @include sprite-rect(23px, 30px, -200px, -674px);
 }
-.pkms-alcremie-ruby-cream-clover{
-  @include sprite-rect(23px, 30px, -225px, -666px);
+.pkms-alcremie-ruby-swirl-berry {
+  @include sprite-rect(23px, 30px, -225px, -674px);
 }
-.pkms-alcremie-ruby-cream-flower{
-  @include sprite-rect(23px, 30px, -250px, -666px);
+.pkms-alcremie-ruby-swirl-clover {
+  @include sprite-rect(23px, 30px, -250px, -674px);
 }
-.pkms-alcremie-ruby-cream-love{
-  @include sprite-rect(23px, 30px, -275px, -666px);
+.pkms-alcremie-ruby-swirl-flower {
+  @include sprite-rect(23px, 30px, -275px, -674px);
 }
-.pkms-alcremie-ruby-cream-plain{
-  @include sprite-rect(23px, 30px, -300px, -666px);
+.pkms-alcremie-ruby-swirl-love {
+  @include sprite-rect(23px, 30px, -300px, -674px);
 }
-.pkms-alcremie-ruby-cream-star{
-  @include sprite-rect(23px, 30px, -325px, -666px);
+.pkms-alcremie-ruby-swirl-plain {
+  @include sprite-rect(23px, 30px, -325px, -674px);
 }
-.pkms-alcremie-ruby-cream-strawberry{
-  @include sprite-rect(23px, 30px, -350px, -666px);
+.pkms-alcremie-ruby-swirl-star {
+  @include sprite-rect(23px, 30px, -350px, -674px);
 }
-.pkms-alcremie-ruby-swirl-berry{
-  @include sprite-rect(23px, 30px, -375px, -666px);
+.pkms-alcremie-ruby-swirl-strawberry {
+  @include sprite-rect(23px, 30px, -375px, -674px);
 }
-.pkms-alcremie-ruby-swirl-clover{
-  @include sprite-rect(23px, 30px, -400px, -666px);
+.pkms-alcremie-salted-cream-berry {
+  @include sprite-rect(23px, 30px, -400px, -674px);
 }
-.pkms-alcremie-ruby-swirl-flower{
-  @include sprite-rect(23px, 30px, -425px, -666px);
+.pkms-alcremie-salted-cream-clover {
+  @include sprite-rect(23px, 30px, -425px, -674px);
 }
-.pkms-alcremie-ruby-swirl-love{
-  @include sprite-rect(23px, 30px, -450px, -666px);
+.pkms-alcremie-salted-cream-flower {
+  @include sprite-rect(23px, 30px, -450px, -674px);
 }
-.pkms-alcremie-ruby-swirl-plain{
-  @include sprite-rect(23px, 30px, -475px, -666px);
+.pkms-alcremie-salted-cream-love {
+  @include sprite-rect(23px, 30px, -475px, -674px);
 }
-.pkms-alcremie-ruby-swirl-star{
-  @include sprite-rect(23px, 30px, -500px, -666px);
+.pkms-alcremie-salted-cream-plain {
+  @include sprite-rect(23px, 30px, -500px, -674px);
 }
-.pkms-alcremie-ruby-swirl-strawberry{
-  @include sprite-rect(23px, 30px, -525px, -666px);
+.pkms-alcremie-salted-cream-star {
+  @include sprite-rect(23px, 30px, -525px, -674px);
 }
-.pkms-alcremie-salted-cream-berry{
-  @include sprite-rect(23px, 30px, -550px, -666px);
+.pkms-alcremie-salted-cream-strawberry {
+  @include sprite-rect(23px, 30px, -550px, -674px);
 }
-.pkms-alcremie-salted-cream-clover{
-  @include sprite-rect(23px, 30px, -575px, -666px);
+.pkms-alcremie-vanilla-cream-berry {
+  @include sprite-rect(23px, 30px, -575px, -674px);
 }
-.pkms-alcremie-salted-cream-flower{
-  @include sprite-rect(23px, 30px, -600px, -666px);
+.pkms-alcremie-vanilla-cream-clover {
+  @include sprite-rect(23px, 30px, -600px, -674px);
 }
-.pkms-alcremie-salted-cream-love{
-  @include sprite-rect(23px, 30px, -625px, -666px);
+.pkms-alcremie-vanilla-cream-flower {
+  @include sprite-rect(23px, 30px, -625px, -674px);
 }
-.pkms-alcremie-salted-cream-plain{
-  @include sprite-rect(23px, 30px, -650px, -666px);
+.pkms-alcremie-vanilla-cream-love {
+  @include sprite-rect(23px, 30px, -650px, -674px);
 }
-.pkms-alcremie-salted-cream-star{
-  @include sprite-rect(23px, 30px, -675px, -666px);
+.pkms-alcremie-vanilla-cream-plain {
+  @include sprite-rect(23px, 30px, -675px, -674px);
 }
-.pkms-alcremie-salted-cream-strawberry{
-  @include sprite-rect(23px, 30px, -700px, -666px);
+.pkms-alcremie-vanilla-cream-star {
+  @include sprite-rect(23px, 30px, -700px, -674px);
 }
-.pkms-alcremie-vanilla-cream-berry{
-  @include sprite-rect(23px, 30px, -725px, -666px);
+.pkms-alcremie-vanilla-cream-strawberry {
+  @include sprite-rect(23px, 30px, -725px, -674px);
 }
-.pkms-alcremie-vanilla-cream-clover{
-  @include sprite-rect(23px, 30px, 0px, -698px);
+.pkms-alcremie {
+  @include sprite-rect(23px, 30px, 0px, -706px);
 }
-.pkms-alcremie-vanilla-cream-flower{
-  @include sprite-rect(23px, 30px, -25px, -698px);
+.pkms-aromatisse {
+  @include sprite-rect(22px, 30px, -25px, -706px);
 }
-.pkms-alcremie-vanilla-cream-love{
-  @include sprite-rect(23px, 30px, -50px, -698px);
+.pkms-beedrill-mega {
+  @include sprite-rect(27px, 26px, -49px, -706px);
 }
-.pkms-alcremie-vanilla-cream-plain{
-  @include sprite-rect(23px, 30px, -75px, -698px);
+.pkms-bellossom {
+  @include sprite-rect(25px, 28px, -78px, -706px);
 }
-.pkms-alcremie-vanilla-cream-star{
-  @include sprite-rect(23px, 30px, -100px, -698px);
+.pkms-cramorant {
+  @include sprite-rect(23px, 29px, -105px, -706px);
 }
-.pkms-alcremie-vanilla-cream-strawberry{
-  @include sprite-rect(23px, 30px, -125px, -698px);
+.pkms-crobat {
+  @include sprite-rect(30px, 23px, -130px, -706px);
 }
-.pkms-alcremie{
-  @include sprite-rect(23px, 30px, -150px, -698px);
+.pkms-drizzile {
+  @include sprite-rect(24px, 28px, -162px, -706px);
 }
-.pkms-aromatisse{
-  @include sprite-rect(22px, 30px, -175px, -698px);
+.pkms-eelektross {
+  @include sprite-rect(30px, 22px, -188px, -706px);
 }
-.pkms-beedrill-mega{
-  @include sprite-rect(27px, 26px, -199px, -698px);
+.pkms-emboar {
+  @include sprite-rect(28px, 25px, -220px, -706px);
 }
-.pkms-bellossom{
-  @include sprite-rect(25px, 28px, -228px, -698px);
+.pkms-fearow {
+  @include sprite-rect(30px, 22px, -250px, -706px);
 }
-.pkms-cramorant{
-  @include sprite-rect(23px, 29px, -255px, -698px);
+.pkms-florges-blue {
+  @include sprite-rect(26px, 27px, -282px, -706px);
 }
-.pkms-crobat{
-  @include sprite-rect(30px, 23px, -280px, -698px);
+.pkms-florges-orange {
+  @include sprite-rect(26px, 27px, -310px, -706px);
 }
-.pkms-drizzile{
-  @include sprite-rect(24px, 28px, -312px, -698px);
+.pkms-florges-white {
+  @include sprite-rect(26px, 27px, -338px, -706px);
 }
-.pkms-eelektross{
-  @include sprite-rect(30px, 22px, -338px, -698px);
+.pkms-florges-yellow {
+  @include sprite-rect(26px, 27px, -366px, -706px);
 }
-.pkms-emboar{
-  @include sprite-rect(28px, 25px, -370px, -698px);
+.pkms-florges {
+  @include sprite-rect(26px, 27px, -394px, -706px);
 }
-.pkms-fearow{
-  @include sprite-rect(30px, 22px, -400px, -698px);
+.pkms-froslass {
+  @include sprite-rect(22px, 31px, -422px, -706px);
 }
-.pkms-florges-blue{
-  @include sprite-rect(26px, 27px, -432px, -698px);
+.pkms-furfrou-diamond {
+  @include sprite-rect(24px, 28px, -446px, -706px);
 }
-.pkms-florges-orange{
-  @include sprite-rect(26px, 27px, -460px, -698px);
+.pkms-furfrou-star {
+  @include sprite-rect(26px, 27px, -472px, -706px);
 }
-.pkms-florges-white{
-  @include sprite-rect(26px, 27px, -488px, -698px);
+.pkms-giratina-origin {
+  @include sprite-rect(28px, 25px, -500px, -706px);
 }
-.pkms-florges-yellow{
-  @include sprite-rect(26px, 27px, -516px, -698px);
+.pkms-gliscor {
+  @include sprite-rect(31px, 22px, -530px, -706px);
 }
-.pkms-florges{
-  @include sprite-rect(26px, 27px, -544px, -698px);
+.pkms-graveler-alola {
+  @include sprite-rect(29px, 24px, -563px, -706px);
 }
-.pkms-froslass{
-  @include sprite-rect(22px, 31px, -572px, -698px);
+.pkms-greninja-ash {
+  @include sprite-rect(30px, 23px, -594px, -706px);
 }
-.pkms-furfrou-diamond{
-  @include sprite-rect(24px, 28px, -596px, -698px);
+.pkms-greninja {
+  @include sprite-rect(30px, 22px, -626px, -706px);
 }
-.pkms-furfrou-star{
-  @include sprite-rect(26px, 27px, -622px, -698px);
+.pkms-heatran {
+  @include sprite-rect(33px, 20px, -658px, -706px);
 }
-.pkms-giratina-origin{
-  @include sprite-rect(28px, 25px, -650px, -698px);
+.pkms-indeedee-f {
+  @include sprite-rect(26px, 27px, -693px, -706px);
 }
-.pkms-gliscor{
-  @include sprite-rect(31px, 22px, -680px, -698px);
+.pkms-kangaskhan-mega {
+  @include sprite-rect(30px, 22px, -721px, -706px);
 }
-.pkms-graveler-alola{
-  @include sprite-rect(29px, 24px, -713px, -698px);
+.pkms-mimikyu {
+  @include sprite-rect(23px, 30px, -753px, -706px);
 }
-.pkms-greninja-ash{
-  @include sprite-rect(30px, 23px, -744px, -698px);
+.pkms-sharpedo-mega {
+  @include sprite-rect(25px, 27px, -778px, -706px);
 }
-.pkms-greninja{
-  @include sprite-rect(30px, 22px, -776px, -698px);
+.pkms-skuntank {
+  @include sprite-rect(28px, 25px, -805px, -706px);
 }
-.pkms-heatran{
-  @include sprite-rect(33px, 20px, -808px, -698px);
+.pkms-slaking {
+  @include sprite-rect(28px, 25px, -835px, -706px);
 }
-.pkms-indeedee-female{
-  @include sprite-rect(26px, 27px, 0px, -731px);
+.pkms-stunfisk-galar {
+  @include sprite-rect(31px, 22px, 0px, -739px);
 }
-.pkms-kangaskhan-mega{
-  @include sprite-rect(30px, 22px, -28px, -731px);
+.pkms-stunfisk {
+  @include sprite-rect(30px, 22px, -33px, -739px);
 }
-.pkms-mimikyu{
-  @include sprite-rect(23px, 30px, -60px, -731px);
+.pkms-swanna {
+  @include sprite-rect(30px, 22px, -65px, -739px);
 }
-.pkms-sharpedo-mega{
-  @include sprite-rect(25px, 27px, -85px, -731px);
+.pkms-tyrantrum {
+  @include sprite-rect(30px, 22px, -97px, -739px);
 }
-.pkms-skuntank{
-  @include sprite-rect(28px, 25px, -112px, -731px);
+.pkms-umbreon {
+  @include sprite-rect(26px, 27px, -129px, -739px);
 }
-.pkms-slaking{
-  @include sprite-rect(28px, 25px, -142px, -731px);
+.pkms-volcanion {
+  @include sprite-rect(25px, 27px, -157px, -739px);
 }
-.pkms-stunfisk-galar{
-  @include sprite-rect(31px, 22px, -172px, -731px);
+.pkms-abomasnow-mega {
+  @include sprite-rect(27px, 27px, -184px, -739px);
 }
-.pkms-stunfisk{
-  @include sprite-rect(30px, 22px, -205px, -731px);
+.pkms-alcremie-caramel-swirl-ribbon {
+  @include sprite-rect(25px, 30px, -213px, -739px);
 }
-.pkms-swanna{
-  @include sprite-rect(30px, 22px, -237px, -731px);
+.pkms-alcremie-lemon-cream-ribbon {
+  @include sprite-rect(25px, 30px, -240px, -739px);
 }
-.pkms-tyrantrum{
-  @include sprite-rect(30px, 22px, -269px, -731px);
+.pkms-alcremie-matcha-cream-ribbon {
+  @include sprite-rect(25px, 30px, -267px, -739px);
 }
-.pkms-umbreon{
-  @include sprite-rect(26px, 27px, -301px, -731px);
+.pkms-alcremie-mint-cream-ribbon {
+  @include sprite-rect(25px, 30px, -294px, -739px);
 }
-.pkms-volcanion{
-  @include sprite-rect(25px, 27px, -329px, -731px);
+.pkms-alcremie-rainbow-swirl-ribbon {
+  @include sprite-rect(25px, 30px, -321px, -739px);
 }
-.pkms-abomasnow-mega{
-  @include sprite-rect(27px, 27px, -356px, -731px);
+.pkms-alcremie-ruby-cream-ribbon {
+  @include sprite-rect(25px, 30px, -348px, -739px);
 }
-.pkms-alcremie-caramel-swirl-ribbon{
-  @include sprite-rect(25px, 30px, -385px, -731px);
+.pkms-alcremie-ruby-swirl-ribbon {
+  @include sprite-rect(25px, 30px, -375px, -739px);
 }
-.pkms-alcremie-lemon-cream-ribbon{
-  @include sprite-rect(25px, 30px, -412px, -731px);
+.pkms-alcremie-salted-cream-ribbon {
+  @include sprite-rect(25px, 30px, -402px, -739px);
 }
-.pkms-alcremie-matcha-cream-ribbon{
-  @include sprite-rect(25px, 30px, -439px, -731px);
+.pkms-alcremie-vanilla-cream-ribbon {
+  @include sprite-rect(25px, 30px, -429px, -739px);
 }
-.pkms-alcremie-mint-cream-ribbon{
-  @include sprite-rect(25px, 30px, -466px, -731px);
+.pkms-ambipom {
+  @include sprite-rect(29px, 25px, -456px, -739px);
 }
-.pkms-alcremie-rainbow-swirl-ribbon{
-  @include sprite-rect(25px, 30px, -493px, -731px);
+.pkms-ampharos-mega {
+  @include sprite-rect(29px, 26px, -487px, -739px);
 }
-.pkms-alcremie-ruby-cream-ribbon{
-  @include sprite-rect(25px, 30px, -520px, -731px);
+.pkms-arceus-bug {
+  @include sprite-rect(28px, 27px, -518px, -739px);
 }
-.pkms-alcremie-ruby-swirl-ribbon{
-  @include sprite-rect(25px, 30px, -547px, -731px);
+.pkms-arceus-dark {
+  @include sprite-rect(28px, 27px, -548px, -739px);
 }
-.pkms-alcremie-salted-cream-ribbon{
-  @include sprite-rect(25px, 30px, -574px, -731px);
+.pkms-arceus-dragon {
+  @include sprite-rect(28px, 27px, -578px, -739px);
 }
-.pkms-alcremie-vanilla-cream-ribbon{
-  @include sprite-rect(25px, 30px, -601px, -731px);
+.pkms-arceus-electric {
+  @include sprite-rect(28px, 27px, -608px, -739px);
 }
-.pkms-ambipom{
-  @include sprite-rect(29px, 25px, -628px, -731px);
+.pkms-arceus-fairy {
+  @include sprite-rect(28px, 27px, -638px, -739px);
 }
-.pkms-ampharos-mega{
-  @include sprite-rect(29px, 26px, -659px, -731px);
+.pkms-arceus-fighting {
+  @include sprite-rect(28px, 27px, -668px, -739px);
 }
-.pkms-arceus-bug{
-  @include sprite-rect(28px, 27px, -690px, -731px);
+.pkms-arceus-fire {
+  @include sprite-rect(28px, 27px, -698px, -739px);
 }
-.pkms-arceus-dark{
-  @include sprite-rect(28px, 27px, -720px, -731px);
+.pkms-arceus-flying {
+  @include sprite-rect(28px, 27px, -728px, -739px);
 }
-.pkms-arceus-dragon{
-  @include sprite-rect(28px, 27px, -750px, -731px);
+.pkms-arceus-ghost {
+  @include sprite-rect(28px, 27px, -758px, -739px);
 }
-.pkms-arceus-electric{
-  @include sprite-rect(28px, 27px, -780px, -731px);
+.pkms-arceus-grass {
+  @include sprite-rect(28px, 27px, -788px, -739px);
 }
-.pkms-arceus-fairy{
-  @include sprite-rect(28px, 27px, -810px, -731px);
+.pkms-arceus-ground {
+  @include sprite-rect(28px, 27px, -818px, -739px);
 }
-.pkms-arceus-fighting{
-  @include sprite-rect(28px, 27px, -840px, -731px);
+.pkms-arceus-ice {
+  @include sprite-rect(28px, 27px, -848px, -739px);
 }
-.pkms-arceus-fire{
-  @include sprite-rect(28px, 27px, 0px, -763px);
+.pkms-arceus-poison {
+  @include sprite-rect(28px, 27px, 0px, -771px);
 }
-.pkms-arceus-flying{
-  @include sprite-rect(28px, 27px, -30px, -763px);
+.pkms-arceus-psychic {
+  @include sprite-rect(28px, 27px, -30px, -771px);
 }
-.pkms-arceus-ghost{
-  @include sprite-rect(28px, 27px, -60px, -763px);
+.pkms-arceus-rock {
+  @include sprite-rect(28px, 27px, -60px, -771px);
 }
-.pkms-arceus-grass{
-  @include sprite-rect(28px, 27px, -90px, -763px);
+.pkms-arceus-steel {
+  @include sprite-rect(28px, 27px, -90px, -771px);
 }
-.pkms-arceus-ground{
-  @include sprite-rect(28px, 27px, -120px, -763px);
+.pkms-arceus-water {
+  @include sprite-rect(28px, 27px, -120px, -771px);
 }
-.pkms-arceus-ice{
-  @include sprite-rect(28px, 27px, -150px, -763px);
+.pkms-arceus {
+  @include sprite-rect(28px, 27px, -150px, -771px);
 }
-.pkms-arceus-poison{
-  @include sprite-rect(28px, 27px, -180px, -763px);
+.pkms-buzzwole {
+  @include sprite-rect(25px, 29px, -180px, -771px);
 }
-.pkms-arceus-psychic{
-  @include sprite-rect(28px, 27px, -210px, -763px);
+.pkms-cherrim-sunshine {
+  @include sprite-rect(26px, 28px, -207px, -771px);
 }
-.pkms-arceus-rock{
-  @include sprite-rect(28px, 27px, -240px, -763px);
+.pkms-crabominable {
+  @include sprite-rect(32px, 23px, -235px, -771px);
 }
-.pkms-arceus-steel{
-  @include sprite-rect(28px, 27px, -270px, -763px);
+.pkms-deoxys-attack {
+  @include sprite-rect(29px, 26px, -269px, -771px);
 }
-.pkms-arceus-water{
-  @include sprite-rect(28px, 27px, -300px, -763px);
+.pkms-diancie-mega {
+  @include sprite-rect(30px, 25px, -300px, -771px);
 }
-.pkms-arceus{
-  @include sprite-rect(28px, 27px, -330px, -763px);
+.pkms-doublade {
+  @include sprite-rect(31px, 23px, -332px, -771px);
 }
-.pkms-buzzwole{
-  @include sprite-rect(25px, 29px, -360px, -763px);
+.pkms-falinks {
+  @include sprite-rect(31px, 23px, -365px, -771px);
 }
-.pkms-cherrim-sunshine{
-  @include sprite-rect(26px, 28px, -387px, -763px);
+.pkms-garchomp-mega {
+  @include sprite-rect(30px, 25px, -398px, -771px);
 }
-.pkms-crabominable{
-  @include sprite-rect(32px, 23px, -415px, -763px);
+.pkms-giratina {
+  @include sprite-rect(30px, 24px, -430px, -771px);
 }
-.pkms-deoxys-attack{
-  @include sprite-rect(29px, 26px, -449px, -763px);
+.pkms-heliolisk {
+  @include sprite-rect(25px, 30px, -462px, -771px);
 }
-.pkms-diancie-mega{
-  @include sprite-rect(30px, 25px, -480px, -763px);
+.pkms-kadabra {
+  @include sprite-rect(29px, 25px, -489px, -771px);
 }
-.pkms-doublade{
-  @include sprite-rect(31px, 23px, -512px, -763px);
+.pkms-kyogre {
+  @include sprite-rect(33px, 21px, -520px, -771px);
 }
-.pkms-falinks{
-  @include sprite-rect(31px, 23px, -545px, -763px);
+.pkms-landorus-therian {
+  @include sprite-rect(27px, 28px, -555px, -771px);
 }
-.pkms-garchomp-mega{
-  @include sprite-rect(30px, 25px, -578px, -763px);
+.pkms-metagross {
+  @include sprite-rect(32px, 23px, -584px, -771px);
 }
-.pkms-giratina{
-  @include sprite-rect(30px, 24px, -610px, -763px);
+.pkms-ninetales-alola {
+  @include sprite-rect(30px, 25px, -618px, -771px);
 }
-.pkms-heliolisk{
-  @include sprite-rect(25px, 30px, -642px, -763px);
+.pkms-octillery {
+  @include sprite-rect(27px, 27px, -650px, -771px);
 }
-.pkms-kadabra{
-  @include sprite-rect(29px, 25px, -669px, -763px);
+.pkms-porygon2 {
+  @include sprite-rect(27px, 27px, -679px, -771px);
 }
-.pkms-kyogre{
-  @include sprite-rect(33px, 21px, -700px, -763px);
+.pkms-pyroar-f {
+  @include sprite-rect(30px, 24px, -708px, -771px);
 }
-.pkms-landorus-therian{
-  @include sprite-rect(27px, 28px, -735px, -763px);
+.pkms-raichu-alola {
+  @include sprite-rect(26px, 28px, -740px, -771px);
 }
-.pkms-metagross{
-  @include sprite-rect(32px, 23px, -764px, -763px);
+.pkms-raikou {
+  @include sprite-rect(30px, 25px, -768px, -771px);
 }
-.pkms-ninetales-alola{
-  @include sprite-rect(30px, 25px, -798px, -763px);
+.pkms-regigigas {
+  @include sprite-rect(32px, 23px, -800px, -771px);
 }
-.pkms-octillery{
-  @include sprite-rect(27px, 27px, -830px, -763px);
+.pkms-roserade {
+  @include sprite-rect(25px, 30px, -834px, -771px);
 }
-.pkms-porygon2{
-  @include sprite-rect(27px, 27px, -859px, -763px);
+.pkms-rotom {
+  @include sprite-rect(28px, 27px, -861px, -771px);
 }
-.pkms-pyroar-female{
-  @include sprite-rect(30px, 24px, -888px, -763px);
+.pkms-sableye-mega {
+  @include sprite-rect(28px, 27px, -891px, -771px);
 }
-.pkms-raichu-alola{
-  @include sprite-rect(26px, 28px, 0px, -795px);
+.pkms-salamence {
+  @include sprite-rect(32px, 23px, 0px, -803px);
 }
-.pkms-raikou{
-  @include sprite-rect(30px, 25px, -28px, -795px);
+.pkms-samurott {
+  @include sprite-rect(31px, 23px, -34px, -803px);
 }
-.pkms-regigigas{
-  @include sprite-rect(32px, 23px, -60px, -795px);
+.pkms-sceptile {
+  @include sprite-rect(28px, 26px, -67px, -803px);
 }
-.pkms-roserade{
-  @include sprite-rect(25px, 30px, -94px, -795px);
+.pkms-suicune {
+  @include sprite-rect(29px, 25px, -97px, -803px);
 }
-.pkms-rotom{
-  @include sprite-rect(28px, 27px, -121px, -795px);
+.pkms-swampert-mega {
+  @include sprite-rect(32px, 23px, -128px, -803px);
 }
-.pkms-sableye-mega{
-  @include sprite-rect(28px, 27px, -151px, -795px);
+.pkms-tapu-koko {
+  @include sprite-rect(28px, 26px, -162px, -803px);
 }
-.pkms-salamence{
-  @include sprite-rect(32px, 23px, -181px, -795px);
+.pkms-togedemaru {
+  @include sprite-rect(28px, 27px, -192px, -803px);
 }
-.pkms-samurott{
-  @include sprite-rect(31px, 23px, -215px, -795px);
+.pkms-venusaur-mega {
+  @include sprite-rect(29px, 26px, -222px, -803px);
 }
-.pkms-sceptile{
-  @include sprite-rect(28px, 26px, -248px, -795px);
+.pkms-aerodactyl-mega {
+  @include sprite-rect(32px, 24px, -253px, -803px);
 }
-.pkms-suicune{
-  @include sprite-rect(29px, 25px, -278px, -795px);
+.pkms-aggron-mega {
+  @include sprite-rect(31px, 26px, -287px, -803px);
 }
-.pkms-swampert-mega{
-  @include sprite-rect(32px, 23px, -309px, -795px);
+.pkms-banette-mega {
+  @include sprite-rect(26px, 30px, -320px, -803px);
 }
-.pkms-tapu-koko{
-  @include sprite-rect(28px, 26px, -343px, -795px);
+.pkms-barraskewda {
+  @include sprite-rect(36px, 20px, -348px, -803px);
 }
-.pkms-togedemaru{
-  @include sprite-rect(28px, 27px, -373px, -795px);
+.pkms-dialga {
+  @include sprite-rect(30px, 27px, -386px, -803px);
 }
-.pkms-venusaur-mega{
-  @include sprite-rect(29px, 26px, -403px, -795px);
+.pkms-eiscue {
+  @include sprite-rect(21px, 35px, -418px, -803px);
 }
-.pkms-aerodactyl-mega{
-  @include sprite-rect(32px, 24px, -434px, -795px);
+.pkms-eldegoss {
+  @include sprite-rect(26px, 30px, -441px, -803px);
 }
-.pkms-aggron-mega{
-  @include sprite-rect(31px, 26px, -468px, -795px);
+.pkms-feraligatr {
+  @include sprite-rect(31px, 26px, -469px, -803px);
 }
-.pkms-banette-mega{
-  @include sprite-rect(26px, 30px, -501px, -795px);
+.pkms-gastrodon-east {
+  @include sprite-rect(27px, 29px, -502px, -803px);
 }
-.pkms-barraskewda{
-  @include sprite-rect(36px, 20px, -529px, -795px);
+.pkms-grapploct {
+  @include sprite-rect(28px, 28px, -531px, -803px);
 }
-.pkms-dialga{
-  @include sprite-rect(30px, 27px, -567px, -795px);
+.pkms-groudon {
+  @include sprite-rect(33px, 24px, -561px, -803px);
 }
-.pkms-eiscue{
-  @include sprite-rect(21px, 35px, -599px, -795px);
+.pkms-haunter {
+  @include sprite-rect(30px, 26px, -596px, -803px);
 }
-.pkms-eldegoss{
-  @include sprite-rect(26px, 30px, -622px, -795px);
+.pkms-hitmonlee {
+  @include sprite-rect(28px, 29px, -628px, -803px);
 }
-.pkms-feraligatr{
-  @include sprite-rect(31px, 26px, -650px, -795px);
+.pkms-kyogre-primal {
+  @include sprite-rect(36px, 21px, -658px, -803px);
 }
-.pkms-gastrodon-east{
-  @include sprite-rect(27px, 29px, -683px, -795px);
+.pkms-landorus {
+  @include sprite-rect(31px, 26px, -696px, -803px);
 }
-.pkms-grapploct{
-  @include sprite-rect(28px, 28px, -712px, -795px);
+.pkms-lopunny-mega {
+  @include sprite-rect(33px, 24px, -729px, -803px);
 }
-.pkms-groudon{
-  @include sprite-rect(33px, 24px, -742px, -795px);
+.pkms-mawile-mega {
+  @include sprite-rect(30px, 26px, -764px, -803px);
 }
-.pkms-haunter{
-  @include sprite-rect(30px, 26px, -777px, -795px);
+.pkms-medicham-mega {
+  @include sprite-rect(29px, 27px, -796px, -803px);
 }
-.pkms-hitmonlee{
-  @include sprite-rect(28px, 29px, -809px, -795px);
+.pkms-metagross-mega {
+  @include sprite-rect(32px, 24px, -827px, -803px);
 }
-.pkms-kyogre-primal{
-  @include sprite-rect(36px, 21px, -839px, -795px);
+.pkms-musharna {
+  @include sprite-rect(30px, 27px, -861px, -803px);
 }
-.pkms-landorus{
-  @include sprite-rect(31px, 26px, -877px, -795px);
+.pkms-palkia {
+  @include sprite-rect(30px, 26px, -893px, -803px);
 }
-.pkms-lopunny-mega{
-  @include sprite-rect(33px, 24px, -910px, -795px);
+.pkms-perrserker {
+  @include sprite-rect(26px, 31px, -925px, -803px);
 }
-.pkms-mawile-mega{
-  @include sprite-rect(30px, 26px, 0px, -832px);
+.pkms-pinsir-mega {
+  @include sprite-rect(31px, 25px, 0px, -840px);
 }
-.pkms-medicham-mega{
-  @include sprite-rect(29px, 27px, -32px, -832px);
+.pkms-politoed {
+  @include sprite-rect(24px, 33px, -33px, -840px);
 }
-.pkms-metagross-mega{
-  @include sprite-rect(32px, 24px, -63px, -832px);
+.pkms-polteageist {
+  @include sprite-rect(28px, 29px, -59px, -840px);
 }
-.pkms-musharna{
-  @include sprite-rect(30px, 27px, -97px, -832px);
+.pkms-pyroar {
+  @include sprite-rect(32px, 25px, -89px, -840px);
 }
-.pkms-palkia{
-  @include sprite-rect(30px, 26px, -129px, -832px);
+.pkms-scizor-mega {
+  @include sprite-rect(28px, 28px, -123px, -840px);
 }
-.pkms-perrserker{
-  @include sprite-rect(26px, 31px, -161px, -832px);
+.pkms-shedinja {
+  @include sprite-rect(28px, 28px, -153px, -840px);
 }
-.pkms-pinsir-mega{
-  @include sprite-rect(31px, 25px, -189px, -832px);
+.pkms-shiinotic {
+  @include sprite-rect(29px, 28px, -183px, -840px);
 }
-.pkms-politoed{
-  @include sprite-rect(24px, 33px, -222px, -832px);
+.pkms-torkoal {
+  @include sprite-rect(30px, 27px, -214px, -840px);
 }
-.pkms-polteageist{
-  @include sprite-rect(28px, 29px, -248px, -832px);
+.pkms-tornadus-therian {
+  @include sprite-rect(30px, 27px, -246px, -840px);
 }
-.pkms-pyroar{
-  @include sprite-rect(32px, 25px, -278px, -832px);
+.pkms-tornadus {
+  @include sprite-rect(30px, 26px, -278px, -840px);
 }
-.pkms-scizor-mega{
-  @include sprite-rect(28px, 28px, -312px, -832px);
+.pkms-tropius {
+  @include sprite-rect(31px, 26px, -310px, -840px);
 }
-.pkms-shedinja{
-  @include sprite-rect(28px, 28px, -342px, -832px);
+.pkms-tsareena {
+  @include sprite-rect(26px, 31px, -343px, -840px);
 }
-.pkms-shiinotic{
-  @include sprite-rect(29px, 28px, -372px, -832px);
+.pkms-tyranitar-mega {
+  @include sprite-rect(28px, 29px, -371px, -840px);
 }
-.pkms-torkoal{
-  @include sprite-rect(30px, 27px, -403px, -832px);
+.pkms-wailmer {
+  @include sprite-rect(33px, 24px, -401px, -840px);
 }
-.pkms-tornadus-therian{
-  @include sprite-rect(30px, 27px, -435px, -832px);
+.pkms-yveltal {
+  @include sprite-rect(30px, 27px, -436px, -840px);
 }
-.pkms-tornadus{
-  @include sprite-rect(30px, 26px, -467px, -832px);
+.pkms-zygarde-10 {
+  @include sprite-rect(28px, 29px, -468px, -840px);
 }
-.pkms-tropius{
-  @include sprite-rect(31px, 26px, -499px, -832px);
+.pkms-araquanid {
+  @include sprite-rect(34px, 25px, -498px, -840px);
 }
-.pkms-tsareena{
-  @include sprite-rect(26px, 31px, -532px, -832px);
+.pkms-arbok {
+  @include sprite-rect(28px, 30px, -534px, -840px);
 }
-.pkms-tyranitar-mega{
-  @include sprite-rect(28px, 29px, -560px, -832px);
+.pkms-arctovish {
+  @include sprite-rect(30px, 28px, -564px, -840px);
 }
-.pkms-wailmer{
-  @include sprite-rect(33px, 24px, -590px, -832px);
+.pkms-beheeyem {
+  @include sprite-rect(24px, 34px, -596px, -840px);
 }
-.pkms-yveltal{
-  @include sprite-rect(30px, 27px, -625px, -832px);
+.pkms-bewear {
+  @include sprite-rect(26px, 32px, -622px, -840px);
 }
-.pkms-zygarde-10{
-  @include sprite-rect(28px, 29px, -657px, -832px);
+.pkms-bisharp {
+  @include sprite-rect(26px, 32px, -650px, -840px);
 }
-.pkms-araquanid{
-  @include sprite-rect(34px, 25px, -687px, -832px);
+.pkms-blastoise-mega {
+  @include sprite-rect(30px, 28px, -678px, -840px);
 }
-.pkms-arbok{
-  @include sprite-rect(28px, 30px, -723px, -832px);
+.pkms-blaziken-mega {
+  @include sprite-rect(32px, 27px, -710px, -840px);
 }
-.pkms-arctovish{
-  @include sprite-rect(30px, 28px, -753px, -832px);
+.pkms-camerupt-mega {
+  @include sprite-rect(31px, 28px, -744px, -840px);
 }
-.pkms-beheeyem{
-  @include sprite-rect(24px, 34px, -785px, -832px);
+.pkms-darkrai {
+  @include sprite-rect(31px, 28px, -777px, -840px);
 }
-.pkms-bewear{
-  @include sprite-rect(26px, 32px, -811px, -832px);
+.pkms-delibird {
+  @include sprite-rect(26px, 32px, -810px, -840px);
 }
-.pkms-bisharp{
-  @include sprite-rect(26px, 32px, -839px, -832px);
+.pkms-gallade {
+  @include sprite-rect(26px, 33px, -838px, -840px);
 }
-.pkms-blastoise-mega{
-  @include sprite-rect(30px, 28px, -867px, -832px);
+.pkms-gastrodon {
+  @include sprite-rect(28px, 30px, -866px, -840px);
 }
-.pkms-blaziken-mega{
-  @include sprite-rect(32px, 27px, -899px, -832px);
+.pkms-glalie {
+  @include sprite-rect(30px, 28px, -896px, -840px);
 }
-.pkms-camerupt-mega{
-  @include sprite-rect(31px, 28px, 0px, -868px);
+.pkms-golurk {
+  @include sprite-rect(28px, 30px, 0px, -876px);
 }
-.pkms-darkrai{
-  @include sprite-rect(31px, 28px, -33px, -868px);
+.pkms-gothitelle {
+  @include sprite-rect(28px, 31px, -30px, -876px);
 }
-.pkms-delibird{
-  @include sprite-rect(26px, 32px, -66px, -868px);
+.pkms-gyarados-mega {
+  @include sprite-rect(30px, 29px, -60px, -876px);
 }
-.pkms-gallade{
-  @include sprite-rect(26px, 33px, -94px, -868px);
+.pkms-ho-oh {
+  @include sprite-rect(29px, 30px, -92px, -876px);
 }
-.pkms-gastrodon{
-  @include sprite-rect(28px, 30px, -122px, -868px);
+.pkms-jolteon {
+  @include sprite-rect(28px, 31px, -123px, -876px);
 }
-.pkms-glalie{
-  @include sprite-rect(30px, 28px, -152px, -868px);
+.pkms-latias-mega {
+  @include sprite-rect(35px, 24px, -153px, -876px);
 }
-.pkms-golurk{
-  @include sprite-rect(28px, 30px, -184px, -868px);
+.pkms-latios-mega {
+  @include sprite-rect(35px, 24px, -190px, -876px);
 }
-.pkms-gothitelle{
-  @include sprite-rect(28px, 31px, -214px, -868px);
+.pkms-mandibuzz {
+  @include sprite-rect(25px, 34px, -227px, -876px);
 }
-.pkms-gyarados-mega{
-  @include sprite-rect(30px, 29px, -244px, -868px);
+.pkms-meowstic-f {
+  @include sprite-rect(28px, 30px, -254px, -876px);
 }
-.pkms-ho-oh{
-  @include sprite-rect(29px, 30px, -276px, -868px);
+.pkms-meowstic {
+  @include sprite-rect(28px, 30px, -284px, -876px);
 }
-.pkms-jolteon{
-  @include sprite-rect(28px, 31px, -307px, -868px);
+.pkms-pheromosa {
+  @include sprite-rect(28px, 30px, -314px, -876px);
 }
-.pkms-latias-mega{
-  @include sprite-rect(35px, 24px, -337px, -868px);
+.pkms-rayquaza {
+  @include sprite-rect(31px, 27px, -344px, -876px);
 }
-.pkms-latios-mega{
-  @include sprite-rect(35px, 24px, -374px, -868px);
+.pkms-ribombee {
+  @include sprite-rect(30px, 28px, -377px, -876px);
 }
-.pkms-mandibuzz{
-  @include sprite-rect(25px, 34px, -411px, -868px);
+.pkms-salazzle {
+  @include sprite-rect(27px, 31px, -409px, -876px);
 }
-.pkms-meowstic-female{
-  @include sprite-rect(28px, 30px, -438px, -868px);
+.pkms-sandslash {
+  @include sprite-rect(29px, 30px, -438px, -876px);
 }
-.pkms-meowstic{
-  @include sprite-rect(28px, 30px, -468px, -868px);
+.pkms-shuckle {
+  @include sprite-rect(30px, 28px, -469px, -876px);
 }
-.pkms-pheromosa{
-  @include sprite-rect(28px, 30px, -498px, -868px);
+.pkms-slurpuff {
+  @include sprite-rect(29px, 30px, -501px, -876px);
 }
-.pkms-rayquaza{
-  @include sprite-rect(31px, 27px, -528px, -868px);
+.pkms-stakataka {
+  @include sprite-rect(28px, 30px, -532px, -876px);
 }
-.pkms-ribombee{
-  @include sprite-rect(30px, 28px, -561px, -868px);
+.pkms-thundurus-therian {
+  @include sprite-rect(32px, 26px, -562px, -876px);
 }
-.pkms-salazzle{
-  @include sprite-rect(27px, 31px, -593px, -868px);
+.pkms-thundurus {
+  @include sprite-rect(31px, 27px, -596px, -876px);
 }
-.pkms-sandslash{
-  @include sprite-rect(29px, 30px, -622px, -868px);
+.pkms-toxtricity-low-key {
+  @include sprite-rect(22px, 36px, -629px, -876px);
 }
-.pkms-shuckle{
-  @include sprite-rect(30px, 28px, -653px, -868px);
+.pkms-unfezant-f {
+  @include sprite-rect(29px, 29px, -653px, -876px);
 }
-.pkms-slurpuff{
-  @include sprite-rect(29px, 30px, -685px, -868px);
+.pkms-whiscash {
+  @include sprite-rect(34px, 24px, -684px, -876px);
 }
-.pkms-stakataka{
-  @include sprite-rect(28px, 30px, -716px, -868px);
+.pkms-wobbuffet {
+  @include sprite-rect(26px, 33px, -720px, -876px);
 }
-.pkms-thundurus-therian{
-  @include sprite-rect(32px, 26px, -746px, -868px);
+.pkms-xerneas-active {
+  @include sprite-rect(29px, 30px, -748px, -876px);
 }
-.pkms-thundurus{
-  @include sprite-rect(31px, 27px, -780px, -868px);
+.pkms-xerneas {
+  @include sprite-rect(29px, 30px, -779px, -876px);
 }
-.pkms-toxtricity-low-key{
-  @include sprite-rect(22px, 36px, -813px, -868px);
+.pkms-zygarde {
+  @include sprite-rect(28px, 30px, -810px, -876px);
 }
-.pkms-unfezant-female{
-  @include sprite-rect(29px, 29px, -837px, -868px);
+.pkms-alakazam-mega {
+  @include sprite-rect(30px, 30px, -840px, -876px);
 }
-.pkms-whiscash{
-  @include sprite-rect(34px, 24px, -868px, -868px);
+.pkms-arctozolt {
+  @include sprite-rect(26px, 35px, -872px, -876px);
 }
-.pkms-wobbuffet{
-  @include sprite-rect(26px, 33px, -904px, -868px);
+.pkms-claydol {
+  @include sprite-rect(30px, 31px, -900px, -876px);
 }
-.pkms-xerneas-active{
-  @include sprite-rect(29px, 30px, 0px, -906px);
+.pkms-cramorant-gulping {
+  @include sprite-rect(29px, 31px, 0px, -914px);
 }
-.pkms-xerneas{
-  @include sprite-rect(29px, 30px, -31px, -906px);
+.pkms-dedenne {
+  @include sprite-rect(34px, 27px, -31px, -914px);
 }
-.pkms-zygarde{
-  @include sprite-rect(28px, 30px, -62px, -906px);
+.pkms-drifblim {
+  @include sprite-rect(30px, 31px, -67px, -914px);
 }
-.pkms-alakazam-mega{
-  @include sprite-rect(30px, 30px, -92px, -906px);
+.pkms-dubwool {
+  @include sprite-rect(30px, 30px, -99px, -914px);
 }
-.pkms-arctozolt{
-  @include sprite-rect(26px, 35px, -124px, -906px);
+.pkms-durant {
+  @include sprite-rect(39px, 22px, -131px, -914px);
 }
-.pkms-claydol{
-  @include sprite-rect(30px, 31px, -152px, -906px);
+.pkms-gardevoir {
+  @include sprite-rect(26px, 35px, -172px, -914px);
 }
-.pkms-cramorant-gulping{
-  @include sprite-rect(29px, 31px, -184px, -906px);
+.pkms-goodra {
+  @include sprite-rect(31px, 30px, -200px, -914px);
 }
-.pkms-dedenne{
-  @include sprite-rect(34px, 27px, -215px, -906px);
+.pkms-greedent {
+  @include sprite-rect(30px, 31px, -233px, -914px);
 }
-.pkms-drifblim{
-  @include sprite-rect(30px, 31px, -251px, -906px);
+.pkms-groudon-primal {
+  @include sprite-rect(36px, 24px, -265px, -914px);
 }
-.pkms-dubwool{
-  @include sprite-rect(30px, 30px, -283px, -906px);
+.pkms-hatterene {
+  @include sprite-rect(27px, 34px, -303px, -914px);
 }
-.pkms-durant{
-  @include sprite-rect(39px, 22px, -315px, -906px);
+.pkms-hippowdon-f {
+  @include sprite-rect(36px, 24px, -332px, -914px);
 }
-.pkms-gardevoir{
-  @include sprite-rect(26px, 35px, -356px, -906px);
+.pkms-hippowdon {
+  @include sprite-rect(36px, 24px, -370px, -914px);
 }
-.pkms-goodra{
-  @include sprite-rect(31px, 30px, -384px, -906px);
+.pkms-jellicent {
+  @include sprite-rect(30px, 31px, -408px, -914px);
 }
-.pkms-greedent{
-  @include sprite-rect(30px, 31px, -417px, -906px);
+.pkms-kartana {
+  @include sprite-rect(31px, 29px, -440px, -914px);
 }
-.pkms-groudon-primal{
-  @include sprite-rect(36px, 24px, -449px, -906px);
+.pkms-lucario {
+  @include sprite-rect(24px, 36px, -473px, -914px);
 }
-.pkms-hatterene{
-  @include sprite-rect(27px, 34px, -487px, -906px);
+.pkms-lugia {
+  @include sprite-rect(32px, 29px, -499px, -914px);
 }
-.pkms-hippowdon-female{
-  @include sprite-rect(36px, 24px, -516px, -906px);
+.pkms-lurantis {
+  @include sprite-rect(27px, 33px, -533px, -914px);
 }
-.pkms-hippowdon{
-  @include sprite-rect(36px, 24px, -554px, -906px);
+.pkms-lycanroc-midnight {
+  @include sprite-rect(28px, 33px, -562px, -914px);
 }
-.pkms-jellicent{
-  @include sprite-rect(30px, 31px, -592px, -906px);
+.pkms-lycanroc {
+  @include sprite-rect(32px, 28px, -592px, -914px);
 }
-.pkms-kartana{
-  @include sprite-rect(31px, 29px, -624px, -906px);
+.pkms-malamar {
+  @include sprite-rect(27px, 34px, -626px, -914px);
 }
-.pkms-lucario{
-  @include sprite-rect(24px, 36px, -657px, -906px);
+.pkms-marshadow {
+  @include sprite-rect(27px, 34px, -655px, -914px);
 }
-.pkms-lugia{
-  @include sprite-rect(32px, 29px, -683px, -906px);
+.pkms-mawile {
+  @include sprite-rect(34px, 27px, -684px, -914px);
 }
-.pkms-lurantis{
-  @include sprite-rect(27px, 33px, -717px, -906px);
+.pkms-noctowl {
+  @include sprite-rect(23px, 38px, -720px, -914px);
 }
-.pkms-lycanroc-midnight{
-  @include sprite-rect(28px, 33px, -746px, -906px);
+.pkms-obstagoon {
+  @include sprite-rect(29px, 31px, -745px, -914px);
 }
-.pkms-lycanroc{
-  @include sprite-rect(32px, 28px, -776px, -906px);
+.pkms-palossand {
+  @include sprite-rect(29px, 31px, -776px, -914px);
 }
-.pkms-malamar{
-  @include sprite-rect(27px, 34px, -810px, -906px);
+.pkms-sableye {
+  @include sprite-rect(31px, 30px, -807px, -914px);
 }
-.pkms-marshadow-gen7{
-  @include sprite-rect(27px, 34px, -839px, -906px);
+.pkms-salamence-mega {
+  @include sprite-rect(35px, 25px, -840px, -914px);
 }
-.pkms-marshadow{
-  @include sprite-rect(27px, 34px, -868px, -906px);
+.pkms-sandaconda {
+  @include sprite-rect(35px, 25px, -877px, -914px);
 }
-.pkms-mawile{
-  @include sprite-rect(34px, 27px, -897px, -906px);
+.pkms-solrock {
+  @include sprite-rect(30px, 31px, -914px, -914px);
 }
-.pkms-noctowl{
-  @include sprite-rect(23px, 38px, -933px, -906px);
+.pkms-starmie {
+  @include sprite-rect(30px, 31px, -946px, -914px);
 }
-.pkms-obstagoon{
-  @include sprite-rect(29px, 31px, 0px, -946px);
+.pkms-stoutland {
+  @include sprite-rect(32px, 29px, 0px, -954px);
 }
-.pkms-palossand{
-  @include sprite-rect(29px, 31px, -31px, -946px);
+.pkms-sylveon {
+  @include sprite-rect(30px, 31px, -34px, -954px);
 }
-.pkms-sableye{
-  @include sprite-rect(31px, 30px, -62px, -946px);
+.pkms-xatu {
+  @include sprite-rect(25px, 35px, -66px, -954px);
 }
-.pkms-salamence-mega{
-  @include sprite-rect(35px, 25px, -95px, -946px);
+.pkms-accelgor {
+  @include sprite-rect(33px, 29px, -93px, -954px);
 }
-.pkms-sandaconda{
-  @include sprite-rect(35px, 25px, -132px, -946px);
+.pkms-avalugg {
+  @include sprite-rect(37px, 25px, -128px, -954px);
 }
-.pkms-solrock{
-  @include sprite-rect(30px, 31px, -169px, -946px);
+.pkms-bronzong {
+  @include sprite-rect(36px, 27px, -167px, -954px);
 }
-.pkms-starmie{
-  @include sprite-rect(30px, 31px, -201px, -946px);
+.pkms-celesteela {
+  @include sprite-rect(32px, 30px, -205px, -954px);
 }
-.pkms-stoutland{
-  @include sprite-rect(32px, 29px, -233px, -946px);
+.pkms-charizard-mega-y {
+  @include sprite-rect(38px, 25px, -239px, -954px);
 }
-.pkms-sylveon{
-  @include sprite-rect(30px, 31px, -267px, -946px);
+.pkms-cinccino {
+  @include sprite-rect(33px, 30px, -279px, -954px);
 }
-.pkms-xatu{
-  @include sprite-rect(25px, 35px, -299px, -946px);
+.pkms-cinderace {
+  @include sprite-rect(21px, 41px, -314px, -954px);
 }
-.pkms-accelgor{
-  @include sprite-rect(33px, 29px, -326px, -946px);
+.pkms-copperajah {
+  @include sprite-rect(33px, 30px, -337px, -954px);
 }
-.pkms-avalugg{
-  @include sprite-rect(37px, 25px, -361px, -946px);
+.pkms-darmanitan-galar-zen {
+  @include sprite-rect(30px, 33px, -372px, -954px);
 }
-.pkms-bronzong{
-  @include sprite-rect(36px, 27px, -400px, -946px);
+.pkms-decidueye {
+  @include sprite-rect(25px, 38px, -404px, -954px);
 }
-.pkms-celesteela{
-  @include sprite-rect(32px, 30px, -438px, -946px);
+.pkms-dracovish {
+  @include sprite-rect(31px, 32px, -431px, -954px);
 }
-.pkms-charizard-mega-y{
-  @include sprite-rect(38px, 25px, -472px, -946px);
+.pkms-drampa {
+  @include sprite-rect(38px, 25px, -464px, -954px);
 }
-.pkms-cinccino{
-  @include sprite-rect(33px, 30px, -512px, -946px);
+.pkms-flareon {
+  @include sprite-rect(30px, 33px, -504px, -954px);
 }
-.pkms-cinderace{
-  @include sprite-rect(21px, 41px, -547px, -946px);
+.pkms-gengar-mega {
+  @include sprite-rect(34px, 29px, -536px, -954px);
 }
-.pkms-copperajah{
-  @include sprite-rect(33px, 30px, -570px, -946px);
+.pkms-heatmor {
+  @include sprite-rect(37px, 26px, -572px, -954px);
 }
-.pkms-darmanitan-galar-zen{
-  @include sprite-rect(30px, 33px, -605px, -946px);
+.pkms-jellicent-f {
+  @include sprite-rect(31px, 32px, -611px, -954px);
 }
-.pkms-decidueye{
-  @include sprite-rect(25px, 38px, -637px, -946px);
+.pkms-krookodile {
+  @include sprite-rect(32px, 30px, -644px, -954px);
 }
-.pkms-dracovish{
-  @include sprite-rect(31px, 32px, -664px, -946px);
+.pkms-lanturn {
+  @include sprite-rect(39px, 24px, -678px, -954px);
 }
-.pkms-drampa{
-  @include sprite-rect(38px, 25px, -697px, -946px);
+.pkms-lickilicky {
+  @include sprite-rect(30px, 32px, -719px, -954px);
 }
-.pkms-flareon{
-  @include sprite-rect(30px, 33px, -737px, -946px);
+.pkms-lilligant {
+  @include sprite-rect(28px, 34px, -751px, -954px);
 }
-.pkms-gengar-mega{
-  @include sprite-rect(34px, 29px, -769px, -946px);
+.pkms-luxray {
+  @include sprite-rect(33px, 30px, -781px, -954px);
 }
-.pkms-heatmor{
-  @include sprite-rect(37px, 26px, -805px, -946px);
+.pkms-mamoswine {
+  @include sprite-rect(35px, 28px, -816px, -954px);
 }
-.pkms-jellicent-female{
-  @include sprite-rect(31px, 32px, -844px, -946px);
+.pkms-manectric {
+  @include sprite-rect(29px, 33px, -853px, -954px);
 }
-.pkms-krookodile{
-  @include sprite-rect(32px, 30px, -877px, -946px);
+.pkms-marowak {
+  @include sprite-rect(33px, 30px, -884px, -954px);
 }
-.pkms-lanturn{
-  @include sprite-rect(39px, 24px, -911px, -946px);
+.pkms-mudsdale {
+  @include sprite-rect(33px, 30px, -919px, -954px);
 }
-.pkms-lickilicky{
-  @include sprite-rect(30px, 32px, -952px, -946px);
+.pkms-naganadel {
+  @include sprite-rect(33px, 29px, -954px, -954px);
 }
-.pkms-lilligant{
-  @include sprite-rect(28px, 34px, -984px, -946px);
+.pkms-necrozma-ultra {
+  @include sprite-rect(35px, 28px, -989px, -954px);
 }
-.pkms-luxray{
-  @include sprite-rect(33px, 30px, 0px, -989px);
+.pkms-orbeetle {
+  @include sprite-rect(29px, 33px, 0px, -997px);
 }
-.pkms-mamoswine{
-  @include sprite-rect(35px, 28px, -35px, -989px);
+.pkms-pelipper {
+  @include sprite-rect(34px, 28px, -31px, -997px);
 }
-.pkms-manectric{
-  @include sprite-rect(29px, 33px, -72px, -989px);
+.pkms-pidgeot-mega {
+  @include sprite-rect(35px, 27px, -67px, -997px);
 }
-.pkms-marowak{
-  @include sprite-rect(33px, 30px, -103px, -989px);
+.pkms-porygon-z {
+  @include sprite-rect(27px, 36px, -104px, -997px);
 }
-.pkms-mudsdale{
-  @include sprite-rect(33px, 30px, -138px, -989px);
+.pkms-rayquaza-mega {
+  @include sprite-rect(38px, 25px, -133px, -997px);
 }
-.pkms-naganadel{
-  @include sprite-rect(33px, 29px, -173px, -989px);
+.pkms-rotom-mow {
+  @include sprite-rect(30px, 32px, -173px, -997px);
 }
-.pkms-necrozma-ultra{
-  @include sprite-rect(35px, 28px, -208px, -989px);
+.pkms-scrafty {
+  @include sprite-rect(28px, 34px, -205px, -997px);
 }
-.pkms-orbeetle{
-  @include sprite-rect(29px, 33px, -245px, -989px);
+.pkms-swoobat {
+  @include sprite-rect(36px, 27px, -235px, -997px);
 }
-.pkms-pelipper{
-  @include sprite-rect(34px, 28px, -276px, -989px);
+.pkms-talonflame {
+  @include sprite-rect(35px, 28px, -273px, -997px);
 }
-.pkms-pidgeot-mega{
-  @include sprite-rect(35px, 27px, -312px, -989px);
+.pkms-unfezant {
+  @include sprite-rect(30px, 32px, -310px, -997px);
 }
-.pkms-porygon-z{
-  @include sprite-rect(27px, 36px, -349px, -989px);
+.pkms-vanilluxe {
+  @include sprite-rect(31px, 31px, -342px, -997px);
 }
-.pkms-rayquaza-mega{
-  @include sprite-rect(38px, 25px, -378px, -989px);
+.pkms-vespiquen {
+  @include sprite-rect(32px, 31px, -375px, -997px);
 }
-.pkms-rotom-mow{
-  @include sprite-rect(30px, 32px, -418px, -989px);
+.pkms-virizion {
+  @include sprite-rect(27px, 35px, -409px, -997px);
 }
-.pkms-scrafty{
-  @include sprite-rect(28px, 34px, -450px, -989px);
+.pkms-weavile {
+  @include sprite-rect(27px, 36px, -438px, -997px);
 }
-.pkms-swoobat{
-  @include sprite-rect(36px, 27px, -480px, -989px);
+.pkms-zygarde-complete {
+  @include sprite-rect(32px, 30px, -467px, -997px);
 }
-.pkms-talonflame{
-  @include sprite-rect(35px, 28px, -518px, -989px);
+.pkms-aegislash {
+  @include sprite-rect(30px, 35px, -501px, -997px);
 }
-.pkms-unfezant{
-  @include sprite-rect(30px, 32px, -555px, -989px);
+.pkms-appletun {
+  @include sprite-rect(34px, 31px, -533px, -997px);
 }
-.pkms-vanilluxe{
-  @include sprite-rect(31px, 31px, -587px, -989px);
+.pkms-boltund {
+  @include sprite-rect(36px, 29px, -569px, -997px);
 }
-.pkms-vespiquen{
-  @include sprite-rect(32px, 31px, -620px, -989px);
+.pkms-charizard-mega-x {
+  @include sprite-rect(40px, 25px, -607px, -997px);
 }
-.pkms-virizion{
-  @include sprite-rect(27px, 35px, -654px, -989px);
+.pkms-comfey {
+  @include sprite-rect(31px, 34px, -649px, -997px);
 }
-.pkms-weavile{
-  @include sprite-rect(27px, 36px, -683px, -989px);
+.pkms-corviknight {
+  @include sprite-rect(34px, 31px, -682px, -997px);
 }
-.pkms-zygarde-complete{
-  @include sprite-rect(32px, 30px, -712px, -989px);
+.pkms-crawdaunt {
+  @include sprite-rect(33px, 32px, -718px, -997px);
 }
-.pkms-aegislash{
-  @include sprite-rect(30px, 35px, -746px, -989px);
+.pkms-cursola {
+  @include sprite-rect(32px, 32px, -753px, -997px);
 }
-.pkms-appletun{
-  @include sprite-rect(34px, 31px, -778px, -989px);
+.pkms-darmanitan-galar {
+  @include sprite-rect(29px, 35px, -787px, -997px);
 }
-.pkms-boltund{
-  @include sprite-rect(36px, 29px, -814px, -989px);
+.pkms-dhelmise {
+  @include sprite-rect(29px, 36px, -818px, -997px);
 }
-.pkms-charizard-mega-x{
-  @include sprite-rect(40px, 25px, -852px, -989px);
+.pkms-diggersby {
+  @include sprite-rect(34px, 30px, -849px, -997px);
 }
-.pkms-comfey{
-  @include sprite-rect(31px, 34px, -894px, -989px);
+.pkms-duraludon {
+  @include sprite-rect(29px, 35px, -885px, -997px);
 }
-.pkms-corviknight{
-  @include sprite-rect(34px, 31px, -927px, -989px);
+.pkms-emolga {
+  @include sprite-rect(38px, 26px, -916px, -997px);
 }
-.pkms-crawdaunt{
-  @include sprite-rect(33px, 32px, -963px, -989px);
+.pkms-espeon {
+  @include sprite-rect(35px, 29px, -956px, -997px);
 }
-.pkms-cursola{
-  @include sprite-rect(32px, 32px, -998px, -989px);
+.pkms-galvantula {
+  @include sprite-rect(37px, 28px, -993px, -997px);
 }
-.pkms-darmanitan-galar{
-  @include sprite-rect(29px, 35px, 0px, -1027px);
+.pkms-grimmsnarl {
+  @include sprite-rect(31px, 33px, 0px, -1035px);
 }
-.pkms-dhelmise{
-  @include sprite-rect(29px, 36px, -31px, -1027px);
+.pkms-guzzlord {
+  @include sprite-rect(37px, 28px, -33px, -1035px);
 }
-.pkms-diggersby{
-  @include sprite-rect(34px, 30px, -62px, -1027px);
+.pkms-hawlucha {
+  @include sprite-rect(35px, 30px, -72px, -1035px);
 }
-.pkms-duraludon{
-  @include sprite-rect(29px, 35px, -98px, -1027px);
+.pkms-heracross-mega {
+  @include sprite-rect(34px, 30px, -109px, -1035px);
 }
-.pkms-emolga{
-  @include sprite-rect(38px, 26px, -129px, -1027px);
+.pkms-incineroar {
+  @include sprite-rect(34px, 31px, -145px, -1035px);
 }
-.pkms-espeon{
-  @include sprite-rect(35px, 29px, -169px, -1027px);
+.pkms-kabutops {
+  @include sprite-rect(32px, 33px, -181px, -1035px);
 }
-.pkms-galvantula{
-  @include sprite-rect(37px, 28px, -206px, -1027px);
+.pkms-kingdra {
+  @include sprite-rect(30px, 34px, -215px, -1035px);
 }
-.pkms-grimmsnarl{
-  @include sprite-rect(31px, 33px, -245px, -1027px);
+.pkms-leafeon {
+  @include sprite-rect(33px, 31px, -247px, -1035px);
 }
-.pkms-guzzlord{
-  @include sprite-rect(37px, 28px, -278px, -1027px);
+.pkms-lycanroc-dusk {
+  @include sprite-rect(32px, 33px, -282px, -1035px);
 }
-.pkms-hawlucha{
-  @include sprite-rect(35px, 30px, -317px, -1027px);
+.pkms-mantine {
+  @include sprite-rect(45px, 20px, -316px, -1035px);
 }
-.pkms-heracross-mega{
-  @include sprite-rect(34px, 30px, -354px, -1027px);
+.pkms-maractus {
+  @include sprite-rect(32px, 33px, -363px, -1035px);
 }
-.pkms-incineroar{
-  @include sprite-rect(34px, 31px, -390px, -1027px);
+.pkms-mr-mime-galar {
+  @include sprite-rect(33px, 32px, -397px, -1035px);
 }
-.pkms-kabutops{
-  @include sprite-rect(32px, 33px, -426px, -1027px);
+.pkms-ninjask {
+  @include sprite-rect(34px, 30px, -432px, -1035px);
 }
-.pkms-kingdra{
-  @include sprite-rect(30px, 34px, -460px, -1027px);
+.pkms-quagsire {
+  @include sprite-rect(34px, 31px, -468px, -1035px);
 }
-.pkms-leafeon{
-  @include sprite-rect(33px, 31px, -492px, -1027px);
+.pkms-rotom-heat {
+  @include sprite-rect(34px, 30px, -504px, -1035px);
 }
-.pkms-lycanroc-dusk{
-  @include sprite-rect(32px, 33px, -527px, -1027px);
+.pkms-sawk {
+  @include sprite-rect(32px, 32px, -540px, -1035px);
 }
-.pkms-mantine{
-  @include sprite-rect(45px, 20px, -561px, -1027px);
+.pkms-sceptile-mega {
+  @include sprite-rect(37px, 27px, -574px, -1035px);
 }
-.pkms-maractus{
-  @include sprite-rect(32px, 33px, -608px, -1027px);
+.pkms-scizor {
+  @include sprite-rect(30px, 35px, -613px, -1035px);
 }
-.pkms-mr-mime-galar{
-  @include sprite-rect(33px, 32px, -642px, -1027px);
+.pkms-slowbro-galar {
+  @include sprite-rect(31px, 33px, -645px, -1035px);
 }
-.pkms-ninjask{
-  @include sprite-rect(34px, 30px, -677px, -1027px);
+.pkms-sudowoodo {
+  @include sprite-rect(30px, 34px, -678px, -1035px);
 }
-.pkms-quagsire{
-  @include sprite-rect(34px, 31px, -713px, -1027px);
+.pkms-terrakion {
+  @include sprite-rect(36px, 29px, -710px, -1035px);
 }
-.pkms-rotom-heat{
-  @include sprite-rect(34px, 30px, -749px, -1027px);
+.pkms-thievul {
+  @include sprite-rect(33px, 32px, -748px, -1035px);
 }
-.pkms-sawk{
-  @include sprite-rect(32px, 32px, -785px, -1027px);
+.pkms-toxicroak {
+  @include sprite-rect(35px, 30px, -783px, -1035px);
 }
-.pkms-sceptile-mega{
-  @include sprite-rect(37px, 27px, -819px, -1027px);
+.pkms-toxtricity {
+  @include sprite-rect(25px, 39px, -820px, -1035px);
 }
-.pkms-scizor{
-  @include sprite-rect(30px, 35px, -858px, -1027px);
+.pkms-volcarona {
+  @include sprite-rect(35px, 30px, -847px, -1035px);
 }
-.pkms-slowbro-galar{
-  @include sprite-rect(31px, 33px, -890px, -1027px);
+.pkms-abomasnow {
+  @include sprite-rect(36px, 30px, -884px, -1035px);
 }
-.pkms-sudowoodo{
-  @include sprite-rect(30px, 34px, -923px, -1027px);
+.pkms-aegislash-blade {
+  @include sprite-rect(31px, 35px, -922px, -1035px);
 }
-.pkms-terrakion{
-  @include sprite-rect(36px, 29px, -955px, -1027px);
+.pkms-azumarill {
+  @include sprite-rect(32px, 35px, -955px, -1035px);
 }
-.pkms-thievul{
-  @include sprite-rect(33px, 32px, -993px, -1027px);
+.pkms-barbaracle {
+  @include sprite-rect(36px, 31px, -989px, -1035px);
 }
-.pkms-toxicroak{
-  @include sprite-rect(35px, 30px, -1028px, -1027px);
+.pkms-blissey {
+  @include sprite-rect(33px, 33px, -1027px, -1035px);
 }
-.pkms-toxtricity{
-  @include sprite-rect(25px, 39px, 0px, -1065px);
+.pkms-centiskorch {
+  @include sprite-rect(37px, 30px, 0px, -1076px);
 }
-.pkms-volcarona{
-  @include sprite-rect(35px, 30px, -27px, -1065px);
+.pkms-cobalion {
+  @include sprite-rect(29px, 37px, -39px, -1076px);
 }
-.pkms-abomasnow{
-  @include sprite-rect(36px, 30px, -64px, -1065px);
+.pkms-cramorant-gorging {
+  @include sprite-rect(31px, 35px, -70px, -1076px);
 }
-.pkms-aegislash-blade{
-  @include sprite-rect(31px, 35px, -102px, -1065px);
+.pkms-crustle {
+  @include sprite-rect(36px, 30px, -103px, -1076px);
 }
-.pkms-azumarill{
-  @include sprite-rect(32px, 35px, -135px, -1065px);
+.pkms-drednaw {
+  @include sprite-rect(40px, 27px, -141px, -1076px);
 }
-.pkms-barbaracle{
-  @include sprite-rect(36px, 31px, -169px, -1065px);
+.pkms-dugtrio {
+  @include sprite-rect(32px, 34px, -183px, -1076px);
 }
-.pkms-blissey{
-  @include sprite-rect(33px, 33px, -207px, -1065px);
+.pkms-flapple {
+  @include sprite-rect(35px, 31px, -217px, -1076px);
 }
-.pkms-centiskorch{
-  @include sprite-rect(37px, 30px, -242px, -1065px);
+.pkms-gengar {
+  @include sprite-rect(32px, 35px, -254px, -1076px);
 }
-.pkms-cobalion{
-  @include sprite-rect(29px, 37px, -281px, -1065px);
+.pkms-glaceon {
+  @include sprite-rect(36px, 30px, -288px, -1076px);
 }
-.pkms-cramorant-gorging{
-  @include sprite-rect(31px, 35px, -312px, -1065px);
+.pkms-hitmontop {
+  @include sprite-rect(37px, 30px, -326px, -1076px);
 }
-.pkms-crustle{
-  @include sprite-rect(36px, 30px, -345px, -1065px);
+.pkms-hoopa-unbound {
+  @include sprite-rect(38px, 28px, -365px, -1076px);
 }
-.pkms-drednaw{
-  @include sprite-rect(40px, 27px, -383px, -1065px);
+.pkms-kommo-o {
+  @include sprite-rect(34px, 33px, -405px, -1076px);
 }
-.pkms-dugtrio{
-  @include sprite-rect(32px, 34px, -425px, -1065px);
+.pkms-lopunny {
+  @include sprite-rect(34px, 32px, -441px, -1076px);
 }
-.pkms-flapple{
-  @include sprite-rect(35px, 31px, -459px, -1065px);
+.pkms-magearna-original {
+  @include sprite-rect(28px, 39px, -477px, -1076px);
 }
-.pkms-gengar{
-  @include sprite-rect(32px, 35px, -496px, -1065px);
+.pkms-magearna {
+  @include sprite-rect(28px, 39px, -507px, -1076px);
 }
-.pkms-glaceon{
-  @include sprite-rect(36px, 30px, -530px, -1065px);
+.pkms-mr-rime {
+  @include sprite-rect(33px, 34px, -537px, -1076px);
 }
-.pkms-hitmontop{
-  @include sprite-rect(37px, 30px, -568px, -1065px);
+.pkms-pangoro {
+  @include sprite-rect(33px, 33px, -572px, -1076px);
 }
-.pkms-hoopa-unbound{
-  @include sprite-rect(38px, 28px, -607px, -1065px);
+.pkms-rapidash-galar {
+  @include sprite-rect(36px, 31px, -607px, -1076px);
 }
-.pkms-kommo-o{
-  @include sprite-rect(34px, 33px, -647px, -1065px);
+.pkms-seismitoad {
+  @include sprite-rect(38px, 28px, -645px, -1076px);
 }
-.pkms-lopunny{
-  @include sprite-rect(34px, 32px, -683px, -1065px);
+.pkms-slowking {
+  @include sprite-rect(27px, 40px, -685px, -1076px);
 }
-.pkms-magearna-original{
-  @include sprite-rect(28px, 39px, -719px, -1065px);
+.pkms-togekiss {
+  @include sprite-rect(41px, 26px, -714px, -1076px);
 }
-.pkms-magearna{
-  @include sprite-rect(28px, 39px, -749px, -1065px);
+.pkms-urshifu {
+  @include sprite-rect(33px, 33px, -757px, -1076px);
 }
-.pkms-mr-rime{
-  @include sprite-rect(33px, 34px, -779px, -1065px);
+.pkms-whimsicott {
+  @include sprite-rect(35px, 31px, -792px, -1076px);
 }
-.pkms-pangoro{
-  @include sprite-rect(33px, 33px, -814px, -1065px);
+.pkms-bouffalant {
+  @include sprite-rect(40px, 29px, -829px, -1076px);
 }
-.pkms-rapidash-galar{
-  @include sprite-rect(36px, 31px, -849px, -1065px);
+.pkms-clawitzer {
+  @include sprite-rect(41px, 28px, -871px, -1076px);
 }
-.pkms-seismitoad{
-  @include sprite-rect(38px, 28px, -887px, -1065px);
+.pkms-clefable {
+  @include sprite-rect(37px, 31px, -914px, -1076px);
 }
-.pkms-slowking{
-  @include sprite-rect(27px, 40px, -927px, -1065px);
+.pkms-darmanitan {
+  @include sprite-rect(35px, 34px, -953px, -1076px);
 }
-.pkms-togekiss{
-  @include sprite-rect(41px, 26px, -956px, -1065px);
+.pkms-dragalge {
+  @include sprite-rect(37px, 32px, -990px, -1076px);
 }
-.pkms-urshifu{
-  @include sprite-rect(33px, 33px, -999px, -1065px);
+.pkms-electabuzz {
+  @include sprite-rect(32px, 36px, -1029px, -1076px);
 }
-.pkms-whimsicott{
-  @include sprite-rect(35px, 31px, -1034px, -1065px);
+.pkms-escavalier {
+  @include sprite-rect(32px, 36px, -1063px, -1076px);
 }
-.pkms-bouffalant{
-  @include sprite-rect(40px, 29px, 0px, -1107px);
+.pkms-excadrill {
+  @include sprite-rect(39px, 29px, 0px, -1118px);
 }
-.pkms-clawitzer{
-  @include sprite-rect(41px, 28px, -42px, -1107px);
+.pkms-ferrothorn {
+  @include sprite-rect(42px, 26px, -41px, -1118px);
 }
-.pkms-clefable{
-  @include sprite-rect(37px, 31px, -85px, -1107px);
+.pkms-frosmoth {
+  @include sprite-rect(37px, 32px, -85px, -1118px);
 }
-.pkms-darmanitan{
-  @include sprite-rect(35px, 34px, -124px, -1107px);
+.pkms-haxorus {
+  @include sprite-rect(35px, 33px, -124px, -1118px);
 }
-.pkms-dragalge{
-  @include sprite-rect(37px, 32px, -161px, -1107px);
+.pkms-hitmonchan {
+  @include sprite-rect(34px, 35px, -161px, -1118px);
 }
-.pkms-electabuzz{
-  @include sprite-rect(32px, 36px, -200px, -1107px);
+.pkms-kangaskhan {
+  @include sprite-rect(35px, 33px, -197px, -1118px);
 }
-.pkms-escavalier{
-  @include sprite-rect(32px, 36px, -234px, -1107px);
+.pkms-klinklang {
+  @include sprite-rect(36px, 32px, -234px, -1118px);
 }
-.pkms-excadrill{
-  @include sprite-rect(39px, 29px, -268px, -1107px);
+.pkms-lapras {
+  @include sprite-rect(32px, 36px, -272px, -1118px);
 }
-.pkms-ferrothorn{
-  @include sprite-rect(42px, 26px, -309px, -1107px);
+.pkms-liepard {
+  @include sprite-rect(33px, 35px, -306px, -1118px);
 }
-.pkms-frosmoth{
-  @include sprite-rect(37px, 32px, -353px, -1107px);
+.pkms-miltank {
+  @include sprite-rect(35px, 33px, -341px, -1118px);
 }
-.pkms-haxorus{
-  @include sprite-rect(35px, 33px, -392px, -1107px);
+.pkms-pidgeot {
+  @include sprite-rect(35px, 34px, -378px, -1118px);
 }
-.pkms-hitmonchan{
-  @include sprite-rect(34px, 35px, -429px, -1107px);
+.pkms-rillaboom {
+  @include sprite-rect(36px, 33px, -415px, -1118px);
 }
-.pkms-kangaskhan{
-  @include sprite-rect(35px, 33px, -465px, -1107px);
+.pkms-rotom-fan {
+  @include sprite-rect(37px, 32px, -453px, -1118px);
 }
-.pkms-klinklang{
-  @include sprite-rect(36px, 32px, -502px, -1107px);
+.pkms-rotom-wash {
+  @include sprite-rect(36px, 32px, -492px, -1118px);
 }
-.pkms-lapras{
-  @include sprite-rect(32px, 36px, -540px, -1107px);
+.pkms-runerigus {
+  @include sprite-rect(40px, 29px, -530px, -1118px);
 }
-.pkms-liepard{
-  @include sprite-rect(33px, 35px, -574px, -1107px);
+.pkms-seaking {
+  @include sprite-rect(39px, 29px, -572px, -1118px);
 }
-.pkms-miltank{
-  @include sprite-rect(35px, 33px, -609px, -1107px);
+.pkms-steelix-mega {
+  @include sprite-rect(39px, 29px, -613px, -1118px);
 }
-.pkms-pidgeot{
-  @include sprite-rect(35px, 34px, -646px, -1107px);
+.pkms-stonjourner {
+  @include sprite-rect(34px, 34px, -654px, -1118px);
 }
-.pkms-rillaboom{
-  @include sprite-rect(36px, 33px, -683px, -1107px);
+.pkms-turtonator {
+  @include sprite-rect(37px, 32px, -690px, -1118px);
 }
-.pkms-rotom-fan{
-  @include sprite-rect(37px, 32px, -721px, -1107px);
+.pkms-type-null {
+  @include sprite-rect(33px, 35px, -729px, -1118px);
 }
-.pkms-rotom-wash{
-  @include sprite-rect(36px, 32px, -760px, -1107px);
+.pkms-vaporeon {
+  @include sprite-rect(39px, 30px, -764px, -1118px);
 }
-.pkms-runerigus{
-  @include sprite-rect(40px, 29px, -798px, -1107px);
+.pkms-vikavolt {
+  @include sprite-rect(37px, 32px, -805px, -1118px);
 }
-.pkms-seaking{
-  @include sprite-rect(39px, 29px, -840px, -1107px);
+.pkms-wigglytuff {
+  @include sprite-rect(31px, 38px, -844px, -1118px);
 }
-.pkms-steelix-mega{
-  @include sprite-rect(39px, 29px, -881px, -1107px);
+.pkms-alakazam {
+  @include sprite-rect(36px, 35px, -877px, -1118px);
 }
-.pkms-stonjourner{
-  @include sprite-rect(34px, 34px, -922px, -1107px);
+.pkms-appletun-gmax {
+  @include sprite-rect(27px, 44px, -915px, -1118px);
 }
-.pkms-turtonator{
-  @include sprite-rect(37px, 32px, -958px, -1107px);
+.pkms-beartic {
+  @include sprite-rect(40px, 31px, -944px, -1118px);
 }
-.pkms-type-null{
-  @include sprite-rect(33px, 35px, -997px, -1107px);
+.pkms-chandelure {
+  @include sprite-rect(37px, 34px, -986px, -1118px);
 }
-.pkms-vaporeon{
-  @include sprite-rect(39px, 30px, -1032px, -1107px);
+.pkms-cloyster {
+  @include sprite-rect(37px, 33px, -1025px, -1118px);
 }
-.pkms-vikavolt{
-  @include sprite-rect(37px, 32px, -1073px, -1107px);
+.pkms-flapple-gmax {
+  @include sprite-rect(27px, 44px, -1064px, -1118px);
 }
-.pkms-wigglytuff{
-  @include sprite-rect(31px, 38px, -1112px, -1107px);
+.pkms-flygon {
+  @include sprite-rect(37px, 34px, -1093px, -1118px);
 }
-.pkms-alakazam{
-  @include sprite-rect(36px, 35px, 0px, -1147px);
+.pkms-gigalith {
+  @include sprite-rect(38px, 33px, 0px, -1164px);
 }
-.pkms-beartic{
-  @include sprite-rect(40px, 31px, -38px, -1147px);
+.pkms-golduck {
+  @include sprite-rect(38px, 32px, -40px, -1164px);
 }
-.pkms-chandelure{
-  @include sprite-rect(37px, 34px, -80px, -1147px);
+.pkms-golem {
+  @include sprite-rect(38px, 33px, -80px, -1164px);
 }
-.pkms-cloyster{
-  @include sprite-rect(37px, 33px, -119px, -1147px);
+.pkms-golisopod {
+  @include sprite-rect(37px, 33px, -120px, -1164px);
 }
-.pkms-flapple-gmax{
-  @include sprite-rect(27px, 44px, -158px, -1147px);
+.pkms-gourgeist {
+  @include sprite-rect(38px, 32px, -159px, -1164px);
 }
-.pkms-flygon{
-  @include sprite-rect(37px, 34px, -187px, -1147px);
+.pkms-hydreigon {
+  @include sprite-rect(42px, 29px, -199px, -1164px);
 }
-.pkms-gigalith{
-  @include sprite-rect(38px, 33px, -226px, -1147px);
+.pkms-jynx {
+  @include sprite-rect(36px, 34px, -243px, -1164px);
 }
-.pkms-golduck{
-  @include sprite-rect(38px, 32px, -266px, -1147px);
+.pkms-keldeo {
+  @include sprite-rect(35px, 35px, -281px, -1164px);
 }
-.pkms-golem{
-  @include sprite-rect(38px, 33px, -306px, -1147px);
+.pkms-klefki {
+  @include sprite-rect(38px, 32px, -318px, -1164px);
 }
-.pkms-golisopod{
-  @include sprite-rect(37px, 33px, -346px, -1147px);
+.pkms-magnezone {
+  @include sprite-rect(39px, 32px, -358px, -1164px);
 }
-.pkms-gourgeist{
-  @include sprite-rect(38px, 32px, -385px, -1147px);
+.pkms-mienshao {
+  @include sprite-rect(37px, 33px, -399px, -1164px);
 }
-.pkms-hydreigon{
-  @include sprite-rect(42px, 29px, -425px, -1147px);
+.pkms-nidoqueen {
+  @include sprite-rect(35px, 36px, -438px, -1164px);
 }
-.pkms-jynx{
-  @include sprite-rect(36px, 34px, -469px, -1147px);
+.pkms-ninetales {
+  @include sprite-rect(38px, 33px, -475px, -1164px);
 }
-.pkms-keldeo{
-  @include sprite-rect(35px, 35px, -507px, -1147px);
+.pkms-rapidash {
+  @include sprite-rect(37px, 34px, -515px, -1164px);
 }
-.pkms-klefki{
-  @include sprite-rect(38px, 32px, -544px, -1147px);
+.pkms-scolipede {
+  @include sprite-rect(35px, 35px, -554px, -1164px);
 }
-.pkms-magnezone{
-  @include sprite-rect(39px, 32px, -584px, -1147px);
+.pkms-sigilyph {
+  @include sprite-rect(33px, 37px, -591px, -1164px);
 }
-.pkms-mienshao{
-  @include sprite-rect(37px, 33px, -625px, -1147px);
+.pkms-toxapex {
+  @include sprite-rect(38px, 32px, -626px, -1164px);
 }
-.pkms-nidoqueen{
-  @include sprite-rect(35px, 36px, -664px, -1147px);
+.pkms-trevenant {
+  @include sprite-rect(38px, 32px, -666px, -1164px);
 }
-.pkms-ninetales{
-  @include sprite-rect(38px, 33px, -701px, -1147px);
+.pkms-venomoth {
+  @include sprite-rect(34px, 36px, -706px, -1164px);
 }
-.pkms-rapidash{
-  @include sprite-rect(37px, 34px, -741px, -1147px);
+.pkms-victreebel {
+  @include sprite-rect(39px, 32px, -742px, -1164px);
 }
-.pkms-scolipede{
-  @include sprite-rect(35px, 35px, -780px, -1147px);
+.pkms-vileplume {
+  @include sprite-rect(38px, 32px, -783px, -1164px);
 }
-.pkms-sigilyph{
-  @include sprite-rect(33px, 37px, -817px, -1147px);
+.pkms-zeraora {
+  @include sprite-rect(38px, 32px, -823px, -1164px);
 }
-.pkms-toxapex{
-  @include sprite-rect(38px, 32px, -852px, -1147px);
+.pkms-zoroark {
+  @include sprite-rect(38px, 33px, -863px, -1164px);
 }
-.pkms-trevenant{
-  @include sprite-rect(38px, 32px, -892px, -1147px);
+.pkms-blastoise {
+  @include sprite-rect(34px, 38px, -903px, -1164px);
 }
-.pkms-venomoth{
-  @include sprite-rect(34px, 36px, -932px, -1147px);
+.pkms-cofagrigus {
+  @include sprite-rect(38px, 34px, -939px, -1164px);
 }
-.pkms-victreebel{
-  @include sprite-rect(39px, 32px, -968px, -1147px);
+.pkms-dodrio {
+  @include sprite-rect(40px, 32px, -979px, -1164px);
 }
-.pkms-vileplume{
-  @include sprite-rect(38px, 32px, -1009px, -1147px);
+.pkms-dracozolt {
+  @include sprite-rect(39px, 34px, -1021px, -1164px);
 }
-.pkms-zeraora{
-  @include sprite-rect(38px, 32px, -1049px, -1147px);
+.pkms-eevee-gmax {
+  @include sprite-rect(34px, 38px, -1062px, -1164px);
 }
-.pkms-zoroark{
-  @include sprite-rect(38px, 33px, -1089px, -1147px);
+.pkms-garbodor {
+  @include sprite-rect(42px, 30px, -1098px, -1164px);
 }
-.pkms-blastoise{
-  @include sprite-rect(34px, 38px, -1129px, -1147px);
+.pkms-golem-alola {
+  @include sprite-rect(35px, 38px, -1142px, -1164px);
 }
-.pkms-cofagrigus{
-  @include sprite-rect(38px, 34px, 0px, -1193px);
+.pkms-inteleon {
+  @include sprite-rect(28px, 45px, 0px, -1204px);
 }
-.pkms-dodrio{
-  @include sprite-rect(40px, 32px, -40px, -1193px);
+.pkms-magneton {
+  @include sprite-rect(39px, 34px, -30px, -1204px);
 }
-.pkms-dracozolt{
-  @include sprite-rect(39px, 34px, -82px, -1193px);
+.pkms-milotic {
+  @include sprite-rect(40px, 33px, -71px, -1204px);
 }
-.pkms-eevee-gmax{
-  @include sprite-rect(34px, 38px, -123px, -1193px);
+.pkms-mr-mime {
+  @include sprite-rect(37px, 36px, -113px, -1204px);
 }
-.pkms-garbodor{
-  @include sprite-rect(42px, 30px, -159px, -1193px);
+.pkms-noivern {
+  @include sprite-rect(42px, 30px, -152px, -1204px);
 }
-.pkms-golem-alola{
-  @include sprite-rect(35px, 38px, -203px, -1193px);
+.pkms-passimian {
+  @include sprite-rect(42px, 31px, -196px, -1204px);
 }
-.pkms-inteleon{
-  @include sprite-rect(28px, 45px, -240px, -1193px);
+.pkms-poliwrath {
+  @include sprite-rect(41px, 31px, -240px, -1204px);
 }
-.pkms-magneton{
-  @include sprite-rect(39px, 34px, -270px, -1193px);
+.pkms-reuniclus {
+  @include sprite-rect(46px, 27px, -283px, -1204px);
 }
-.pkms-milotic{
-  @include sprite-rect(40px, 33px, -311px, -1193px);
+.pkms-rotom-frost {
+  @include sprite-rect(39px, 33px, -331px, -1204px);
 }
-.pkms-mr-mime{
-  @include sprite-rect(37px, 36px, -353px, -1193px);
+.pkms-sharpedo {
+  @include sprite-rect(36px, 37px, -372px, -1204px);
 }
-.pkms-noivern{
-  @include sprite-rect(42px, 30px, -392px, -1193px);
+.pkms-silvally-bug {
+  @include sprite-rect(31px, 42px, -410px, -1204px);
 }
-.pkms-passimian{
-  @include sprite-rect(42px, 31px, -436px, -1193px);
+.pkms-silvally-dark {
+  @include sprite-rect(31px, 42px, -443px, -1204px);
 }
-.pkms-poliwrath{
-  @include sprite-rect(41px, 31px, -480px, -1193px);
+.pkms-silvally-dragon {
+  @include sprite-rect(31px, 42px, -476px, -1204px);
 }
-.pkms-reuniclus{
-  @include sprite-rect(46px, 27px, -523px, -1193px);
+.pkms-silvally-electric {
+  @include sprite-rect(31px, 42px, -509px, -1204px);
 }
-.pkms-rotom-frost{
-  @include sprite-rect(39px, 33px, -571px, -1193px);
+.pkms-silvally-fairy {
+  @include sprite-rect(31px, 42px, -542px, -1204px);
 }
-.pkms-sharpedo{
-  @include sprite-rect(36px, 37px, -612px, -1193px);
+.pkms-silvally-fighting {
+  @include sprite-rect(31px, 42px, -575px, -1204px);
 }
-.pkms-silvally-bug{
-  @include sprite-rect(31px, 42px, -650px, -1193px);
+.pkms-silvally-fire {
+  @include sprite-rect(31px, 42px, -608px, -1204px);
 }
-.pkms-silvally-dark{
-  @include sprite-rect(31px, 42px, -683px, -1193px);
+.pkms-silvally-flying {
+  @include sprite-rect(31px, 42px, -641px, -1204px);
 }
-.pkms-silvally-dragon{
-  @include sprite-rect(31px, 42px, -716px, -1193px);
+.pkms-silvally-ghost {
+  @include sprite-rect(31px, 42px, -674px, -1204px);
 }
-.pkms-silvally-electric{
-  @include sprite-rect(31px, 42px, -749px, -1193px);
+.pkms-silvally-grass {
+  @include sprite-rect(31px, 42px, -707px, -1204px);
 }
-.pkms-silvally-fairy{
-  @include sprite-rect(31px, 42px, -782px, -1193px);
+.pkms-silvally-ground {
+  @include sprite-rect(31px, 42px, -740px, -1204px);
 }
-.pkms-silvally-fighting{
-  @include sprite-rect(31px, 42px, -815px, -1193px);
+.pkms-silvally-ice {
+  @include sprite-rect(31px, 42px, -773px, -1204px);
 }
-.pkms-silvally-fire{
-  @include sprite-rect(31px, 42px, -848px, -1193px);
+.pkms-silvally-poison {
+  @include sprite-rect(31px, 42px, -806px, -1204px);
 }
-.pkms-silvally-flying{
-  @include sprite-rect(31px, 42px, -881px, -1193px);
+.pkms-silvally-psychic {
+  @include sprite-rect(31px, 42px, -839px, -1204px);
 }
-.pkms-silvally-ghost{
-  @include sprite-rect(31px, 42px, -914px, -1193px);
+.pkms-silvally-rock {
+  @include sprite-rect(31px, 42px, -872px, -1204px);
 }
-.pkms-silvally-grass{
-  @include sprite-rect(31px, 42px, -947px, -1193px);
+.pkms-silvally-steel {
+  @include sprite-rect(31px, 42px, -905px, -1204px);
 }
-.pkms-silvally-ground{
-  @include sprite-rect(31px, 42px, -980px, -1193px);
+.pkms-silvally-water {
+  @include sprite-rect(31px, 42px, -938px, -1204px);
 }
-.pkms-silvally-ice{
-  @include sprite-rect(31px, 42px, -1013px, -1193px);
+.pkms-silvally {
+  @include sprite-rect(31px, 42px, -971px, -1204px);
 }
-.pkms-silvally-poison{
-  @include sprite-rect(31px, 42px, -1046px, -1193px);
+.pkms-tyranitar {
+  @include sprite-rect(35px, 38px, -1004px, -1204px);
 }
-.pkms-silvally-psychic{
-  @include sprite-rect(31px, 42px, -1079px, -1193px);
+.pkms-wishiwashi-school {
+  @include sprite-rect(42px, 31px, -1041px, -1204px);
 }
-.pkms-silvally-rock{
-  @include sprite-rect(31px, 42px, 0px, -1240px);
+.pkms-zarude-dada {
+  @include sprite-rect(44px, 29px, 0px, -1251px);
 }
-.pkms-silvally-steel{
-  @include sprite-rect(31px, 42px, -33px, -1240px);
+.pkms-zarude {
+  @include sprite-rect(44px, 29px, -46px, -1251px);
 }
-.pkms-silvally-water{
-  @include sprite-rect(31px, 42px, -66px, -1240px);
+.pkms-arcanine {
+  @include sprite-rect(37px, 37px, -92px, -1251px);
 }
-.pkms-silvally{
-  @include sprite-rect(31px, 42px, -99px, -1240px);
+.pkms-coalossal {
+  @include sprite-rect(32px, 42px, -131px, -1251px);
 }
-.pkms-tyranitar{
-  @include sprite-rect(35px, 38px, -132px, -1240px);
+.pkms-dewgong {
+  @include sprite-rect(37px, 37px, -165px, -1251px);
 }
-.pkms-wishiwashi-school{
-  @include sprite-rect(42px, 31px, -169px, -1240px);
+.pkms-dusknoir {
+  @include sprite-rect(40px, 34px, -204px, -1251px);
 }
-.pkms-zarude-dada{
-  @include sprite-rect(44px, 29px, -213px, -1240px);
+.pkms-exploud {
+  @include sprite-rect(41px, 33px, -246px, -1251px);
 }
-.pkms-zarude{
-  @include sprite-rect(44px, 29px, -259px, -1240px);
+.pkms-golbat {
+  @include sprite-rect(41px, 33px, -289px, -1251px);
 }
-.pkms-arcanine{
-  @include sprite-rect(37px, 37px, -305px, -1240px);
+.pkms-hypno {
+  @include sprite-rect(40px, 35px, -332px, -1251px);
 }
-.pkms-coalossal{
-  @include sprite-rect(32px, 42px, -344px, -1240px);
+.pkms-ludicolo {
+  @include sprite-rect(36px, 38px, -374px, -1251px);
 }
-.pkms-dewgong{
-  @include sprite-rect(37px, 37px, -378px, -1240px);
+.pkms-magmar {
+  @include sprite-rect(36px, 38px, -412px, -1251px);
 }
-.pkms-dusknoir{
-  @include sprite-rect(40px, 34px, -417px, -1240px);
+.pkms-marowak-alola {
+  @include sprite-rect(35px, 39px, -450px, -1251px);
 }
-.pkms-exploud{
-  @include sprite-rect(41px, 33px, -459px, -1240px);
+.pkms-meowth-gmax {
+  @include sprite-rect(30px, 45px, -487px, -1251px);
 }
-.pkms-golbat{
-  @include sprite-rect(41px, 33px, -502px, -1240px);
+.pkms-mewtwo {
+  @include sprite-rect(32px, 42px, -519px, -1251px);
 }
-.pkms-hypno{
-  @include sprite-rect(40px, 35px, -545px, -1240px);
+.pkms-nidoking {
+  @include sprite-rect(42px, 33px, -553px, -1251px);
 }
-.pkms-ludicolo{
-  @include sprite-rect(36px, 38px, -587px, -1240px);
+.pkms-onix {
+  @include sprite-rect(33px, 41px, -597px, -1251px);
 }
-.pkms-magmar{
-  @include sprite-rect(36px, 38px, -625px, -1240px);
+.pkms-persian {
+  @include sprite-rect(37px, 37px, -632px, -1251px);
 }
-.pkms-marowak-alola{
-  @include sprite-rect(35px, 39px, -663px, -1240px);
+.pkms-primarina {
+  @include sprite-rect(39px, 36px, -671px, -1251px);
 }
-.pkms-meowth-gmax{
-  @include sprite-rect(30px, 45px, -700px, -1240px);
+.pkms-raichu {
+  @include sprite-rect(39px, 35px, -712px, -1251px);
 }
-.pkms-mewtwo{
-  @include sprite-rect(32px, 42px, -732px, -1240px);
+.pkms-skarmory {
+  @include sprite-rect(37px, 38px, -753px, -1251px);
 }
-.pkms-nidoking{
-  @include sprite-rect(42px, 33px, -766px, -1240px);
+.pkms-slowbro {
+  @include sprite-rect(41px, 33px, -792px, -1251px);
 }
-.pkms-onix{
-  @include sprite-rect(33px, 41px, -810px, -1240px);
+.pkms-tangrowth {
+  @include sprite-rect(46px, 28px, -835px, -1251px);
 }
-.pkms-persian{
-  @include sprite-rect(37px, 37px, -845px, -1240px);
+.pkms-zacian {
+  @include sprite-rect(40px, 35px, -883px, -1251px);
 }
-.pkms-primarina{
-  @include sprite-rect(39px, 36px, -884px, -1240px);
+.pkms-zamazenta {
+  @include sprite-rect(37px, 38px, -925px, -1251px);
 }
-.pkms-raichu{
-  @include sprite-rect(39px, 35px, -925px, -1240px);
+.pkms-aerodactyl {
+  @include sprite-rect(47px, 30px, -964px, -1251px);
 }
-.pkms-skarmory{
-  @include sprite-rect(37px, 38px, -966px, -1240px);
+.pkms-dragonite {
+  @include sprite-rect(36px, 40px, -1013px, -1251px);
 }
-.pkms-slowbro{
-  @include sprite-rect(41px, 33px, -1005px, -1240px);
+.pkms-druddigon {
+  @include sprite-rect(41px, 35px, -1051px, -1251px);
 }
-.pkms-tangrowth{
-  @include sprite-rect(46px, 28px, -1048px, -1240px);
+.pkms-keldeo-resolute {
+  @include sprite-rect(42px, 34px, -1094px, -1251px);
 }
-.pkms-zacian{
-  @include sprite-rect(40px, 35px, -1096px, -1240px);
+.pkms-machamp {
+  @include sprite-rect(40px, 36px, -1138px, -1251px);
 }
-.pkms-zamazenta{
-  @include sprite-rect(37px, 38px, -1138px, -1240px);
+.pkms-necrozma {
+  @include sprite-rect(41px, 36px, -1180px, -1251px);
 }
-.pkms-aerodactyl{
-  @include sprite-rect(47px, 30px, 0px, -1287px);
+.pkms-oranguru {
+  @include sprite-rect(47px, 29px, 0px, -1298px);
 }
-.pkms-dragonite{
-  @include sprite-rect(36px, 40px, -49px, -1287px);
+.pkms-rhyperior {
+  @include sprite-rect(46px, 31px, -49px, -1298px);
 }
-.pkms-druddigon{
-  @include sprite-rect(41px, 35px, -87px, -1287px);
+.pkms-scyther {
+  @include sprite-rect(37px, 39px, -97px, -1298px);
 }
-.pkms-keldeo-resolute{
-  @include sprite-rect(42px, 34px, -130px, -1287px);
+.pkms-throh {
+  @include sprite-rect(45px, 32px, -136px, -1298px);
 }
-.pkms-machamp{
-  @include sprite-rect(40px, 36px, -174px, -1287px);
+.pkms-braviary {
+  @include sprite-rect(41px, 38px, -183px, -1298px);
 }
-.pkms-necrozma{
-  @include sprite-rect(41px, 36px, -216px, -1287px);
+.pkms-butterfree {
+  @include sprite-rect(41px, 38px, -226px, -1298px);
 }
-.pkms-oranguru{
-  @include sprite-rect(47px, 29px, -259px, -1287px);
+.pkms-farfetchd-galar {
+  @include sprite-rect(48px, 30px, -269px, -1298px);
 }
-.pkms-rhyperior{
-  @include sprite-rect(46px, 31px, -308px, -1287px);
+.pkms-gyarados {
+  @include sprite-rect(38px, 40px, -319px, -1298px);
 }
-.pkms-scyther{
-  @include sprite-rect(37px, 39px, -356px, -1287px);
+.pkms-kyurem {
+  @include sprite-rect(47px, 31px, -359px, -1298px);
 }
-.pkms-throh{
-  @include sprite-rect(45px, 32px, -395px, -1287px);
+.pkms-lunala {
+  @include sprite-rect(40px, 38px, -408px, -1298px);
 }
-.pkms-braviary{
-  @include sprite-rect(41px, 38px, -442px, -1287px);
+.pkms-melmetal {
+  @include sprite-rect(50px, 29px, -450px, -1298px);
 }
-.pkms-butterfree{
-  @include sprite-rect(41px, 38px, -485px, -1287px);
+.pkms-shiftry {
+  @include sprite-rect(46px, 33px, -502px, -1298px);
 }
-.pkms-farfetchd-galar{
-  @include sprite-rect(48px, 30px, -528px, -1287px);
+.pkms-snorlax {
+  @include sprite-rect(38px, 40px, -550px, -1298px);
 }
-.pkms-gyarados{
-  @include sprite-rect(38px, 40px, -578px, -1287px);
+.pkms-tentacruel {
+  @include sprite-rect(41px, 38px, -590px, -1298px);
 }
-.pkms-kyurem{
-  @include sprite-rect(47px, 31px, -618px, -1287px);
+.pkms-drapion {
+  @include sprite-rect(52px, 28px, -633px, -1298px);
 }
-.pkms-lunala{
-  @include sprite-rect(40px, 38px, -667px, -1287px);
+.pkms-exeggutor {
+  @include sprite-rect(37px, 43px, -687px, -1298px);
 }
-.pkms-melmetal{
-  @include sprite-rect(50px, 29px, -709px, -1287px);
+.pkms-kyurem-black {
+  @include sprite-rect(44px, 37px, -726px, -1298px);
 }
-.pkms-shiftry{
-  @include sprite-rect(46px, 33px, -761px, -1287px);
+.pkms-pinsir {
+  @include sprite-rect(46px, 35px, -772px, -1298px);
 }
-.pkms-snorlax{
-  @include sprite-rect(38px, 40px, -809px, -1287px);
+.pkms-tauros {
+  @include sprite-rect(42px, 38px, -820px, -1298px);
 }
-.pkms-tentacruel{
-  @include sprite-rect(41px, 38px, -849px, -1287px);
+.pkms-zekrom {
+  @include sprite-rect(41px, 40px, -864px, -1298px);
 }
-.pkms-drapion{
-  @include sprite-rect(52px, 28px, -892px, -1287px);
+.pkms-alcremie-gmax {
+  @include sprite-rect(32px, 50px, -907px, -1298px);
 }
-.pkms-exeggutor{
-  @include sprite-rect(37px, 43px, -946px, -1287px);
+.pkms-charizard {
+  @include sprite-rect(44px, 39px, -941px, -1298px);
 }
-.pkms-kyurem-black{
-  @include sprite-rect(44px, 37px, -985px, -1287px);
+.pkms-conkeldurr {
+  @include sprite-rect(50px, 32px, -987px, -1298px);
 }
-.pkms-pinsir{
-  @include sprite-rect(46px, 35px, -1031px, -1287px);
+.pkms-duraludon-gmax {
+  @include sprite-rect(35px, 48px, -1039px, -1298px);
 }
-.pkms-tauros{
-  @include sprite-rect(42px, 38px, -1079px, -1287px);
+.pkms-hatterene-gmax {
+  @include sprite-rect(39px, 43px, -1076px, -1298px);
 }
-.pkms-zekrom{
-  @include sprite-rect(41px, 40px, -1123px, -1287px);
+.pkms-kingler {
+  @include sprite-rect(44px, 38px, -1117px, -1298px);
 }
-.pkms-alcremie-gmax{
-  @include sprite-rect(32px, 50px, -1166px, -1287px);
+.pkms-rhydon {
+  @include sprite-rect(44px, 38px, -1163px, -1298px);
 }
-.pkms-charizard{
-  @include sprite-rect(44px, 39px, -1200px, -1287px);
+.pkms-urshifu-rapid-strike-gmax {
+  @include sprite-rect(39px, 43px, -1209px, -1298px);
 }
-.pkms-conkeldurr{
-  @include sprite-rect(50px, 32px, -1246px, -1287px);
+.pkms-venusaur {
+  @include sprite-rect(43px, 39px, -1250px, -1298px);
 }
-.pkms-duraludon-gmax{
-  @include sprite-rect(35px, 48px, -1298px, -1287px);
+.pkms-heracross {
+  @include sprite-rect(44px, 40px, -1295px, -1298px);
 }
-.pkms-hatterene-gmax{
-  @include sprite-rect(39px, 43px, 0px, -1339px);
+.pkms-wailord {
+  @include sprite-rect(51px, 33px, 0px, -1350px);
 }
-.pkms-kingler{
-  @include sprite-rect(44px, 38px, -41px, -1339px);
+.pkms-dragapult {
+  @include sprite-rect(47px, 39px, -53px, -1350px);
 }
-.pkms-rhydon{
-  @include sprite-rect(44px, 38px, -87px, -1339px);
+.pkms-gengar-gmax {
+  @include sprite-rect(46px, 41px, -102px, -1350px);
 }
-.pkms-urshifu-rapid-strike-gmax{
-  @include sprite-rect(39px, 43px, -133px, -1339px);
+.pkms-grimmsnarl-gmax {
+  @include sprite-rect(39px, 48px, -150px, -1350px);
 }
-.pkms-venusaur{
-  @include sprite-rect(43px, 39px, -174px, -1339px);
+.pkms-lapras-gmax {
+  @include sprite-rect(46px, 41px, -191px, -1350px);
 }
-.pkms-heracross{
-  @include sprite-rect(44px, 40px, -219px, -1339px);
+.pkms-moltres {
+  @include sprite-rect(42px, 44px, -239px, -1350px);
 }
-.pkms-wailord{
-  @include sprite-rect(51px, 33px, -265px, -1339px);
+.pkms-pikachu-gmax {
+  @include sprite-rect(35px, 52px, -283px, -1350px);
 }
-.pkms-dragapult{
-  @include sprite-rect(47px, 39px, -318px, -1339px);
+.pkms-sandaconda-gmax {
+  @include sprite-rect(44px, 42px, -320px, -1350px);
 }
-.pkms-gengar-gmax{
-  @include sprite-rect(46px, 41px, -367px, -1339px);
+.pkms-solgaleo {
+  @include sprite-rect(48px, 39px, -366px, -1350px);
 }
-.pkms-grimmsnarl-gmax{
-  @include sprite-rect(39px, 48px, -415px, -1339px);
+.pkms-steelix {
+  @include sprite-rect(47px, 39px, -416px, -1350px);
 }
-.pkms-lapras-gmax{
-  @include sprite-rect(46px, 41px, -456px, -1339px);
+.pkms-urshifu-gmax {
+  @include sprite-rect(39px, 48px, -465px, -1350px);
 }
-.pkms-moltres{
-  @include sprite-rect(42px, 44px, -504px, -1339px);
+.pkms-venusaur-gmax {
+  @include sprite-rect(46px, 41px, -506px, -1350px);
 }
-.pkms-pikachu-gmax{
-  @include sprite-rect(35px, 52px, -548px, -1339px);
+.pkms-zamazenta-crowned {
+  @include sprite-rect(47px, 40px, -554px, -1350px);
 }
-.pkms-sandaconda-gmax{
-  @include sprite-rect(44px, 42px, -585px, -1339px);
+.pkms-zapdos {
+  @include sprite-rect(44px, 43px, -603px, -1350px);
 }
-.pkms-solgaleo{
-  @include sprite-rect(48px, 39px, -631px, -1339px);
+.pkms-copperajah-gmax {
+  @include sprite-rect(42px, 47px, -649px, -1350px);
 }
-.pkms-steelix{
-  @include sprite-rect(47px, 39px, -681px, -1339px);
+.pkms-kingler-gmax {
+  @include sprite-rect(49px, 39px, -693px, -1350px);
 }
-.pkms-urshifu-gmax{
-  @include sprite-rect(39px, 48px, -730px, -1339px);
+.pkms-melmetal-gmax {
+  @include sprite-rect(47px, 42px, -744px, -1350px);
 }
-.pkms-venusaur-gmax{
-  @include sprite-rect(46px, 41px, -771px, -1339px);
+.pkms-necrozma-dawn-wings {
+  @include sprite-rect(46px, 43px, -793px, -1350px);
 }
-.pkms-zamazenta-crowned{
-  @include sprite-rect(47px, 40px, -819px, -1339px);
+.pkms-sirfetchd {
+  @include sprite-rect(37px, 52px, -841px, -1350px);
 }
-.pkms-zapdos{
-  @include sprite-rect(44px, 43px, -868px, -1339px);
+.pkms-toxtricity-gmax {
+  @include sprite-rect(42px, 47px, -880px, -1350px);
 }
-.pkms-copperajah-gmax{
-  @include sprite-rect(42px, 47px, -914px, -1339px);
+.pkms-toxtricity-low-key-gmax {
+  @include sprite-rect(42px, 47px, -924px, -1350px);
 }
-.pkms-kingler-gmax{
-  @include sprite-rect(49px, 39px, -958px, -1339px);
+.pkms-weezing-galar {
+  @include sprite-rect(42px, 46px, -968px, -1350px);
 }
-.pkms-melmetal-gmax{
-  @include sprite-rect(47px, 42px, -1009px, -1339px);
+.pkms-butterfree-gmax {
+  @include sprite-rect(46px, 44px, -1012px, -1350px);
 }
-.pkms-necrozma-dawn{
-  @include sprite-rect(46px, 43px, -1058px, -1339px);
+.pkms-charizard-gmax {
+  @include sprite-rect(41px, 50px, -1060px, -1350px);
 }
-.pkms-sirfetchd{
-  @include sprite-rect(37px, 52px, -1106px, -1339px);
+.pkms-exeggutor-alola {
+  @include sprite-rect(37px, 54px, -1103px, -1350px);
 }
-.pkms-toxtricity-gmax{
-  @include sprite-rect(42px, 47px, -1145px, -1339px);
+.pkms-garbodor-gmax {
+  @include sprite-rect(51px, 40px, -1142px, -1350px);
 }
-.pkms-weezing-galar{
-  @include sprite-rect(42px, 46px, -1189px, -1339px);
+.pkms-machamp-gmax {
+  @include sprite-rect(44px, 46px, -1195px, -1350px);
 }
-.pkms-butterfree-gmax{
-  @include sprite-rect(46px, 44px, -1233px, -1339px);
+.pkms-weezing {
+  @include sprite-rect(47px, 43px, -1241px, -1350px);
 }
-.pkms-charizard-gmax{
-  @include sprite-rect(41px, 50px, -1281px, -1339px);
+.pkms-zacian-crowned {
+  @include sprite-rect(45px, 46px, -1290px, -1350px);
 }
-.pkms-exeggutor-alola{
-  @include sprite-rect(37px, 54px, -1324px, -1339px);
+.pkms-articuno {
+  @include sprite-rect(45px, 48px, -1337px, -1350px);
 }
-.pkms-garbodor-gmax{
-  @include sprite-rect(51px, 40px, 0px, -1395px);
+.pkms-blastoise-gmax {
+  @include sprite-rect(49px, 44px, 0px, -1406px);
 }
-.pkms-machamp-gmax{
-  @include sprite-rect(44px, 46px, -53px, -1395px);
+.pkms-coalossal-gmax {
+  @include sprite-rect(42px, 50px, -51px, -1406px);
 }
-.pkms-weezing{
-  @include sprite-rect(47px, 43px, -99px, -1395px);
+.pkms-corviknight-gmax {
+  @include sprite-rect(48px, 44px, -95px, -1406px);
 }
-.pkms-zacian-crowned{
-  @include sprite-rect(45px, 46px, -148px, -1395px);
+.pkms-kyurem-white {
+  @include sprite-rect(52px, 41px, -145px, -1406px);
 }
-.pkms-articuno{
-  @include sprite-rect(45px, 48px, -195px, -1395px);
+.pkms-orbeetle-gmax {
+  @include sprite-rect(52px, 40px, -199px, -1406px);
 }
-.pkms-blastoise-gmax{
-  @include sprite-rect(49px, 44px, -242px, -1395px);
+.pkms-reshiram {
+  @include sprite-rect(52px, 41px, -253px, -1406px);
 }
-.pkms-coalossal-gmax{
-  @include sprite-rect(42px, 50px, -293px, -1395px);
+.pkms-drednaw-gmax {
+  @include sprite-rect(51px, 46px, -307px, -1406px);
 }
-.pkms-corviknight-gmax{
-  @include sprite-rect(48px, 44px, -337px, -1395px);
+.pkms-centiskorch-gmax {
+  @include sprite-rect(54px, 45px, -360px, -1406px);
 }
-.pkms-kyurem-white{
-  @include sprite-rect(52px, 41px, -387px, -1395px);
+.pkms-necrozma-dusk-mane {
+  @include sprite-rect(53px, 46px, -416px, -1406px);
 }
-.pkms-orbeetle-gmax{
-  @include sprite-rect(52px, 40px, -441px, -1395px);
+.pkms-inteleon-gmax {
+  @include sprite-rect(50px, 50px, -471px, -1406px);
 }
-.pkms-reshiram{
-  @include sprite-rect(52px, 41px, -495px, -1395px);
+.pkms-cinderace-gmax {
+  @include sprite-rect(53px, 50px, -523px, -1406px);
 }
-.pkms-drednaw-gmax{
-  @include sprite-rect(51px, 46px, -549px, -1395px);
+.pkms-snorlax-gmax {
+  @include sprite-rect(52px, 50px, -578px, -1406px);
 }
-.pkms-centiskorch-gmax{
-  @include sprite-rect(54px, 45px, -602px, -1395px);
+.pkms-eternatus {
+  @include sprite-rect(58px, 49px, -632px, -1406px);
 }
-.pkms-necrozma-dusk{
-  @include sprite-rect(53px, 46px, -658px, -1395px);
+.pkms-rillaboom-gmax {
+  @include sprite-rect(62px, 50px, -692px, -1406px);
 }
-.pkms-inteleon-gmax{
-  @include sprite-rect(50px, 50px, -713px, -1395px);
-}
-.pkms-cinderace-gmax{
-  @include sprite-rect(53px, 50px, -765px, -1395px);
-}
-.pkms-snorlax-gmax{
-  @include sprite-rect(52px, 50px, -820px, -1395px);
-}
-.pkms-eternatus{
-  @include sprite-rect(58px, 49px, -874px, -1395px);
-}
-.pkms-rillaboom-gmax{
-  @include sprite-rect(62px, 50px, -934px, -1395px);
-}
-.pkms-eternatus-eternamax{
-  @include sprite-rect(67px, 56px, -998px, -1395px);
+.pkms-eternatus-eternamax {
+  @include sprite-rect(67px, 56px, -756px, -1406px);
 }

@@ -1,0 +1,18 @@
+{
+  "pokemon": "pokestarblackbelt",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 30,
+      "moves": ["focuspunch", "machpunch", "taunt"]
+    },
+    {
+      "generation": 5,
+      "level": 40,
+      "moves": ["machpunch", "hammerarm", "jumpkick"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

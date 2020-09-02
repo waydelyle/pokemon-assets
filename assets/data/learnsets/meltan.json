@@ -1,0 +1,28 @@
+{
+  "pokemon": "meltan",
+  "learnset": {
+    "acidarmor": ["8L32", "8V", "7L36"],
+    "endure": ["8M"],
+    "facade": ["8M"],
+    "flashcannon": ["8M", "8L40", "8V", "7M", "7L45"],
+    "gyroball": ["8M"],
+    "harden": ["8L1", "8V", "7L1"],
+    "headbutt": ["8L16", "8V", "7M", "7L1"],
+    "irondefense": ["8M"],
+    "protect": ["8M", "8V", "7M"],
+    "rest": ["8M", "8V", "7M"],
+    "round": ["8M"],
+    "sleeptalk": ["8M"],
+    "snore": ["8M"],
+    "steelbeam": ["8T"],
+    "substitute": ["8M", "8V", "7M"],
+    "tailwhip": ["8L8", "8V", "7L9"],
+    "thunderbolt": ["8M", "8V", "7M"],
+    "thundershock": ["8L1", "8V", "7L27"],
+    "thunderwave": ["8M", "8L24", "8V", "7M", "7L18"],
+    "toxic": ["8V", "7M"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

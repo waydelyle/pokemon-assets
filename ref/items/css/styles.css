@@ -1,13 +1,14 @@
-.pkitem-wrapper {
-  width: 32px;
-  height: 30px;
-  line-height: 28px;
-  text-align: center;
-  display: inline-block;
-  vertical-align: middle;
-  padding: 1px;
-}
 
+.pkitem-wrapper {
+    width:32px;
+    height:30px;
+    line-height:28px;
+    text-align:center;
+    display:inline-block;
+    vertical-align:middle;
+    padding:1px;
+}
+ 
 .pkitem {
   display: inline-block;
   vertical-align: middle;
@@ -17,5218 +18,5218 @@
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
 }
-.pkitem-pass-orb {
-  width: 10px;
-  height: 10px;
+.pkitem-pass-orb{
+  width:10px;
+  height:10px;
   background-position: 0px 0px;
 }
-.pkitem-blue-shard {
-  width: 12px;
-  height: 11px;
+.pkitem-blue-shard{
+  width:12px;
+  height:11px;
   background-position: -12px 0px;
 }
-.pkitem-courage-av-candy {
-  width: 11px;
-  height: 11px;
+.pkitem-courage-av-candy{
+  width:11px;
+  height:11px;
   background-position: -26px 0px;
 }
-.pkitem-exp-candy-xs {
-  width: 11px;
-  height: 11px;
+.pkitem-exp-candy-xs{
+  width:11px;
+  height:11px;
   background-position: -39px 0px;
 }
-.pkitem-green-shard {
-  width: 12px;
-  height: 11px;
+.pkitem-green-shard{
+  width:12px;
+  height:11px;
   background-position: -52px 0px;
 }
-.pkitem-health-av-candy {
-  width: 11px;
-  height: 11px;
+.pkitem-health-av-candy{
+  width:11px;
+  height:11px;
   background-position: -66px 0px;
 }
-.pkitem-mega-ring {
-  width: 13px;
-  height: 10px;
+.pkitem-mega-ring{
+  width:13px;
+  height:10px;
   background-position: -79px 0px;
 }
-.pkitem-mighty-av-candy {
-  width: 11px;
-  height: 11px;
+.pkitem-mighty-av-candy{
+  width:11px;
+  height:11px;
   background-position: -94px 0px;
 }
-.pkitem-quick-av-candy {
-  width: 11px;
-  height: 11px;
+.pkitem-quick-av-candy{
+  width:11px;
+  height:11px;
   background-position: -107px 0px;
 }
-.pkitem-red-shard {
-  width: 12px;
-  height: 11px;
+.pkitem-red-shard{
+  width:12px;
+  height:11px;
   background-position: -120px 0px;
 }
-.pkitem-relic-copper {
-  width: 13px;
-  height: 9px;
+.pkitem-relic-copper{
+  width:13px;
+  height:9px;
   background-position: -134px 0px;
 }
-.pkitem-relic-gold {
-  width: 13px;
-  height: 9px;
+.pkitem-relic-gold{
+  width:13px;
+  height:9px;
   background-position: -149px 0px;
 }
-.pkitem-relic-silver {
-  width: 13px;
-  height: 9px;
+.pkitem-relic-silver{
+  width:13px;
+  height:9px;
   background-position: -164px 0px;
 }
-.pkitem-smart-av-candy {
-  width: 11px;
-  height: 11px;
+.pkitem-smart-av-candy{
+  width:11px;
+  height:11px;
   background-position: -179px 0px;
 }
-.pkitem-tough-av-candy {
-  width: 11px;
-  height: 11px;
+.pkitem-tough-av-candy{
+  width:11px;
+  height:11px;
   background-position: -192px 0px;
 }
-.pkitem-yellow-shard {
-  width: 12px;
-  height: 11px;
+.pkitem-yellow-shard{
+  width:12px;
+  height:11px;
   background-position: -205px 0px;
 }
-.pkitem-aloraichium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-aloraichium-z--held{
+  width:16px;
+  height:9px;
   background-position: -219px 0px;
 }
-.pkitem-buginium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-buginium-z--held{
+  width:16px;
+  height:9px;
   background-position: -237px 0px;
 }
-.pkitem-darkinium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-darkinium-z--held{
+  width:16px;
+  height:9px;
   background-position: -255px 0px;
 }
-.pkitem-decidium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-decidium-z--held{
+  width:16px;
+  height:9px;
   background-position: -273px 0px;
 }
-.pkitem-dragonium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-dragonium-z--held{
+  width:16px;
+  height:9px;
   background-position: -291px 0px;
 }
-.pkitem-eevium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-eevium-z--held{
+  width:16px;
+  height:9px;
   background-position: -309px 0px;
 }
-.pkitem-electrium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-electrium-z--held{
+  width:16px;
+  height:9px;
   background-position: -327px 0px;
 }
-.pkitem-fairium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-fairium-z--held{
+  width:16px;
+  height:9px;
   background-position: -345px 0px;
 }
-.pkitem-fightinium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-fightinium-z--held{
+  width:16px;
+  height:9px;
   background-position: -363px 0px;
 }
-.pkitem-firium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-firium-z--held{
+  width:16px;
+  height:9px;
   background-position: -381px 0px;
 }
-.pkitem-flyinium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-flyinium-z--held{
+  width:16px;
+  height:9px;
   background-position: -399px 0px;
 }
-.pkitem-ghostium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-ghostium-z--held{
+  width:16px;
+  height:9px;
   background-position: -417px 0px;
 }
-.pkitem-grassium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-grassium-z--held{
+  width:16px;
+  height:9px;
   background-position: -435px 0px;
 }
-.pkitem-groundium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-groundium-z--held{
+  width:16px;
+  height:9px;
   background-position: -453px 0px;
 }
-.pkitem-icium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-icium-z--held{
+  width:16px;
+  height:9px;
   background-position: 0px -13px;
 }
-.pkitem-incinium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-incinium-z--held{
+  width:16px;
+  height:9px;
   background-position: -18px -13px;
 }
-.pkitem-marshadium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-marshadium-z--held{
+  width:16px;
+  height:9px;
   background-position: -36px -13px;
 }
-.pkitem-mewnium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-mewnium-z--held{
+  width:16px;
+  height:9px;
   background-position: -54px -13px;
 }
-.pkitem-normalium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-normalium-z--held{
+  width:16px;
+  height:9px;
   background-position: -72px -13px;
 }
-.pkitem-pearl {
-  width: 12px;
-  height: 12px;
+.pkitem-pearl{
+  width:12px;
+  height:12px;
   background-position: -90px -13px;
 }
-.pkitem-pikanium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-pikanium-z--held{
+  width:16px;
+  height:9px;
   background-position: -104px -13px;
 }
-.pkitem-pikashunium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-pikashunium-z--held{
+  width:16px;
+  height:9px;
   background-position: -122px -13px;
 }
-.pkitem-poisonium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-poisonium-z--held{
+  width:16px;
+  height:9px;
   background-position: -140px -13px;
 }
-.pkitem-primarium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-primarium-z--held{
+  width:16px;
+  height:9px;
   background-position: -158px -13px;
 }
-.pkitem-psychium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-psychium-z--held{
+  width:16px;
+  height:9px;
   background-position: -176px -13px;
 }
-.pkitem-revive {
-  width: 10px;
-  height: 15px;
+.pkitem-revive{
+  width:10px;
+  height:15px;
   background-position: -194px -13px;
 }
-.pkitem-rockium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-rockium-z--held{
+  width:16px;
+  height:9px;
   background-position: -206px -13px;
 }
-.pkitem-snorlium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-snorlium-z--held{
+  width:16px;
+  height:9px;
   background-position: -224px -13px;
 }
-.pkitem-steelium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-steelium-z--held{
+  width:16px;
+  height:9px;
   background-position: -242px -13px;
 }
-.pkitem-tapunium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-tapunium-z--held{
+  width:16px;
+  height:9px;
   background-position: -260px -13px;
 }
-.pkitem-waterium-z--held {
-  width: 16px;
-  height: 9px;
+.pkitem-waterium-z--held{
+  width:16px;
+  height:9px;
   background-position: -278px -13px;
 }
-.pkitem-common-stone {
-  width: 13px;
-  height: 14px;
+.pkitem-common-stone{
+  width:13px;
+  height:14px;
   background-position: -296px -13px;
 }
-.pkitem-courage-l-av-candy {
-  width: 13px;
-  height: 14px;
+.pkitem-courage-l-av-candy{
+  width:13px;
+  height:14px;
   background-position: -311px -13px;
 }
-.pkitem-eviolite {
-  width: 13px;
-  height: 13px;
+.pkitem-eviolite{
+  width:13px;
+  height:13px;
   background-position: -326px -13px;
 }
-.pkitem-health-l-av-candy {
-  width: 13px;
-  height: 14px;
+.pkitem-health-l-av-candy{
+  width:13px;
+  height:14px;
   background-position: -341px -13px;
 }
-.pkitem-mighty-l-av-candy {
-  width: 13px;
-  height: 14px;
+.pkitem-mighty-l-av-candy{
+  width:13px;
+  height:14px;
   background-position: -356px -13px;
 }
-.pkitem-orange-petal {
-  width: 12px;
-  height: 14px;
+.pkitem-orange-petal{
+  width:12px;
+  height:14px;
   background-position: -371px -13px;
 }
-.pkitem-prism-scale {
-  width: 13px;
-  height: 13px;
+.pkitem-prism-scale{
+  width:13px;
+  height:13px;
   background-position: -385px -13px;
 }
-.pkitem-quick-l-av-candy {
-  width: 13px;
-  height: 14px;
+.pkitem-quick-l-av-candy{
+  width:13px;
+  height:14px;
   background-position: -400px -13px;
 }
-.pkitem-red-scale {
-  width: 13px;
-  height: 13px;
+.pkitem-red-scale{
+  width:13px;
+  height:13px;
   background-position: -415px -13px;
 }
-.pkitem-smart-l-av-candy {
-  width: 13px;
-  height: 14px;
+.pkitem-smart-l-av-candy{
+  width:13px;
+  height:14px;
   background-position: -430px -13px;
 }
-.pkitem-snowball {
-  width: 13px;
-  height: 13px;
+.pkitem-snowball{
+  width:13px;
+  height:13px;
   background-position: -445px -13px;
 }
-.pkitem-tiny-mushroom {
-  width: 13px;
-  height: 13px;
+.pkitem-tiny-mushroom{
+  width:13px;
+  height:13px;
   background-position: -460px -13px;
 }
-.pkitem-tough-l-av-candy {
-  width: 13px;
-  height: 14px;
+.pkitem-tough-l-av-candy{
+  width:13px;
+  height:14px;
   background-position: -475px -13px;
 }
-.pkitem-abomasite {
-  width: 14px;
-  height: 14px;
+.pkitem-abomasite{
+  width:14px;
+  height:14px;
   background-position: 0px -30px;
 }
-.pkitem-absolite {
-  width: 14px;
-  height: 14px;
+.pkitem-absolite{
+  width:14px;
+  height:14px;
   background-position: -16px -30px;
 }
-.pkitem-aerodactylite {
-  width: 14px;
-  height: 14px;
+.pkitem-aerodactylite{
+  width:14px;
+  height:14px;
   background-position: -32px -30px;
 }
-.pkitem-aggronite {
-  width: 14px;
-  height: 14px;
+.pkitem-aggronite{
+  width:14px;
+  height:14px;
   background-position: -48px -30px;
 }
-.pkitem-alakazite {
-  width: 14px;
-  height: 14px;
+.pkitem-alakazite{
+  width:14px;
+  height:14px;
   background-position: -64px -30px;
 }
-.pkitem-altarianite {
-  width: 14px;
-  height: 14px;
+.pkitem-altarianite{
+  width:14px;
+  height:14px;
   background-position: -80px -30px;
 }
-.pkitem-ampharosite {
-  width: 14px;
-  height: 14px;
+.pkitem-ampharosite{
+  width:14px;
+  height:14px;
   background-position: -96px -30px;
 }
-.pkitem-audinite {
-  width: 14px;
-  height: 14px;
+.pkitem-audinite{
+  width:14px;
+  height:14px;
   background-position: -112px -30px;
 }
-.pkitem-banettite {
-  width: 14px;
-  height: 14px;
+.pkitem-banettite{
+  width:14px;
+  height:14px;
   background-position: -128px -30px;
 }
-.pkitem-beedrillite {
-  width: 14px;
-  height: 14px;
+.pkitem-beedrillite{
+  width:14px;
+  height:14px;
   background-position: -144px -30px;
 }
-.pkitem-blastoisinite {
-  width: 14px;
-  height: 14px;
+.pkitem-blastoisinite{
+  width:14px;
+  height:14px;
   background-position: -160px -30px;
 }
-.pkitem-blazikenite {
-  width: 14px;
-  height: 14px;
+.pkitem-blazikenite{
+  width:14px;
+  height:14px;
   background-position: -176px -30px;
 }
-.pkitem-blue-orb-gen4 {
-  width: 14px;
-  height: 14px;
+.pkitem-blue-orb-gen4{
+  width:14px;
+  height:14px;
   background-position: -192px -30px;
 }
-.pkitem-bottle-cap {
-  width: 15px;
-  height: 14px;
+.pkitem-bottle-cap{
+  width:15px;
+  height:14px;
   background-position: -208px -30px;
 }
-.pkitem-cameruptite {
-  width: 14px;
-  height: 14px;
+.pkitem-cameruptite{
+  width:14px;
+  height:14px;
   background-position: -225px -30px;
 }
-.pkitem-cell-battery {
-  width: 8px;
-  height: 21px;
+.pkitem-cell-battery{
+  width:8px;
+  height:21px;
   background-position: -241px -30px;
 }
-.pkitem-charizardite-x {
-  width: 14px;
-  height: 14px;
+.pkitem-charizardite-x{
+  width:14px;
+  height:14px;
   background-position: -251px -30px;
 }
-.pkitem-charizardite-y {
-  width: 14px;
-  height: 14px;
+.pkitem-charizardite-y{
+  width:14px;
+  height:14px;
   background-position: -267px -30px;
 }
-.pkitem-diancite {
-  width: 14px;
-  height: 14px;
+.pkitem-diancite{
+  width:14px;
+  height:14px;
   background-position: -283px -30px;
 }
-.pkitem-exp-candy-m {
-  width: 14px;
-  height: 15px;
+.pkitem-exp-candy-m{
+  width:14px;
+  height:15px;
   background-position: -299px -30px;
 }
-.pkitem-float-stone {
-  width: 16px;
-  height: 13px;
+.pkitem-float-stone{
+  width:16px;
+  height:13px;
   background-position: -315px -30px;
 }
-.pkitem-galladite {
-  width: 14px;
-  height: 14px;
+.pkitem-galladite{
+  width:14px;
+  height:14px;
   background-position: -333px -30px;
 }
-.pkitem-garchompite {
-  width: 14px;
-  height: 14px;
+.pkitem-garchompite{
+  width:14px;
+  height:14px;
   background-position: -349px -30px;
 }
-.pkitem-gardevoirite {
-  width: 14px;
-  height: 14px;
+.pkitem-gardevoirite{
+  width:14px;
+  height:14px;
   background-position: -365px -30px;
 }
-.pkitem-gengarite {
-  width: 14px;
-  height: 14px;
+.pkitem-gengarite{
+  width:14px;
+  height:14px;
   background-position: -381px -30px;
 }
-.pkitem-glalitite {
-  width: 14px;
-  height: 14px;
+.pkitem-glalitite{
+  width:14px;
+  height:14px;
   background-position: -397px -30px;
 }
-.pkitem-gold-bottle-cap {
-  width: 15px;
-  height: 14px;
+.pkitem-gold-bottle-cap{
+  width:15px;
+  height:14px;
   background-position: -413px -30px;
 }
-.pkitem-green-petal {
-  width: 14px;
-  height: 14px;
+.pkitem-green-petal{
+  width:14px;
+  height:14px;
   background-position: -430px -30px;
 }
-.pkitem-gyaradosite {
-  width: 14px;
-  height: 14px;
+.pkitem-gyaradosite{
+  width:14px;
+  height:14px;
   background-position: -446px -30px;
 }
-.pkitem-heracronite {
-  width: 14px;
-  height: 14px;
+.pkitem-heracronite{
+  width:14px;
+  height:14px;
   background-position: -462px -30px;
 }
-.pkitem-houndoominite {
-  width: 14px;
-  height: 14px;
+.pkitem-houndoominite{
+  width:14px;
+  height:14px;
   background-position: 0px -53px;
 }
-.pkitem-intriguing-stone {
-  width: 14px;
-  height: 14px;
+.pkitem-intriguing-stone{
+  width:14px;
+  height:14px;
   background-position: -16px -53px;
 }
-.pkitem-jade-orb {
-  width: 14px;
-  height: 14px;
+.pkitem-jade-orb{
+  width:14px;
+  height:14px;
   background-position: -32px -53px;
 }
-.pkitem-kangaskhanite {
-  width: 14px;
-  height: 14px;
+.pkitem-kangaskhanite{
+  width:14px;
+  height:14px;
   background-position: -48px -53px;
 }
-.pkitem-key-stone-gen6 {
-  width: 14px;
-  height: 14px;
+.pkitem-key-stone-gen6{
+  width:14px;
+  height:14px;
   background-position: -64px -53px;
 }
-.pkitem-latiasite {
-  width: 14px;
-  height: 14px;
+.pkitem-latiasite{
+  width:14px;
+  height:14px;
   background-position: -80px -53px;
 }
-.pkitem-latiosite {
-  width: 14px;
-  height: 14px;
+.pkitem-latiosite{
+  width:14px;
+  height:14px;
   background-position: -96px -53px;
 }
-.pkitem-lopunnite {
-  width: 14px;
-  height: 14px;
+.pkitem-lopunnite{
+  width:14px;
+  height:14px;
   background-position: -112px -53px;
 }
-.pkitem-lucarionite {
-  width: 14px;
-  height: 14px;
+.pkitem-lucarionite{
+  width:14px;
+  height:14px;
   background-position: -128px -53px;
 }
-.pkitem-manectite {
-  width: 14px;
-  height: 14px;
+.pkitem-manectite{
+  width:14px;
+  height:14px;
   background-position: -144px -53px;
 }
-.pkitem-marble {
-  width: 14px;
-  height: 14px;
+.pkitem-marble{
+  width:14px;
+  height:14px;
   background-position: -160px -53px;
 }
-.pkitem-mawilite {
-  width: 14px;
-  height: 14px;
+.pkitem-mawilite{
+  width:14px;
+  height:14px;
   background-position: -176px -53px;
 }
-.pkitem-medichamite {
-  width: 14px;
-  height: 14px;
+.pkitem-medichamite{
+  width:14px;
+  height:14px;
   background-position: -192px -53px;
 }
-.pkitem-metagrossite {
-  width: 14px;
-  height: 14px;
+.pkitem-metagrossite{
+  width:14px;
+  height:14px;
   background-position: -208px -53px;
 }
-.pkitem-mewtwonite-x {
-  width: 14px;
-  height: 14px;
+.pkitem-mewtwonite-x{
+  width:14px;
+  height:14px;
   background-position: -224px -53px;
 }
-.pkitem-mewtwonite-y {
-  width: 14px;
-  height: 14px;
+.pkitem-mewtwonite-y{
+  width:14px;
+  height:14px;
   background-position: -240px -53px;
 }
-.pkitem-nugget {
-  width: 14px;
-  height: 14px;
+.pkitem-nugget{
+  width:14px;
+  height:14px;
   background-position: -256px -53px;
 }
-.pkitem-pidgeotite {
-  width: 14px;
-  height: 14px;
+.pkitem-pidgeotite{
+  width:14px;
+  height:14px;
   background-position: -272px -53px;
 }
-.pkitem-pinsirite {
-  width: 14px;
-  height: 14px;
+.pkitem-pinsirite{
+  width:14px;
+  height:14px;
   background-position: -288px -53px;
 }
-.pkitem-pretty-wing {
-  width: 14px;
-  height: 14px;
+.pkitem-pretty-wing{
+  width:14px;
+  height:14px;
   background-position: -304px -53px;
 }
-.pkitem-red-orb-gen4 {
-  width: 14px;
-  height: 14px;
+.pkitem-red-orb-gen4{
+  width:14px;
+  height:14px;
   background-position: -320px -53px;
 }
-.pkitem-relic-band {
-  width: 15px;
-  height: 14px;
+.pkitem-relic-band{
+  width:15px;
+  height:14px;
   background-position: -336px -53px;
 }
-.pkitem-sablenite {
-  width: 14px;
-  height: 14px;
+.pkitem-sablenite{
+  width:14px;
+  height:14px;
   background-position: -353px -53px;
 }
-.pkitem-salamencite {
-  width: 14px;
-  height: 14px;
+.pkitem-salamencite{
+  width:14px;
+  height:14px;
   background-position: -369px -53px;
 }
-.pkitem-sceptilite {
-  width: 14px;
-  height: 14px;
+.pkitem-sceptilite{
+  width:14px;
+  height:14px;
   background-position: -385px -53px;
 }
-.pkitem-scizorite {
-  width: 14px;
-  height: 14px;
+.pkitem-scizorite{
+  width:14px;
+  height:14px;
   background-position: -401px -53px;
 }
-.pkitem-sharpedonite {
-  width: 14px;
-  height: 14px;
+.pkitem-sharpedonite{
+  width:14px;
+  height:14px;
   background-position: -417px -53px;
 }
-.pkitem-slowbronite {
-  width: 14px;
-  height: 14px;
+.pkitem-slowbronite{
+  width:14px;
+  height:14px;
   background-position: -433px -53px;
 }
-.pkitem-soul-dew {
-  width: 14px;
-  height: 14px;
+.pkitem-soul-dew{
+  width:14px;
+  height:14px;
   background-position: -449px -53px;
 }
-.pkitem-steelixite {
-  width: 14px;
-  height: 14px;
+.pkitem-steelixite{
+  width:14px;
+  height:14px;
   background-position: -465px -53px;
 }
-.pkitem-strawberry-sweet {
-  width: 14px;
-  height: 14px;
+.pkitem-strawberry-sweet{
+  width:14px;
+  height:14px;
   background-position: 0px -69px;
 }
-.pkitem-swampertite {
-  width: 14px;
-  height: 14px;
+.pkitem-swampertite{
+  width:14px;
+  height:14px;
   background-position: -16px -69px;
 }
-.pkitem-sweet-heart {
-  width: 15px;
-  height: 13px;
+.pkitem-sweet-heart{
+  width:15px;
+  height:13px;
   background-position: -32px -69px;
 }
-.pkitem-tyranitarite {
-  width: 14px;
-  height: 14px;
+.pkitem-tyranitarite{
+  width:14px;
+  height:14px;
   background-position: -49px -69px;
 }
-.pkitem-venusaurite {
-  width: 14px;
-  height: 14px;
+.pkitem-venusaurite{
+  width:14px;
+  height:14px;
   background-position: -65px -69px;
 }
-.pkitem-berry-sweet {
-  width: 16px;
-  height: 15px;
+.pkitem-berry-sweet{
+  width:16px;
+  height:15px;
   background-position: -81px -69px;
 }
-.pkitem-comet-shard {
-  width: 15px;
-  height: 16px;
+.pkitem-comet-shard{
+  width:15px;
+  height:16px;
   background-position: -99px -69px;
 }
-.pkitem-exp-candy-l {
-  width: 15px;
-  height: 16px;
+.pkitem-exp-candy-l{
+  width:15px;
+  height:16px;
   background-position: -116px -69px;
 }
-.pkitem-exp-candy-s {
-  width: 16px;
-  height: 14px;
+.pkitem-exp-candy-s{
+  width:16px;
+  height:14px;
   background-position: -133px -69px;
 }
-.pkitem-holo-caster--green {
-  width: 14px;
-  height: 16px;
+.pkitem-holo-caster--green{
+  width:14px;
+  height:16px;
   background-position: -151px -69px;
 }
-.pkitem-holo-caster--red {
-  width: 14px;
-  height: 16px;
+.pkitem-holo-caster--red{
+  width:14px;
+  height:16px;
   background-position: -167px -69px;
 }
-.pkitem-holo-caster {
-  width: 14px;
-  height: 16px;
+.pkitem-holo-caster{
+  width:14px;
+  height:16px;
   background-position: -183px -69px;
 }
-.pkitem-kommonium-z--held {
-  width: 22px;
-  height: 9px;
+.pkitem-kommonium-z--held{
+  width:22px;
+  height:9px;
   background-position: -199px -69px;
 }
-.pkitem-lost-item {
-  width: 15px;
-  height: 15px;
+.pkitem-lost-item{
+  width:15px;
+  height:15px;
   background-position: -223px -69px;
 }
-.pkitem-lumiose-galette {
-  width: 17px;
-  height: 14px;
+.pkitem-lumiose-galette{
+  width:17px;
+  height:14px;
   background-position: -240px -69px;
 }
-.pkitem-lunalium-z--held {
-  width: 22px;
-  height: 9px;
+.pkitem-lunalium-z--held{
+  width:22px;
+  height:9px;
   background-position: -259px -69px;
 }
-.pkitem-lycanium-z--held {
-  width: 22px;
-  height: 9px;
+.pkitem-lycanium-z--held{
+  width:22px;
+  height:9px;
   background-position: -283px -69px;
 }
-.pkitem-meteorite--4 {
-  width: 15px;
-  height: 16px;
+.pkitem-meteorite--4{
+  width:15px;
+  height:16px;
   background-position: -307px -69px;
 }
-.pkitem-meteorite-shard {
-  width: 17px;
-  height: 14px;
+.pkitem-meteorite-shard{
+  width:17px;
+  height:14px;
   background-position: -324px -69px;
 }
-.pkitem-mimikium-z--held {
-  width: 22px;
-  height: 9px;
+.pkitem-mimikium-z--held{
+  width:22px;
+  height:9px;
   background-position: -343px -69px;
 }
-.pkitem-mystery-egg {
-  width: 14px;
-  height: 16px;
+.pkitem-mystery-egg{
+  width:14px;
+  height:16px;
   background-position: -367px -69px;
 }
-.pkitem-pink-petal {
-  width: 15px;
-  height: 15px;
+.pkitem-pink-petal{
+  width:15px;
+  height:15px;
   background-position: -383px -69px;
 }
-.pkitem-purple-petal {
-  width: 15px;
-  height: 15px;
+.pkitem-purple-petal{
+  width:15px;
+  height:15px;
   background-position: -400px -69px;
 }
-.pkitem-red-petal {
-  width: 15px;
-  height: 15px;
+.pkitem-red-petal{
+  width:15px;
+  height:15px;
   background-position: -417px -69px;
 }
-.pkitem-relic-vase {
-  width: 15px;
-  height: 16px;
+.pkitem-relic-vase{
+  width:15px;
+  height:16px;
   background-position: -434px -69px;
 }
-.pkitem-ring-target {
-  width: 14px;
-  height: 17px;
+.pkitem-ring-target{
+  width:14px;
+  height:17px;
   background-position: -451px -69px;
 }
-.pkitem-slowpoke-tail {
-  width: 16px;
-  height: 15px;
+.pkitem-slowpoke-tail{
+  width:16px;
+  height:15px;
   background-position: -467px -69px;
 }
-.pkitem-solganium-z--held {
-  width: 22px;
-  height: 9px;
+.pkitem-solganium-z--held{
+  width:22px;
+  height:9px;
   background-position: -485px -69px;
 }
-.pkitem-star-piece {
-  width: 15px;
-  height: 16px;
+.pkitem-star-piece{
+  width:15px;
+  height:16px;
   background-position: -509px -69px;
 }
-.pkitem-ultranecrozium-z--held {
-  width: 22px;
-  height: 9px;
+.pkitem-ultranecrozium-z--held{
+  width:22px;
+  height:9px;
   background-position: -526px -69px;
 }
-.pkitem-wishing-chip {
-  width: 16px;
-  height: 14px;
+.pkitem-wishing-chip{
+  width:16px;
+  height:14px;
   background-position: 0px -88px;
 }
-.pkitem-yellow-petal {
-  width: 15px;
-  height: 16px;
+.pkitem-yellow-petal{
+  width:15px;
+  height:16px;
   background-position: -18px -88px;
 }
-.pkitem-zygarde-cube {
-  width: 15px;
-  height: 15px;
+.pkitem-zygarde-cube{
+  width:15px;
+  height:15px;
   background-position: -35px -88px;
 }
-.pkitem-balm-mushroom {
-  width: 17px;
-  height: 16px;
+.pkitem-balm-mushroom{
+  width:17px;
+  height:16px;
   background-position: -52px -88px;
 }
-.pkitem-big-pearl {
-  width: 16px;
-  height: 16px;
+.pkitem-big-pearl{
+  width:16px;
+  height:16px;
   background-position: -71px -88px;
 }
-.pkitem-black-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-black-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -89px -88px;
 }
-.pkitem-blue-orb-gen3 {
-  width: 16px;
-  height: 16px;
+.pkitem-blue-orb-gen3{
+  width:16px;
+  height:16px;
   background-position: -107px -88px;
 }
-.pkitem-blue-petal {
-  width: 16px;
-  height: 16px;
+.pkitem-blue-petal{
+  width:16px;
+  height:16px;
   background-position: -125px -88px;
 }
-.pkitem-blue-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-blue-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -143px -88px;
 }
-.pkitem-brown-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-brown-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -161px -88px;
 }
-.pkitem-bug-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-bug-gem{
+  width:18px;
+  height:15px;
   background-position: -179px -88px;
 }
-.pkitem-chalky-stone {
-  width: 19px;
-  height: 13px;
+.pkitem-chalky-stone{
+  width:19px;
+  height:13px;
   background-position: -199px -88px;
 }
-.pkitem-clever-wing {
-  width: 16px;
-  height: 16px;
+.pkitem-clever-wing{
+  width:16px;
+  height:16px;
   background-position: -220px -88px;
 }
-.pkitem-courage-xl-av-candy {
-  width: 16px;
-  height: 17px;
+.pkitem-courage-xl-av-candy{
+  width:16px;
+  height:17px;
   background-position: -238px -88px;
 }
-.pkitem-dark-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-dark-gem{
+  width:18px;
+  height:15px;
   background-position: -256px -88px;
 }
-.pkitem-dark-stone {
-  width: 16px;
-  height: 16px;
+.pkitem-dark-stone{
+  width:16px;
+  height:16px;
   background-position: -276px -88px;
 }
-.pkitem-dragon-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-dragon-gem{
+  width:18px;
+  height:15px;
   background-position: -294px -88px;
 }
-.pkitem-electric-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-electric-gem{
+  width:18px;
+  height:15px;
   background-position: -314px -88px;
 }
-.pkitem-everstone {
-  width: 18px;
-  height: 15px;
+.pkitem-everstone{
+  width:18px;
+  height:15px;
   background-position: -334px -88px;
 }
-.pkitem-fairy-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-fairy-gem{
+  width:18px;
+  height:15px;
   background-position: -354px -88px;
 }
-.pkitem-fighting-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-fighting-gem{
+  width:18px;
+  height:15px;
   background-position: -374px -88px;
 }
-.pkitem-fire-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-fire-gem{
+  width:18px;
+  height:15px;
   background-position: -394px -88px;
 }
-.pkitem-flame-orb {
-  width: 16px;
-  height: 16px;
+.pkitem-flame-orb{
+  width:16px;
+  height:16px;
   background-position: -414px -88px;
 }
-.pkitem-flower-sweet {
-  width: 17px;
-  height: 16px;
+.pkitem-flower-sweet{
+  width:17px;
+  height:16px;
   background-position: -432px -88px;
 }
-.pkitem-flying-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-flying-gem{
+  width:18px;
+  height:15px;
   background-position: -451px -88px;
 }
-.pkitem-genius-wing {
-  width: 16px;
-  height: 16px;
+.pkitem-genius-wing{
+  width:16px;
+  height:16px;
   background-position: -471px -88px;
 }
-.pkitem-ghost-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-ghost-gem{
+  width:18px;
+  height:15px;
   background-position: -489px -88px;
 }
-.pkitem-god-stone {
-  width: 16px;
-  height: 16px;
+.pkitem-god-stone{
+  width:16px;
+  height:16px;
   background-position: -509px -88px;
 }
-.pkitem-grass-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-grass-gem{
+  width:18px;
+  height:15px;
   background-position: -527px -88px;
 }
-.pkitem-gray-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-gray-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -547px -88px;
 }
-.pkitem-green-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-green-poke-candy{
+  width:16px;
+  height:16px;
   background-position: 0px -107px;
 }
-.pkitem-ground-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-ground-gem{
+  width:18px;
+  height:15px;
   background-position: -18px -107px;
 }
-.pkitem-health-wing {
-  width: 16px;
-  height: 16px;
+.pkitem-health-wing{
+  width:16px;
+  height:16px;
   background-position: -38px -107px;
 }
-.pkitem-health-xl-av-candy {
-  width: 16px;
-  height: 17px;
+.pkitem-health-xl-av-candy{
+  width:16px;
+  height:17px;
   background-position: -56px -107px;
 }
-.pkitem-heart-scale {
-  width: 18px;
-  height: 15px;
+.pkitem-heart-scale{
+  width:18px;
+  height:15px;
   background-position: -74px -107px;
 }
-.pkitem-ice-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-ice-gem{
+  width:18px;
+  height:15px;
   background-position: -94px -107px;
 }
-.pkitem-iron-ball {
-  width: 16px;
-  height: 16px;
+.pkitem-iron-ball{
+  width:16px;
+  height:16px;
   background-position: -114px -107px;
 }
-.pkitem-leftovers {
-  width: 13px;
-  height: 20px;
+.pkitem-leftovers{
+  width:13px;
+  height:20px;
   background-position: -132px -107px;
 }
-.pkitem-life-orb {
-  width: 16px;
-  height: 16px;
+.pkitem-life-orb{
+  width:16px;
+  height:16px;
   background-position: -147px -107px;
 }
-.pkitem-light-ball {
-  width: 16px;
-  height: 16px;
+.pkitem-light-ball{
+  width:16px;
+  height:16px;
   background-position: -165px -107px;
 }
-.pkitem-light-stone {
-  width: 16px;
-  height: 16px;
+.pkitem-light-stone{
+  width:16px;
+  height:16px;
   background-position: -183px -107px;
 }
-.pkitem-lucky-egg {
-  width: 15px;
-  height: 18px;
+.pkitem-lucky-egg{
+  width:15px;
+  height:18px;
   background-position: -201px -107px;
 }
-.pkitem-mega-bracelet {
-  width: 18px;
-  height: 14px;
+.pkitem-mega-bracelet{
+  width:18px;
+  height:14px;
   background-position: -218px -107px;
 }
-.pkitem-mighty-xl-av-candy {
-  width: 16px;
-  height: 17px;
+.pkitem-mighty-xl-av-candy{
+  width:16px;
+  height:17px;
   background-position: -238px -107px;
 }
-.pkitem-muscle-wing {
-  width: 16px;
-  height: 16px;
+.pkitem-muscle-wing{
+  width:16px;
+  height:16px;
   background-position: -256px -107px;
 }
-.pkitem-normal-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-normal-gem{
+  width:18px;
+  height:15px;
   background-position: -274px -107px;
 }
-.pkitem-oval-stone {
-  width: 16px;
-  height: 17px;
+.pkitem-oval-stone{
+  width:16px;
+  height:17px;
   background-position: -294px -107px;
 }
-.pkitem-pearl-string {
-  width: 22px;
-  height: 10px;
+.pkitem-pearl-string{
+  width:22px;
+  height:10px;
   background-position: -312px -107px;
 }
-.pkitem-pink-nectar {
-  width: 16px;
-  height: 17px;
+.pkitem-pink-nectar{
+  width:16px;
+  height:17px;
   background-position: -336px -107px;
 }
-.pkitem-pink-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-pink-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -354px -107px;
 }
-.pkitem-poison-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-poison-gem{
+  width:18px;
+  height:15px;
   background-position: -372px -107px;
 }
-.pkitem-polished-mud-ball {
-  width: 16px;
-  height: 16px;
+.pkitem-polished-mud-ball{
+  width:16px;
+  height:16px;
   background-position: -392px -107px;
 }
-.pkitem-psychic-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-psychic-gem{
+  width:18px;
+  height:15px;
   background-position: -410px -107px;
 }
-.pkitem-purple-nectar {
-  width: 16px;
-  height: 17px;
+.pkitem-purple-nectar{
+  width:16px;
+  height:17px;
   background-position: -430px -107px;
 }
-.pkitem-purple-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-purple-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -448px -107px;
 }
-.pkitem-quick-xl-av-candy {
-  width: 16px;
-  height: 17px;
+.pkitem-quick-xl-av-candy{
+  width:16px;
+  height:17px;
   background-position: -466px -107px;
 }
-.pkitem-rainbow-wing {
-  width: 12px;
-  height: 21px;
+.pkitem-rainbow-wing{
+  width:12px;
+  height:21px;
   background-position: -484px -107px;
 }
-.pkitem-red-card {
-  width: 15px;
-  height: 17px;
+.pkitem-red-card{
+  width:15px;
+  height:17px;
   background-position: -498px -107px;
 }
-.pkitem-red-nectar {
-  width: 16px;
-  height: 17px;
+.pkitem-red-nectar{
+  width:16px;
+  height:17px;
   background-position: -515px -107px;
 }
-.pkitem-red-orb-gen3 {
-  width: 16px;
-  height: 16px;
+.pkitem-red-orb-gen3{
+  width:16px;
+  height:16px;
   background-position: -533px -107px;
 }
-.pkitem-red-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-red-poke-candy{
+  width:16px;
+  height:16px;
   background-position: 0px -130px;
 }
-.pkitem-resist-wing {
-  width: 16px;
-  height: 16px;
+.pkitem-resist-wing{
+  width:16px;
+  height:16px;
   background-position: -18px -130px;
 }
-.pkitem-rock-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-rock-gem{
+  width:18px;
+  height:15px;
   background-position: -36px -130px;
 }
-.pkitem-roto-bargain {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-bargain{
+  width:15px;
+  height:18px;
   background-position: -56px -130px;
 }
-.pkitem-roto-boost {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-boost{
+  width:15px;
+  height:18px;
   background-position: -73px -130px;
 }
-.pkitem-roto-catch {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-catch{
+  width:15px;
+  height:18px;
   background-position: -90px -130px;
 }
-.pkitem-roto-encounter {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-encounter{
+  width:15px;
+  height:18px;
   background-position: -107px -130px;
 }
-.pkitem-roto-exp-points {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-exp-points{
+  width:15px;
+  height:18px;
   background-position: -124px -130px;
 }
-.pkitem-roto-friendship {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-friendship{
+  width:15px;
+  height:18px;
   background-position: -141px -130px;
 }
-.pkitem-roto-hatch {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-hatch{
+  width:15px;
+  height:18px;
   background-position: -158px -130px;
 }
-.pkitem-roto-hp-restore {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-hp-restore{
+  width:15px;
+  height:18px;
   background-position: -175px -130px;
 }
-.pkitem-roto-pp-restore {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-pp-restore{
+  width:15px;
+  height:18px;
   background-position: -192px -130px;
 }
-.pkitem-roto-prize-money {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-prize-money{
+  width:15px;
+  height:18px;
   background-position: -209px -130px;
 }
-.pkitem-roto-stealth {
-  width: 15px;
-  height: 18px;
+.pkitem-roto-stealth{
+  width:15px;
+  height:18px;
   background-position: -226px -130px;
 }
-.pkitem-silver-wing {
-  width: 12px;
-  height: 21px;
+.pkitem-silver-wing{
+  width:12px;
+  height:21px;
   background-position: -243px -130px;
 }
-.pkitem-smart-xl-av-candy {
-  width: 16px;
-  height: 17px;
+.pkitem-smart-xl-av-candy{
+  width:16px;
+  height:17px;
   background-position: -257px -130px;
 }
-.pkitem-smoke-ball {
-  width: 16px;
-  height: 16px;
+.pkitem-smoke-ball{
+  width:16px;
+  height:16px;
   background-position: -275px -130px;
 }
-.pkitem-soda-pop {
-  width: 10px;
-  height: 22px;
+.pkitem-soda-pop{
+  width:10px;
+  height:22px;
   background-position: -293px -130px;
 }
-.pkitem-steel-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-steel-gem{
+  width:18px;
+  height:15px;
   background-position: -305px -130px;
 }
-.pkitem-sticky-barb {
-  width: 16px;
-  height: 16px;
+.pkitem-sticky-barb{
+  width:16px;
+  height:16px;
   background-position: -325px -130px;
 }
-.pkitem-swift-wing {
-  width: 16px;
-  height: 16px;
+.pkitem-swift-wing{
+  width:16px;
+  height:16px;
   background-position: -343px -130px;
 }
-.pkitem-tough-xl-av-candy {
-  width: 16px;
-  height: 17px;
+.pkitem-tough-xl-av-candy{
+  width:16px;
+  height:17px;
   background-position: -361px -130px;
 }
-.pkitem-toxic-orb {
-  width: 16px;
-  height: 16px;
+.pkitem-toxic-orb{
+  width:16px;
+  height:16px;
   background-position: -379px -130px;
 }
-.pkitem-water-gem {
-  width: 18px;
-  height: 15px;
+.pkitem-water-gem{
+  width:18px;
+  height:15px;
   background-position: -397px -130px;
 }
-.pkitem-white-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-white-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -417px -130px;
 }
-.pkitem-yellow-nectar {
-  width: 16px;
-  height: 17px;
+.pkitem-yellow-nectar{
+  width:16px;
+  height:17px;
   background-position: -435px -130px;
 }
-.pkitem-yellow-poke-candy {
-  width: 16px;
-  height: 16px;
+.pkitem-yellow-poke-candy{
+  width:16px;
+  height:16px;
   background-position: -453px -130px;
 }
-.pkitem-ability-capsule {
-  width: 22px;
-  height: 12px;
+.pkitem-ability-capsule{
+  width:22px;
+  height:12px;
   background-position: -471px -130px;
 }
-.pkitem-antidote {
-  width: 13px;
-  height: 21px;
+.pkitem-antidote{
+  width:13px;
+  height:21px;
   background-position: -495px -130px;
 }
-.pkitem-apicot-berry {
-  width: 17px;
-  height: 18px;
+.pkitem-apicot-berry{
+  width:17px;
+  height:18px;
   background-position: -510px -130px;
 }
-.pkitem-awakening {
-  width: 13px;
-  height: 21px;
+.pkitem-awakening{
+  width:13px;
+  height:21px;
   background-position: 0px -154px;
 }
-.pkitem-big-mushroom {
-  width: 17px;
-  height: 17px;
+.pkitem-big-mushroom{
+  width:17px;
+  height:17px;
   background-position: -15px -154px;
 }
-.pkitem-burn-heal {
-  width: 13px;
-  height: 21px;
+.pkitem-burn-heal{
+  width:13px;
+  height:21px;
   background-position: -34px -154px;
 }
-.pkitem-casteliacone {
-  width: 15px;
-  height: 20px;
+.pkitem-casteliacone{
+  width:15px;
+  height:20px;
   background-position: -49px -154px;
 }
-.pkitem-charti-berry {
-  width: 17px;
-  height: 17px;
+.pkitem-charti-berry{
+  width:17px;
+  height:17px;
   background-position: -66px -154px;
 }
-.pkitem-clover-sweet {
-  width: 17px;
-  height: 17px;
+.pkitem-clover-sweet{
+  width:17px;
+  height:17px;
   background-position: -85px -154px;
 }
-.pkitem-contest-costume--dress {
-  width: 15px;
-  height: 20px;
+.pkitem-contest-costume--dress{
+  width:15px;
+  height:20px;
   background-position: -104px -154px;
 }
-.pkitem-energy-powder {
-  width: 22px;
-  height: 13px;
+.pkitem-energy-powder{
+  width:22px;
+  height:13px;
   background-position: -121px -154px;
 }
-.pkitem-fresh-water {
-  width: 14px;
-  height: 21px;
+.pkitem-fresh-water{
+  width:14px;
+  height:21px;
   background-position: -145px -154px;
 }
-.pkitem-full-heal {
-  width: 13px;
-  height: 21px;
+.pkitem-full-heal{
+  width:13px;
+  height:21px;
   background-position: -161px -154px;
 }
-.pkitem-hard-stone {
-  width: 17px;
-  height: 18px;
+.pkitem-hard-stone{
+  width:17px;
+  height:18px;
   background-position: -176px -154px;
 }
-.pkitem-heal-powder {
-  width: 22px;
-  height: 13px;
+.pkitem-heal-powder{
+  width:22px;
+  height:13px;
   background-position: -195px -154px;
 }
-.pkitem-ice-heal {
-  width: 13px;
-  height: 21px;
+.pkitem-ice-heal{
+  width:13px;
+  height:21px;
   background-position: -219px -154px;
 }
-.pkitem-lava-cookie {
-  width: 18px;
-  height: 17px;
+.pkitem-lava-cookie{
+  width:18px;
+  height:17px;
   background-position: -234px -154px;
 }
-.pkitem-lemonade {
-  width: 15px;
-  height: 20px;
+.pkitem-lemonade{
+  width:15px;
+  height:20px;
   background-position: -254px -154px;
 }
-.pkitem-lens-case {
-  width: 19px;
-  height: 16px;
+.pkitem-lens-case{
+  width:19px;
+  height:16px;
   background-position: -271px -154px;
 }
-.pkitem-light-clay {
-  width: 19px;
-  height: 16px;
+.pkitem-light-clay{
+  width:19px;
+  height:16px;
   background-position: -292px -154px;
 }
-.pkitem-lone-earring {
-  width: 13px;
-  height: 22px;
+.pkitem-lone-earring{
+  width:13px;
+  height:22px;
   background-position: -313px -154px;
 }
-.pkitem-lost-item-mimejr {
-  width: 15px;
-  height: 20px;
+.pkitem-lost-item-mimejr{
+  width:15px;
+  height:20px;
   background-position: -328px -154px;
 }
-.pkitem-love-sweet {
-  width: 17px;
-  height: 17px;
+.pkitem-love-sweet{
+  width:17px;
+  height:17px;
   background-position: -345px -154px;
 }
-.pkitem-lum-berry {
-  width: 18px;
-  height: 17px;
+.pkitem-lum-berry{
+  width:18px;
+  height:17px;
   background-position: -364px -154px;
 }
-.pkitem-luminous-moss {
-  width: 15px;
-  height: 20px;
+.pkitem-luminous-moss{
+  width:15px;
+  height:20px;
   background-position: -384px -154px;
 }
-.pkitem-meteorite--3 {
-  width: 17px;
-  height: 17px;
+.pkitem-meteorite--3{
+  width:17px;
+  height:17px;
   background-position: -401px -154px;
 }
-.pkitem-metronome {
-  width: 15px;
-  height: 20px;
+.pkitem-metronome{
+  width:15px;
+  height:20px;
   background-position: -420px -154px;
 }
-.pkitem-miracle-seed {
-  width: 17px;
-  height: 17px;
+.pkitem-miracle-seed{
+  width:17px;
+  height:17px;
   background-position: -437px -154px;
 }
-.pkitem-occa-berry {
-  width: 17px;
-  height: 17px;
+.pkitem-occa-berry{
+  width:17px;
+  height:17px;
   background-position: -456px -154px;
 }
-.pkitem-old-gateau {
-  width: 19px;
-  height: 16px;
+.pkitem-old-gateau{
+  width:19px;
+  height:16px;
   background-position: -475px -154px;
 }
-.pkitem-paralyze-heal {
-  width: 13px;
-  height: 21px;
+.pkitem-paralyze-heal{
+  width:13px;
+  height:21px;
   background-position: -496px -154px;
 }
-.pkitem-powder-jar {
-  width: 14px;
-  height: 21px;
+.pkitem-powder-jar{
+  width:14px;
+  height:21px;
   background-position: -511px -154px;
 }
-.pkitem-razor-claw {
-  width: 18px;
-  height: 17px;
+.pkitem-razor-claw{
+  width:18px;
+  height:17px;
   background-position: -527px -154px;
 }
-.pkitem-razor-fang {
-  width: 16px;
-  height: 18px;
+.pkitem-razor-fang{
+  width:16px;
+  height:18px;
   background-position: 0px -178px;
 }
-.pkitem-seal-bag {
-  width: 16px;
-  height: 19px;
+.pkitem-seal-bag{
+  width:16px;
+  height:19px;
   background-position: -18px -178px;
 }
-.pkitem-shoal-salt {
-  width: 22px;
-  height: 13px;
+.pkitem-shoal-salt{
+  width:22px;
+  height:13px;
   background-position: -36px -178px;
 }
-.pkitem-silver-powder {
-  width: 22px;
-  height: 13px;
+.pkitem-silver-powder{
+  width:22px;
+  height:13px;
   background-position: -60px -178px;
 }
-.pkitem-soothe-bell {
-  width: 15px;
-  height: 20px;
+.pkitem-soothe-bell{
+  width:15px;
+  height:20px;
   background-position: -84px -178px;
 }
-.pkitem-star-sweet {
-  width: 18px;
-  height: 17px;
+.pkitem-star-sweet{
+  width:18px;
+  height:17px;
   background-position: -101px -178px;
 }
-.pkitem-tea-gen3 {
-  width: 14px;
-  height: 20px;
+.pkitem-tea-gen3{
+  width:14px;
+  height:20px;
   background-position: -121px -178px;
 }
-.pkitem-tea {
-  width: 16px;
-  height: 19px;
+.pkitem-tea{
+  width:16px;
+  height:19px;
   background-position: -137px -178px;
 }
-.pkitem-wonder-launcher-ability-urge {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-ability-urge{
+  width:18px;
+  height:16px;
   background-position: -155px -178px;
 }
-.pkitem-wonder-launcher-antidote {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-antidote{
+  width:18px;
+  height:16px;
   background-position: -175px -178px;
 }
-.pkitem-wonder-launcher-awakening {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-awakening{
+  width:18px;
+  height:16px;
   background-position: -195px -178px;
 }
-.pkitem-wonder-launcher-burn-heal {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-burn-heal{
+  width:18px;
+  height:16px;
   background-position: -215px -178px;
 }
-.pkitem-wonder-launcher-dire-hit-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-dire-hit-1{
+  width:18px;
+  height:16px;
   background-position: -235px -178px;
 }
-.pkitem-wonder-launcher-dire-hit-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-dire-hit-2{
+  width:18px;
+  height:16px;
   background-position: -255px -178px;
 }
-.pkitem-wonder-launcher-dire-hit-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-dire-hit-3{
+  width:18px;
+  height:16px;
   background-position: -275px -178px;
 }
-.pkitem-wonder-launcher-ether {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-ether{
+  width:18px;
+  height:16px;
   background-position: -295px -178px;
 }
-.pkitem-wonder-launcher-full-heal {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-full-heal{
+  width:18px;
+  height:16px;
   background-position: -315px -178px;
 }
-.pkitem-wonder-launcher-full-restore {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-full-restore{
+  width:18px;
+  height:16px;
   background-position: -335px -178px;
 }
-.pkitem-wonder-launcher-guard-spec {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-guard-spec{
+  width:18px;
+  height:16px;
   background-position: -355px -178px;
 }
-.pkitem-wonder-launcher-hyper-potion {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-hyper-potion{
+  width:18px;
+  height:16px;
   background-position: -375px -178px;
 }
-.pkitem-wonder-launcher-ice-heal {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-ice-heal{
+  width:18px;
+  height:16px;
   background-position: -395px -178px;
 }
-.pkitem-wonder-launcher-item-drop {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-item-drop{
+  width:18px;
+  height:16px;
   background-position: -415px -178px;
 }
-.pkitem-wonder-launcher-item-urge {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-item-urge{
+  width:18px;
+  height:16px;
   background-position: -435px -178px;
 }
-.pkitem-wonder-launcher-max-potion {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-max-potion{
+  width:18px;
+  height:16px;
   background-position: -455px -178px;
 }
-.pkitem-wonder-launcher-max-revive {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-max-revive{
+  width:18px;
+  height:16px;
   background-position: -475px -178px;
 }
-.pkitem-wonder-launcher-paralyze-heal {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-paralyze-heal{
+  width:18px;
+  height:16px;
   background-position: -495px -178px;
 }
-.pkitem-wonder-launcher-potion {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-potion{
+  width:18px;
+  height:16px;
   background-position: -515px -178px;
 }
-.pkitem-wonder-launcher-reset-urge {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-reset-urge{
+  width:18px;
+  height:16px;
   background-position: -535px -178px;
 }
-.pkitem-wonder-launcher-revive {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-revive{
+  width:18px;
+  height:16px;
   background-position: -555px -178px;
 }
-.pkitem-wonder-launcher-super-potion {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-super-potion{
+  width:18px;
+  height:16px;
   background-position: -575px -178px;
 }
-.pkitem-wonder-launcher-x-accuracy-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-accuracy-1{
+  width:18px;
+  height:16px;
   background-position: 0px -200px;
 }
-.pkitem-wonder-launcher-x-accuracy-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-accuracy-2{
+  width:18px;
+  height:16px;
   background-position: -20px -200px;
 }
-.pkitem-wonder-launcher-x-accuracy-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-accuracy-3{
+  width:18px;
+  height:16px;
   background-position: -40px -200px;
 }
-.pkitem-wonder-launcher-x-accuracy-6 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-accuracy-6{
+  width:18px;
+  height:16px;
   background-position: -60px -200px;
 }
-.pkitem-wonder-launcher-x-attack-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-attack-1{
+  width:18px;
+  height:16px;
   background-position: -80px -200px;
 }
-.pkitem-wonder-launcher-x-attack-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-attack-2{
+  width:18px;
+  height:16px;
   background-position: -100px -200px;
 }
-.pkitem-wonder-launcher-x-attack-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-attack-3{
+  width:18px;
+  height:16px;
   background-position: -120px -200px;
 }
-.pkitem-wonder-launcher-x-attack-6 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-attack-6{
+  width:18px;
+  height:16px;
   background-position: -140px -200px;
 }
-.pkitem-wonder-launcher-x-defense-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-defense-1{
+  width:18px;
+  height:16px;
   background-position: -160px -200px;
 }
-.pkitem-wonder-launcher-x-defense-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-defense-2{
+  width:18px;
+  height:16px;
   background-position: -180px -200px;
 }
-.pkitem-wonder-launcher-x-defense-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-defense-3{
+  width:18px;
+  height:16px;
   background-position: -200px -200px;
 }
-.pkitem-wonder-launcher-x-defense-6 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-defense-6{
+  width:18px;
+  height:16px;
   background-position: -220px -200px;
 }
-.pkitem-wonder-launcher-x-sp-atk-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-atk-1{
+  width:18px;
+  height:16px;
   background-position: -240px -200px;
 }
-.pkitem-wonder-launcher-x-sp-atk-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-atk-2{
+  width:18px;
+  height:16px;
   background-position: -260px -200px;
 }
-.pkitem-wonder-launcher-x-sp-atk-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-atk-3{
+  width:18px;
+  height:16px;
   background-position: -280px -200px;
 }
-.pkitem-wonder-launcher-x-sp-atk-6 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-atk-6{
+  width:18px;
+  height:16px;
   background-position: -300px -200px;
 }
-.pkitem-wonder-launcher-x-sp-def-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-def-1{
+  width:18px;
+  height:16px;
   background-position: -320px -200px;
 }
-.pkitem-wonder-launcher-x-sp-def-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-def-2{
+  width:18px;
+  height:16px;
   background-position: -340px -200px;
 }
-.pkitem-wonder-launcher-x-sp-def-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-def-3{
+  width:18px;
+  height:16px;
   background-position: -360px -200px;
 }
-.pkitem-wonder-launcher-x-sp-def-6 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-sp-def-6{
+  width:18px;
+  height:16px;
   background-position: -380px -200px;
 }
-.pkitem-wonder-launcher-x-speed-1 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-speed-1{
+  width:18px;
+  height:16px;
   background-position: -400px -200px;
 }
-.pkitem-wonder-launcher-x-speed-2 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-speed-2{
+  width:18px;
+  height:16px;
   background-position: -420px -200px;
 }
-.pkitem-wonder-launcher-x-speed-3 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-speed-3{
+  width:18px;
+  height:16px;
   background-position: -440px -200px;
 }
-.pkitem-wonder-launcher-x-speed-6 {
-  width: 18px;
-  height: 16px;
+.pkitem-wonder-launcher-x-speed-6{
+  width:18px;
+  height:16px;
   background-position: -460px -200px;
 }
-.pkitem-absorb-bulb {
-  width: 16px;
-  height: 20px;
+.pkitem-absorb-bulb{
+  width:16px;
+  height:20px;
   background-position: -480px -200px;
 }
-.pkitem-aloraichium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-aloraichium-z{
+  width:24px;
+  height:13px;
   background-position: -498px -200px;
 }
-.pkitem-amaze-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-amaze-mulch{
+  width:18px;
+  height:19px;
   background-position: -524px -200px;
 }
-.pkitem-beach-glass {
-  width: 18px;
-  height: 18px;
+.pkitem-beach-glass{
+  width:18px;
+  height:18px;
   background-position: -544px -200px;
 }
-.pkitem-berry-pots {
-  width: 16px;
-  height: 20px;
+.pkitem-berry-pots{
+  width:16px;
+  height:20px;
   background-position: -564px -200px;
 }
-.pkitem-big-malasada {
-  width: 22px;
-  height: 15px;
+.pkitem-big-malasada{
+  width:22px;
+  height:15px;
   background-position: -582px -200px;
 }
-.pkitem-big-nugget {
-  width: 18px;
-  height: 18px;
+.pkitem-big-nugget{
+  width:18px;
+  height:18px;
   background-position: 0px -222px;
 }
-.pkitem-black-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-black-apricorn{
+  width:18px;
+  height:18px;
   background-position: -20px -222px;
 }
-.pkitem-black-glasses {
-  width: 21px;
-  height: 15px;
+.pkitem-black-glasses{
+  width:21px;
+  height:15px;
   background-position: -40px -222px;
 }
-.pkitem-black-sludge {
-  width: 20px;
-  height: 17px;
+.pkitem-black-sludge{
+  width:20px;
+  height:17px;
   background-position: -63px -222px;
 }
-.pkitem-blue-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-blue-apricorn{
+  width:18px;
+  height:18px;
   background-position: -85px -222px;
 }
-.pkitem-blue-card {
-  width: 20px;
-  height: 16px;
+.pkitem-blue-card{
+  width:20px;
+  height:16px;
   background-position: -105px -222px;
 }
-.pkitem-blue-orb {
-  width: 18px;
-  height: 18px;
+.pkitem-blue-orb{
+  width:18px;
+  height:18px;
   background-position: -127px -222px;
 }
-.pkitem-blunder-policy {
-  width: 20px;
-  height: 17px;
+.pkitem-blunder-policy{
+  width:20px;
+  height:17px;
   background-position: -147px -222px;
 }
-.pkitem-boost-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-boost-mulch{
+  width:18px;
+  height:19px;
   background-position: -169px -222px;
 }
-.pkitem-buginium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-buginium-z{
+  width:24px;
+  height:13px;
   background-position: -189px -222px;
 }
-.pkitem-burn-drive {
-  width: 21px;
-  height: 15px;
+.pkitem-burn-drive{
+  width:21px;
+  height:15px;
   background-position: -215px -222px;
 }
-.pkitem-calcium {
-  width: 14px;
-  height: 22px;
+.pkitem-calcium{
+  width:14px;
+  height:22px;
   background-position: -238px -222px;
 }
-.pkitem-carbos {
-  width: 14px;
-  height: 22px;
+.pkitem-carbos{
+  width:14px;
+  height:22px;
   background-position: -254px -222px;
 }
-.pkitem-card-key {
-  width: 20px;
-  height: 16px;
+.pkitem-card-key{
+  width:20px;
+  height:16px;
   background-position: -270px -222px;
 }
-.pkitem-cherish-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-cherish-ball{
+  width:18px;
+  height:18px;
   background-position: -292px -222px;
 }
-.pkitem-chesto-berry {
-  width: 18px;
-  height: 19px;
+.pkitem-chesto-berry{
+  width:18px;
+  height:19px;
   background-position: -312px -222px;
 }
-.pkitem-chill-drive {
-  width: 21px;
-  height: 15px;
+.pkitem-chill-drive{
+  width:21px;
+  height:15px;
   background-position: -332px -222px;
 }
-.pkitem-cleanse-tag {
-  width: 17px;
-  height: 19px;
+.pkitem-cleanse-tag{
+  width:17px;
+  height:19px;
   background-position: -355px -222px;
 }
-.pkitem-coconut-milk {
-  width: 16px;
-  height: 20px;
+.pkitem-coconut-milk{
+  width:16px;
+  height:20px;
   background-position: -374px -222px;
 }
-.pkitem-damp-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-damp-mulch{
+  width:18px;
+  height:19px;
   background-position: -392px -222px;
 }
-.pkitem-darkinium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-darkinium-z{
+  width:24px;
+  height:13px;
   background-position: -412px -222px;
 }
-.pkitem-data-card {
-  width: 20px;
-  height: 16px;
+.pkitem-data-card{
+  width:20px;
+  height:16px;
   background-position: -438px -222px;
 }
-.pkitem-dawn-stone {
-  width: 18px;
-  height: 19px;
+.pkitem-dawn-stone{
+  width:18px;
+  height:19px;
   background-position: -460px -222px;
 }
-.pkitem-decidium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-decidium-z{
+  width:24px;
+  height:13px;
   background-position: -480px -222px;
 }
-.pkitem-dive-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-dive-ball{
+  width:18px;
+  height:18px;
   background-position: -506px -222px;
 }
-.pkitem-douse-drive {
-  width: 21px;
-  height: 15px;
+.pkitem-douse-drive{
+  width:21px;
+  height:15px;
   background-position: -526px -222px;
 }
-.pkitem-dragonium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-dragonium-z{
+  width:24px;
+  height:13px;
   background-position: -549px -222px;
 }
-.pkitem-dream-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-dream-ball{
+  width:18px;
+  height:18px;
   background-position: -575px -222px;
 }
-.pkitem-dubious-disc {
-  width: 20px;
-  height: 17px;
+.pkitem-dubious-disc{
+  width:20px;
+  height:17px;
   background-position: -595px -222px;
 }
-.pkitem-dusk-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-dusk-ball{
+  width:18px;
+  height:18px;
   background-position: -617px -222px;
 }
-.pkitem-eevium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-eevium-z{
+  width:24px;
+  height:13px;
   background-position: 0px -246px;
 }
-.pkitem-electrium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-electrium-z{
+  width:24px;
+  height:13px;
   background-position: -26px -246px;
 }
-.pkitem-fairium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-fairium-z{
+  width:24px;
+  height:13px;
   background-position: -52px -246px;
 }
-.pkitem-fast-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-fast-ball{
+  width:18px;
+  height:18px;
   background-position: -78px -246px;
 }
-.pkitem-fightinium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-fightinium-z{
+  width:24px;
+  height:13px;
   background-position: -98px -246px;
 }
-.pkitem-firium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-firium-z{
+  width:24px;
+  height:13px;
   background-position: -124px -246px;
 }
-.pkitem-flyinium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-flyinium-z{
+  width:24px;
+  height:13px;
   background-position: -150px -246px;
 }
-.pkitem-friend-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-friend-ball{
+  width:18px;
+  height:18px;
   background-position: -176px -246px;
 }
-.pkitem-ghostium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-ghostium-z{
+  width:24px;
+  height:13px;
   background-position: -196px -246px;
 }
-.pkitem-gigantamix {
-  width: 14px;
-  height: 23px;
+.pkitem-gigantamix{
+  width:14px;
+  height:23px;
   background-position: -222px -246px;
 }
-.pkitem-gooey-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-gooey-mulch{
+  width:18px;
+  height:19px;
   background-position: -238px -246px;
 }
-.pkitem-grassium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-grassium-z{
+  width:24px;
+  height:13px;
   background-position: -258px -246px;
 }
-.pkitem-great-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-great-ball{
+  width:18px;
+  height:18px;
   background-position: -284px -246px;
 }
-.pkitem-green-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-green-apricorn{
+  width:18px;
+  height:18px;
   background-position: -304px -246px;
 }
-.pkitem-groundium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-groundium-z{
+  width:24px;
+  height:13px;
   background-position: -324px -246px;
 }
-.pkitem-growth-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-growth-mulch{
+  width:18px;
+  height:19px;
   background-position: -350px -246px;
 }
-.pkitem-grubby-hanky {
-  width: 18px;
-  height: 18px;
+.pkitem-grubby-hanky{
+  width:18px;
+  height:18px;
   background-position: -370px -246px;
 }
-.pkitem-heal-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-heal-ball{
+  width:18px;
+  height:18px;
   background-position: -390px -246px;
 }
-.pkitem-honor-of-kalos {
-  width: 13px;
-  height: 24px;
+.pkitem-honor-of-kalos{
+  width:13px;
+  height:24px;
   background-position: -410px -246px;
 }
-.pkitem-hp-up {
-  width: 14px;
-  height: 22px;
+.pkitem-hp-up{
+  width:14px;
+  height:22px;
   background-position: -425px -246px;
 }
-.pkitem-hyper-potion {
-  width: 15px;
-  height: 21px;
+.pkitem-hyper-potion{
+  width:15px;
+  height:21px;
   background-position: -441px -246px;
 }
-.pkitem-icium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-icium-z{
+  width:24px;
+  height:13px;
   background-position: -458px -246px;
 }
-.pkitem-incinium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-incinium-z{
+  width:24px;
+  height:13px;
   background-position: -484px -246px;
 }
-.pkitem-iron {
-  width: 14px;
-  height: 22px;
+.pkitem-iron{
+  width:14px;
+  height:22px;
   background-position: -510px -246px;
 }
-.pkitem-large-leek {
-  width: 19px;
-  height: 18px;
+.pkitem-large-leek{
+  width:19px;
+  height:18px;
   background-position: -526px -246px;
 }
-.pkitem-level-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-level-ball{
+  width:18px;
+  height:18px;
   background-position: -547px -246px;
 }
-.pkitem-lock-capsule {
-  width: 17px;
-  height: 20px;
+.pkitem-lock-capsule{
+  width:17px;
+  height:20px;
   background-position: -567px -246px;
 }
-.pkitem-love-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-love-ball{
+  width:18px;
+  height:18px;
   background-position: -586px -246px;
 }
-.pkitem-lure-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-lure-ball{
+  width:18px;
+  height:18px;
   background-position: -606px -246px;
 }
-.pkitem-lure {
-  width: 15px;
-  height: 22px;
+.pkitem-lure{
+  width:15px;
+  height:22px;
   background-position: -626px -246px;
 }
-.pkitem-luxury-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-luxury-ball{
+  width:18px;
+  height:18px;
   background-position: 0px -272px;
 }
-.pkitem-magnet {
-  width: 18px;
-  height: 18px;
+.pkitem-magnet{
+  width:18px;
+  height:18px;
   background-position: -20px -272px;
 }
-.pkitem-mago-berry {
-  width: 18px;
-  height: 19px;
+.pkitem-mago-berry{
+  width:18px;
+  height:19px;
   background-position: -40px -272px;
 }
-.pkitem-magost-berry {
-  width: 18px;
-  height: 19px;
+.pkitem-magost-berry{
+  width:18px;
+  height:19px;
   background-position: -60px -272px;
 }
-.pkitem-marshadium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-marshadium-z{
+  width:24px;
+  height:13px;
   background-position: -80px -272px;
 }
-.pkitem-master-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-master-ball{
+  width:18px;
+  height:18px;
   background-position: -106px -272px;
 }
-.pkitem-max-lure {
-  width: 15px;
-  height: 22px;
+.pkitem-max-lure{
+  width:15px;
+  height:22px;
   background-position: -126px -272px;
 }
-.pkitem-max-repel {
-  width: 14px;
-  height: 22px;
+.pkitem-max-repel{
+  width:14px;
+  height:22px;
   background-position: -143px -272px;
 }
-.pkitem-mental-herb {
-  width: 19px;
-  height: 17px;
+.pkitem-mental-herb{
+  width:19px;
+  height:17px;
   background-position: -159px -272px;
 }
-.pkitem-metal-coat {
-  width: 17px;
-  height: 20px;
+.pkitem-metal-coat{
+  width:17px;
+  height:20px;
   background-position: -180px -272px;
 }
-.pkitem-meteorite--2 {
-  width: 18px;
-  height: 18px;
+.pkitem-meteorite--2{
+  width:18px;
+  height:18px;
   background-position: -199px -272px;
 }
-.pkitem-mewnium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-mewnium-z{
+  width:24px;
+  height:13px;
   background-position: -219px -272px;
 }
-.pkitem-micle-berry {
-  width: 18px;
-  height: 18px;
+.pkitem-micle-berry{
+  width:18px;
+  height:18px;
   background-position: -245px -272px;
 }
-.pkitem-moomoo-milk {
-  width: 14px;
-  height: 23px;
+.pkitem-moomoo-milk{
+  width:14px;
+  height:23px;
   background-position: -265px -272px;
 }
-.pkitem-moon-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-moon-ball{
+  width:18px;
+  height:18px;
   background-position: -281px -272px;
 }
-.pkitem-nest-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-nest-ball{
+  width:18px;
+  height:18px;
   background-position: -301px -272px;
 }
-.pkitem-net-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-net-ball{
+  width:18px;
+  height:18px;
   background-position: -321px -272px;
 }
-.pkitem-normalium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-normalium-z{
+  width:24px;
+  height:13px;
   background-position: -341px -272px;
 }
-.pkitem-oran-berry {
-  width: 19px;
-  height: 18px;
+.pkitem-oran-berry{
+  width:19px;
+  height:18px;
   background-position: -367px -272px;
 }
-.pkitem-park-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-park-ball{
+  width:18px;
+  height:18px;
   background-position: -388px -272px;
 }
-.pkitem-pass {
-  width: 20px;
-  height: 16px;
+.pkitem-pass{
+  width:20px;
+  height:16px;
   background-position: -408px -272px;
 }
-.pkitem-pikanium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-pikanium-z{
+  width:24px;
+  height:13px;
   background-position: -430px -272px;
 }
-.pkitem-pikashunium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-pikashunium-z{
+  width:24px;
+  height:13px;
   background-position: -456px -272px;
 }
-.pkitem-pink-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-pink-apricorn{
+  width:18px;
+  height:18px;
   background-position: -482px -272px;
 }
-.pkitem-plume-fossil {
-  width: 19px;
-  height: 18px;
+.pkitem-plume-fossil{
+  width:19px;
+  height:18px;
   background-position: -502px -272px;
 }
-.pkitem-poisonium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-poisonium-z{
+  width:24px;
+  height:13px;
   background-position: -523px -272px;
 }
-.pkitem-poke-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-poke-ball{
+  width:18px;
+  height:18px;
   background-position: -549px -272px;
 }
-.pkitem-pokemon-box-link {
-  width: 15px;
-  height: 21px;
+.pkitem-pokemon-box-link{
+  width:15px;
+  height:21px;
   background-position: -569px -272px;
 }
-.pkitem-potion {
-  width: 15px;
-  height: 21px;
+.pkitem-potion{
+  width:15px;
+  height:21px;
   background-position: -586px -272px;
 }
-.pkitem-power-herb {
-  width: 19px;
-  height: 17px;
+.pkitem-power-herb{
+  width:19px;
+  height:17px;
   background-position: -603px -272px;
 }
-.pkitem-pp-max {
-  width: 14px;
-  height: 22px;
+.pkitem-pp-max{
+  width:14px;
+  height:22px;
   background-position: 0px -297px;
 }
-.pkitem-pp-up {
-  width: 14px;
-  height: 22px;
+.pkitem-pp-up{
+  width:14px;
+  height:22px;
   background-position: -16px -297px;
 }
-.pkitem-premier-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-premier-ball{
+  width:18px;
+  height:18px;
   background-position: -32px -297px;
 }
-.pkitem-primarium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-primarium-z{
+  width:24px;
+  height:13px;
   background-position: -52px -297px;
 }
-.pkitem-prop-case {
-  width: 19px;
-  height: 18px;
+.pkitem-prop-case{
+  width:19px;
+  height:18px;
   background-position: -78px -297px;
 }
-.pkitem-protein {
-  width: 14px;
-  height: 22px;
+.pkitem-protein{
+  width:14px;
+  height:22px;
   background-position: -99px -297px;
 }
-.pkitem-psychium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-psychium-z{
+  width:24px;
+  height:13px;
   background-position: -115px -297px;
 }
-.pkitem-quick-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-quick-ball{
+  width:18px;
+  height:18px;
   background-position: -141px -297px;
 }
-.pkitem-quick-claw {
-  width: 17px;
-  height: 19px;
+.pkitem-quick-claw{
+  width:17px;
+  height:19px;
   background-position: -161px -297px;
 }
-.pkitem-red-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-red-apricorn{
+  width:18px;
+  height:18px;
   background-position: -180px -297px;
 }
-.pkitem-relic-crown {
-  width: 21px;
-  height: 16px;
+.pkitem-relic-crown{
+  width:21px;
+  height:16px;
   background-position: -200px -297px;
 }
-.pkitem-relic-statue {
-  width: 15px;
-  height: 22px;
+.pkitem-relic-statue{
+  width:15px;
+  height:22px;
   background-position: -223px -297px;
 }
-.pkitem-repeat-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-repeat-ball{
+  width:18px;
+  height:18px;
   background-position: -240px -297px;
 }
-.pkitem-repel {
-  width: 14px;
-  height: 22px;
+.pkitem-repel{
+  width:14px;
+  height:22px;
   background-position: -260px -297px;
 }
-.pkitem-ribbon-sweet {
-  width: 20px;
-  height: 16px;
+.pkitem-ribbon-sweet{
+  width:20px;
+  height:16px;
   background-position: -276px -297px;
 }
-.pkitem-rich-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-rich-mulch{
+  width:18px;
+  height:19px;
   background-position: -298px -297px;
 }
-.pkitem-rockium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-rockium-z{
+  width:24px;
+  height:13px;
   background-position: -318px -297px;
 }
-.pkitem-sachet {
-  width: 16px;
-  height: 21px;
+.pkitem-sachet{
+  width:16px;
+  height:21px;
   background-position: -344px -297px;
 }
-.pkitem-safari-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-safari-ball{
+  width:18px;
+  height:18px;
   background-position: -362px -297px;
 }
-.pkitem-shock-drive {
-  width: 21px;
-  height: 15px;
+.pkitem-shock-drive{
+  width:21px;
+  height:15px;
   background-position: -382px -297px;
 }
-.pkitem-snorlium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-snorlium-z{
+  width:24px;
+  height:13px;
   background-position: -405px -297px;
 }
-.pkitem-spell-tag {
-  width: 17px;
-  height: 19px;
+.pkitem-spell-tag{
+  width:17px;
+  height:19px;
   background-position: -431px -297px;
 }
-.pkitem-spice-mix {
-  width: 14px;
-  height: 23px;
+.pkitem-spice-mix{
+  width:14px;
+  height:23px;
   background-position: -450px -297px;
 }
-.pkitem-sport-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-sport-ball{
+  width:18px;
+  height:18px;
   background-position: -466px -297px;
 }
-.pkitem-stable-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-stable-mulch{
+  width:18px;
+  height:19px;
   background-position: -486px -297px;
 }
-.pkitem-steelium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-steelium-z{
+  width:24px;
+  height:13px;
   background-position: -506px -297px;
 }
-.pkitem-super-lure {
-  width: 15px;
-  height: 22px;
+.pkitem-super-lure{
+  width:15px;
+  height:22px;
   background-position: -532px -297px;
 }
-.pkitem-super-potion {
-  width: 15px;
-  height: 21px;
+.pkitem-super-potion{
+  width:15px;
+  height:21px;
   background-position: -549px -297px;
 }
-.pkitem-super-repel {
-  width: 14px;
-  height: 22px;
+.pkitem-super-repel{
+  width:14px;
+  height:22px;
   background-position: -566px -297px;
 }
-.pkitem-surprise-mulch {
-  width: 18px;
-  height: 19px;
+.pkitem-surprise-mulch{
+  width:18px;
+  height:19px;
   background-position: -582px -297px;
 }
-.pkitem-tapunium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-tapunium-z{
+  width:24px;
+  height:13px;
   background-position: 0px -322px;
 }
-.pkitem-timer-ball {
-  width: 18px;
-  height: 19px;
+.pkitem-timer-ball{
+  width:18px;
+  height:19px;
   background-position: -26px -322px;
 }
-.pkitem-tin-of-beans {
-  width: 15px;
-  height: 21px;
+.pkitem-tin-of-beans{
+  width:15px;
+  height:21px;
   background-position: -46px -322px;
 }
-.pkitem-ultra-ball {
-  width: 18px;
-  height: 18px;
+.pkitem-ultra-ball{
+  width:18px;
+  height:18px;
   background-position: -63px -322px;
 }
-.pkitem-unknown-item {
-  width: 14px;
-  height: 22px;
+.pkitem-unknown-item{
+  width:14px;
+  height:22px;
   background-position: -83px -322px;
 }
-.pkitem-unown-report {
-  width: 18px;
-  height: 19px;
+.pkitem-unown-report{
+  width:18px;
+  height:19px;
   background-position: -99px -322px;
 }
-.pkitem-up-grade {
-  width: 20px;
-  height: 17px;
+.pkitem-up-grade{
+  width:20px;
+  height:17px;
   background-position: -119px -322px;
 }
-.pkitem-vs-seeker {
-  width: 20px;
-  height: 17px;
+.pkitem-vs-seeker{
+  width:20px;
+  height:17px;
   background-position: -141px -322px;
 }
-.pkitem-waterium-z {
-  width: 24px;
-  height: 13px;
+.pkitem-waterium-z{
+  width:24px;
+  height:13px;
   background-position: -163px -322px;
 }
-.pkitem-weakness-policy {
-  width: 20px;
-  height: 17px;
+.pkitem-weakness-policy{
+  width:20px;
+  height:17px;
   background-position: -189px -322px;
 }
-.pkitem-white-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-white-apricorn{
+  width:18px;
+  height:18px;
   background-position: -211px -322px;
 }
-.pkitem-white-herb {
-  width: 19px;
-  height: 17px;
+.pkitem-white-herb{
+  width:19px;
+  height:17px;
   background-position: -231px -322px;
 }
-.pkitem-wise-glasses {
-  width: 21px;
-  height: 15px;
+.pkitem-wise-glasses{
+  width:21px;
+  height:15px;
   background-position: -252px -322px;
 }
-.pkitem-yellow-apricorn {
-  width: 18px;
-  height: 18px;
+.pkitem-yellow-apricorn{
+  width:18px;
+  height:18px;
   background-position: -275px -322px;
 }
-.pkitem-zinc {
-  width: 14px;
-  height: 22px;
+.pkitem-zinc{
+  width:14px;
+  height:22px;
   background-position: -295px -322px;
 }
-.pkitem-adrenaline-orb {
-  width: 17px;
-  height: 21px;
+.pkitem-adrenaline-orb{
+  width:17px;
+  height:21px;
   background-position: -311px -322px;
 }
-.pkitem-assault-vest {
-  width: 21px;
-  height: 18px;
+.pkitem-assault-vest{
+  width:21px;
+  height:18px;
   background-position: -330px -322px;
 }
-.pkitem-auroraticket {
-  width: 21px;
-  height: 17px;
+.pkitem-auroraticket{
+  width:21px;
+  height:17px;
   background-position: -353px -322px;
 }
-.pkitem-babiri-berry {
-  width: 19px;
-  height: 19px;
+.pkitem-babiri-berry{
+  width:19px;
+  height:19px;
   background-position: -376px -322px;
 }
-.pkitem-band-autograph {
-  width: 21px;
-  height: 18px;
+.pkitem-band-autograph{
+  width:21px;
+  height:18px;
   background-position: -397px -322px;
 }
-.pkitem-basement-key--new-mauville {
-  width: 19px;
-  height: 20px;
+.pkitem-basement-key--new-mauville{
+  width:19px;
+  height:20px;
   background-position: -420px -322px;
 }
-.pkitem-basement-key {
-  width: 19px;
-  height: 20px;
+.pkitem-basement-key{
+  width:19px;
+  height:20px;
   background-position: -441px -322px;
 }
-.pkitem-beast-ball {
-  width: 20px;
-  height: 19px;
+.pkitem-beast-ball{
+  width:20px;
+  height:19px;
   background-position: -462px -322px;
 }
-.pkitem-berry-juice {
-  width: 20px;
-  height: 19px;
+.pkitem-berry-juice{
+  width:20px;
+  height:19px;
   background-position: -484px -322px;
 }
-.pkitem-bike-voucher {
-  width: 21px;
-  height: 17px;
+.pkitem-bike-voucher{
+  width:21px;
+  height:17px;
   background-position: -506px -322px;
 }
-.pkitem-binding-band {
-  width: 21px;
-  height: 18px;
+.pkitem-binding-band{
+  width:21px;
+  height:18px;
   background-position: -529px -322px;
 }
-.pkitem-bread {
-  width: 17px;
-  height: 21px;
+.pkitem-bread{
+  width:17px;
+  height:21px;
   background-position: -552px -322px;
 }
-.pkitem-card-key-gen3 {
-  width: 21px;
-  height: 17px;
+.pkitem-card-key-gen3{
+  width:21px;
+  height:17px;
   background-position: -571px -322px;
 }
-.pkitem-chilan-berry {
-  width: 19px;
-  height: 20px;
+.pkitem-chilan-berry{
+  width:19px;
+  height:20px;
   background-position: -594px -322px;
 }
-.pkitem-choice-specs {
-  width: 22px;
-  height: 16px;
+.pkitem-choice-specs{
+  width:22px;
+  height:16px;
   background-position: -615px -322px;
 }
-.pkitem-chople-berry {
-  width: 19px;
-  height: 20px;
+.pkitem-chople-berry{
+  width:19px;
+  height:20px;
   background-position: 0px -346px;
 }
-.pkitem-coba-berry {
-  width: 19px;
-  height: 19px;
+.pkitem-coba-berry{
+  width:19px;
+  height:19px;
   background-position: -21px -346px;
 }
-.pkitem-contest-pass {
-  width: 21px;
-  height: 17px;
+.pkitem-contest-pass{
+  width:21px;
+  height:17px;
   background-position: -42px -346px;
 }
-.pkitem-coupon-1 {
-  width: 21px;
-  height: 17px;
+.pkitem-coupon-1{
+  width:21px;
+  height:17px;
   background-position: -65px -346px;
 }
-.pkitem-coupon-2 {
-  width: 21px;
-  height: 17px;
+.pkitem-coupon-2{
+  width:21px;
+  height:17px;
   background-position: -88px -346px;
 }
-.pkitem-coupon-3 {
-  width: 21px;
-  height: 17px;
+.pkitem-coupon-3{
+  width:21px;
+  height:17px;
   background-position: -111px -346px;
 }
-.pkitem-deep-sea-scale {
-  width: 20px;
-  height: 18px;
+.pkitem-deep-sea-scale{
+  width:20px;
+  height:18px;
   background-position: -134px -346px;
 }
-.pkitem-deep-sea-tooth {
-  width: 20px;
-  height: 19px;
+.pkitem-deep-sea-tooth{
+  width:20px;
+  height:19px;
   background-position: -156px -346px;
 }
-.pkitem-devon-scope-gen3 {
-  width: 22px;
-  height: 16px;
+.pkitem-devon-scope-gen3{
+  width:22px;
+  height:16px;
   background-position: -178px -346px;
 }
-.pkitem-devon-scope {
-  width: 23px;
-  height: 16px;
+.pkitem-devon-scope{
+  width:23px;
+  height:16px;
   background-position: -202px -346px;
 }
-.pkitem-dragon-scale {
-  width: 22px;
-  height: 16px;
+.pkitem-dragon-scale{
+  width:22px;
+  height:16px;
   background-position: -227px -346px;
 }
-.pkitem-dragon-skull {
-  width: 19px;
-  height: 20px;
+.pkitem-dragon-skull{
+  width:19px;
+  height:20px;
   background-position: -251px -346px;
 }
-.pkitem-dusk-stone {
-  width: 19px;
-  height: 19px;
+.pkitem-dusk-stone{
+  width:19px;
+  height:19px;
   background-position: -272px -346px;
 }
-.pkitem-dynamax-crystal {
-  width: 22px;
-  height: 16px;
+.pkitem-dynamax-crystal{
+  width:22px;
+  height:16px;
   background-position: -293px -346px;
 }
-.pkitem-eject-button {
-  width: 20px;
-  height: 18px;
+.pkitem-eject-button{
+  width:20px;
+  height:18px;
   background-position: -317px -346px;
 }
-.pkitem-elixir {
-  width: 16px;
-  height: 22px;
+.pkitem-elixir{
+  width:16px;
+  height:22px;
   background-position: -339px -346px;
 }
-.pkitem-enigma-stone {
-  width: 20px;
-  height: 19px;
+.pkitem-enigma-stone{
+  width:20px;
+  height:19px;
   background-position: -357px -346px;
 }
-.pkitem-eon-ticket {
-  width: 21px;
-  height: 17px;
+.pkitem-eon-ticket{
+  width:21px;
+  height:17px;
   background-position: -379px -346px;
 }
-.pkitem-escape-rope {
-  width: 21px;
-  height: 17px;
+.pkitem-escape-rope{
+  width:21px;
+  height:17px;
   background-position: -402px -346px;
 }
-.pkitem-ether {
-  width: 16px;
-  height: 22px;
+.pkitem-ether{
+  width:16px;
+  height:22px;
   background-position: -425px -346px;
 }
-.pkitem-fame-checker {
-  width: 22px;
-  height: 17px;
+.pkitem-fame-checker{
+  width:22px;
+  height:17px;
   background-position: -443px -346px;
 }
-.pkitem-festival-ticket {
-  width: 21px;
-  height: 17px;
+.pkitem-festival-ticket{
+  width:21px;
+  height:17px;
   background-position: -467px -346px;
 }
-.pkitem-full-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-full-incense{
+  width:20px;
+  height:19px;
   background-position: -490px -346px;
 }
-.pkitem-full-restore {
-  width: 16px;
-  height: 22px;
+.pkitem-full-restore{
+  width:16px;
+  height:22px;
   background-position: -512px -346px;
 }
-.pkitem-galactic-key {
-  width: 21px;
-  height: 17px;
+.pkitem-galactic-key{
+  width:21px;
+  height:17px;
   background-position: -530px -346px;
 }
-.pkitem-go-goggles-gen3 {
-  width: 22px;
-  height: 16px;
+.pkitem-go-goggles-gen3{
+  width:22px;
+  height:16px;
   background-position: -553px -346px;
 }
-.pkitem-gold-leaf {
-  width: 18px;
-  height: 21px;
+.pkitem-gold-leaf{
+  width:18px;
+  height:21px;
   background-position: -577px -346px;
 }
-.pkitem-gold-teeth {
-  width: 19px;
-  height: 20px;
+.pkitem-gold-teeth{
+  width:19px;
+  height:20px;
   background-position: -597px -346px;
 }
-.pkitem-heavy-ball {
-  width: 20px;
-  height: 18px;
+.pkitem-heavy-ball{
+  width:20px;
+  height:18px;
   background-position: -618px -346px;
 }
-.pkitem-instant-noodles {
-  width: 18px;
-  height: 20px;
+.pkitem-instant-noodles{
+  width:18px;
+  height:20px;
   background-position: -640px -346px;
 }
-.pkitem-kebia-berry {
-  width: 19px;
-  height: 19px;
+.pkitem-kebia-berry{
+  width:19px;
+  height:19px;
   background-position: 0px -370px;
 }
-.pkitem-lax-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-lax-incense{
+  width:20px;
+  height:19px;
   background-position: -21px -370px;
 }
-.pkitem-liberty-pass {
-  width: 21px;
-  height: 17px;
+.pkitem-liberty-pass{
+  width:21px;
+  height:17px;
   background-position: -43px -370px;
 }
-.pkitem-liechi-berry {
-  width: 20px;
-  height: 19px;
+.pkitem-liechi-berry{
+  width:20px;
+  height:19px;
   background-position: -66px -370px;
 }
-.pkitem-lift-key {
-  width: 20px;
-  height: 19px;
+.pkitem-lift-key{
+  width:20px;
+  height:19px;
   background-position: -88px -370px;
 }
-.pkitem-lock-capsule-gen4 {
-  width: 20px;
-  height: 18px;
+.pkitem-lock-capsule-gen4{
+  width:20px;
+  height:18px;
   background-position: -110px -370px;
 }
-.pkitem-loot-sack {
-  width: 18px;
-  height: 21px;
+.pkitem-loot-sack{
+  width:18px;
+  height:21px;
   background-position: -132px -370px;
 }
-.pkitem-luck-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-luck-incense{
+  width:20px;
+  height:19px;
   background-position: -152px -370px;
 }
-.pkitem-machine-part {
-  width: 19px;
-  height: 20px;
+.pkitem-machine-part{
+  width:19px;
+  height:20px;
   background-position: -174px -370px;
 }
-.pkitem-magma-emblem {
-  width: 20px;
-  height: 19px;
+.pkitem-magma-emblem{
+  width:20px;
+  height:19px;
   background-position: -195px -370px;
 }
-.pkitem-magma-stone {
-  width: 20px;
-  height: 18px;
+.pkitem-magma-stone{
+  width:20px;
+  height:18px;
   background-position: -217px -370px;
 }
-.pkitem-makeup-bag {
-  width: 22px;
-  height: 16px;
+.pkitem-makeup-bag{
+  width:22px;
+  height:16px;
   background-position: -239px -370px;
 }
-.pkitem-max-elixir {
-  width: 16px;
-  height: 22px;
+.pkitem-max-elixir{
+  width:16px;
+  height:22px;
   background-position: -263px -370px;
 }
-.pkitem-max-ether {
-  width: 16px;
-  height: 22px;
+.pkitem-max-ether{
+  width:16px;
+  height:22px;
   background-position: -281px -370px;
 }
-.pkitem-max-potion {
-  width: 16px;
-  height: 22px;
+.pkitem-max-potion{
+  width:16px;
+  height:22px;
   background-position: -299px -370px;
 }
-.pkitem-medal-box {
-  width: 22px;
-  height: 17px;
+.pkitem-medal-box{
+  width:22px;
+  height:17px;
   background-position: -317px -370px;
 }
-.pkitem-meteorite {
-  width: 18px;
-  height: 20px;
+.pkitem-meteorite{
+  width:18px;
+  height:20px;
   background-position: -341px -370px;
 }
-.pkitem-mixed-mushrooms {
-  width: 18px;
-  height: 21px;
+.pkitem-mixed-mushrooms{
+  width:18px;
+  height:21px;
   background-position: -361px -370px;
 }
-.pkitem-mystic-water {
-  width: 18px;
-  height: 21px;
+.pkitem-mystic-water{
+  width:18px;
+  height:21px;
   background-position: -381px -370px;
 }
-.pkitem-mysticticket {
-  width: 21px;
-  height: 17px;
+.pkitem-mysticticket{
+  width:21px;
+  height:17px;
   background-position: -401px -370px;
 }
-.pkitem-oaks-parcel {
-  width: 20px;
-  height: 19px;
+.pkitem-oaks-parcel{
+  width:20px;
+  height:19px;
   background-position: -424px -370px;
 }
-.pkitem-odd-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-odd-incense{
+  width:20px;
+  height:19px;
   background-position: -446px -370px;
 }
-.pkitem-odd-keystone {
-  width: 20px;
-  height: 19px;
+.pkitem-odd-keystone{
+  width:20px;
+  height:19px;
   background-position: -468px -370px;
 }
-.pkitem-old-amber-fossil {
-  width: 20px;
-  height: 19px;
+.pkitem-old-amber-fossil{
+  width:20px;
+  height:19px;
   background-position: -490px -370px;
 }
-.pkitem-old-amber {
-  width: 20px;
-  height: 19px;
+.pkitem-old-amber{
+  width:20px;
+  height:19px;
   background-position: -512px -370px;
 }
-.pkitem-pack-of-potatoes {
-  width: 18px;
-  height: 21px;
+.pkitem-pack-of-potatoes{
+  width:18px;
+  height:21px;
   background-position: -534px -370px;
 }
-.pkitem-packaged-curry {
-  width: 18px;
-  height: 20px;
+.pkitem-packaged-curry{
+  width:18px;
+  height:20px;
   background-position: -554px -370px;
 }
-.pkitem-pair-of-tickets {
-  width: 21px;
-  height: 17px;
+.pkitem-pair-of-tickets{
+  width:21px;
+  height:17px;
   background-position: -574px -370px;
 }
-.pkitem-parcel {
-  width: 20px;
-  height: 19px;
+.pkitem-parcel{
+  width:20px;
+  height:19px;
   background-position: -597px -370px;
 }
-.pkitem-passho-berry {
-  width: 20px;
-  height: 18px;
+.pkitem-passho-berry{
+  width:20px;
+  height:18px;
   background-position: -619px -370px;
 }
-.pkitem-permit {
-  width: 21px;
-  height: 17px;
+.pkitem-permit{
+  width:21px;
+  height:17px;
   background-position: 0px -394px;
 }
-.pkitem-plasma-card {
-  width: 21px;
-  height: 17px;
+.pkitem-plasma-card{
+  width:21px;
+  height:17px;
   background-position: -23px -394px;
 }
-.pkitem-point-card {
-  width: 21px;
-  height: 17px;
+.pkitem-point-card{
+  width:21px;
+  height:17px;
   background-position: -46px -394px;
 }
-.pkitem-poison-barb {
-  width: 19px;
-  height: 19px;
+.pkitem-poison-barb{
+  width:19px;
+  height:19px;
   background-position: -69px -394px;
 }
-.pkitem-power-plant-pass {
-  width: 21px;
-  height: 17px;
+.pkitem-power-plant-pass{
+  width:21px;
+  height:17px;
   background-position: -90px -394px;
 }
-.pkitem-pure-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-pure-incense{
+  width:20px;
+  height:19px;
   background-position: -113px -394px;
 }
-.pkitem-qualot-berry {
-  width: 19px;
-  height: 19px;
+.pkitem-qualot-berry{
+  width:19px;
+  height:19px;
   background-position: -135px -394px;
 }
-.pkitem-rage-candy-bar {
-  width: 20px;
-  height: 18px;
+.pkitem-rage-candy-bar{
+  width:20px;
+  height:18px;
   background-position: -156px -394px;
 }
-.pkitem-rainbow-pass {
-  width: 21px;
-  height: 17px;
+.pkitem-rainbow-pass{
+  width:21px;
+  height:17px;
   background-position: -178px -394px;
 }
-.pkitem-rindo-berry {
-  width: 19px;
-  height: 20px;
+.pkitem-rindo-berry{
+  width:19px;
+  height:20px;
   background-position: -201px -394px;
 }
-.pkitem-rock-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-rock-incense{
+  width:20px;
+  height:19px;
   background-position: -222px -394px;
 }
-.pkitem-rocky-helmet {
-  width: 20px;
-  height: 18px;
+.pkitem-rocky-helmet{
+  width:20px;
+  height:18px;
   background-position: -244px -394px;
 }
-.pkitem-rose-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-rose-incense{
+  width:20px;
+  height:19px;
   background-position: -266px -394px;
 }
-.pkitem-roseli-berry {
-  width: 19px;
-  height: 19px;
+.pkitem-roseli-berry{
+  width:19px;
+  height:19px;
   background-position: -288px -394px;
 }
-.pkitem-ruby {
-  width: 20px;
-  height: 19px;
+.pkitem-ruby{
+  width:20px;
+  height:19px;
   background-position: -309px -394px;
 }
-.pkitem-safety-goggles {
-  width: 23px;
-  height: 16px;
+.pkitem-safety-goggles{
+  width:23px;
+  height:16px;
   background-position: -331px -394px;
 }
-.pkitem-salad-mix {
-  width: 18px;
-  height: 21px;
+.pkitem-salad-mix{
+  width:18px;
+  height:21px;
   background-position: -356px -394px;
 }
-.pkitem-sapphire {
-  width: 20px;
-  height: 19px;
+.pkitem-sapphire{
+  width:20px;
+  height:19px;
   background-position: -376px -394px;
 }
-.pkitem-sausages {
-  width: 20px;
-  height: 19px;
+.pkitem-sausages{
+  width:20px;
+  height:19px;
   background-position: -398px -394px;
 }
-.pkitem-sea-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-sea-incense{
+  width:20px;
+  height:19px;
   background-position: -420px -394px;
 }
-.pkitem-secret-potion {
-  width: 21px;
-  height: 18px;
+.pkitem-secret-potion{
+  width:21px;
+  height:18px;
   background-position: -442px -394px;
 }
-.pkitem-shalour-sable {
-  width: 19px;
-  height: 20px;
+.pkitem-shalour-sable{
+  width:19px;
+  height:20px;
   background-position: -465px -394px;
 }
-.pkitem-shell-bell {
-  width: 21px;
-  height: 18px;
+.pkitem-shell-bell{
+  width:21px;
+  height:18px;
   background-position: -486px -394px;
 }
-.pkitem-shiny-stone {
-  width: 19px;
-  height: 19px;
+.pkitem-shiny-stone{
+  width:19px;
+  height:19px;
   background-position: -509px -394px;
 }
-.pkitem-shuca-berry {
-  width: 19px;
-  height: 20px;
+.pkitem-shuca-berry{
+  width:19px;
+  height:20px;
   background-position: -530px -394px;
 }
-.pkitem-silver-leaf {
-  width: 18px;
-  height: 21px;
+.pkitem-silver-leaf{
+  width:18px;
+  height:21px;
   background-position: -551px -394px;
 }
-.pkitem-sitrus-berry {
-  width: 18px;
-  height: 20px;
+.pkitem-sitrus-berry{
+  width:18px;
+  height:20px;
   background-position: -571px -394px;
 }
-.pkitem-smoke-poke-tail {
-  width: 20px;
-  height: 18px;
+.pkitem-smoke-poke-tail{
+  width:20px;
+  height:18px;
   background-position: -591px -394px;
 }
-.pkitem-soot-sack {
-  width: 18px;
-  height: 21px;
+.pkitem-soot-sack{
+  width:18px;
+  height:21px;
   background-position: -613px -394px;
 }
-.pkitem-sprinklotad {
-  width: 22px;
-  height: 16px;
+.pkitem-sprinklotad{
+  width:22px;
+  height:16px;
   background-position: -633px -394px;
 }
-.pkitem-squirt-bottle {
-  width: 22px;
-  height: 17px;
+.pkitem-squirt-bottle{
+  width:22px;
+  height:17px;
   background-position: 0px -417px;
 }
-.pkitem-ss-ticket {
-  width: 21px;
-  height: 17px;
+.pkitem-ss-ticket{
+  width:21px;
+  height:17px;
   background-position: -24px -417px;
 }
-.pkitem-suite-key {
-  width: 20px;
-  height: 19px;
+.pkitem-suite-key{
+  width:20px;
+  height:19px;
   background-position: -47px -417px;
 }
-.pkitem-sweet-apple {
-  width: 20px;
-  height: 19px;
+.pkitem-sweet-apple{
+  width:20px;
+  height:19px;
   background-position: -69px -417px;
 }
-.pkitem-tart-apple {
-  width: 20px;
-  height: 19px;
+.pkitem-tart-apple{
+  width:20px;
+  height:19px;
   background-position: -91px -417px;
 }
-.pkitem-throat-spray {
-  width: 18px;
-  height: 21px;
+.pkitem-throat-spray{
+  width:18px;
+  height:21px;
   background-position: -113px -417px;
 }
-.pkitem-tri-pass {
-  width: 21px;
-  height: 17px;
+.pkitem-tri-pass{
+  width:21px;
+  height:17px;
   background-position: -133px -417px;
 }
-.pkitem-wacan-berry {
-  width: 20px;
-  height: 19px;
+.pkitem-wacan-berry{
+  width:20px;
+  height:19px;
   background-position: -156px -417px;
 }
-.pkitem-wave-incense {
-  width: 20px;
-  height: 19px;
+.pkitem-wave-incense{
+  width:20px;
+  height:19px;
   background-position: -178px -417px;
 }
-.pkitem-zoom-lens {
-  width: 19px;
-  height: 19px;
+.pkitem-zoom-lens{
+  width:19px;
+  height:19px;
   background-position: -200px -417px;
 }
-.pkitem-aguav-berry {
-  width: 19px;
-  height: 22px;
+.pkitem-aguav-berry{
+  width:19px;
+  height:22px;
   background-position: -221px -417px;
 }
-.pkitem-air-balloon {
-  width: 18px;
-  height: 22px;
+.pkitem-air-balloon{
+  width:18px;
+  height:22px;
   background-position: -242px -417px;
 }
-.pkitem-amulet-coin {
-  width: 21px;
-  height: 19px;
+.pkitem-amulet-coin{
+  width:21px;
+  height:19px;
   background-position: -262px -417px;
 }
-.pkitem-armorite-ore {
-  width: 18px;
-  height: 22px;
+.pkitem-armorite-ore{
+  width:18px;
+  height:22px;
   background-position: -285px -417px;
 }
-.pkitem-aspear-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-aspear-berry{
+  width:20px;
+  height:20px;
   background-position: -305px -417px;
 }
-.pkitem-autograph {
-  width: 22px;
-  height: 19px;
+.pkitem-autograph{
+  width:22px;
+  height:19px;
   background-position: -327px -417px;
 }
-.pkitem-bachs-food-tin {
-  width: 23px;
-  height: 18px;
+.pkitem-bachs-food-tin{
+  width:23px;
+  height:18px;
   background-position: -351px -417px;
 }
-.pkitem-black-belt {
-  width: 20px;
-  height: 21px;
+.pkitem-black-belt{
+  width:20px;
+  height:21px;
   background-position: -376px -417px;
 }
-.pkitem-bluk-berry {
-  width: 20px;
-  height: 21px;
+.pkitem-bluk-berry{
+  width:20px;
+  height:21px;
   background-position: -398px -417px;
 }
-.pkitem-bobs-food-tin {
-  width: 17px;
-  height: 24px;
+.pkitem-bobs-food-tin{
+  width:17px;
+  height:24px;
   background-position: -420px -417px;
 }
-.pkitem-bright-powder {
-  width: 22px;
-  height: 18px;
+.pkitem-bright-powder{
+  width:22px;
+  height:18px;
   background-position: -439px -417px;
 }
-.pkitem-bug-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-bug-memory{
+  width:20px;
+  height:20px;
   background-position: -463px -417px;
 }
-.pkitem-bug-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-bug-tm{
+  width:20px;
+  height:20px;
   background-position: -485px -417px;
 }
-.pkitem-bug-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-bug-tr{
+  width:20px;
+  height:20px;
   background-position: -507px -417px;
 }
-.pkitem-catching-charm {
-  width: 19px;
-  height: 22px;
+.pkitem-catching-charm{
+  width:19px;
+  height:22px;
   background-position: -529px -417px;
 }
-.pkitem-charcoal {
-  width: 20px;
-  height: 20px;
+.pkitem-charcoal{
+  width:20px;
+  height:20px;
   background-position: -550px -417px;
 }
-.pkitem-claw-fossil {
-  width: 21px;
-  height: 19px;
+.pkitem-claw-fossil{
+  width:21px;
+  height:19px;
   background-position: -572px -417px;
 }
-.pkitem-clear-bell {
-  width: 22px;
-  height: 19px;
+.pkitem-clear-bell{
+  width:22px;
+  height:19px;
   background-position: -595px -417px;
 }
-.pkitem-colbur-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-colbur-berry{
+  width:20px;
+  height:20px;
   background-position: -619px -417px;
 }
-.pkitem-colress-machine {
-  width: 19px;
-  height: 22px;
+.pkitem-colress-machine{
+  width:19px;
+  height:22px;
   background-position: -641px -417px;
 }
-.pkitem-cover-fossil {
-  width: 21px;
-  height: 20px;
+.pkitem-cover-fossil{
+  width:21px;
+  height:20px;
   background-position: 0px -443px;
 }
-.pkitem-custap-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-custap-berry{
+  width:20px;
+  height:20px;
   background-position: -23px -443px;
 }
-.pkitem-dark-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-dark-memory{
+  width:20px;
+  height:20px;
   background-position: -45px -443px;
 }
-.pkitem-dark-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-dark-tm{
+  width:20px;
+  height:20px;
   background-position: -67px -443px;
 }
-.pkitem-dark-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-dark-tr{
+  width:20px;
+  height:20px;
   background-position: -89px -443px;
 }
-.pkitem-devon-goods {
-  width: 19px;
-  height: 22px;
+.pkitem-devon-goods{
+  width:19px;
+  height:22px;
   background-position: -111px -443px;
 }
-.pkitem-devon-parts {
-  width: 19px;
-  height: 22px;
+.pkitem-devon-parts{
+  width:19px;
+  height:22px;
   background-position: -132px -443px;
 }
-.pkitem-dire-hit {
-  width: 20px;
-  height: 20px;
+.pkitem-dire-hit{
+  width:20px;
+  height:20px;
   background-position: -153px -443px;
 }
-.pkitem-dna-splicers {
-  width: 20px;
-  height: 20px;
+.pkitem-dna-splicers{
+  width:20px;
+  height:20px;
   background-position: -175px -443px;
 }
-.pkitem-dome-fossil {
-  width: 20px;
-  height: 21px;
+.pkitem-dome-fossil{
+  width:20px;
+  height:21px;
   background-position: -197px -443px;
 }
-.pkitem-dragon-fang {
-  width: 19px;
-  height: 21px;
+.pkitem-dragon-fang{
+  width:19px;
+  height:21px;
   background-position: -219px -443px;
 }
-.pkitem-dragon-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-dragon-memory{
+  width:20px;
+  height:20px;
   background-position: -240px -443px;
 }
-.pkitem-dragon-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-dragon-tm{
+  width:20px;
+  height:20px;
   background-position: -262px -443px;
 }
-.pkitem-dragon-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-dragon-tr{
+  width:20px;
+  height:20px;
   background-position: -284px -443px;
 }
-.pkitem-dropped-item--red {
-  width: 19px;
-  height: 21px;
+.pkitem-dropped-item--red{
+  width:19px;
+  height:21px;
   background-position: -306px -443px;
 }
-.pkitem-dropped-item--yellow {
-  width: 19px;
-  height: 21px;
+.pkitem-dropped-item--yellow{
+  width:19px;
+  height:21px;
   background-position: -327px -443px;
 }
-.pkitem-dropped-item {
-  width: 19px;
-  height: 21px;
+.pkitem-dropped-item{
+  width:19px;
+  height:21px;
   background-position: -348px -443px;
 }
-.pkitem-dynamax-candy {
-  width: 20px;
-  height: 21px;
+.pkitem-dynamax-candy{
+  width:20px;
+  height:21px;
   background-position: -369px -443px;
 }
-.pkitem-electirizer {
-  width: 20px;
-  height: 20px;
+.pkitem-electirizer{
+  width:20px;
+  height:20px;
   background-position: -391px -443px;
 }
-.pkitem-electric-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-electric-memory{
+  width:20px;
+  height:20px;
   background-position: -413px -443px;
 }
-.pkitem-electric-seed {
-  width: 25px;
-  height: 15px;
+.pkitem-electric-seed{
+  width:25px;
+  height:15px;
   background-position: -435px -443px;
 }
-.pkitem-electric-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-electric-tm{
+  width:20px;
+  height:20px;
   background-position: -462px -443px;
 }
-.pkitem-electric-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-electric-tr{
+  width:20px;
+  height:20px;
   background-position: -484px -443px;
 }
-.pkitem-enigma-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-enigma-berry{
+  width:20px;
+  height:20px;
   background-position: -506px -443px;
 }
-.pkitem-enigmatic-card {
-  width: 22px;
-  height: 18px;
+.pkitem-enigmatic-card{
+  width:22px;
+  height:18px;
   background-position: -528px -443px;
 }
-.pkitem-exp-candy-xl {
-  width: 21px;
-  height: 20px;
+.pkitem-exp-candy-xl{
+  width:21px;
+  height:20px;
   background-position: -552px -443px;
 }
-.pkitem-fairy-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-fairy-memory{
+  width:20px;
+  height:20px;
   background-position: -575px -443px;
 }
-.pkitem-fairy-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-fairy-tm{
+  width:20px;
+  height:20px;
   background-position: -597px -443px;
 }
-.pkitem-fairy-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-fairy-tr{
+  width:20px;
+  height:20px;
   background-position: -619px -443px;
 }
-.pkitem-fighting-hm {
-  width: 20px;
-  height: 20px;
+.pkitem-fighting-hm{
+  width:20px;
+  height:20px;
   background-position: -641px -443px;
 }
-.pkitem-fighting-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-fighting-memory{
+  width:20px;
+  height:20px;
   background-position: 0px -467px;
 }
-.pkitem-fighting-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-fighting-tm{
+  width:20px;
+  height:20px;
   background-position: -22px -467px;
 }
-.pkitem-fighting-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-fighting-tr{
+  width:20px;
+  height:20px;
   background-position: -44px -467px;
 }
-.pkitem-fire-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-fire-memory{
+  width:20px;
+  height:20px;
   background-position: -66px -467px;
 }
-.pkitem-fire-stone {
-  width: 20px;
-  height: 21px;
+.pkitem-fire-stone{
+  width:20px;
+  height:21px;
   background-position: -88px -467px;
 }
-.pkitem-fire-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-fire-tm{
+  width:20px;
+  height:20px;
   background-position: -110px -467px;
 }
-.pkitem-fire-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-fire-tr{
+  width:20px;
+  height:20px;
   background-position: -132px -467px;
 }
-.pkitem-flying-hm {
-  width: 20px;
-  height: 20px;
+.pkitem-flying-hm{
+  width:20px;
+  height:20px;
   background-position: -154px -467px;
 }
-.pkitem-flying-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-flying-memory{
+  width:20px;
+  height:20px;
   background-position: -176px -467px;
 }
-.pkitem-flying-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-flying-tm{
+  width:20px;
+  height:20px;
   background-position: -198px -467px;
 }
-.pkitem-flying-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-flying-tr{
+  width:20px;
+  height:20px;
   background-position: -220px -467px;
 }
-.pkitem-focus-sash {
-  width: 20px;
-  height: 21px;
+.pkitem-focus-sash{
+  width:20px;
+  height:21px;
   background-position: -242px -467px;
 }
-.pkitem-fresh-cream {
-  width: 20px;
-  height: 20px;
+.pkitem-fresh-cream{
+  width:20px;
+  height:20px;
   background-position: -264px -467px;
 }
-.pkitem-fried-food {
-  width: 25px;
-  height: 16px;
+.pkitem-fried-food{
+  width:25px;
+  height:16px;
   background-position: -286px -467px;
 }
-.pkitem-ganlon-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-ganlon-berry{
+  width:20px;
+  height:20px;
   background-position: -313px -467px;
 }
-.pkitem-ghost-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-ghost-memory{
+  width:20px;
+  height:20px;
   background-position: -335px -467px;
 }
-.pkitem-ghost-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-ghost-tm{
+  width:20px;
+  height:20px;
   background-position: -357px -467px;
 }
-.pkitem-ghost-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-ghost-tr{
+  width:20px;
+  height:20px;
   background-position: -379px -467px;
 }
-.pkitem-golden-razz-berry {
-  width: 19px;
-  height: 21px;
+.pkitem-golden-razz-berry{
+  width:19px;
+  height:21px;
   background-position: -401px -467px;
 }
-.pkitem-gram-1 {
-  width: 22px;
-  height: 19px;
+.pkitem-gram-1{
+  width:22px;
+  height:19px;
   background-position: -422px -467px;
 }
-.pkitem-gram-2 {
-  width: 22px;
-  height: 19px;
+.pkitem-gram-2{
+  width:22px;
+  height:19px;
   background-position: -446px -467px;
 }
-.pkitem-gram-3 {
-  width: 22px;
-  height: 19px;
+.pkitem-gram-3{
+  width:22px;
+  height:19px;
   background-position: -470px -467px;
 }
-.pkitem-grass-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-grass-memory{
+  width:20px;
+  height:20px;
   background-position: -494px -467px;
 }
-.pkitem-grass-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-grass-tm{
+  width:20px;
+  height:20px;
   background-position: -516px -467px;
 }
-.pkitem-grass-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-grass-tr{
+  width:20px;
+  height:20px;
   background-position: -538px -467px;
 }
-.pkitem-grassy-seed {
-  width: 25px;
-  height: 15px;
+.pkitem-grassy-seed{
+  width:25px;
+  height:15px;
   background-position: -560px -467px;
 }
-.pkitem-grepa-berry {
-  width: 21px;
-  height: 20px;
+.pkitem-grepa-berry{
+  width:21px;
+  height:20px;
   background-position: -587px -467px;
 }
-.pkitem-ground-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-ground-memory{
+  width:20px;
+  height:20px;
   background-position: -610px -467px;
 }
-.pkitem-ground-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-ground-tm{
+  width:20px;
+  height:20px;
   background-position: -632px -467px;
 }
-.pkitem-ground-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-ground-tr{
+  width:20px;
+  height:20px;
   background-position: -654px -467px;
 }
-.pkitem-guard-spec {
-  width: 20px;
-  height: 20px;
+.pkitem-guard-spec{
+  width:20px;
+  height:20px;
   background-position: 0px -490px;
 }
-.pkitem-haban-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-haban-berry{
+  width:20px;
+  height:20px;
   background-position: -22px -490px;
 }
-.pkitem-helix-fossil {
-  width: 20px;
-  height: 21px;
+.pkitem-helix-fossil{
+  width:20px;
+  height:21px;
   background-position: -44px -490px;
 }
-.pkitem-hi-tech-earbuds {
-  width: 25px;
-  height: 15px;
+.pkitem-hi-tech-earbuds{
+  width:25px;
+  height:15px;
   background-position: -66px -490px;
 }
-.pkitem-hondew-berry {
-  width: 20px;
-  height: 21px;
+.pkitem-hondew-berry{
+  width:20px;
+  height:21px;
   background-position: -93px -490px;
 }
-.pkitem-honey {
-  width: 20px;
-  height: 20px;
+.pkitem-honey{
+  width:20px;
+  height:20px;
   background-position: -115px -490px;
 }
-.pkitem-ice-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-ice-memory{
+  width:20px;
+  height:20px;
   background-position: -137px -490px;
 }
-.pkitem-ice-stone {
-  width: 20px;
-  height: 20px;
+.pkitem-ice-stone{
+  width:20px;
+  height:20px;
   background-position: -159px -490px;
 }
-.pkitem-ice-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-ice-tm{
+  width:20px;
+  height:20px;
   background-position: -181px -490px;
 }
-.pkitem-ice-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-ice-tr{
+  width:20px;
+  height:20px;
   background-position: -203px -490px;
 }
-.pkitem-jaboca-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-jaboca-berry{
+  width:20px;
+  height:20px;
   background-position: -225px -490px;
 }
-.pkitem-key-stone {
-  width: 18px;
-  height: 22px;
+.pkitem-key-stone{
+  width:18px;
+  height:22px;
   background-position: -247px -490px;
 }
-.pkitem-key-to-room-1 {
-  width: 21px;
-  height: 19px;
+.pkitem-key-to-room-1{
+  width:21px;
+  height:19px;
   background-position: -267px -490px;
 }
-.pkitem-key-to-room-2 {
-  width: 21px;
-  height: 19px;
+.pkitem-key-to-room-2{
+  width:21px;
+  height:19px;
   background-position: -290px -490px;
 }
-.pkitem-key-to-room-4 {
-  width: 21px;
-  height: 19px;
+.pkitem-key-to-room-4{
+  width:21px;
+  height:19px;
   background-position: -313px -490px;
 }
-.pkitem-key-to-room-6 {
-  width: 21px;
-  height: 19px;
+.pkitem-key-to-room-6{
+  width:21px;
+  height:19px;
   background-position: -336px -490px;
 }
-.pkitem-kommonium-z {
-  width: 28px;
-  height: 13px;
+.pkitem-kommonium-z{
+  width:28px;
+  height:13px;
   background-position: -359px -490px;
 }
-.pkitem-lansat-berry {
-  width: 19px;
-  height: 21px;
+.pkitem-lansat-berry{
+  width:19px;
+  height:21px;
   background-position: -389px -490px;
 }
-.pkitem-leaf-stone {
-  width: 19px;
-  height: 21px;
+.pkitem-leaf-stone{
+  width:19px;
+  height:21px;
   background-position: -410px -490px;
 }
-.pkitem-letter {
-  width: 22px;
-  height: 19px;
+.pkitem-letter{
+  width:22px;
+  height:19px;
   background-position: -431px -490px;
 }
-.pkitem-lunalium-z {
-  width: 28px;
-  height: 13px;
+.pkitem-lunalium-z{
+  width:28px;
+  height:13px;
   background-position: -455px -490px;
 }
-.pkitem-lunar-wing {
-  width: 21px;
-  height: 20px;
+.pkitem-lunar-wing{
+  width:21px;
+  height:20px;
   background-position: -485px -490px;
 }
-.pkitem-lycanium-z {
-  width: 28px;
-  height: 13px;
+.pkitem-lycanium-z{
+  width:28px;
+  height:13px;
   background-position: -508px -490px;
 }
-.pkitem-magmarizer {
-  width: 20px;
-  height: 20px;
+.pkitem-magmarizer{
+  width:20px;
+  height:20px;
   background-position: -538px -490px;
 }
-.pkitem-mega-charm {
-  width: 21px;
-  height: 20px;
+.pkitem-mega-charm{
+  width:21px;
+  height:20px;
   background-position: -560px -490px;
 }
-.pkitem-mega-cuff {
-  width: 22px;
-  height: 19px;
+.pkitem-mega-cuff{
+  width:22px;
+  height:19px;
   background-position: -583px -490px;
 }
-.pkitem-member-card {
-  width: 21px;
-  height: 20px;
+.pkitem-member-card{
+  width:21px;
+  height:20px;
   background-position: -607px -490px;
 }
-.pkitem-metal-powder {
-  width: 22px;
-  height: 18px;
+.pkitem-metal-powder{
+  width:22px;
+  height:18px;
   background-position: -630px -490px;
 }
-.pkitem-mimikium-z {
-  width: 28px;
-  height: 13px;
+.pkitem-mimikium-z{
+  width:28px;
+  height:13px;
   background-position: -654px -490px;
 }
-.pkitem-misty-seed {
-  width: 25px;
-  height: 15px;
+.pkitem-misty-seed{
+  width:25px;
+  height:15px;
   background-position: -684px -490px;
 }
-.pkitem-moon-flute {
-  width: 20px;
-  height: 20px;
+.pkitem-moon-flute{
+  width:20px;
+  height:20px;
   background-position: 0px -514px;
 }
-.pkitem-moon-stone {
-  width: 21px;
-  height: 19px;
+.pkitem-moon-stone{
+  width:21px;
+  height:19px;
   background-position: -22px -514px;
 }
-.pkitem-n-lunarizer {
-  width: 21px;
-  height: 19px;
+.pkitem-n-lunarizer{
+  width:21px;
+  height:19px;
   background-position: -45px -514px;
 }
-.pkitem-n-solarizer {
-  width: 21px;
-  height: 19px;
+.pkitem-n-solarizer{
+  width:21px;
+  height:19px;
   background-position: -68px -514px;
 }
-.pkitem-never-melt-ice {
-  width: 20px;
-  height: 21px;
+.pkitem-never-melt-ice{
+  width:20px;
+  height:21px;
   background-position: -91px -514px;
 }
-.pkitem-nomel-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-nomel-berry{
+  width:20px;
+  height:20px;
   background-position: -113px -514px;
 }
-.pkitem-normal-hm {
-  width: 20px;
-  height: 20px;
+.pkitem-normal-hm{
+  width:20px;
+  height:20px;
   background-position: -135px -514px;
 }
-.pkitem-normal-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-normal-tm{
+  width:20px;
+  height:20px;
   background-position: -157px -514px;
 }
-.pkitem-normal-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-normal-tr{
+  width:20px;
+  height:20px;
   background-position: -179px -514px;
 }
-.pkitem-oaks-letter {
-  width: 22px;
-  height: 19px;
+.pkitem-oaks-letter{
+  width:22px;
+  height:19px;
   background-position: -201px -514px;
 }
-.pkitem-old-charm {
-  width: 20px;
-  height: 20px;
+.pkitem-old-charm{
+  width:20px;
+  height:20px;
   background-position: -225px -514px;
 }
-.pkitem-oval-charm {
-  width: 19px;
-  height: 22px;
+.pkitem-oval-charm{
+  width:19px;
+  height:22px;
   background-position: -247px -514px;
 }
-.pkitem-pasta {
-  width: 19px;
-  height: 21px;
+.pkitem-pasta{
+  width:19px;
+  height:21px;
   background-position: -268px -514px;
 }
-.pkitem-pecha-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-pecha-berry{
+  width:20px;
+  height:20px;
   background-position: -289px -514px;
 }
-.pkitem-persim-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-persim-berry{
+  width:20px;
+  height:20px;
   background-position: -311px -514px;
 }
-.pkitem-petaya-berry {
-  width: 20px;
-  height: 21px;
+.pkitem-petaya-berry{
+  width:20px;
+  height:21px;
   background-position: -333px -514px;
 }
-.pkitem-poison-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-poison-memory{
+  width:20px;
+  height:20px;
   background-position: -355px -514px;
 }
-.pkitem-poison-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-poison-tm{
+  width:20px;
+  height:20px;
   background-position: -377px -514px;
 }
-.pkitem-poison-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-poison-tr{
+  width:20px;
+  height:20px;
   background-position: -399px -514px;
 }
-.pkitem-poke-toy {
-  width: 18px;
-  height: 22px;
+.pkitem-poke-toy{
+  width:18px;
+  height:22px;
   background-position: -421px -514px;
 }
-.pkitem-pomeg-berry {
-  width: 19px;
-  height: 21px;
+.pkitem-pomeg-berry{
+  width:19px;
+  height:21px;
   background-position: -441px -514px;
 }
-.pkitem-profs-letter {
-  width: 22px;
-  height: 19px;
+.pkitem-profs-letter{
+  width:22px;
+  height:19px;
   background-position: -462px -514px;
 }
-.pkitem-protector {
-  width: 20px;
-  height: 20px;
+.pkitem-protector{
+  width:20px;
+  height:20px;
   background-position: -486px -514px;
 }
-.pkitem-psychic-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-psychic-memory{
+  width:20px;
+  height:20px;
   background-position: -508px -514px;
 }
-.pkitem-psychic-seed {
-  width: 25px;
-  height: 15px;
+.pkitem-psychic-seed{
+  width:25px;
+  height:15px;
   background-position: -530px -514px;
 }
-.pkitem-psychic-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-psychic-tm{
+  width:20px;
+  height:20px;
   background-position: -557px -514px;
 }
-.pkitem-psychic-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-psychic-tr{
+  width:20px;
+  height:20px;
   background-position: -579px -514px;
 }
-.pkitem-pungent-root {
-  width: 20px;
-  height: 21px;
+.pkitem-pungent-root{
+  width:20px;
+  height:21px;
   background-position: -601px -514px;
 }
-.pkitem-quick-powder {
-  width: 22px;
-  height: 18px;
+.pkitem-quick-powder{
+  width:22px;
+  height:18px;
   background-position: -623px -514px;
 }
-.pkitem-rare-bone {
-  width: 20px;
-  height: 20px;
+.pkitem-rare-bone{
+  width:20px;
+  height:20px;
   background-position: -647px -514px;
 }
-.pkitem-rawst-berry {
-  width: 21px;
-  height: 20px;
+.pkitem-rawst-berry{
+  width:21px;
+  height:20px;
   background-position: 0px -538px;
 }
-.pkitem-razz-berry {
-  width: 19px;
-  height: 21px;
+.pkitem-razz-berry{
+  width:19px;
+  height:21px;
   background-position: -23px -538px;
 }
-.pkitem-razz-gen3-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-razz-gen3-berry{
+  width:20px;
+  height:20px;
   background-position: -44px -538px;
 }
-.pkitem-reaper-cloth {
-  width: 20px;
-  height: 21px;
+.pkitem-reaper-cloth{
+  width:20px;
+  height:21px;
   background-position: -66px -538px;
 }
-.pkitem-red-orb {
-  width: 18px;
-  height: 22px;
+.pkitem-red-orb{
+  width:18px;
+  height:22px;
   background-position: -88px -538px;
 }
-.pkitem-rm-1-key {
-  width: 21px;
-  height: 19px;
+.pkitem-rm-1-key{
+  width:21px;
+  height:19px;
   background-position: -108px -538px;
 }
-.pkitem-rm-2-key {
-  width: 21px;
-  height: 19px;
+.pkitem-rm-2-key{
+  width:21px;
+  height:19px;
   background-position: -131px -538px;
 }
-.pkitem-rm-4-key {
-  width: 21px;
-  height: 19px;
+.pkitem-rm-4-key{
+  width:21px;
+  height:19px;
   background-position: -154px -538px;
 }
-.pkitem-rm-6-key {
-  width: 21px;
-  height: 19px;
+.pkitem-rm-6-key{
+  width:21px;
+  height:19px;
   background-position: -177px -538px;
 }
-.pkitem-rock-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-rock-memory{
+  width:20px;
+  height:20px;
   background-position: -200px -538px;
 }
-.pkitem-rock-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-rock-tm{
+  width:20px;
+  height:20px;
   background-position: -222px -538px;
 }
-.pkitem-rock-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-rock-tr{
+  width:20px;
+  height:20px;
   background-position: -244px -538px;
 }
-.pkitem-rusted-shield {
-  width: 22px;
-  height: 18px;
+.pkitem-rusted-shield{
+  width:22px;
+  height:18px;
   background-position: -266px -538px;
 }
-.pkitem-rusted-sword {
-  width: 21px;
-  height: 20px;
+.pkitem-rusted-sword{
+  width:21px;
+  height:20px;
   background-position: -290px -538px;
 }
-.pkitem-sacred-ash {
-  width: 22px;
-  height: 18px;
+.pkitem-sacred-ash{
+  width:22px;
+  height:18px;
   background-position: -313px -538px;
 }
-.pkitem-secret-key-kanto {
-  width: 21px;
-  height: 20px;
+.pkitem-secret-key-kanto{
+  width:21px;
+  height:20px;
   background-position: -337px -538px;
 }
-.pkitem-secret-key-sinnoh {
-  width: 19px;
-  height: 21px;
+.pkitem-secret-key-sinnoh{
+  width:19px;
+  height:21px;
   background-position: -360px -538px;
 }
-.pkitem-sharp-beak {
-  width: 19px;
-  height: 21px;
+.pkitem-sharp-beak{
+  width:19px;
+  height:21px;
   background-position: -381px -538px;
 }
-.pkitem-shed-shell {
-  width: 20px;
-  height: 20px;
+.pkitem-shed-shell{
+  width:20px;
+  height:20px;
   background-position: -402px -538px;
 }
-.pkitem-shiny-charm {
-  width: 19px;
-  height: 22px;
+.pkitem-shiny-charm{
+  width:19px;
+  height:22px;
   background-position: -424px -538px;
 }
-.pkitem-shoal-shell {
-  width: 20px;
-  height: 20px;
+.pkitem-shoal-shell{
+  width:20px;
+  height:20px;
   background-position: -445px -538px;
 }
-.pkitem-silph-scope-gen3 {
-  width: 22px;
-  height: 18px;
+.pkitem-silph-scope-gen3{
+  width:22px;
+  height:18px;
   background-position: -467px -538px;
 }
-.pkitem-silver-razz-berry {
-  width: 19px;
-  height: 21px;
+.pkitem-silver-razz-berry{
+  width:19px;
+  height:21px;
   background-position: -491px -538px;
 }
-.pkitem-soft-sand {
-  width: 22px;
-  height: 18px;
+.pkitem-soft-sand{
+  width:22px;
+  height:18px;
   background-position: -512px -538px;
 }
-.pkitem-solganium-z {
-  width: 28px;
-  height: 13px;
+.pkitem-solganium-z{
+  width:28px;
+  height:13px;
   background-position: -536px -538px;
 }
-.pkitem-sparkling-stone-sm {
-  width: 19px;
-  height: 21px;
+.pkitem-sparkling-stone-sm{
+  width:19px;
+  height:21px;
   background-position: -566px -538px;
 }
-.pkitem-sparkling-stone {
-  width: 19px;
-  height: 21px;
+.pkitem-sparkling-stone{
+  width:19px;
+  height:21px;
   background-position: -587px -538px;
 }
-.pkitem-spelon-berry {
-  width: 20px;
-  height: 21px;
+.pkitem-spelon-berry{
+  width:20px;
+  height:21px;
   background-position: -608px -538px;
 }
-.pkitem-stardust {
-  width: 22px;
-  height: 18px;
+.pkitem-stardust{
+  width:22px;
+  height:18px;
   background-position: -630px -538px;
 }
-.pkitem-starf-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-starf-berry{
+  width:20px;
+  height:20px;
   background-position: -654px -538px;
 }
-.pkitem-steel-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-steel-memory{
+  width:20px;
+  height:20px;
   background-position: 0px -562px;
 }
-.pkitem-steel-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-steel-tm{
+  width:20px;
+  height:20px;
   background-position: -22px -562px;
 }
-.pkitem-steel-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-steel-tr{
+  width:20px;
+  height:20px;
   background-position: -44px -562px;
 }
-.pkitem-storage-key--galactic-warehouse {
-  width: 19px;
-  height: 22px;
+.pkitem-storage-key--galactic-warehouse{
+  width:19px;
+  height:22px;
   background-position: -66px -562px;
 }
-.pkitem-storage-key--sea-mauville {
-  width: 19px;
-  height: 21px;
+.pkitem-storage-key--sea-mauville{
+  width:19px;
+  height:21px;
   background-position: -87px -562px;
 }
-.pkitem-storage-key {
-  width: 19px;
-  height: 21px;
+.pkitem-storage-key{
+  width:19px;
+  height:21px;
   background-position: -108px -562px;
 }
-.pkitem-sun-flute {
-  width: 20px;
-  height: 20px;
+.pkitem-sun-flute{
+  width:20px;
+  height:20px;
   background-position: -129px -562px;
 }
-.pkitem-tamato-berry {
-  width: 20px;
-  height: 21px;
+.pkitem-tamato-berry{
+  width:20px;
+  height:21px;
   background-position: -151px -562px;
 }
-.pkitem-tanga-berry {
-  width: 20px;
-  height: 20px;
+.pkitem-tanga-berry{
+  width:20px;
+  height:20px;
   background-position: -173px -562px;
 }
-.pkitem-thick-club {
-  width: 20px;
-  height: 20px;
+.pkitem-thick-club{
+  width:20px;
+  height:20px;
   background-position: -195px -562px;
 }
-.pkitem-thunder-stone {
-  width: 20px;
-  height: 20px;
+.pkitem-thunder-stone{
+  width:20px;
+  height:20px;
   background-position: -217px -562px;
 }
-.pkitem-tm-case {
-  width: 22px;
-  height: 18px;
+.pkitem-tm-case{
+  width:22px;
+  height:18px;
   background-position: -239px -562px;
 }
-.pkitem-town-map-gen3 {
-  width: 21px;
-  height: 19px;
+.pkitem-town-map-gen3{
+  width:21px;
+  height:19px;
   background-position: -263px -562px;
 }
-.pkitem-tropical-shell {
-  width: 22px;
-  height: 18px;
+.pkitem-tropical-shell{
+  width:22px;
+  height:18px;
   background-position: -286px -562px;
 }
-.pkitem-ultranecrozium-z {
-  width: 28px;
-  height: 13px;
+.pkitem-ultranecrozium-z{
+  width:28px;
+  height:13px;
   background-position: -310px -562px;
 }
-.pkitem-wailmer-pail {
-  width: 22px;
-  height: 18px;
+.pkitem-wailmer-pail{
+  width:22px;
+  height:18px;
   background-position: -340px -562px;
 }
-.pkitem-water-hm {
-  width: 20px;
-  height: 20px;
+.pkitem-water-hm{
+  width:20px;
+  height:20px;
   background-position: -364px -562px;
 }
-.pkitem-water-memory {
-  width: 20px;
-  height: 20px;
+.pkitem-water-memory{
+  width:20px;
+  height:20px;
   background-position: -386px -562px;
 }
-.pkitem-water-stone {
-  width: 20px;
-  height: 20px;
+.pkitem-water-stone{
+  width:20px;
+  height:20px;
   background-position: -408px -562px;
 }
-.pkitem-water-tm {
-  width: 20px;
-  height: 20px;
+.pkitem-water-tm{
+  width:20px;
+  height:20px;
   background-position: -430px -562px;
 }
-.pkitem-water-tr {
-  width: 20px;
-  height: 20px;
+.pkitem-water-tr{
+  width:20px;
+  height:20px;
   background-position: -452px -562px;
 }
-.pkitem-whipped-dream {
-  width: 19px;
-  height: 21px;
+.pkitem-whipped-dream{
+  width:19px;
+  height:21px;
   background-position: -474px -562px;
 }
-.pkitem-wide-lens {
-  width: 20px;
-  height: 21px;
+.pkitem-wide-lens{
+  width:20px;
+  height:21px;
   background-position: -495px -562px;
 }
-.pkitem-x-accuracy {
-  width: 20px;
-  height: 20px;
+.pkitem-x-accuracy{
+  width:20px;
+  height:20px;
   background-position: -517px -562px;
 }
-.pkitem-x-attack {
-  width: 20px;
-  height: 20px;
+.pkitem-x-attack{
+  width:20px;
+  height:20px;
   background-position: -539px -562px;
 }
-.pkitem-x-defense {
-  width: 20px;
-  height: 20px;
+.pkitem-x-defense{
+  width:20px;
+  height:20px;
   background-position: -561px -562px;
 }
-.pkitem-x-sp-atk {
-  width: 20px;
-  height: 20px;
+.pkitem-x-sp-atk{
+  width:20px;
+  height:20px;
   background-position: -583px -562px;
 }
-.pkitem-x-sp-def {
-  width: 20px;
-  height: 20px;
+.pkitem-x-sp-def{
+  width:20px;
+  height:20px;
   background-position: -605px -562px;
 }
-.pkitem-x-speed {
-  width: 20px;
-  height: 20px;
+.pkitem-x-speed{
+  width:20px;
+  height:20px;
   background-position: -627px -562px;
 }
-.pkitem-xtransceiver--blue {
-  width: 19px;
-  height: 21px;
+.pkitem-xtransceiver--blue{
+  width:19px;
+  height:21px;
   background-position: -649px -562px;
 }
-.pkitem-xtransceiver--red {
-  width: 19px;
-  height: 21px;
+.pkitem-xtransceiver--red{
+  width:19px;
+  height:21px;
   background-position: 0px -586px;
 }
-.pkitem-xtransceiver--yellow {
-  width: 19px;
-  height: 21px;
+.pkitem-xtransceiver--yellow{
+  width:19px;
+  height:21px;
   background-position: -21px -586px;
 }
-.pkitem-xtransceiver {
-  width: 19px;
-  height: 21px;
+.pkitem-xtransceiver{
+  width:19px;
+  height:21px;
   background-position: -42px -586px;
 }
-.pkitem-yache-berry {
-  width: 20px;
-  height: 21px;
+.pkitem-yache-berry{
+  width:20px;
+  height:21px;
   background-position: -63px -586px;
 }
-.pkitem-azure-flute {
-  width: 22px;
-  height: 21px;
+.pkitem-azure-flute{
+  width:22px;
+  height:21px;
   background-position: -85px -586px;
 }
-.pkitem-basement-key--goldenrod {
-  width: 22px;
-  height: 21px;
+.pkitem-basement-key--goldenrod{
+  width:22px;
+  height:21px;
   background-position: -109px -586px;
 }
-.pkitem-belue-berry {
-  width: 21px;
-  height: 21px;
+.pkitem-belue-berry{
+  width:21px;
+  height:21px;
   background-position: -133px -586px;
 }
-.pkitem-berry-pouch {
-  width: 21px;
-  height: 21px;
+.pkitem-berry-pouch{
+  width:21px;
+  height:21px;
   background-position: -156px -586px;
 }
-.pkitem-bicycle {
-  width: 21px;
-  height: 22px;
+.pkitem-bicycle{
+  width:21px;
+  height:22px;
   background-position: -179px -586px;
 }
-.pkitem-big-root {
-  width: 21px;
-  height: 22px;
+.pkitem-big-root{
+  width:21px;
+  height:22px;
   background-position: -202px -586px;
 }
-.pkitem-black-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-black-flute{
+  width:21px;
+  height:21px;
   background-position: -225px -586px;
 }
-.pkitem-blue-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-blue-flute{
+  width:21px;
+  height:21px;
   background-position: -248px -586px;
 }
-.pkitem-boiled-egg {
-  width: 22px;
-  height: 21px;
+.pkitem-boiled-egg{
+  width:22px;
+  height:21px;
   background-position: -271px -586px;
 }
-.pkitem-chipped-pot {
-  width: 24px;
-  height: 18px;
+.pkitem-chipped-pot{
+  width:24px;
+  height:18px;
   background-position: -295px -586px;
 }
-.pkitem-coin-case {
-  width: 22px;
-  height: 21px;
+.pkitem-coin-case{
+  width:22px;
+  height:21px;
   background-position: -321px -586px;
 }
-.pkitem-contest-costume--jacket {
-  width: 27px;
-  height: 15px;
+.pkitem-contest-costume--jacket{
+  width:27px;
+  height:15px;
   background-position: -345px -586px;
 }
-.pkitem-cornn-berry {
-  width: 22px;
-  height: 21px;
+.pkitem-cornn-berry{
+  width:22px;
+  height:21px;
   background-position: -374px -586px;
 }
-.pkitem-cracked-pot {
-  width: 24px;
-  height: 18px;
+.pkitem-cracked-pot{
+  width:24px;
+  height:18px;
   background-position: -398px -586px;
 }
-.pkitem-destiny-knot {
-  width: 20px;
-  height: 22px;
+.pkitem-destiny-knot{
+  width:20px;
+  height:22px;
   background-position: -424px -586px;
 }
-.pkitem-dowsing-machine-gen5 {
-  width: 20px;
-  height: 22px;
+.pkitem-dowsing-machine-gen5{
+  width:20px;
+  height:22px;
   background-position: -446px -586px;
 }
-.pkitem-durin-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-durin-berry{
+  width:21px;
+  height:22px;
   background-position: -468px -586px;
 }
-.pkitem-dynamax-band {
-  width: 21px;
-  height: 21px;
+.pkitem-dynamax-band{
+  width:21px;
+  height:21px;
   background-position: -491px -586px;
 }
-.pkitem-elevator-key {
-  width: 23px;
-  height: 19px;
+.pkitem-elevator-key{
+  width:23px;
+  height:19px;
   background-position: -514px -586px;
 }
-.pkitem-energy-root {
-  width: 20px;
-  height: 22px;
+.pkitem-energy-root{
+  width:20px;
+  height:22px;
   background-position: -539px -586px;
 }
-.pkitem-eon-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-eon-flute{
+  width:21px;
+  height:21px;
   background-position: -561px -586px;
 }
-.pkitem-exp-share {
-  width: 22px;
-  height: 20px;
+.pkitem-exp-share{
+  width:22px;
+  height:20px;
   background-position: -584px -586px;
 }
-.pkitem-expert-belt {
-  width: 22px;
-  height: 21px;
+.pkitem-expert-belt{
+  width:22px;
+  height:21px;
   background-position: -608px -586px;
 }
-.pkitem-explorer-kit {
-  width: 21px;
-  height: 22px;
+.pkitem-explorer-kit{
+  width:21px;
+  height:22px;
   background-position: -632px -586px;
 }
-.pkitem-fancy-apple {
-  width: 21px;
-  height: 21px;
+.pkitem-fancy-apple{
+  width:21px;
+  height:21px;
   background-position: -655px -586px;
 }
-.pkitem-fashion-case {
-  width: 22px;
-  height: 21px;
+.pkitem-fashion-case{
+  width:22px;
+  height:21px;
   background-position: -678px -586px;
 }
-.pkitem-figy-berry {
-  width: 20px;
-  height: 22px;
+.pkitem-figy-berry{
+  width:20px;
+  height:22px;
   background-position: 0px -610px;
 }
-.pkitem-gb-sounds {
-  width: 22px;
-  height: 21px;
+.pkitem-gb-sounds{
+  width:22px;
+  height:21px;
   background-position: -22px -610px;
 }
-.pkitem-go-goggles {
-  width: 24px;
-  height: 19px;
+.pkitem-go-goggles{
+  width:24px;
+  height:19px;
   background-position: -46px -610px;
 }
-.pkitem-golden-pinap-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-golden-pinap-berry{
+  width:21px;
+  height:22px;
   background-position: -72px -610px;
 }
-.pkitem-griseous-orb {
-  width: 20px;
-  height: 22px;
+.pkitem-griseous-orb{
+  width:20px;
+  height:22px;
   background-position: -95px -610px;
 }
-.pkitem-heat-rock {
-  width: 22px;
-  height: 21px;
+.pkitem-heat-rock{
+  width:22px;
+  height:21px;
   background-position: -117px -610px;
 }
-.pkitem-iapapa-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-iapapa-berry{
+  width:21px;
+  height:22px;
   background-position: -141px -610px;
 }
-.pkitem-kee-berry {
-  width: 22px;
-  height: 21px;
+.pkitem-kee-berry{
+  width:22px;
+  height:21px;
   background-position: -164px -610px;
 }
-.pkitem-kelpsy-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-kelpsy-berry{
+  width:21px;
+  height:22px;
   background-position: -188px -610px;
 }
-.pkitem-kings-rock {
-  width: 21px;
-  height: 22px;
+.pkitem-kings-rock{
+  width:21px;
+  height:22px;
   background-position: -211px -610px;
 }
-.pkitem-lagging-tail {
-  width: 22px;
-  height: 21px;
+.pkitem-lagging-tail{
+  width:22px;
+  height:21px;
   background-position: -234px -610px;
 }
-.pkitem-leek {
-  width: 21px;
-  height: 21px;
+.pkitem-leek{
+  width:21px;
+  height:21px;
   background-position: -258px -610px;
 }
-.pkitem-leppa-berry {
-  width: 22px;
-  height: 21px;
+.pkitem-leppa-berry{
+  width:22px;
+  height:21px;
   background-position: -281px -610px;
 }
-.pkitem-mach-bike {
-  width: 22px;
-  height: 21px;
+.pkitem-mach-bike{
+  width:22px;
+  height:21px;
   background-position: -305px -610px;
 }
-.pkitem-macho-brace {
-  width: 21px;
-  height: 21px;
+.pkitem-macho-brace{
+  width:21px;
+  height:21px;
   background-position: -329px -610px;
 }
-.pkitem-magma-suit {
-  width: 22px;
-  height: 20px;
+.pkitem-magma-suit{
+  width:22px;
+  height:20px;
   background-position: -352px -610px;
 }
-.pkitem-maranga-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-maranga-berry{
+  width:21px;
+  height:22px;
   background-position: -376px -610px;
 }
-.pkitem-mark-charm {
-  width: 19px;
-  height: 24px;
+.pkitem-mark-charm{
+  width:19px;
+  height:24px;
   background-position: -399px -610px;
 }
-.pkitem-max-revive {
-  width: 20px;
-  height: 22px;
+.pkitem-max-revive{
+  width:20px;
+  height:22px;
   background-position: -420px -610px;
 }
-.pkitem-old-letter {
-  width: 24px;
-  height: 19px;
+.pkitem-old-letter{
+  width:24px;
+  height:19px;
   background-position: -442px -610px;
 }
-.pkitem-pal-pad {
-  width: 22px;
-  height: 20px;
+.pkitem-pal-pad{
+  width:22px;
+  height:20px;
   background-position: -468px -610px;
 }
-.pkitem-pamtre-berry {
-  width: 20px;
-  height: 22px;
+.pkitem-pamtre-berry{
+  width:20px;
+  height:22px;
   background-position: -492px -610px;
 }
-.pkitem-pinap-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-pinap-berry{
+  width:21px;
+  height:22px;
   background-position: -514px -610px;
 }
-.pkitem-poffin-case {
-  width: 20px;
-  height: 22px;
+.pkitem-poffin-case{
+  width:20px;
+  height:22px;
   background-position: -537px -610px;
 }
-.pkitem-poke-doll {
-  width: 22px;
-  height: 21px;
+.pkitem-poke-doll{
+  width:22px;
+  height:21px;
   background-position: -559px -610px;
 }
-.pkitem-poke-flute-gen3 {
-  width: 21px;
-  height: 21px;
+.pkitem-poke-flute-gen3{
+  width:21px;
+  height:21px;
   background-position: -583px -610px;
 }
-.pkitem-poke-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-poke-flute{
+  width:21px;
+  height:21px;
   background-position: -606px -610px;
 }
-.pkitem-poke-radar {
-  width: 21px;
-  height: 22px;
+.pkitem-poke-radar{
+  width:21px;
+  height:22px;
   background-position: -629px -610px;
 }
-.pkitem-power-anklet {
-  width: 22px;
-  height: 21px;
+.pkitem-power-anklet{
+  width:22px;
+  height:21px;
   background-position: -652px -610px;
 }
-.pkitem-power-band {
-  width: 22px;
-  height: 21px;
+.pkitem-power-band{
+  width:22px;
+  height:21px;
   background-position: -676px -610px;
 }
-.pkitem-power-belt {
-  width: 22px;
-  height: 21px;
+.pkitem-power-belt{
+  width:22px;
+  height:21px;
   background-position: 0px -636px;
 }
-.pkitem-power-bracer {
-  width: 22px;
-  height: 21px;
+.pkitem-power-bracer{
+  width:22px;
+  height:21px;
   background-position: -24px -636px;
 }
-.pkitem-power-weight {
-  width: 22px;
-  height: 21px;
+.pkitem-power-weight{
+  width:22px;
+  height:21px;
   background-position: -48px -636px;
 }
-.pkitem-prison-bottle {
-  width: 15px;
-  height: 28px;
+.pkitem-prison-bottle{
+  width:15px;
+  height:28px;
   background-position: -72px -636px;
 }
-.pkitem-professors-mask {
-  width: 21px;
-  height: 22px;
+.pkitem-professors-mask{
+  width:21px;
+  height:22px;
   background-position: -89px -636px;
 }
-.pkitem-protective-pads {
-  width: 20px;
-  height: 22px;
+.pkitem-protective-pads{
+  width:20px;
+  height:22px;
   background-position: -112px -636px;
 }
-.pkitem-rainbow-flower {
-  width: 22px;
-  height: 20px;
+.pkitem-rainbow-flower{
+  width:22px;
+  height:20px;
   background-position: -134px -636px;
 }
-.pkitem-rare-candy {
-  width: 21px;
-  height: 21px;
+.pkitem-rare-candy{
+  width:21px;
+  height:21px;
   background-position: -158px -636px;
 }
-.pkitem-red-chain {
-  width: 22px;
-  height: 21px;
+.pkitem-red-chain{
+  width:22px;
+  height:21px;
   background-position: -181px -636px;
 }
-.pkitem-red-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-red-flute{
+  width:21px;
+  height:21px;
   background-position: -205px -636px;
 }
-.pkitem-reveal-glass {
-  width: 21px;
-  height: 22px;
+.pkitem-reveal-glass{
+  width:21px;
+  height:22px;
   background-position: -228px -636px;
 }
-.pkitem-revival-herb {
-  width: 21px;
-  height: 22px;
+.pkitem-revival-herb{
+  width:21px;
+  height:22px;
   background-position: -251px -636px;
 }
-.pkitem-root-fossil {
-  width: 21px;
-  height: 21px;
+.pkitem-root-fossil{
+  width:21px;
+  height:21px;
   background-position: -274px -636px;
 }
-.pkitem-rotom-catalog {
-  width: 24px;
-  height: 19px;
+.pkitem-rotom-catalog{
+  width:24px;
+  height:19px;
   background-position: -297px -636px;
 }
-.pkitem-rowap-berry {
-  width: 21px;
-  height: 21px;
+.pkitem-rowap-berry{
+  width:21px;
+  height:21px;
   background-position: -323px -636px;
 }
-.pkitem-rule-book {
-  width: 22px;
-  height: 20px;
+.pkitem-rule-book{
+  width:22px;
+  height:20px;
   background-position: -346px -636px;
 }
-.pkitem-scope-lens {
-  width: 22px;
-  height: 21px;
+.pkitem-scope-lens{
+  width:22px;
+  height:21px;
   background-position: -370px -636px;
 }
-.pkitem-silver-pinap-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-silver-pinap-berry{
+  width:21px;
+  height:22px;
   background-position: -394px -636px;
 }
-.pkitem-skull-fossil {
-  width: 22px;
-  height: 21px;
+.pkitem-skull-fossil{
+  width:22px;
+  height:21px;
   background-position: -417px -636px;
 }
-.pkitem-strange-souvenir {
-  width: 16px;
-  height: 27px;
+.pkitem-strange-souvenir{
+  width:16px;
+  height:27px;
   background-position: -441px -636px;
 }
-.pkitem-surge-badge {
-  width: 21px;
-  height: 21px;
+.pkitem-surge-badge{
+  width:21px;
+  height:21px;
   background-position: -459px -636px;
 }
-.pkitem-teachy-tv {
-  width: 21px;
-  height: 22px;
+.pkitem-teachy-tv{
+  width:21px;
+  height:22px;
   background-position: -482px -636px;
 }
-.pkitem-terrain-extender {
-  width: 19px;
-  height: 23px;
+.pkitem-terrain-extender{
+  width:19px;
+  height:23px;
   background-position: -505px -636px;
 }
-.pkitem-tidal-bell {
-  width: 20px;
-  height: 22px;
+.pkitem-tidal-bell{
+  width:20px;
+  height:22px;
   background-position: -526px -636px;
 }
-.pkitem-twisted-spoon {
-  width: 22px;
-  height: 21px;
+.pkitem-twisted-spoon{
+  width:22px;
+  height:21px;
   background-position: -548px -636px;
 }
-.pkitem-vs-recorder {
-  width: 22px;
-  height: 20px;
+.pkitem-vs-recorder{
+  width:22px;
+  height:20px;
   background-position: -572px -636px;
 }
-.pkitem-wepear-berry {
-  width: 20px;
-  height: 22px;
+.pkitem-wepear-berry{
+  width:20px;
+  height:22px;
   background-position: -596px -636px;
 }
-.pkitem-white-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-white-flute{
+  width:21px;
+  height:21px;
   background-position: -618px -636px;
 }
-.pkitem-wiki-berry {
-  width: 21px;
-  height: 22px;
+.pkitem-wiki-berry{
+  width:21px;
+  height:22px;
   background-position: -641px -636px;
 }
-.pkitem-wishing-piece {
-  width: 23px;
-  height: 20px;
+.pkitem-wishing-piece{
+  width:23px;
+  height:20px;
   background-position: -664px -636px;
 }
-.pkitem-wishing-star {
-  width: 21px;
-  height: 21px;
+.pkitem-wishing-star{
+  width:21px;
+  height:21px;
   background-position: 0px -666px;
 }
-.pkitem-works-key {
-  width: 21px;
-  height: 22px;
+.pkitem-works-key{
+  width:21px;
+  height:22px;
   background-position: -23px -666px;
 }
-.pkitem-yellow-flute {
-  width: 21px;
-  height: 21px;
+.pkitem-yellow-flute{
+  width:21px;
+  height:21px;
   background-position: -46px -666px;
 }
-.pkitem-acro-bike {
-  width: 21px;
-  height: 23px;
+.pkitem-acro-bike{
+  width:21px;
+  height:23px;
   background-position: -69px -666px;
 }
-.pkitem-adamant-orb {
-  width: 22px;
-  height: 22px;
+.pkitem-adamant-orb{
+  width:22px;
+  height:22px;
   background-position: -92px -666px;
 }
-.pkitem-air-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-air-mail{
+  width:22px;
+  height:22px;
   background-position: -116px -666px;
 }
-.pkitem-apricorn-box {
-  width: 22px;
-  height: 22px;
+.pkitem-apricorn-box{
+  width:22px;
+  height:22px;
   background-position: -140px -666px;
 }
-.pkitem-aqua-suit {
-  width: 22px;
-  height: 22px;
+.pkitem-aqua-suit{
+  width:22px;
+  height:22px;
   background-position: -164px -666px;
 }
-.pkitem-armor-fossil {
-  width: 22px;
-  height: 22px;
+.pkitem-armor-fossil{
+  width:22px;
+  height:22px;
   background-position: -188px -666px;
 }
-.pkitem-attack-mint {
-  width: 26px;
-  height: 19px;
+.pkitem-attack-mint{
+  width:26px;
+  height:19px;
   background-position: -212px -666px;
 }
-.pkitem-bead-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-bead-mail{
+  width:22px;
+  height:22px;
   background-position: -240px -666px;
 }
-.pkitem-bike--green {
-  width: 22px;
-  height: 22px;
+.pkitem-bike--green{
+  width:22px;
+  height:22px;
   background-position: -264px -666px;
 }
-.pkitem-bike--yellow {
-  width: 22px;
-  height: 22px;
+.pkitem-bike--yellow{
+  width:22px;
+  height:22px;
   background-position: -288px -666px;
 }
-.pkitem-bloom-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-bloom-mail{
+  width:22px;
+  height:22px;
   background-position: -312px -666px;
 }
-.pkitem-blue-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-blue-scarf{
+  width:22px;
+  height:22px;
   background-position: -336px -666px;
 }
-.pkitem-brick-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-brick-mail{
+  width:22px;
+  height:22px;
   background-position: -360px -666px;
 }
-.pkitem-bridge-mail-d {
-  width: 22px;
-  height: 22px;
+.pkitem-bridge-mail-d{
+  width:22px;
+  height:22px;
   background-position: -384px -666px;
 }
-.pkitem-bridge-mail-m {
-  width: 22px;
-  height: 22px;
+.pkitem-bridge-mail-m{
+  width:22px;
+  height:22px;
   background-position: -408px -666px;
 }
-.pkitem-bridge-mail-s {
-  width: 22px;
-  height: 22px;
+.pkitem-bridge-mail-s{
+  width:22px;
+  height:22px;
   background-position: -432px -666px;
 }
-.pkitem-bridge-mail-t {
-  width: 22px;
-  height: 22px;
+.pkitem-bridge-mail-t{
+  width:22px;
+  height:22px;
   background-position: -456px -666px;
 }
-.pkitem-bridge-mail-v {
-  width: 22px;
-  height: 22px;
+.pkitem-bridge-mail-v{
+  width:22px;
+  height:22px;
   background-position: -480px -666px;
 }
-.pkitem-bubble-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-bubble-mail{
+  width:22px;
+  height:22px;
   background-position: -504px -666px;
 }
-.pkitem-cheri-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-cheri-berry{
+  width:22px;
+  height:22px;
   background-position: -528px -666px;
 }
-.pkitem-choice-band {
-  width: 22px;
-  height: 22px;
+.pkitem-choice-band{
+  width:22px;
+  height:22px;
   background-position: -552px -666px;
 }
-.pkitem-choice-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-choice-scarf{
+  width:22px;
+  height:22px;
   background-position: -576px -666px;
 }
-.pkitem-damp-rock {
-  width: 22px;
-  height: 22px;
+.pkitem-damp-rock{
+  width:22px;
+  height:22px;
   background-position: -600px -666px;
 }
-.pkitem-defense-mint {
-  width: 26px;
-  height: 19px;
+.pkitem-defense-mint{
+  width:26px;
+  height:19px;
   background-position: -624px -666px;
 }
-.pkitem-discount-coupon {
-  width: 28px;
-  height: 17px;
+.pkitem-discount-coupon{
+  width:28px;
+  height:17px;
   background-position: -652px -666px;
 }
-.pkitem-dowsing-machine-gen3 {
-  width: 22px;
-  height: 22px;
+.pkitem-dowsing-machine-gen3{
+  width:22px;
+  height:22px;
   background-position: -682px -666px;
 }
-.pkitem-draco-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-draco-plate{
+  width:22px;
+  height:22px;
   background-position: -706px -666px;
 }
-.pkitem-dread-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-dread-plate{
+  width:22px;
+  height:22px;
   background-position: 0px -691px;
 }
-.pkitem-dream-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-dream-mail{
+  width:22px;
+  height:22px;
   background-position: -24px -691px;
 }
-.pkitem-earth-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-earth-plate{
+  width:22px;
+  height:22px;
   background-position: -48px -691px;
 }
-.pkitem-eject-pack {
-  width: 23px;
-  height: 22px;
+.pkitem-eject-pack{
+  width:23px;
+  height:22px;
   background-position: -72px -691px;
 }
-.pkitem-exp-charm {
-  width: 15px;
-  height: 29px;
+.pkitem-exp-charm{
+  width:15px;
+  height:29px;
   background-position: -97px -691px;
 }
-.pkitem-fab-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-fab-mail{
+  width:22px;
+  height:22px;
   background-position: -114px -691px;
 }
-.pkitem-favored-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-favored-mail{
+  width:22px;
+  height:22px;
   background-position: -138px -691px;
 }
-.pkitem-fist-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-fist-plate{
+  width:22px;
+  height:22px;
   background-position: -162px -691px;
 }
-.pkitem-flame-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-flame-mail{
+  width:22px;
+  height:22px;
   background-position: -186px -691px;
 }
-.pkitem-flame-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-flame-plate{
+  width:22px;
+  height:22px;
   background-position: -210px -691px;
 }
-.pkitem-fluffy-tail {
-  width: 22px;
-  height: 22px;
+.pkitem-fluffy-tail{
+  width:22px;
+  height:22px;
   background-position: -234px -691px;
 }
-.pkitem-focus-band {
-  width: 22px;
-  height: 22px;
+.pkitem-focus-band{
+  width:22px;
+  height:22px;
   background-position: -258px -691px;
 }
-.pkitem-forage-bag {
-  width: 18px;
-  height: 26px;
+.pkitem-forage-bag{
+  width:18px;
+  height:26px;
   background-position: -282px -691px;
 }
-.pkitem-fossilized-drake {
-  width: 22px;
-  height: 23px;
+.pkitem-fossilized-drake{
+  width:22px;
+  height:23px;
   background-position: -302px -691px;
 }
-.pkitem-fruit-bunch {
-  width: 22px;
-  height: 22px;
+.pkitem-fruit-bunch{
+  width:22px;
+  height:22px;
   background-position: -326px -691px;
 }
-.pkitem-glitter-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-glitter-mail{
+  width:22px;
+  height:22px;
   background-position: -350px -691px;
 }
-.pkitem-gracidea {
-  width: 22px;
-  height: 22px;
+.pkitem-gracidea{
+  width:22px;
+  height:22px;
   background-position: -374px -691px;
 }
-.pkitem-grass-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-grass-mail{
+  width:22px;
+  height:22px;
   background-position: -398px -691px;
 }
-.pkitem-green-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-green-scarf{
+  width:22px;
+  height:22px;
   background-position: -422px -691px;
 }
-.pkitem-greet-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-greet-mail{
+  width:22px;
+  height:22px;
   background-position: -446px -691px;
 }
-.pkitem-grip-claw {
-  width: 22px;
-  height: 22px;
+.pkitem-grip-claw{
+  width:22px;
+  height:22px;
   background-position: -470px -691px;
 }
-.pkitem-harbor-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-harbor-mail{
+  width:22px;
+  height:22px;
   background-position: -494px -691px;
 }
-.pkitem-heart-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-heart-mail{
+  width:22px;
+  height:22px;
   background-position: -518px -691px;
 }
-.pkitem-heavy-duty-boots {
-  width: 24px;
-  height: 21px;
+.pkitem-heavy-duty-boots{
+  width:24px;
+  height:21px;
   background-position: -542px -691px;
 }
-.pkitem-icicle-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-icicle-plate{
+  width:22px;
+  height:22px;
   background-position: -568px -691px;
 }
-.pkitem-icy-rock {
-  width: 22px;
-  height: 22px;
+.pkitem-icy-rock{
+  width:22px;
+  height:22px;
   background-position: -592px -691px;
 }
-.pkitem-inquiry-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-inquiry-mail{
+  width:22px;
+  height:22px;
   background-position: -616px -691px;
 }
-.pkitem-insect-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-insect-plate{
+  width:22px;
+  height:22px;
   background-position: -640px -691px;
 }
-.pkitem-iron-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-iron-plate{
+  width:22px;
+  height:22px;
   background-position: -664px -691px;
 }
-.pkitem-journal {
-  width: 22px;
-  height: 22px;
+.pkitem-journal{
+  width:22px;
+  height:22px;
   background-position: -688px -691px;
 }
-.pkitem-kasib-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-kasib-berry{
+  width:22px;
+  height:22px;
   background-position: 0px -722px;
 }
-.pkitem-leaf-letter-eevee {
-  width: 24px;
-  height: 21px;
+.pkitem-leaf-letter-eevee{
+  width:24px;
+  height:21px;
   background-position: -24px -722px;
 }
-.pkitem-leaf-letter-pikachu {
-  width: 24px;
-  height: 21px;
+.pkitem-leaf-letter-pikachu{
+  width:24px;
+  height:21px;
   background-position: -50px -722px;
 }
-.pkitem-like-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-like-mail{
+  width:22px;
+  height:22px;
   background-position: -76px -722px;
 }
-.pkitem-lucky-punch {
-  width: 22px;
-  height: 22px;
+.pkitem-lucky-punch{
+  width:22px;
+  height:22px;
   background-position: -100px -722px;
 }
-.pkitem-lustrous-orb {
-  width: 22px;
-  height: 22px;
+.pkitem-lustrous-orb{
+  width:22px;
+  height:22px;
   background-position: -124px -722px;
 }
-.pkitem-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-mail{
+  width:22px;
+  height:22px;
   background-position: -148px -722px;
 }
-.pkitem-meadow-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-meadow-plate{
+  width:22px;
+  height:22px;
   background-position: -172px -722px;
 }
-.pkitem-mech-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-mech-mail{
+  width:22px;
+  height:22px;
   background-position: -196px -722px;
 }
-.pkitem-mind-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-mind-plate{
+  width:22px;
+  height:22px;
   background-position: -220px -722px;
 }
-.pkitem-moomoo-cheese {
-  width: 22px;
-  height: 22px;
+.pkitem-moomoo-cheese{
+  width:22px;
+  height:22px;
   background-position: -244px -722px;
 }
-.pkitem-mosaic-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-mosaic-mail{
+  width:22px;
+  height:22px;
   background-position: -268px -722px;
 }
-.pkitem-muscle-band {
-  width: 22px;
-  height: 22px;
+.pkitem-muscle-band{
+  width:22px;
+  height:22px;
   background-position: -292px -722px;
 }
-.pkitem-nanab-gen3-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-nanab-gen3-berry{
+  width:22px;
+  height:22px;
   background-position: -316px -722px;
 }
-.pkitem-neutral-mint {
-  width: 26px;
-  height: 19px;
+.pkitem-neutral-mint{
+  width:26px;
+  height:19px;
   background-position: -340px -722px;
 }
-.pkitem-old-sea-map {
-  width: 22px;
-  height: 22px;
+.pkitem-old-sea-map{
+  width:22px;
+  height:22px;
   background-position: -368px -722px;
 }
-.pkitem-orange-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-orange-mail{
+  width:22px;
+  height:22px;
   background-position: -392px -722px;
 }
-.pkitem-payapa-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-payapa-berry{
+  width:22px;
+  height:22px;
   background-position: -416px -722px;
 }
-.pkitem-photo-album {
-  width: 22px;
-  height: 22px;
+.pkitem-photo-album{
+  width:22px;
+  height:22px;
   background-position: -440px -722px;
 }
-.pkitem-pink-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-pink-scarf{
+  width:22px;
+  height:22px;
   background-position: -464px -722px;
 }
-.pkitem-pixie-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-pixie-plate{
+  width:22px;
+  height:22px;
   background-position: -488px -722px;
 }
-.pkitem-pokeblock-case {
-  width: 22px;
-  height: 22px;
+.pkitem-pokeblock-case{
+  width:22px;
+  height:22px;
   background-position: -512px -722px;
 }
-.pkitem-power-lens {
-  width: 22px;
-  height: 22px;
+.pkitem-power-lens{
+  width:22px;
+  height:22px;
   background-position: -536px -722px;
 }
-.pkitem-precooked-burger {
-  width: 21px;
-  height: 23px;
+.pkitem-precooked-burger{
+  width:21px;
+  height:23px;
   background-position: -560px -722px;
 }
-.pkitem-rabuta-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-rabuta-berry{
+  width:22px;
+  height:22px;
   background-position: -583px -722px;
 }
-.pkitem-red-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-red-scarf{
+  width:22px;
+  height:22px;
   background-position: -607px -722px;
 }
-.pkitem-retro-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-retro-mail{
+  width:22px;
+  height:22px;
   background-position: -631px -722px;
 }
-.pkitem-ride-pager {
-  width: 22px;
-  height: 22px;
+.pkitem-ride-pager{
+  width:22px;
+  height:22px;
   background-position: -655px -722px;
 }
-.pkitem-rotom-bike-1 {
-  width: 21px;
-  height: 23px;
+.pkitem-rotom-bike-1{
+  width:21px;
+  height:23px;
   background-position: -679px -722px;
 }
-.pkitem-rsvp-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-rsvp-mail{
+  width:22px;
+  height:22px;
   background-position: -702px -722px;
 }
-.pkitem-salac-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-salac-berry{
+  width:22px;
+  height:22px;
   background-position: 0px -747px;
 }
-.pkitem-scanner {
-  width: 22px;
-  height: 22px;
+.pkitem-scanner{
+  width:22px;
+  height:22px;
   background-position: -24px -747px;
 }
-.pkitem-seal-case {
-  width: 22px;
-  height: 22px;
+.pkitem-seal-case{
+  width:22px;
+  height:22px;
   background-position: -48px -747px;
 }
-.pkitem-shadow-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-shadow-mail{
+  width:22px;
+  height:22px;
   background-position: -72px -747px;
 }
-.pkitem-silk-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-silk-scarf{
+  width:22px;
+  height:22px;
   background-position: -96px -747px;
 }
-.pkitem-silph-scope {
-  width: 27px;
-  height: 18px;
+.pkitem-silph-scope{
+  width:27px;
+  height:18px;
   background-position: -120px -747px;
 }
-.pkitem-sky-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-sky-plate{
+  width:22px;
+  height:22px;
   background-position: -149px -747px;
 }
-.pkitem-smooth-rock {
-  width: 22px;
-  height: 22px;
+.pkitem-smooth-rock{
+  width:22px;
+  height:22px;
   background-position: -173px -747px;
 }
-.pkitem-snow-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-snow-mail{
+  width:22px;
+  height:22px;
   background-position: -197px -747px;
 }
-.pkitem-space-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-space-mail{
+  width:22px;
+  height:22px;
   background-position: -221px -747px;
 }
-.pkitem-special-attack-mint {
-  width: 26px;
-  height: 19px;
+.pkitem-special-attack-mint{
+  width:26px;
+  height:19px;
   background-position: -245px -747px;
 }
-.pkitem-special-defense-mint {
-  width: 26px;
-  height: 19px;
+.pkitem-special-defense-mint{
+  width:26px;
+  height:19px;
   background-position: -273px -747px;
 }
-.pkitem-speed-mint {
-  width: 26px;
-  height: 19px;
+.pkitem-speed-mint{
+  width:26px;
+  height:19px;
   background-position: -301px -747px;
 }
-.pkitem-splash-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-splash-plate{
+  width:22px;
+  height:22px;
   background-position: -329px -747px;
 }
-.pkitem-spooky-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-spooky-plate{
+  width:22px;
+  height:22px;
   background-position: -353px -747px;
 }
-.pkitem-sprayduck {
-  width: 22px;
-  height: 22px;
+.pkitem-sprayduck{
+  width:22px;
+  height:22px;
   background-position: -377px -747px;
 }
-.pkitem-steel-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-steel-mail{
+  width:22px;
+  height:22px;
   background-position: -401px -747px;
 }
-.pkitem-stone-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-stone-plate{
+  width:22px;
+  height:22px;
   background-position: -425px -747px;
 }
-.pkitem-sun-stone {
-  width: 22px;
-  height: 22px;
+.pkitem-sun-stone{
+  width:22px;
+  height:22px;
   background-position: -449px -747px;
 }
-.pkitem-thanks-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-thanks-mail{
+  width:22px;
+  height:22px;
   background-position: -473px -747px;
 }
-.pkitem-tmv-pass {
-  width: 27px;
-  height: 18px;
+.pkitem-tmv-pass{
+  width:27px;
+  height:18px;
   background-position: -497px -747px;
 }
-.pkitem-town-map-gen4 {
-  width: 22px;
-  height: 22px;
+.pkitem-town-map-gen4{
+  width:22px;
+  height:22px;
   background-position: -526px -747px;
 }
-.pkitem-town-map {
-  width: 25px;
-  height: 20px;
+.pkitem-town-map{
+  width:25px;
+  height:20px;
   background-position: -550px -747px;
 }
-.pkitem-toxic-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-toxic-plate{
+  width:22px;
+  height:22px;
   background-position: -577px -747px;
 }
-.pkitem-tropic-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-tropic-mail{
+  width:22px;
+  height:22px;
   background-position: -601px -747px;
 }
-.pkitem-tunnel-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-tunnel-mail{
+  width:22px;
+  height:22px;
   background-position: -625px -747px;
 }
-.pkitem-watmel-berry {
-  width: 22px;
-  height: 22px;
+.pkitem-watmel-berry{
+  width:22px;
+  height:22px;
   background-position: -649px -747px;
 }
-.pkitem-wave-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-wave-mail{
+  width:22px;
+  height:22px;
   background-position: -673px -747px;
 }
-.pkitem-wood-mail {
-  width: 22px;
-  height: 22px;
+.pkitem-wood-mail{
+  width:22px;
+  height:22px;
   background-position: -697px -747px;
 }
-.pkitem-yellow-scarf {
-  width: 22px;
-  height: 22px;
+.pkitem-yellow-scarf{
+  width:22px;
+  height:22px;
   background-position: -721px -747px;
 }
-.pkitem-z-ring {
-  width: 22px;
-  height: 22px;
+.pkitem-z-ring{
+  width:22px;
+  height:22px;
   background-position: 0px -771px;
 }
-.pkitem-zap-plate {
-  width: 22px;
-  height: 22px;
+.pkitem-zap-plate{
+  width:22px;
+  height:22px;
   background-position: -24px -771px;
 }
-.pkitem-armor-pass {
-  width: 28px;
-  height: 19px;
+.pkitem-armor-pass{
+  width:28px;
+  height:19px;
   background-position: -48px -771px;
 }
-.pkitem-camping-gear {
-  width: 26px;
-  height: 20px;
+.pkitem-camping-gear{
+  width:26px;
+  height:20px;
   background-position: -78px -771px;
 }
-.pkitem-devon-scuba-gear {
-  width: 26px;
-  height: 20px;
+.pkitem-devon-scuba-gear{
+  width:26px;
+  height:20px;
   background-position: -106px -771px;
 }
-.pkitem-fishing-rod-gen7 {
-  width: 26px;
-  height: 21px;
+.pkitem-fishing-rod-gen7{
+  width:26px;
+  height:21px;
   background-position: -134px -771px;
 }
-.pkitem-fossilized-bird {
-  width: 23px;
-  height: 23px;
+.pkitem-fossilized-bird{
+  width:23px;
+  height:23px;
   background-position: -162px -771px;
 }
-.pkitem-fossilized-dino {
-  width: 23px;
-  height: 23px;
+.pkitem-fossilized-dino{
+  width:23px;
+  height:23px;
   background-position: -187px -771px;
 }
-.pkitem-good-rod {
-  width: 24px;
-  height: 22px;
+.pkitem-good-rod{
+  width:24px;
+  height:22px;
   background-position: -212px -771px;
 }
-.pkitem-looker-ticket {
-  width: 28px;
-  height: 18px;
+.pkitem-looker-ticket{
+  width:28px;
+  height:18px;
   background-position: -238px -771px;
 }
-.pkitem-old-rod {
-  width: 24px;
-  height: 22px;
+.pkitem-old-rod{
+  width:24px;
+  height:22px;
   background-position: -268px -771px;
 }
-.pkitem-pewter-crunchies {
-  width: 27px;
-  height: 20px;
+.pkitem-pewter-crunchies{
+  width:27px;
+  height:20px;
   background-position: -294px -771px;
 }
-.pkitem-pokeblock-kit {
-  width: 24px;
-  height: 22px;
+.pkitem-pokeblock-kit{
+  width:24px;
+  height:22px;
   background-position: -323px -771px;
 }
-.pkitem-room-service {
-  width: 22px;
-  height: 25px;
+.pkitem-room-service{
+  width:22px;
+  height:25px;
   background-position: -349px -771px;
 }
-.pkitem-small-bouquet {
-  width: 24px;
-  height: 23px;
+.pkitem-small-bouquet{
+  width:24px;
+  height:23px;
   background-position: -373px -771px;
 }
-.pkitem-stretchy-spring {
-  width: 25px;
-  height: 21px;
+.pkitem-stretchy-spring{
+  width:25px;
+  height:21px;
   background-position: -399px -771px;
 }
-.pkitem-super-rod {
-  width: 25px;
-  height: 21px;
+.pkitem-super-rod{
+  width:25px;
+  height:21px;
   background-position: -426px -771px;
 }
-.pkitem-z-power-ring {
-  width: 22px;
-  height: 24px;
+.pkitem-z-power-ring{
+  width:22px;
+  height:24px;
   background-position: -453px -771px;
 }
-.pkitem-dowsing-machine-xy {
-  width: 24px;
-  height: 24px;
+.pkitem-dowsing-machine-xy{
+  width:24px;
+  height:24px;
   background-position: -477px -771px;
 }
-.pkitem-fishing-rod {
-  width: 25px;
-  height: 24px;
+.pkitem-fishing-rod{
+  width:25px;
+  height:24px;
   background-position: -503px -771px;
 }
-.pkitem-fossilized-fish {
-  width: 24px;
-  height: 24px;
+.pkitem-fossilized-fish{
+  width:24px;
+  height:24px;
   background-position: -530px -771px;
 }
-.pkitem-golden-nanab-berry {
-  width: 24px;
-  height: 24px;
+.pkitem-golden-nanab-berry{
+  width:24px;
+  height:24px;
   background-position: -556px -771px;
 }
-.pkitem-jaw-fossil {
-  width: 24px;
-  height: 25px;
+.pkitem-jaw-fossil{
+  width:24px;
+  height:25px;
   background-position: -582px -771px;
 }
-.pkitem-max-honey {
-  width: 24px;
-  height: 25px;
+.pkitem-max-honey{
+  width:24px;
+  height:25px;
   background-position: -608px -771px;
 }
-.pkitem-nanab-berry {
-  width: 24px;
-  height: 24px;
+.pkitem-nanab-berry{
+  width:24px;
+  height:24px;
   background-position: -634px -771px;
 }
-.pkitem-sail-fossil {
-  width: 25px;
-  height: 24px;
+.pkitem-sail-fossil{
+  width:25px;
+  height:24px;
   background-position: -660px -771px;
 }
-.pkitem-silver-nanab-berry {
-  width: 24px;
-  height: 24px;
+.pkitem-silver-nanab-berry{
+  width:24px;
+  height:24px;
   background-position: -687px -771px;
 }
-.pkitem-style-card {
-  width: 27px;
-  height: 21px;
+.pkitem-style-card{
+  width:27px;
+  height:21px;
   background-position: -713px -771px;
 }
-.pkitem-utility-umbrella {
-  width: 24px;
-  height: 24px;
+.pkitem-utility-umbrella{
+  width:24px;
+  height:24px;
   background-position: -742px -771px;
 }
-.pkitem-adventure-guide {
-  width: 27px;
-  height: 24px;
+.pkitem-adventure-guide{
+  width:27px;
+  height:24px;
   background-position: -768px -771px;
 }
-.pkitem-adventure-rules {
-  width: 27px;
-  height: 24px;
+.pkitem-adventure-rules{
+  width:27px;
+  height:24px;
   background-position: 0px -798px;
 }
-.pkitem-brittle-bones {
-  width: 25px;
-  height: 25px;
+.pkitem-brittle-bones{
+  width:25px;
+  height:25px;
   background-position: -29px -798px;
 }
-.pkitem-endorsement {
-  width: 24px;
-  height: 26px;
+.pkitem-endorsement{
+  width:24px;
+  height:26px;
   background-position: -56px -798px;
 }
-.pkitem-rotom-bike-2 {
-  width: 27px;
-  height: 23px;
+.pkitem-rotom-bike-2{
+  width:27px;
+  height:23px;
   background-position: -82px -798px;
 }
-.pkitem-rotom-bike-3 {
-  width: 28px;
-  height: 23px;
+.pkitem-rotom-bike-3{
+  width:28px;
+  height:23px;
   background-position: -111px -798px;
 }
-.pkitem-rotom-bike-4 {
-  width: 28px;
-  height: 23px;
+.pkitem-rotom-bike-4{
+  width:28px;
+  height:23px;
   background-position: -141px -798px;
 }
-.pkitem-sonias-book {
-  width: 27px;
-  height: 24px;
+.pkitem-sonias-book{
+  width:27px;
+  height:24px;
   background-position: -171px -798px;
 }
-.pkitem-travel-trunk--gold {
-  width: 23px;
-  height: 28px;
+.pkitem-travel-trunk--gold{
+  width:23px;
+  height:28px;
   background-position: -200px -798px;
 }
-.pkitem-travel-trunk--silver {
-  width: 23px;
-  height: 28px;
+.pkitem-travel-trunk--silver{
+  width:23px;
+  height:28px;
   background-position: -225px -798px;
 }
-.pkitem-travel-trunk {
-  width: 23px;
-  height: 28px;
+.pkitem-travel-trunk{
+  width:23px;
+  height:28px;
   background-position: -250px -798px;
 }
-.pkitem-dowsing-machine {
-  width: 26px;
-  height: 26px;
+.pkitem-dowsing-machine{
+  width:26px;
+  height:26px;
   background-position: -275px -798px;
 }
-.pkitem-max-mushrooms {
-  width: 27px;
-  height: 26px;
+.pkitem-max-mushrooms{
+  width:27px;
+  height:26px;
   background-position: -303px -798px;
 }
-.pkitem-roller-skates {
-  width: 28px;
-  height: 25px;
+.pkitem-roller-skates{
+  width:28px;
+  height:25px;
   background-position: -332px -798px;
 }
-.pkitem-galarica-cuff {
-  width: 27px;
-  height: 28px;
+.pkitem-galarica-cuff{
+  width:27px;
+  height:28px;
   background-position: -362px -798px;
 }
-.pkitem-galarica-twig {
-  width: 29px;
-  height: 30px;
+.pkitem-galarica-twig{
+  width:29px;
+  height:30px;
   background-position: -391px -798px;
 }
-.pkitem-storage-battle-pocket {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-battle-pocket{
+  width:32px;
+  height:27px;
   background-position: -422px -798px;
 }
-.pkitem-storage-candy-jar {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-candy-jar{
+  width:32px;
+  height:27px;
   background-position: -456px -798px;
 }
-.pkitem-storage-catching-pocket {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-catching-pocket{
+  width:32px;
+  height:27px;
   background-position: -490px -798px;
 }
-.pkitem-storage-clothing-trunk {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-clothing-trunk{
+  width:32px;
+  height:27px;
   background-position: -524px -798px;
 }
-.pkitem-storage-medicine-pocket {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-medicine-pocket{
+  width:32px;
+  height:27px;
   background-position: -558px -798px;
 }
-.pkitem-storage-pokemon-box {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-pokemon-box{
+  width:32px;
+  height:27px;
   background-position: -592px -798px;
 }
-.pkitem-storage-power-up-pocket {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-power-up-pocket{
+  width:32px;
+  height:27px;
   background-position: -626px -798px;
 }
-.pkitem-storage-tm-case {
-  width: 32px;
-  height: 27px;
+.pkitem-storage-tm-case{
+  width:32px;
+  height:27px;
   background-position: -660px -798px;
 }

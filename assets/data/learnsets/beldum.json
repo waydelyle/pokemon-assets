@@ -1,0 +1,22 @@
+{
+  "pokemon": "beldum",
+  "learnset": {
+    "headbutt": ["4T"],
+    "holdback": ["6S0"],
+    "irondefense": ["7T", "6T", "6S0", "5T", "4T"],
+    "ironhead": ["7T", "6T", "6S0", "5T", "5D", "4T"],
+    "takedown": ["7L1", "6L1", "5L1", "5D", "4L1", "3L1"],
+    "zenheadbutt": ["7T", "6T", "6S0", "5T", "5D", "4T"]
+  },
+  "eventData": [
+    {
+      "generation": 6,
+      "level": 5,
+      "shiny": true,
+      "moves": ["holdback", "ironhead", "zenheadbutt", "irondefense"],
+      "pokeball": "cherishball"
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

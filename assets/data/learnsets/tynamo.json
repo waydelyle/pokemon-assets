@@ -1,0 +1,13 @@
+{
+  "pokemon": "tynamo",
+  "learnset": {
+    "chargebeam": ["7M", "7L1", "6M", "6L1", "5L1"],
+    "magnetrise": ["7T", "6T", "5T"],
+    "spark": ["7L1", "6L1", "5L1"],
+    "tackle": ["7L1", "6L1", "5L1"],
+    "thunderwave": ["7M", "7L1", "6M", "6L1", "5L1"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

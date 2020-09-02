@@ -1,0 +1,9 @@
+{
+  "pokemon": "pikachulibre",
+  "learnset": {
+    "flyingpress": ["6R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": true
+}

@@ -1,0 +1,26 @@
+{
+  "pokemon": "snom",
+  "learnset": {
+    "attract": ["8M"],
+    "bugbite": ["8E"],
+    "bugbuzz": ["8M"],
+    "endure": ["8M"],
+    "facade": ["8M"],
+    "fairywind": ["8E"],
+    "iciclespear": ["8M"],
+    "icywind": ["8M"],
+    "mirrorcoat": ["8E"],
+    "powdersnow": ["8L1"],
+    "protect": ["8M"],
+    "rest": ["8M"],
+    "round": ["8M"],
+    "skittersmack": ["8T"],
+    "sleeptalk": ["8M"],
+    "snore": ["8M"],
+    "strugglebug": ["8L1"],
+    "substitute": ["8M"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarbrycenman",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 56,
+      "moves": ["icebeam", "nightshade", "psychic", "uturn"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

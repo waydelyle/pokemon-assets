@@ -1,0 +1,9 @@
+{
+  "pokemon": "pikachupopstar",
+  "learnset": {
+    "drainingkiss": ["6R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": true
+}

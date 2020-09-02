@@ -1,0 +1,13 @@
+{
+  "pokemon": "spewpa",
+  "learnset": {
+    "bugbite": ["7T", "6T"],
+    "electroweb": ["7T", "6T"],
+    "harden": ["7L1", "6L1"],
+    "irondefense": ["7T", "6T"],
+    "protect": ["7M", "7L1", "6M", "6L9"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

@@ -1,0 +1,10 @@
+{
+  "pokemon": "cosmoem",
+  "learnset": {
+    "cosmicpower": ["8M", "8L0", "7L1"],
+    "teleport": ["8L1", "7L1"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

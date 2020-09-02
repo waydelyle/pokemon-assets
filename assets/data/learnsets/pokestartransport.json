@@ -1,0 +1,18 @@
+{
+  "pokemon": "pokestartransport",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 20,
+      "moves": ["clearsmog", "flameburst", "discharge"]
+    },
+    {
+      "generation": 5,
+      "level": 50,
+      "moves": ["iciclecrash", "overheat", "signalbeam"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

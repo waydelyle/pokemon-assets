@@ -1,0 +1,22 @@
+{
+  "pokemon": "combee",
+  "learnset": {
+    "aircutter": ["5D", "4T"],
+    "bugbite": ["8L1", "7T", "7L13", "6T", "6L13", "5T", "5L13", "4T", "4L13"],
+    "bugbuzz": ["8M", "7L29", "6L29", "5L29"],
+    "dualwingbeat": ["8T"],
+    "endeavor": ["7T", "6T", "5T", "4T"],
+    "gust": ["8L1", "7L1", "6L1", "5L1", "5D", "4L1"],
+    "mudslap": ["4T"],
+    "ominouswind": ["4T"],
+    "snore": ["8M", "7T", "6T", "5T", "4T"],
+    "stringshot": ["4T"],
+    "strugglebug": ["8L1"],
+    "sweetscent": ["8L1", "7L1", "6L1", "5L1", "4L1"],
+    "swift": ["4T"],
+    "tailwind": ["7T", "6T", "5T", "5D", "4T"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": false
+}

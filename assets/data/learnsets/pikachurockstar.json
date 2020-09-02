@@ -1,0 +1,9 @@
+{
+  "pokemon": "pikachurockstar",
+  "learnset": {
+    "meteormash": ["6R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": true
+}

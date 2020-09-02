@@ -1,0 +1,9 @@
+{
+  "pokemon": "necrozmaduskmane",
+  "learnset": {
+    "sunsteelstrike": ["8R", "7R"]
+  },
+  "eventData": [],
+  "encounters": [],
+  "eventOnly": true
+}

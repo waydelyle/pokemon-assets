@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarspirit",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 99,
+      "moves": ["crunch", "dualchop", "slackoff", "swordsdance"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

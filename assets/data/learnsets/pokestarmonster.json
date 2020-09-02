@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarmonster",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 50,
+      "moves": ["darkpulse", "confusion"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

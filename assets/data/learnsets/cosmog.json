@@ -1,0 +1,16 @@
+{
+  "pokemon": "cosmog",
+  "learnset": {
+    "splash": ["8L1", "7L1", "7S0"],
+    "teleport": ["8L1", "7L23"]
+  },
+  "eventData": [
+    {
+      "generation": 7,
+      "level": 5,
+      "moves": ["splash"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": true
+}

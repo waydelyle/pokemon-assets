@@ -1,0 +1,25 @@
+{
+  "pokemon": "weedle",
+  "learnset": {
+    "bugbite": ["7T", "7L9", "6T", "6L15", "5T", "5L15", "4T", "4L15"],
+    "electroweb": ["7T", "6T", "5T"],
+    "poisonsting": ["8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
+    "stringshot": ["8V", "7L1", "7V", "6L1", "5L1", "4T", "4L1", "3L1"]
+  },
+  "eventData": [],
+  "encounters": [
+    {
+      "generation": 1,
+      "level": 3
+    },
+    {
+      "generation": 2,
+      "level": 3
+    },
+    {
+      "generation": 3,
+      "level": 3
+    }
+  ],
+  "eventOnly": false
+}

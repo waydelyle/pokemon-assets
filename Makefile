@@ -26,6 +26,11 @@ spritesheets:
 data:
 	node src/js/js-data-to-json.js
 
+data-sync: data
+	npx prettier --write ./assets/data
+	rm -rf ./.gh-pages/assets/data && mkdir -p ./.gh-pages/assets
+	cp -R ./assets/data ./.gh-pages/assets/data
+
 pngs:
 	./src/scripts/export-svgs-to-pngs.sh
 

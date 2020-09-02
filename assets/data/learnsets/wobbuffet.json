@@ -1,0 +1,100 @@
+{
+  "pokemon": "wobbuffet",
+  "learnset": {
+    "amnesia": ["8M", "8L1"],
+    "charm": ["8M", "8L1", "5D"],
+    "counter": [
+      "8L0",
+      "7L1",
+      "7V",
+      "6L1",
+      "6S2",
+      "6S3",
+      "5L1",
+      "4L1",
+      "3L1",
+      "3S0",
+      "3S1"
+    ],
+    "destinybond": [
+      "8L0",
+      "7L1",
+      "7V",
+      "6L1",
+      "5L1",
+      "4L1",
+      "3L1",
+      "3S0",
+      "3S1"
+    ],
+    "encore": ["8M", "8L1", "5D"],
+    "mirrorcoat": [
+      "8L0",
+      "7L1",
+      "7V",
+      "6L1",
+      "6S3",
+      "5L1",
+      "5D",
+      "4L1",
+      "3L1",
+      "3S0",
+      "3S1"
+    ],
+    "safeguard": [
+      "8M",
+      "8L0",
+      "7M",
+      "7L1",
+      "7V",
+      "6M",
+      "6L1",
+      "5L1",
+      "4L1",
+      "3L1",
+      "3S0",
+      "3S1"
+    ],
+    "splash": ["8L1"]
+  },
+  "eventData": [
+    {
+      "generation": 3,
+      "level": 5,
+      "moves": ["counter", "mirrorcoat", "safeguard", "destinybond"],
+      "pokeball": "pokeball"
+    },
+    {
+      "generation": 3,
+      "level": 10,
+      "gender": "M",
+      "moves": ["counter", "mirrorcoat", "safeguard", "destinybond"],
+      "pokeball": "pokeball"
+    },
+    {
+      "generation": 6,
+      "level": 10,
+      "gender": "M",
+      "moves": ["counter"],
+      "pokeball": "cherishball"
+    },
+    {
+      "generation": 6,
+      "level": 15,
+      "gender": "M",
+      "moves": ["counter", "mirrorcoat"],
+      "pokeball": "cherishball"
+    }
+  ],
+  "encounters": [
+    {
+      "generation": 2,
+      "level": 5
+    },
+    {
+      "generation": 4,
+      "level": 3
+    }
+  ],
+  "eventOnly": false
+}

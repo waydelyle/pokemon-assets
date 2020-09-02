@@ -1,0 +1,35 @@
+{
+  "pokemon": "wynaut",
+  "learnset": {
+    "amnesia": ["8M", "8L1"],
+    "charm": ["8M", "8L1", "7L1", "6L1", "5L1", "4L1", "3L1", "3S0"],
+    "counter": ["8L1", "7L15", "6L15", "5L15", "4L15", "3L15"],
+    "destinybond": ["8L1", "7L15", "6L15", "5L15", "4L15", "3L15"],
+    "encore": ["8M", "8L1", "7L1", "6L1", "5L1", "4L1", "3L1", "3S0"],
+    "mirrorcoat": ["8L1", "7L15", "6L15", "5L15", "4L15", "3L15"],
+    "safeguard": [
+      "8M",
+      "8L1",
+      "7M",
+      "7L15",
+      "6M",
+      "6L15",
+      "5L15",
+      "4L15",
+      "3L15"
+    ],
+    "splash": ["8L1", "7L1", "6L1", "5L1", "4L1", "3L1", "3S0"],
+    "tickle": ["3S0"]
+  },
+  "eventData": [
+    {
+      "generation": 3,
+      "level": 5,
+      "shiny": 1,
+      "moves": ["splash", "charm", "encore", "tickle"],
+      "pokeball": "pokeball"
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

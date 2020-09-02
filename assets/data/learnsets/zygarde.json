@@ -1,0 +1,125 @@
+{
+  "pokemon": "zygarde",
+  "learnset": {
+    "bind": ["7T", "7L18", "7S2", "7S3", "7S4", "6T", "6L18"],
+    "bite": ["7L1", "6L1"],
+    "block": ["7T", "6T"],
+    "brickbreak": ["7M", "6M"],
+    "bulldoze": ["7M", "7L1", "6M", "6L1"],
+    "camouflage": ["7L59", "6L59", "6S0"],
+    "coil": ["7L72", "6L80"],
+    "confide": ["7M", "6M"],
+    "coreenforcer": ["7T"],
+    "crunch": ["7L51", "6L51", "6S0"],
+    "dig": ["7L10", "7S2", "6M", "6L10"],
+    "doubleteam": ["7M", "6M"],
+    "dracometeor": ["7T", "6T"],
+    "dragonbreath": ["7L1", "7S5", "7S6", "6L1"],
+    "dragondance": ["7T", "7S7", "7S8", "6L72"],
+    "dragonpulse": ["7T", "7L63", "6T", "6L63", "6S0"],
+    "dragontail": ["7M", "6M"],
+    "earthpower": ["7T", "6T"],
+    "earthquake": ["7M", "7L55", "6M", "6L55", "6S0"],
+    "extremespeed": ["7T", "7S7", "7S8", "6L88", "6S1"],
+    "facade": ["7M", "6M"],
+    "focusblast": ["7M", "6M"],
+    "frustration": ["7M", "6M"],
+    "gigaimpact": ["7M", "6M"],
+    "glare": ["7L1", "7S5", "7S6", "6L1", "6S1"],
+    "grassknot": ["7M", "6M"],
+    "haze": ["7L44", "7S3", "7S4", "6L44"],
+    "hiddenpower": ["7M", "6M"],
+    "hyperbeam": ["7M", "6M"],
+    "hypervoice": ["7T", "6T"],
+    "irontail": ["7T", "6T"],
+    "landswrath": ["7L26", "7S2", "7S3", "7S4", "7S5", "7S6", "6L26", "6S1"],
+    "outrage": ["7T", "7L80", "7S7", "7S8", "6T", "6L93", "6S1"],
+    "painsplit": ["7T", "6T"],
+    "protect": ["7M", "6M"],
+    "rest": ["7M", "6M"],
+    "return": ["7M", "6M"],
+    "rockslide": ["7M", "6M"],
+    "rocksmash": ["6M"],
+    "round": ["7M", "6M"],
+    "safeguard": ["7M", "7L5", "7S2", "7S5", "7S6", "6M", "6L5"],
+    "sandstorm": ["7M", "7L35", "7S3", "7S4", "6M", "6L35"],
+    "secretpower": ["6M"],
+    "shockwave": ["7T", "6T"],
+    "sleeptalk": ["7M", "6M"],
+    "sludgewave": ["7M", "6M"],
+    "snore": ["7T", "6T"],
+    "spite": ["7T", "6T"],
+    "stompingtantrum": ["7T"],
+    "stoneedge": ["7M", "6M"],
+    "strength": ["6M"],
+    "substitute": ["7M", "6M"],
+    "sunnyday": ["7M", "6M"],
+    "superpower": ["7T", "6T"],
+    "swagger": ["7M", "6M"],
+    "thousandarrows": ["7T", "7S7", "7S8"],
+    "thousandwaves": ["7T"],
+    "toxic": ["7M", "6M"],
+    "zenheadbutt": ["7T", "6T"]
+  },
+  "eventData": [
+    {
+      "generation": 6,
+      "level": 70,
+      "moves": ["crunch", "earthquake", "camouflage", "dragonpulse"]
+    },
+    {
+      "generation": 6,
+      "level": 100,
+      "moves": ["landswrath", "extremespeed", "glare", "outrage"],
+      "pokeball": "cherishball"
+    },
+    {
+      "generation": 7,
+      "level": 30,
+      "moves": ["safeguard", "dig", "bind", "landswrath"]
+    },
+    {
+      "generation": 7,
+      "level": 50,
+      "moves": ["bind", "landswrath", "sandstorm", "haze"]
+    },
+    {
+      "generation": 7,
+      "level": 50,
+      "isHidden": true,
+      "moves": ["bind", "landswrath", "sandstorm", "haze"]
+    },
+    {
+      "generation": 7,
+      "level": 60,
+      "shiny": true,
+      "moves": ["landswrath", "glare", "safeguard", "dragonbreath"],
+      "pokeball": "cherishball"
+    },
+    {
+      "generation": 7,
+      "level": 60,
+      "shiny": true,
+      "isHidden": true,
+      "moves": ["landswrath", "glare", "safeguard", "dragonbreath"],
+      "pokeball": "cherishball"
+    },
+    {
+      "generation": 7,
+      "level": 100,
+      "shiny": true,
+      "moves": ["thousandarrows", "outrage", "extremespeed", "dragondance"],
+      "pokeball": "cherishball"
+    },
+    {
+      "generation": 7,
+      "level": 100,
+      "shiny": true,
+      "isHidden": true,
+      "moves": ["thousandarrows", "outrage", "extremespeed", "dragondance"],
+      "pokeball": "cherishball"
+    }
+  ],
+  "encounters": [],
+  "eventOnly": true
+}

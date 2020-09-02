@@ -1,0 +1,38 @@
+{
+  "pokemon": "metapod",
+  "learnset": {
+    "bugbite": ["7T", "6T", "5T", "4T"],
+    "electroweb": ["8M", "7T", "6T", "5T"],
+    "harden": ["8L0", "8V", "7L1", "7V", "6L1", "5L1", "4L1", "3L1"],
+    "irondefense": ["8M", "7T", "6T", "5T", "4T"],
+    "stringshot": ["4T"]
+  },
+  "eventData": [],
+  "encounters": [
+    {
+      "generation": 1,
+      "level": 4
+    },
+    {
+      "generation": 2,
+      "level": 4
+    },
+    {
+      "generation": 3,
+      "level": 4
+    },
+    {
+      "generation": 4,
+      "level": 3
+    },
+    {
+      "generation": 6,
+      "level": 4
+    },
+    {
+      "generation": 7,
+      "level": 3
+    }
+  ],
+  "eventOnly": false
+}

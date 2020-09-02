@@ -19,12 +19,14 @@ You can check all available assets in the following [reference pages](https://it
 
 ### JSON Data
 
-- [Pokémon and Forms](https://itsjavi.com/pokemon-assets/assets/data/pokemon.json)
+- [Pokémon](https://itsjavi.com/pokemon-assets/assets/data/pokemon.json)
 - [Abilities](https://itsjavi.com/pokemon-assets/assets/data/abilities.json)
 - [Items](https://itsjavi.com/pokemon-assets/assets/data/items.json)
 - [Moves](https://itsjavi.com/pokemon-assets/assets/data/moves.json)
-- [Move Learn Sets](https://itsjavi.com/pokemon-assets/assets/data/learnsets.json)
+- [Move Learn Sets](https://itsjavi.com/pokemon-assets/assets/data/learnsets/bulbasaur.json) (example)
 - [Natures](https://itsjavi.com/pokemon-assets/assets/data/natures.json)
+- [Types](https://itsjavi.com/pokemon-assets/assets/data/types.json)
+- [Egg Groups](https://itsjavi.com/pokemon-assets/assets/data/egg-groups.json)
 
 ### Imagery and CSS
 
@@ -49,8 +51,6 @@ Apart from the package.json devDependencies, your machine (which has to be macOS
 the following software in order to run the maintenance scripts:
 
 - node 10+
-- typescript
-- ts-node
 - ImageMagick
 - pandoc
 - ffmpeg

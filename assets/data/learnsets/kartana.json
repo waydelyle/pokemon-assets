@@ -1,0 +1,61 @@
+{
+  "pokemon": "kartana",
+  "learnset": {
+    "aerialace": ["7M", "7L23"],
+    "aircutter": ["7L1"],
+    "airslash": ["7L59", "7S0", "7S1"],
+    "brickbreak": ["7M"],
+    "calmmind": ["7M"],
+    "confide": ["7M"],
+    "cut": ["7L1"],
+    "defog": ["7T", "7L1"],
+    "detect": ["7L53", "7S0", "7S1"],
+    "doubleteam": ["7M"],
+    "falseswipe": ["7M", "7L7"],
+    "frustration": ["7M"],
+    "furycutter": ["7L1"],
+    "gigadrain": ["7T"],
+    "gigaimpact": ["7M"],
+    "guillotine": ["7L73"],
+    "hiddenpower": ["7M"],
+    "irondefense": ["7T"],
+    "knockoff": ["7T"],
+    "laserfocus": ["7T", "7L29"],
+    "lastresort": ["7T"],
+    "leafblade": ["7L43", "7S0", "7S1"],
+    "nightslash": ["7L31"],
+    "protect": ["7M"],
+    "psychocut": ["7L67"],
+    "razorleaf": ["7L13"],
+    "rest": ["7M"],
+    "return": ["7M"],
+    "round": ["7M"],
+    "sacredsword": ["7L1"],
+    "sleeptalk": ["7M"],
+    "smartstrike": ["7M"],
+    "snore": ["7T"],
+    "substitute": ["7M"],
+    "swagger": ["7M"],
+    "swordsdance": ["7M", "7L37"],
+    "synthesis": ["7T", "7L19"],
+    "tailwind": ["7T"],
+    "toxic": ["7M"],
+    "vacuumwave": ["7L1"],
+    "xscissor": ["7M", "7L47", "7S0", "7S1"]
+  },
+  "eventData": [
+    {
+      "generation": 7,
+      "level": 60,
+      "moves": ["leafblade", "xscissor", "detect", "airslash"]
+    },
+    {
+      "generation": 7,
+      "level": 60,
+      "shiny": 1,
+      "moves": ["leafblade", "xscissor", "detect", "airslash"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": true
+}

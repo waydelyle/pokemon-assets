@@ -1,0 +1,27 @@
+{
+  "pokemon": "silcoon",
+  "learnset": {
+    "bugbite": ["7T", "6T", "5T", "4T"],
+    "electroweb": ["7T", "6T", "5T"],
+    "harden": ["7L1", "6L1", "5L1", "4L1", "3L1"],
+    "irondefense": ["7T", "6T", "5T", "4T"],
+    "stringshot": ["4T"]
+  },
+  "eventData": [],
+  "encounters": [
+    {
+      "generation": 3,
+      "level": 5
+    },
+    {
+      "generation": 4,
+      "level": 5
+    },
+    {
+      "generation": 6,
+      "level": 2,
+      "maxEggMoves": 1
+    }
+  ],
+  "eventOnly": false
+}

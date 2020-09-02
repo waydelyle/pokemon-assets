@@ -1,0 +1,13 @@
+{
+  "pokemon": "pokestarmt2",
+  "learnset": {},
+  "eventData": [
+    {
+      "generation": 5,
+      "level": 72,
+      "moves": ["dragonpulse", "flamethrower", "metalburst", "thunderbolt"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": false
+}

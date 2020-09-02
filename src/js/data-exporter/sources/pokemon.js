@@ -1,12 +1,6 @@
-const {
-  slugize,
-  assets_dir,
-  list_files,
-  aliasize,
-} = require("../tools");
+const { slugize, assets_dir, list_files, aliasize } = require("../tools");
 const fs = require("fs");
-const items = require("pokemon-showdown/.data-dist/pokedex")
-  .Pokedex;
+const items = require("pokemon-showdown/.data-dist/pokedex").Pokedex;
 
 // print_joined_props(items);
 // process.exit(0)
@@ -188,7 +182,9 @@ items.gastrodoneast = items.gastrodon;
       return spr;
     });
 
-    obj.otherFormesAliases = obj.otherFormesSprites.map((forme) => aliasize(forme));
+    obj.otherFormesAliases = obj.otherFormesSprites.map((forme) =>
+      aliasize(forme)
+    );
 
     obj.cosmeticFormesSprites = obj.cosmeticFormes.map((forme) => {
       let spr = get_sprite_name(forme);
@@ -196,14 +192,16 @@ items.gastrodoneast = items.gastrodon;
       return spr;
     });
 
-    obj.cosmeticFormesAliases = obj.cosmeticFormesSprites.map((forme) => aliasize(forme));
+    obj.cosmeticFormesAliases = obj.cosmeticFormesSprites.map((forme) =>
+      aliasize(forme)
+    );
 
     if (obj.baseForme) {
       obj.baseFormeSprite = get_sprite_name(
         obj.sprite + "-" + obj.baseForme,
         false
       );
-      obj.baseFormeAlias = aliasize(obj.baseFormeSprite)
+      obj.baseFormeAlias = aliasize(obj.baseFormeSprite);
       smogon_found.push(obj.baseFormeSprite);
     }
 

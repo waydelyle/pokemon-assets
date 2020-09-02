@@ -7,8 +7,7 @@ const {
   aliasize,
 } = require("../tools");
 const fs = require("fs");
-const items = require("pokemon-showdown/.data-dist/items")
-  .Items;
+const items = require("pokemon-showdown/.data-dist/items").Items;
 //
 // print_joined_props(items)
 // process.exit(0)

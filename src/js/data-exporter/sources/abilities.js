@@ -1,10 +1,6 @@
-const {
-  vv,
-  slugize,
-} = require("../tools");
+const { vv, slugize } = require("../tools");
 const fs = require("fs");
-const items = require("pokemon-showdown/.data-dist/abilities")
-  .Abilities;
+const items = require("pokemon-showdown/.data-dist/abilities").Abilities;
 
 //
 // print_joined_props(items)

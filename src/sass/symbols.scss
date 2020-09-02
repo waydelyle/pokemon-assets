@@ -8,19 +8,20 @@
   padding: 1px;
 }
 
-.pksymbol {
-  display: inline-block;
-  vertical-align: middle;
-  background-image: url(../../assets/img/symbols.png);
-  image-rendering: crisp-edges;
-  image-rendering: -moz-crisp-edges;
-  image-rendering: -webkit-crisp-edges;
-  image-rendering: pixelated;
-}
 @mixin sprite-rect($w, $h, $x, $y) {
   width: $w;
   height: $h;
   background-position: $x $y;
+}
+.pksymbol {
+  background-image: url(../../assets/img/symbols.png);
+
+  display: inline-block;
+  vertical-align: middle;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }
 
 .pksymbol-form-mega4 {

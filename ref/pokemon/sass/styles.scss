@@ -8,19 +8,20 @@
   padding: 1px;
 }
 
-.pkm {
-  display: inline-block;
-  vertical-align: middle;
-  background-image: url(../img/pokemon.png);
-  image-rendering: crisp-edges;
-  image-rendering: -moz-crisp-edges;
-  image-rendering: -webkit-crisp-edges;
-  image-rendering: pixelated;
-}
 @mixin sprite-rect($w, $h, $x, $y) {
   width: $w;
   height: $h;
   background-position: $x $y;
+}
+.pkm {
+  background-image: url(../../assets/img/pokemon.png);
+
+  display: inline-block;
+  vertical-align: middle;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
 }
 
 .pkm-tynamo {

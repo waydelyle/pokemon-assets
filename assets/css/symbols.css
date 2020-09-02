@@ -9,9 +9,10 @@
 }
 
 .pksymbol {
+  background-image: url(../img/symbols.png);
+
   display: inline-block;
   vertical-align: middle;
-  background-image: url(../img/symbols.png);
   image-rendering: crisp-edges;
   image-rendering: -moz-crisp-edges;
   image-rendering: -webkit-crisp-edges;

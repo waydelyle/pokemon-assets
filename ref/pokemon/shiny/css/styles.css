@@ -9,9 +9,10 @@
 }
 
 .pkms {
+  background-image: url(../img/pokemon-shiny.png);
+
   display: inline-block;
   vertical-align: middle;
-  background-image: url(../img/pokemon-shiny.png);
   image-rendering: crisp-edges;
   image-rendering: -moz-crisp-edges;
   image-rendering: -webkit-crisp-edges;

@@ -774,7 +774,9 @@
         $(".pkribbon-wrapper").on("mouseenter", function (e) {
           var el = document.getElementById("css-class-viewer");
           $(el).text(
-            "<span class='pkribbon-wrapper>" + this.innerHTML.trim() + "</span>"
+            '<span class="pkribbon-wrapper">' +
+              this.innerHTML.trim() +
+              "</span>"
           );
           el.focus();
           selectText(el);

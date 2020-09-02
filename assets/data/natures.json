@@ -1,1 +1,102 @@
-[]
+[
+  {
+    "name": "Hardy",
+    "slug": "hardy"
+  },
+  {
+    "name": "Bold",
+    "slug": "bold"
+  },
+  {
+    "name": "Modest",
+    "slug": "modest"
+  },
+  {
+    "name": "Calm",
+    "slug": "calm"
+  },
+  {
+    "name": "Timid",
+    "slug": "timid"
+  },
+  {
+    "name": "Lonely",
+    "slug": "lonely"
+  },
+  {
+    "name": "Docile",
+    "slug": "docile"
+  },
+  {
+    "name": "Mild",
+    "slug": "mild"
+  },
+  {
+    "name": "Gentle",
+    "slug": "gentle"
+  },
+  {
+    "name": "Hasty",
+    "slug": "hasty"
+  },
+  {
+    "name": "Adamant",
+    "slug": "adamant"
+  },
+  {
+    "name": "Impish",
+    "slug": "impish"
+  },
+  {
+    "name": "Bashful",
+    "slug": "bashful"
+  },
+  {
+    "name": "Careful",
+    "slug": "careful"
+  },
+  {
+    "name": "Rash",
+    "slug": "rash"
+  },
+  {
+    "name": "Jolly",
+    "slug": "jolly"
+  },
+  {
+    "name": "Naughty",
+    "slug": "naughty"
+  },
+  {
+    "name": "Lax",
+    "slug": "lax"
+  },
+  {
+    "name": "Quirky",
+    "slug": "quirky"
+  },
+  {
+    "name": "Naive",
+    "slug": "naive"
+  },
+  {
+    "name": "Brave",
+    "slug": "brave"
+  },
+  {
+    "name": "Relaxed",
+    "slug": "relaxed"
+  },
+  {
+    "name": "Quiet",
+    "slug": "quiet"
+  },
+  {
+    "name": "Sassy",
+    "slug": "sassy"
+  },
+  {
+    "name": "Serious",
+    "slug": "serious"
+  }
+]

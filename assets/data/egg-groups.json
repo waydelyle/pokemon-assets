@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "name": "Monster",
+    "slug": "monster"
+  },
+  {
+    "id": 2,
+    "name": "Water 1",
+    "slug": "water-1"
+  },
+  {
+    "id": 3,
+    "name": "Bug",
+    "slug": "bug"
+  },
+  {
+    "id": 4,
+    "name": "Flying",
+    "slug": "flying"
+  },
+  {
+    "id": 5,
+    "name": "Field",
+    "slug": "field"
+  },
+  {
+    "id": 6,
+    "name": "Fairy",
+    "slug": "fairy"
+  },
+  {
+    "id": 7,
+    "name": "Grass",
+    "slug": "grass"
+  },
+  {
+    "id": 8,
+    "name": "Human Like",
+    "slug": "human-like"
+  },
+  {
+    "id": 9,
+    "name": "Water 3",
+    "slug": "water-3"
+  },
+  {
+    "id": 10,
+    "name": "Mineral",
+    "slug": "mineral"
+  },
+  {
+    "id": 11,
+    "name": "Amorphous",
+    "slug": "amorphous"
+  },
+  {
+    "id": 12,
+    "name": "Water 2",
+    "slug": "water-2"
+  },
+  {
+    "id": 13,
+    "name": "Ditto",
+    "slug": "ditto"
+  },
+  {
+    "id": 14,
+    "name": "Dragon",
+    "slug": "dragon"
+  },
+  {
+    "id": 15,
+    "name": "Undiscovered",
+    "slug": "undiscovered"
+  }
+]

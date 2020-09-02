@@ -1,14 +1,13 @@
-
 .pkitem-wrapper {
-    width:32px;
-    height:30px;
-    line-height:28px;
-    text-align:center;
-    display:inline-block;
-    vertical-align:middle;
-    padding:1px;
+  width: 32px;
+  height: 30px;
+  line-height: 28px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px;
 }
- 
+
 .pkitem {
   display: inline-block;
   vertical-align: middle;
@@ -18,3138 +17,3138 @@
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
 }
-@mixin sprite-rect ($w, $h, $x, $y) {
+@mixin sprite-rect($w, $h, $x, $y) {
   width: $w;
   height: $h;
   background-position: $x $y;
 }
 
-.pkitem-pass-orb{
+.pkitem-pass-orb {
   @include sprite-rect(10px, 10px, 0px, 0px);
 }
-.pkitem-blue-shard{
+.pkitem-blue-shard {
   @include sprite-rect(12px, 11px, -12px, 0px);
 }
-.pkitem-courage-av-candy{
+.pkitem-courage-av-candy {
   @include sprite-rect(11px, 11px, -26px, 0px);
 }
-.pkitem-exp-candy-xs{
+.pkitem-exp-candy-xs {
   @include sprite-rect(11px, 11px, -39px, 0px);
 }
-.pkitem-green-shard{
+.pkitem-green-shard {
   @include sprite-rect(12px, 11px, -52px, 0px);
 }
-.pkitem-health-av-candy{
+.pkitem-health-av-candy {
   @include sprite-rect(11px, 11px, -66px, 0px);
 }
-.pkitem-mega-ring{
+.pkitem-mega-ring {
   @include sprite-rect(13px, 10px, -79px, 0px);
 }
-.pkitem-mighty-av-candy{
+.pkitem-mighty-av-candy {
   @include sprite-rect(11px, 11px, -94px, 0px);
 }
-.pkitem-quick-av-candy{
+.pkitem-quick-av-candy {
   @include sprite-rect(11px, 11px, -107px, 0px);
 }
-.pkitem-red-shard{
+.pkitem-red-shard {
   @include sprite-rect(12px, 11px, -120px, 0px);
 }
-.pkitem-relic-copper{
+.pkitem-relic-copper {
   @include sprite-rect(13px, 9px, -134px, 0px);
 }
-.pkitem-relic-gold{
+.pkitem-relic-gold {
   @include sprite-rect(13px, 9px, -149px, 0px);
 }
-.pkitem-relic-silver{
+.pkitem-relic-silver {
   @include sprite-rect(13px, 9px, -164px, 0px);
 }
-.pkitem-smart-av-candy{
+.pkitem-smart-av-candy {
   @include sprite-rect(11px, 11px, -179px, 0px);
 }
-.pkitem-tough-av-candy{
+.pkitem-tough-av-candy {
   @include sprite-rect(11px, 11px, -192px, 0px);
 }
-.pkitem-yellow-shard{
+.pkitem-yellow-shard {
   @include sprite-rect(12px, 11px, -205px, 0px);
 }
-.pkitem-aloraichium-z--held{
+.pkitem-aloraichium-z--held {
   @include sprite-rect(16px, 9px, -219px, 0px);
 }
-.pkitem-buginium-z--held{
+.pkitem-buginium-z--held {
   @include sprite-rect(16px, 9px, -237px, 0px);
 }
-.pkitem-darkinium-z--held{
+.pkitem-darkinium-z--held {
   @include sprite-rect(16px, 9px, -255px, 0px);
 }
-.pkitem-decidium-z--held{
+.pkitem-decidium-z--held {
   @include sprite-rect(16px, 9px, -273px, 0px);
 }
-.pkitem-dragonium-z--held{
+.pkitem-dragonium-z--held {
   @include sprite-rect(16px, 9px, -291px, 0px);
 }
-.pkitem-eevium-z--held{
+.pkitem-eevium-z--held {
   @include sprite-rect(16px, 9px, -309px, 0px);
 }
-.pkitem-electrium-z--held{
+.pkitem-electrium-z--held {
   @include sprite-rect(16px, 9px, -327px, 0px);
 }
-.pkitem-fairium-z--held{
+.pkitem-fairium-z--held {
   @include sprite-rect(16px, 9px, -345px, 0px);
 }
-.pkitem-fightinium-z--held{
+.pkitem-fightinium-z--held {
   @include sprite-rect(16px, 9px, -363px, 0px);
 }
-.pkitem-firium-z--held{
+.pkitem-firium-z--held {
   @include sprite-rect(16px, 9px, -381px, 0px);
 }
-.pkitem-flyinium-z--held{
+.pkitem-flyinium-z--held {
   @include sprite-rect(16px, 9px, -399px, 0px);
 }
-.pkitem-ghostium-z--held{
+.pkitem-ghostium-z--held {
   @include sprite-rect(16px, 9px, -417px, 0px);
 }
-.pkitem-grassium-z--held{
+.pkitem-grassium-z--held {
   @include sprite-rect(16px, 9px, -435px, 0px);
 }
-.pkitem-groundium-z--held{
+.pkitem-groundium-z--held {
   @include sprite-rect(16px, 9px, -453px, 0px);
 }
-.pkitem-icium-z--held{
+.pkitem-icium-z--held {
   @include sprite-rect(16px, 9px, 0px, -13px);
 }
-.pkitem-incinium-z--held{
+.pkitem-incinium-z--held {
   @include sprite-rect(16px, 9px, -18px, -13px);
 }
-.pkitem-marshadium-z--held{
+.pkitem-marshadium-z--held {
   @include sprite-rect(16px, 9px, -36px, -13px);
 }
-.pkitem-mewnium-z--held{
+.pkitem-mewnium-z--held {
   @include sprite-rect(16px, 9px, -54px, -13px);
 }
-.pkitem-normalium-z--held{
+.pkitem-normalium-z--held {
   @include sprite-rect(16px, 9px, -72px, -13px);
 }
-.pkitem-pearl{
+.pkitem-pearl {
   @include sprite-rect(12px, 12px, -90px, -13px);
 }
-.pkitem-pikanium-z--held{
+.pkitem-pikanium-z--held {
   @include sprite-rect(16px, 9px, -104px, -13px);
 }
-.pkitem-pikashunium-z--held{
+.pkitem-pikashunium-z--held {
   @include sprite-rect(16px, 9px, -122px, -13px);
 }
-.pkitem-poisonium-z--held{
+.pkitem-poisonium-z--held {
   @include sprite-rect(16px, 9px, -140px, -13px);
 }
-.pkitem-primarium-z--held{
+.pkitem-primarium-z--held {
   @include sprite-rect(16px, 9px, -158px, -13px);
 }
-.pkitem-psychium-z--held{
+.pkitem-psychium-z--held {
   @include sprite-rect(16px, 9px, -176px, -13px);
 }
-.pkitem-revive{
+.pkitem-revive {
   @include sprite-rect(10px, 15px, -194px, -13px);
 }
-.pkitem-rockium-z--held{
+.pkitem-rockium-z--held {
   @include sprite-rect(16px, 9px, -206px, -13px);
 }
-.pkitem-snorlium-z--held{
+.pkitem-snorlium-z--held {
   @include sprite-rect(16px, 9px, -224px, -13px);
 }
-.pkitem-steelium-z--held{
+.pkitem-steelium-z--held {
   @include sprite-rect(16px, 9px, -242px, -13px);
 }
-.pkitem-tapunium-z--held{
+.pkitem-tapunium-z--held {
   @include sprite-rect(16px, 9px, -260px, -13px);
 }
-.pkitem-waterium-z--held{
+.pkitem-waterium-z--held {
   @include sprite-rect(16px, 9px, -278px, -13px);
 }
-.pkitem-common-stone{
+.pkitem-common-stone {
   @include sprite-rect(13px, 14px, -296px, -13px);
 }
-.pkitem-courage-l-av-candy{
+.pkitem-courage-l-av-candy {
   @include sprite-rect(13px, 14px, -311px, -13px);
 }
-.pkitem-eviolite{
+.pkitem-eviolite {
   @include sprite-rect(13px, 13px, -326px, -13px);
 }
-.pkitem-health-l-av-candy{
+.pkitem-health-l-av-candy {
   @include sprite-rect(13px, 14px, -341px, -13px);
 }
-.pkitem-mighty-l-av-candy{
+.pkitem-mighty-l-av-candy {
   @include sprite-rect(13px, 14px, -356px, -13px);
 }
-.pkitem-orange-petal{
+.pkitem-orange-petal {
   @include sprite-rect(12px, 14px, -371px, -13px);
 }
-.pkitem-prism-scale{
+.pkitem-prism-scale {
   @include sprite-rect(13px, 13px, -385px, -13px);
 }
-.pkitem-quick-l-av-candy{
+.pkitem-quick-l-av-candy {
   @include sprite-rect(13px, 14px, -400px, -13px);
 }
-.pkitem-red-scale{
+.pkitem-red-scale {
   @include sprite-rect(13px, 13px, -415px, -13px);
 }
-.pkitem-smart-l-av-candy{
+.pkitem-smart-l-av-candy {
   @include sprite-rect(13px, 14px, -430px, -13px);
 }
-.pkitem-snowball{
+.pkitem-snowball {
   @include sprite-rect(13px, 13px, -445px, -13px);
 }
-.pkitem-tiny-mushroom{
+.pkitem-tiny-mushroom {
   @include sprite-rect(13px, 13px, -460px, -13px);
 }
-.pkitem-tough-l-av-candy{
+.pkitem-tough-l-av-candy {
   @include sprite-rect(13px, 14px, -475px, -13px);
 }
-.pkitem-abomasite{
+.pkitem-abomasite {
   @include sprite-rect(14px, 14px, 0px, -30px);
 }
-.pkitem-absolite{
+.pkitem-absolite {
   @include sprite-rect(14px, 14px, -16px, -30px);
 }
-.pkitem-aerodactylite{
+.pkitem-aerodactylite {
   @include sprite-rect(14px, 14px, -32px, -30px);
 }
-.pkitem-aggronite{
+.pkitem-aggronite {
   @include sprite-rect(14px, 14px, -48px, -30px);
 }
-.pkitem-alakazite{
+.pkitem-alakazite {
   @include sprite-rect(14px, 14px, -64px, -30px);
 }
-.pkitem-altarianite{
+.pkitem-altarianite {
   @include sprite-rect(14px, 14px, -80px, -30px);
 }
-.pkitem-ampharosite{
+.pkitem-ampharosite {
   @include sprite-rect(14px, 14px, -96px, -30px);
 }
-.pkitem-audinite{
+.pkitem-audinite {
   @include sprite-rect(14px, 14px, -112px, -30px);
 }
-.pkitem-banettite{
+.pkitem-banettite {
   @include sprite-rect(14px, 14px, -128px, -30px);
 }
-.pkitem-beedrillite{
+.pkitem-beedrillite {
   @include sprite-rect(14px, 14px, -144px, -30px);
 }
-.pkitem-blastoisinite{
+.pkitem-blastoisinite {
   @include sprite-rect(14px, 14px, -160px, -30px);
 }
-.pkitem-blazikenite{
+.pkitem-blazikenite {
   @include sprite-rect(14px, 14px, -176px, -30px);
 }
-.pkitem-blue-orb-gen4{
+.pkitem-blue-orb-gen4 {
   @include sprite-rect(14px, 14px, -192px, -30px);
 }
-.pkitem-bottle-cap{
+.pkitem-bottle-cap {
   @include sprite-rect(15px, 14px, -208px, -30px);
 }
-.pkitem-cameruptite{
+.pkitem-cameruptite {
   @include sprite-rect(14px, 14px, -225px, -30px);
 }
-.pkitem-cell-battery{
+.pkitem-cell-battery {
   @include sprite-rect(8px, 21px, -241px, -30px);
 }
-.pkitem-charizardite-x{
+.pkitem-charizardite-x {
   @include sprite-rect(14px, 14px, -251px, -30px);
 }
-.pkitem-charizardite-y{
+.pkitem-charizardite-y {
   @include sprite-rect(14px, 14px, -267px, -30px);
 }
-.pkitem-diancite{
+.pkitem-diancite {
   @include sprite-rect(14px, 14px, -283px, -30px);
 }
-.pkitem-exp-candy-m{
+.pkitem-exp-candy-m {
   @include sprite-rect(14px, 15px, -299px, -30px);
 }
-.pkitem-float-stone{
+.pkitem-float-stone {
   @include sprite-rect(16px, 13px, -315px, -30px);
 }
-.pkitem-galladite{
+.pkitem-galladite {
   @include sprite-rect(14px, 14px, -333px, -30px);
 }
-.pkitem-garchompite{
+.pkitem-garchompite {
   @include sprite-rect(14px, 14px, -349px, -30px);
 }
-.pkitem-gardevoirite{
+.pkitem-gardevoirite {
   @include sprite-rect(14px, 14px, -365px, -30px);
 }
-.pkitem-gengarite{
+.pkitem-gengarite {
   @include sprite-rect(14px, 14px, -381px, -30px);
 }
-.pkitem-glalitite{
+.pkitem-glalitite {
   @include sprite-rect(14px, 14px, -397px, -30px);
 }
-.pkitem-gold-bottle-cap{
+.pkitem-gold-bottle-cap {
   @include sprite-rect(15px, 14px, -413px, -30px);
 }
-.pkitem-green-petal{
+.pkitem-green-petal {
   @include sprite-rect(14px, 14px, -430px, -30px);
 }
-.pkitem-gyaradosite{
+.pkitem-gyaradosite {
   @include sprite-rect(14px, 14px, -446px, -30px);
 }
-.pkitem-heracronite{
+.pkitem-heracronite {
   @include sprite-rect(14px, 14px, -462px, -30px);
 }
-.pkitem-houndoominite{
+.pkitem-houndoominite {
   @include sprite-rect(14px, 14px, 0px, -53px);
 }
-.pkitem-intriguing-stone{
+.pkitem-intriguing-stone {
   @include sprite-rect(14px, 14px, -16px, -53px);
 }
-.pkitem-jade-orb{
+.pkitem-jade-orb {
   @include sprite-rect(14px, 14px, -32px, -53px);
 }
-.pkitem-kangaskhanite{
+.pkitem-kangaskhanite {
   @include sprite-rect(14px, 14px, -48px, -53px);
 }
-.pkitem-key-stone-gen6{
+.pkitem-key-stone-gen6 {
   @include sprite-rect(14px, 14px, -64px, -53px);
 }
-.pkitem-latiasite{
+.pkitem-latiasite {
   @include sprite-rect(14px, 14px, -80px, -53px);
 }
-.pkitem-latiosite{
+.pkitem-latiosite {
   @include sprite-rect(14px, 14px, -96px, -53px);
 }
-.pkitem-lopunnite{
+.pkitem-lopunnite {
   @include sprite-rect(14px, 14px, -112px, -53px);
 }
-.pkitem-lucarionite{
+.pkitem-lucarionite {
   @include sprite-rect(14px, 14px, -128px, -53px);
 }
-.pkitem-manectite{
+.pkitem-manectite {
   @include sprite-rect(14px, 14px, -144px, -53px);
 }
-.pkitem-marble{
+.pkitem-marble {
   @include sprite-rect(14px, 14px, -160px, -53px);
 }
-.pkitem-mawilite{
+.pkitem-mawilite {
   @include sprite-rect(14px, 14px, -176px, -53px);
 }
-.pkitem-medichamite{
+.pkitem-medichamite {
   @include sprite-rect(14px, 14px, -192px, -53px);
 }
-.pkitem-metagrossite{
+.pkitem-metagrossite {
   @include sprite-rect(14px, 14px, -208px, -53px);
 }
-.pkitem-mewtwonite-x{
+.pkitem-mewtwonite-x {
   @include sprite-rect(14px, 14px, -224px, -53px);
 }
-.pkitem-mewtwonite-y{
+.pkitem-mewtwonite-y {
   @include sprite-rect(14px, 14px, -240px, -53px);
 }
-.pkitem-nugget{
+.pkitem-nugget {
   @include sprite-rect(14px, 14px, -256px, -53px);
 }
-.pkitem-pidgeotite{
+.pkitem-pidgeotite {
   @include sprite-rect(14px, 14px, -272px, -53px);
 }
-.pkitem-pinsirite{
+.pkitem-pinsirite {
   @include sprite-rect(14px, 14px, -288px, -53px);
 }
-.pkitem-pretty-wing{
+.pkitem-pretty-wing {
   @include sprite-rect(14px, 14px, -304px, -53px);
 }
-.pkitem-red-orb-gen4{
+.pkitem-red-orb-gen4 {
   @include sprite-rect(14px, 14px, -320px, -53px);
 }
-.pkitem-relic-band{
+.pkitem-relic-band {
   @include sprite-rect(15px, 14px, -336px, -53px);
 }
-.pkitem-sablenite{
+.pkitem-sablenite {
   @include sprite-rect(14px, 14px, -353px, -53px);
 }
-.pkitem-salamencite{
+.pkitem-salamencite {
   @include sprite-rect(14px, 14px, -369px, -53px);
 }
-.pkitem-sceptilite{
+.pkitem-sceptilite {
   @include sprite-rect(14px, 14px, -385px, -53px);
 }
-.pkitem-scizorite{
+.pkitem-scizorite {
   @include sprite-rect(14px, 14px, -401px, -53px);
 }
-.pkitem-sharpedonite{
+.pkitem-sharpedonite {
   @include sprite-rect(14px, 14px, -417px, -53px);
 }
-.pkitem-slowbronite{
+.pkitem-slowbronite {
   @include sprite-rect(14px, 14px, -433px, -53px);
 }
-.pkitem-soul-dew{
+.pkitem-soul-dew {
   @include sprite-rect(14px, 14px, -449px, -53px);
 }
-.pkitem-steelixite{
+.pkitem-steelixite {
   @include sprite-rect(14px, 14px, -465px, -53px);
 }
-.pkitem-strawberry-sweet{
+.pkitem-strawberry-sweet {
   @include sprite-rect(14px, 14px, 0px, -69px);
 }
-.pkitem-swampertite{
+.pkitem-swampertite {
   @include sprite-rect(14px, 14px, -16px, -69px);
 }
-.pkitem-sweet-heart{
+.pkitem-sweet-heart {
   @include sprite-rect(15px, 13px, -32px, -69px);
 }
-.pkitem-tyranitarite{
+.pkitem-tyranitarite {
   @include sprite-rect(14px, 14px, -49px, -69px);
 }
-.pkitem-venusaurite{
+.pkitem-venusaurite {
   @include sprite-rect(14px, 14px, -65px, -69px);
 }
-.pkitem-berry-sweet{
+.pkitem-berry-sweet {
   @include sprite-rect(16px, 15px, -81px, -69px);
 }
-.pkitem-comet-shard{
+.pkitem-comet-shard {
   @include sprite-rect(15px, 16px, -99px, -69px);
 }
-.pkitem-exp-candy-l{
+.pkitem-exp-candy-l {
   @include sprite-rect(15px, 16px, -116px, -69px);
 }
-.pkitem-exp-candy-s{
+.pkitem-exp-candy-s {
   @include sprite-rect(16px, 14px, -133px, -69px);
 }
-.pkitem-holo-caster--green{
+.pkitem-holo-caster--green {
   @include sprite-rect(14px, 16px, -151px, -69px);
 }
-.pkitem-holo-caster--red{
+.pkitem-holo-caster--red {
   @include sprite-rect(14px, 16px, -167px, -69px);
 }
-.pkitem-holo-caster{
+.pkitem-holo-caster {
   @include sprite-rect(14px, 16px, -183px, -69px);
 }
-.pkitem-kommonium-z--held{
+.pkitem-kommonium-z--held {
   @include sprite-rect(22px, 9px, -199px, -69px);
 }
-.pkitem-lost-item{
+.pkitem-lost-item {
   @include sprite-rect(15px, 15px, -223px, -69px);
 }
-.pkitem-lumiose-galette{
+.pkitem-lumiose-galette {
   @include sprite-rect(17px, 14px, -240px, -69px);
 }
-.pkitem-lunalium-z--held{
+.pkitem-lunalium-z--held {
   @include sprite-rect(22px, 9px, -259px, -69px);
 }
-.pkitem-lycanium-z--held{
+.pkitem-lycanium-z--held {
   @include sprite-rect(22px, 9px, -283px, -69px);
 }
-.pkitem-meteorite--4{
+.pkitem-meteorite--4 {
   @include sprite-rect(15px, 16px, -307px, -69px);
 }
-.pkitem-meteorite-shard{
+.pkitem-meteorite-shard {
   @include sprite-rect(17px, 14px, -324px, -69px);
 }
-.pkitem-mimikium-z--held{
+.pkitem-mimikium-z--held {
   @include sprite-rect(22px, 9px, -343px, -69px);
 }
-.pkitem-mystery-egg{
+.pkitem-mystery-egg {
   @include sprite-rect(14px, 16px, -367px, -69px);
 }
-.pkitem-pink-petal{
+.pkitem-pink-petal {
   @include sprite-rect(15px, 15px, -383px, -69px);
 }
-.pkitem-purple-petal{
+.pkitem-purple-petal {
   @include sprite-rect(15px, 15px, -400px, -69px);
 }
-.pkitem-red-petal{
+.pkitem-red-petal {
   @include sprite-rect(15px, 15px, -417px, -69px);
 }
-.pkitem-relic-vase{
+.pkitem-relic-vase {
   @include sprite-rect(15px, 16px, -434px, -69px);
 }
-.pkitem-ring-target{
+.pkitem-ring-target {
   @include sprite-rect(14px, 17px, -451px, -69px);
 }
-.pkitem-slowpoke-tail{
+.pkitem-slowpoke-tail {
   @include sprite-rect(16px, 15px, -467px, -69px);
 }
-.pkitem-solganium-z--held{
+.pkitem-solganium-z--held {
   @include sprite-rect(22px, 9px, -485px, -69px);
 }
-.pkitem-star-piece{
+.pkitem-star-piece {
   @include sprite-rect(15px, 16px, -509px, -69px);
 }
-.pkitem-ultranecrozium-z--held{
+.pkitem-ultranecrozium-z--held {
   @include sprite-rect(22px, 9px, -526px, -69px);
 }
-.pkitem-wishing-chip{
+.pkitem-wishing-chip {
   @include sprite-rect(16px, 14px, 0px, -88px);
 }
-.pkitem-yellow-petal{
+.pkitem-yellow-petal {
   @include sprite-rect(15px, 16px, -18px, -88px);
 }
-.pkitem-zygarde-cube{
+.pkitem-zygarde-cube {
   @include sprite-rect(15px, 15px, -35px, -88px);
 }
-.pkitem-balm-mushroom{
+.pkitem-balm-mushroom {
   @include sprite-rect(17px, 16px, -52px, -88px);
 }
-.pkitem-big-pearl{
+.pkitem-big-pearl {
   @include sprite-rect(16px, 16px, -71px, -88px);
 }
-.pkitem-black-poke-candy{
+.pkitem-black-poke-candy {
   @include sprite-rect(16px, 16px, -89px, -88px);
 }
-.pkitem-blue-orb-gen3{
+.pkitem-blue-orb-gen3 {
   @include sprite-rect(16px, 16px, -107px, -88px);
 }
-.pkitem-blue-petal{
+.pkitem-blue-petal {
   @include sprite-rect(16px, 16px, -125px, -88px);
 }
-.pkitem-blue-poke-candy{
+.pkitem-blue-poke-candy {
   @include sprite-rect(16px, 16px, -143px, -88px);
 }
-.pkitem-brown-poke-candy{
+.pkitem-brown-poke-candy {
   @include sprite-rect(16px, 16px, -161px, -88px);
 }
-.pkitem-bug-gem{
+.pkitem-bug-gem {
   @include sprite-rect(18px, 15px, -179px, -88px);
 }
-.pkitem-chalky-stone{
+.pkitem-chalky-stone {
   @include sprite-rect(19px, 13px, -199px, -88px);
 }
-.pkitem-clever-wing{
+.pkitem-clever-wing {
   @include sprite-rect(16px, 16px, -220px, -88px);
 }
-.pkitem-courage-xl-av-candy{
+.pkitem-courage-xl-av-candy {
   @include sprite-rect(16px, 17px, -238px, -88px);
 }
-.pkitem-dark-gem{
+.pkitem-dark-gem {
   @include sprite-rect(18px, 15px, -256px, -88px);
 }
-.pkitem-dark-stone{
+.pkitem-dark-stone {
   @include sprite-rect(16px, 16px, -276px, -88px);
 }
-.pkitem-dragon-gem{
+.pkitem-dragon-gem {
   @include sprite-rect(18px, 15px, -294px, -88px);
 }
-.pkitem-electric-gem{
+.pkitem-electric-gem {
   @include sprite-rect(18px, 15px, -314px, -88px);
 }
-.pkitem-everstone{
+.pkitem-everstone {
   @include sprite-rect(18px, 15px, -334px, -88px);
 }
-.pkitem-fairy-gem{
+.pkitem-fairy-gem {
   @include sprite-rect(18px, 15px, -354px, -88px);
 }
-.pkitem-fighting-gem{
+.pkitem-fighting-gem {
   @include sprite-rect(18px, 15px, -374px, -88px);
 }
-.pkitem-fire-gem{
+.pkitem-fire-gem {
   @include sprite-rect(18px, 15px, -394px, -88px);
 }
-.pkitem-flame-orb{
+.pkitem-flame-orb {
   @include sprite-rect(16px, 16px, -414px, -88px);
 }
-.pkitem-flower-sweet{
+.pkitem-flower-sweet {
   @include sprite-rect(17px, 16px, -432px, -88px);
 }
-.pkitem-flying-gem{
+.pkitem-flying-gem {
   @include sprite-rect(18px, 15px, -451px, -88px);
 }
-.pkitem-genius-wing{
+.pkitem-genius-wing {
   @include sprite-rect(16px, 16px, -471px, -88px);
 }
-.pkitem-ghost-gem{
+.pkitem-ghost-gem {
   @include sprite-rect(18px, 15px, -489px, -88px);
 }
-.pkitem-god-stone{
+.pkitem-god-stone {
   @include sprite-rect(16px, 16px, -509px, -88px);
 }
-.pkitem-grass-gem{
+.pkitem-grass-gem {
   @include sprite-rect(18px, 15px, -527px, -88px);
 }
-.pkitem-gray-poke-candy{
+.pkitem-gray-poke-candy {
   @include sprite-rect(16px, 16px, -547px, -88px);
 }
-.pkitem-green-poke-candy{
+.pkitem-green-poke-candy {
   @include sprite-rect(16px, 16px, 0px, -107px);
 }
-.pkitem-ground-gem{
+.pkitem-ground-gem {
   @include sprite-rect(18px, 15px, -18px, -107px);
 }
-.pkitem-health-wing{
+.pkitem-health-wing {
   @include sprite-rect(16px, 16px, -38px, -107px);
 }
-.pkitem-health-xl-av-candy{
+.pkitem-health-xl-av-candy {
   @include sprite-rect(16px, 17px, -56px, -107px);
 }
-.pkitem-heart-scale{
+.pkitem-heart-scale {
   @include sprite-rect(18px, 15px, -74px, -107px);
 }
-.pkitem-ice-gem{
+.pkitem-ice-gem {
   @include sprite-rect(18px, 15px, -94px, -107px);
 }
-.pkitem-iron-ball{
+.pkitem-iron-ball {
   @include sprite-rect(16px, 16px, -114px, -107px);
 }
-.pkitem-leftovers{
+.pkitem-leftovers {
   @include sprite-rect(13px, 20px, -132px, -107px);
 }
-.pkitem-life-orb{
+.pkitem-life-orb {
   @include sprite-rect(16px, 16px, -147px, -107px);
 }
-.pkitem-light-ball{
+.pkitem-light-ball {
   @include sprite-rect(16px, 16px, -165px, -107px);
 }
-.pkitem-light-stone{
+.pkitem-light-stone {
   @include sprite-rect(16px, 16px, -183px, -107px);
 }
-.pkitem-lucky-egg{
+.pkitem-lucky-egg {
   @include sprite-rect(15px, 18px, -201px, -107px);
 }
-.pkitem-mega-bracelet{
+.pkitem-mega-bracelet {
   @include sprite-rect(18px, 14px, -218px, -107px);
 }
-.pkitem-mighty-xl-av-candy{
+.pkitem-mighty-xl-av-candy {
   @include sprite-rect(16px, 17px, -238px, -107px);
 }
-.pkitem-muscle-wing{
+.pkitem-muscle-wing {
   @include sprite-rect(16px, 16px, -256px, -107px);
 }
-.pkitem-normal-gem{
+.pkitem-normal-gem {
   @include sprite-rect(18px, 15px, -274px, -107px);
 }
-.pkitem-oval-stone{
+.pkitem-oval-stone {
   @include sprite-rect(16px, 17px, -294px, -107px);
 }
-.pkitem-pearl-string{
+.pkitem-pearl-string {
   @include sprite-rect(22px, 10px, -312px, -107px);
 }
-.pkitem-pink-nectar{
+.pkitem-pink-nectar {
   @include sprite-rect(16px, 17px, -336px, -107px);
 }
-.pkitem-pink-poke-candy{
+.pkitem-pink-poke-candy {
   @include sprite-rect(16px, 16px, -354px, -107px);
 }
-.pkitem-poison-gem{
+.pkitem-poison-gem {
   @include sprite-rect(18px, 15px, -372px, -107px);
 }
-.pkitem-polished-mud-ball{
+.pkitem-polished-mud-ball {
   @include sprite-rect(16px, 16px, -392px, -107px);
 }
-.pkitem-psychic-gem{
+.pkitem-psychic-gem {
   @include sprite-rect(18px, 15px, -410px, -107px);
 }
-.pkitem-purple-nectar{
+.pkitem-purple-nectar {
   @include sprite-rect(16px, 17px, -430px, -107px);
 }
-.pkitem-purple-poke-candy{
+.pkitem-purple-poke-candy {
   @include sprite-rect(16px, 16px, -448px, -107px);
 }
-.pkitem-quick-xl-av-candy{
+.pkitem-quick-xl-av-candy {
   @include sprite-rect(16px, 17px, -466px, -107px);
 }
-.pkitem-rainbow-wing{
+.pkitem-rainbow-wing {
   @include sprite-rect(12px, 21px, -484px, -107px);
 }
-.pkitem-red-card{
+.pkitem-red-card {
   @include sprite-rect(15px, 17px, -498px, -107px);
 }
-.pkitem-red-nectar{
+.pkitem-red-nectar {
   @include sprite-rect(16px, 17px, -515px, -107px);
 }
-.pkitem-red-orb-gen3{
+.pkitem-red-orb-gen3 {
   @include sprite-rect(16px, 16px, -533px, -107px);
 }
-.pkitem-red-poke-candy{
+.pkitem-red-poke-candy {
   @include sprite-rect(16px, 16px, 0px, -130px);
 }
-.pkitem-resist-wing{
+.pkitem-resist-wing {
   @include sprite-rect(16px, 16px, -18px, -130px);
 }
-.pkitem-rock-gem{
+.pkitem-rock-gem {
   @include sprite-rect(18px, 15px, -36px, -130px);
 }
-.pkitem-roto-bargain{
+.pkitem-roto-bargain {
   @include sprite-rect(15px, 18px, -56px, -130px);
 }
-.pkitem-roto-boost{
+.pkitem-roto-boost {
   @include sprite-rect(15px, 18px, -73px, -130px);
 }
-.pkitem-roto-catch{
+.pkitem-roto-catch {
   @include sprite-rect(15px, 18px, -90px, -130px);
 }
-.pkitem-roto-encounter{
+.pkitem-roto-encounter {
   @include sprite-rect(15px, 18px, -107px, -130px);
 }
-.pkitem-roto-exp-points{
+.pkitem-roto-exp-points {
   @include sprite-rect(15px, 18px, -124px, -130px);
 }
-.pkitem-roto-friendship{
+.pkitem-roto-friendship {
   @include sprite-rect(15px, 18px, -141px, -130px);
 }
-.pkitem-roto-hatch{
+.pkitem-roto-hatch {
   @include sprite-rect(15px, 18px, -158px, -130px);
 }
-.pkitem-roto-hp-restore{
+.pkitem-roto-hp-restore {
   @include sprite-rect(15px, 18px, -175px, -130px);
 }
-.pkitem-roto-pp-restore{
+.pkitem-roto-pp-restore {
   @include sprite-rect(15px, 18px, -192px, -130px);
 }
-.pkitem-roto-prize-money{
+.pkitem-roto-prize-money {
   @include sprite-rect(15px, 18px, -209px, -130px);
 }
-.pkitem-roto-stealth{
+.pkitem-roto-stealth {
   @include sprite-rect(15px, 18px, -226px, -130px);
 }
-.pkitem-silver-wing{
+.pkitem-silver-wing {
   @include sprite-rect(12px, 21px, -243px, -130px);
 }
-.pkitem-smart-xl-av-candy{
+.pkitem-smart-xl-av-candy {
   @include sprite-rect(16px, 17px, -257px, -130px);
 }
-.pkitem-smoke-ball{
+.pkitem-smoke-ball {
   @include sprite-rect(16px, 16px, -275px, -130px);
 }
-.pkitem-soda-pop{
+.pkitem-soda-pop {
   @include sprite-rect(10px, 22px, -293px, -130px);
 }
-.pkitem-steel-gem{
+.pkitem-steel-gem {
   @include sprite-rect(18px, 15px, -305px, -130px);
 }
-.pkitem-sticky-barb{
+.pkitem-sticky-barb {
   @include sprite-rect(16px, 16px, -325px, -130px);
 }
-.pkitem-swift-wing{
+.pkitem-swift-wing {
   @include sprite-rect(16px, 16px, -343px, -130px);
 }
-.pkitem-tough-xl-av-candy{
+.pkitem-tough-xl-av-candy {
   @include sprite-rect(16px, 17px, -361px, -130px);
 }
-.pkitem-toxic-orb{
+.pkitem-toxic-orb {
   @include sprite-rect(16px, 16px, -379px, -130px);
 }
-.pkitem-water-gem{
+.pkitem-water-gem {
   @include sprite-rect(18px, 15px, -397px, -130px);
 }
-.pkitem-white-poke-candy{
+.pkitem-white-poke-candy {
   @include sprite-rect(16px, 16px, -417px, -130px);
 }
-.pkitem-yellow-nectar{
+.pkitem-yellow-nectar {
   @include sprite-rect(16px, 17px, -435px, -130px);
 }
-.pkitem-yellow-poke-candy{
+.pkitem-yellow-poke-candy {
   @include sprite-rect(16px, 16px, -453px, -130px);
 }
-.pkitem-ability-capsule{
+.pkitem-ability-capsule {
   @include sprite-rect(22px, 12px, -471px, -130px);
 }
-.pkitem-antidote{
+.pkitem-antidote {
   @include sprite-rect(13px, 21px, -495px, -130px);
 }
-.pkitem-apicot-berry{
+.pkitem-apicot-berry {
   @include sprite-rect(17px, 18px, -510px, -130px);
 }
-.pkitem-awakening{
+.pkitem-awakening {
   @include sprite-rect(13px, 21px, 0px, -154px);
 }
-.pkitem-big-mushroom{
+.pkitem-big-mushroom {
   @include sprite-rect(17px, 17px, -15px, -154px);
 }
-.pkitem-burn-heal{
+.pkitem-burn-heal {
   @include sprite-rect(13px, 21px, -34px, -154px);
 }
-.pkitem-casteliacone{
+.pkitem-casteliacone {
   @include sprite-rect(15px, 20px, -49px, -154px);
 }
-.pkitem-charti-berry{
+.pkitem-charti-berry {
   @include sprite-rect(17px, 17px, -66px, -154px);
 }
-.pkitem-clover-sweet{
+.pkitem-clover-sweet {
   @include sprite-rect(17px, 17px, -85px, -154px);
 }
-.pkitem-contest-costume--dress{
+.pkitem-contest-costume--dress {
   @include sprite-rect(15px, 20px, -104px, -154px);
 }
-.pkitem-energy-powder{
+.pkitem-energy-powder {
   @include sprite-rect(22px, 13px, -121px, -154px);
 }
-.pkitem-fresh-water{
+.pkitem-fresh-water {
   @include sprite-rect(14px, 21px, -145px, -154px);
 }
-.pkitem-full-heal{
+.pkitem-full-heal {
   @include sprite-rect(13px, 21px, -161px, -154px);
 }
-.pkitem-hard-stone{
+.pkitem-hard-stone {
   @include sprite-rect(17px, 18px, -176px, -154px);
 }
-.pkitem-heal-powder{
+.pkitem-heal-powder {
   @include sprite-rect(22px, 13px, -195px, -154px);
 }
-.pkitem-ice-heal{
+.pkitem-ice-heal {
   @include sprite-rect(13px, 21px, -219px, -154px);
 }
-.pkitem-lava-cookie{
+.pkitem-lava-cookie {
   @include sprite-rect(18px, 17px, -234px, -154px);
 }
-.pkitem-lemonade{
+.pkitem-lemonade {
   @include sprite-rect(15px, 20px, -254px, -154px);
 }
-.pkitem-lens-case{
+.pkitem-lens-case {
   @include sprite-rect(19px, 16px, -271px, -154px);
 }
-.pkitem-light-clay{
+.pkitem-light-clay {
   @include sprite-rect(19px, 16px, -292px, -154px);
 }
-.pkitem-lone-earring{
+.pkitem-lone-earring {
   @include sprite-rect(13px, 22px, -313px, -154px);
 }
-.pkitem-lost-item-mimejr{
+.pkitem-lost-item-mimejr {
   @include sprite-rect(15px, 20px, -328px, -154px);
 }
-.pkitem-love-sweet{
+.pkitem-love-sweet {
   @include sprite-rect(17px, 17px, -345px, -154px);
 }
-.pkitem-lum-berry{
+.pkitem-lum-berry {
   @include sprite-rect(18px, 17px, -364px, -154px);
 }
-.pkitem-luminous-moss{
+.pkitem-luminous-moss {
   @include sprite-rect(15px, 20px, -384px, -154px);
 }
-.pkitem-meteorite--3{
+.pkitem-meteorite--3 {
   @include sprite-rect(17px, 17px, -401px, -154px);
 }
-.pkitem-metronome{
+.pkitem-metronome {
   @include sprite-rect(15px, 20px, -420px, -154px);
 }
-.pkitem-miracle-seed{
+.pkitem-miracle-seed {
   @include sprite-rect(17px, 17px, -437px, -154px);
 }
-.pkitem-occa-berry{
+.pkitem-occa-berry {
   @include sprite-rect(17px, 17px, -456px, -154px);
 }
-.pkitem-old-gateau{
+.pkitem-old-gateau {
   @include sprite-rect(19px, 16px, -475px, -154px);
 }
-.pkitem-paralyze-heal{
+.pkitem-paralyze-heal {
   @include sprite-rect(13px, 21px, -496px, -154px);
 }
-.pkitem-powder-jar{
+.pkitem-powder-jar {
   @include sprite-rect(14px, 21px, -511px, -154px);
 }
-.pkitem-razor-claw{
+.pkitem-razor-claw {
   @include sprite-rect(18px, 17px, -527px, -154px);
 }
-.pkitem-razor-fang{
+.pkitem-razor-fang {
   @include sprite-rect(16px, 18px, 0px, -178px);
 }
-.pkitem-seal-bag{
+.pkitem-seal-bag {
   @include sprite-rect(16px, 19px, -18px, -178px);
 }
-.pkitem-shoal-salt{
+.pkitem-shoal-salt {
   @include sprite-rect(22px, 13px, -36px, -178px);
 }
-.pkitem-silver-powder{
+.pkitem-silver-powder {
   @include sprite-rect(22px, 13px, -60px, -178px);
 }
-.pkitem-soothe-bell{
+.pkitem-soothe-bell {
   @include sprite-rect(15px, 20px, -84px, -178px);
 }
-.pkitem-star-sweet{
+.pkitem-star-sweet {
   @include sprite-rect(18px, 17px, -101px, -178px);
 }
-.pkitem-tea-gen3{
+.pkitem-tea-gen3 {
   @include sprite-rect(14px, 20px, -121px, -178px);
 }
-.pkitem-tea{
+.pkitem-tea {
   @include sprite-rect(16px, 19px, -137px, -178px);
 }
-.pkitem-wonder-launcher-ability-urge{
+.pkitem-wonder-launcher-ability-urge {
   @include sprite-rect(18px, 16px, -155px, -178px);
 }
-.pkitem-wonder-launcher-antidote{
+.pkitem-wonder-launcher-antidote {
   @include sprite-rect(18px, 16px, -175px, -178px);
 }
-.pkitem-wonder-launcher-awakening{
+.pkitem-wonder-launcher-awakening {
   @include sprite-rect(18px, 16px, -195px, -178px);
 }
-.pkitem-wonder-launcher-burn-heal{
+.pkitem-wonder-launcher-burn-heal {
   @include sprite-rect(18px, 16px, -215px, -178px);
 }
-.pkitem-wonder-launcher-dire-hit-1{
+.pkitem-wonder-launcher-dire-hit-1 {
   @include sprite-rect(18px, 16px, -235px, -178px);
 }
-.pkitem-wonder-launcher-dire-hit-2{
+.pkitem-wonder-launcher-dire-hit-2 {
   @include sprite-rect(18px, 16px, -255px, -178px);
 }
-.pkitem-wonder-launcher-dire-hit-3{
+.pkitem-wonder-launcher-dire-hit-3 {
   @include sprite-rect(18px, 16px, -275px, -178px);
 }
-.pkitem-wonder-launcher-ether{
+.pkitem-wonder-launcher-ether {
   @include sprite-rect(18px, 16px, -295px, -178px);
 }
-.pkitem-wonder-launcher-full-heal{
+.pkitem-wonder-launcher-full-heal {
   @include sprite-rect(18px, 16px, -315px, -178px);
 }
-.pkitem-wonder-launcher-full-restore{
+.pkitem-wonder-launcher-full-restore {
   @include sprite-rect(18px, 16px, -335px, -178px);
 }
-.pkitem-wonder-launcher-guard-spec{
+.pkitem-wonder-launcher-guard-spec {
   @include sprite-rect(18px, 16px, -355px, -178px);
 }
-.pkitem-wonder-launcher-hyper-potion{
+.pkitem-wonder-launcher-hyper-potion {
   @include sprite-rect(18px, 16px, -375px, -178px);
 }
-.pkitem-wonder-launcher-ice-heal{
+.pkitem-wonder-launcher-ice-heal {
   @include sprite-rect(18px, 16px, -395px, -178px);
 }
-.pkitem-wonder-launcher-item-drop{
+.pkitem-wonder-launcher-item-drop {
   @include sprite-rect(18px, 16px, -415px, -178px);
 }
-.pkitem-wonder-launcher-item-urge{
+.pkitem-wonder-launcher-item-urge {
   @include sprite-rect(18px, 16px, -435px, -178px);
 }
-.pkitem-wonder-launcher-max-potion{
+.pkitem-wonder-launcher-max-potion {
   @include sprite-rect(18px, 16px, -455px, -178px);
 }
-.pkitem-wonder-launcher-max-revive{
+.pkitem-wonder-launcher-max-revive {
   @include sprite-rect(18px, 16px, -475px, -178px);
 }
-.pkitem-wonder-launcher-paralyze-heal{
+.pkitem-wonder-launcher-paralyze-heal {
   @include sprite-rect(18px, 16px, -495px, -178px);
 }
-.pkitem-wonder-launcher-potion{
+.pkitem-wonder-launcher-potion {
   @include sprite-rect(18px, 16px, -515px, -178px);
 }
-.pkitem-wonder-launcher-reset-urge{
+.pkitem-wonder-launcher-reset-urge {
   @include sprite-rect(18px, 16px, -535px, -178px);
 }
-.pkitem-wonder-launcher-revive{
+.pkitem-wonder-launcher-revive {
   @include sprite-rect(18px, 16px, -555px, -178px);
 }
-.pkitem-wonder-launcher-super-potion{
+.pkitem-wonder-launcher-super-potion {
   @include sprite-rect(18px, 16px, -575px, -178px);
 }
-.pkitem-wonder-launcher-x-accuracy-1{
+.pkitem-wonder-launcher-x-accuracy-1 {
   @include sprite-rect(18px, 16px, 0px, -200px);
 }
-.pkitem-wonder-launcher-x-accuracy-2{
+.pkitem-wonder-launcher-x-accuracy-2 {
   @include sprite-rect(18px, 16px, -20px, -200px);
 }
-.pkitem-wonder-launcher-x-accuracy-3{
+.pkitem-wonder-launcher-x-accuracy-3 {
   @include sprite-rect(18px, 16px, -40px, -200px);
 }
-.pkitem-wonder-launcher-x-accuracy-6{
+.pkitem-wonder-launcher-x-accuracy-6 {
   @include sprite-rect(18px, 16px, -60px, -200px);
 }
-.pkitem-wonder-launcher-x-attack-1{
+.pkitem-wonder-launcher-x-attack-1 {
   @include sprite-rect(18px, 16px, -80px, -200px);
 }
-.pkitem-wonder-launcher-x-attack-2{
+.pkitem-wonder-launcher-x-attack-2 {
   @include sprite-rect(18px, 16px, -100px, -200px);
 }
-.pkitem-wonder-launcher-x-attack-3{
+.pkitem-wonder-launcher-x-attack-3 {
   @include sprite-rect(18px, 16px, -120px, -200px);
 }
-.pkitem-wonder-launcher-x-attack-6{
+.pkitem-wonder-launcher-x-attack-6 {
   @include sprite-rect(18px, 16px, -140px, -200px);
 }
-.pkitem-wonder-launcher-x-defense-1{
+.pkitem-wonder-launcher-x-defense-1 {
   @include sprite-rect(18px, 16px, -160px, -200px);
 }
-.pkitem-wonder-launcher-x-defense-2{
+.pkitem-wonder-launcher-x-defense-2 {
   @include sprite-rect(18px, 16px, -180px, -200px);
 }
-.pkitem-wonder-launcher-x-defense-3{
+.pkitem-wonder-launcher-x-defense-3 {
   @include sprite-rect(18px, 16px, -200px, -200px);
 }
-.pkitem-wonder-launcher-x-defense-6{
+.pkitem-wonder-launcher-x-defense-6 {
   @include sprite-rect(18px, 16px, -220px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-atk-1{
+.pkitem-wonder-launcher-x-sp-atk-1 {
   @include sprite-rect(18px, 16px, -240px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-atk-2{
+.pkitem-wonder-launcher-x-sp-atk-2 {
   @include sprite-rect(18px, 16px, -260px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-atk-3{
+.pkitem-wonder-launcher-x-sp-atk-3 {
   @include sprite-rect(18px, 16px, -280px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-atk-6{
+.pkitem-wonder-launcher-x-sp-atk-6 {
   @include sprite-rect(18px, 16px, -300px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-def-1{
+.pkitem-wonder-launcher-x-sp-def-1 {
   @include sprite-rect(18px, 16px, -320px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-def-2{
+.pkitem-wonder-launcher-x-sp-def-2 {
   @include sprite-rect(18px, 16px, -340px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-def-3{
+.pkitem-wonder-launcher-x-sp-def-3 {
   @include sprite-rect(18px, 16px, -360px, -200px);
 }
-.pkitem-wonder-launcher-x-sp-def-6{
+.pkitem-wonder-launcher-x-sp-def-6 {
   @include sprite-rect(18px, 16px, -380px, -200px);
 }
-.pkitem-wonder-launcher-x-speed-1{
+.pkitem-wonder-launcher-x-speed-1 {
   @include sprite-rect(18px, 16px, -400px, -200px);
 }
-.pkitem-wonder-launcher-x-speed-2{
+.pkitem-wonder-launcher-x-speed-2 {
   @include sprite-rect(18px, 16px, -420px, -200px);
 }
-.pkitem-wonder-launcher-x-speed-3{
+.pkitem-wonder-launcher-x-speed-3 {
   @include sprite-rect(18px, 16px, -440px, -200px);
 }
-.pkitem-wonder-launcher-x-speed-6{
+.pkitem-wonder-launcher-x-speed-6 {
   @include sprite-rect(18px, 16px, -460px, -200px);
 }
-.pkitem-absorb-bulb{
+.pkitem-absorb-bulb {
   @include sprite-rect(16px, 20px, -480px, -200px);
 }
-.pkitem-aloraichium-z{
+.pkitem-aloraichium-z {
   @include sprite-rect(24px, 13px, -498px, -200px);
 }
-.pkitem-amaze-mulch{
+.pkitem-amaze-mulch {
   @include sprite-rect(18px, 19px, -524px, -200px);
 }
-.pkitem-beach-glass{
+.pkitem-beach-glass {
   @include sprite-rect(18px, 18px, -544px, -200px);
 }
-.pkitem-berry-pots{
+.pkitem-berry-pots {
   @include sprite-rect(16px, 20px, -564px, -200px);
 }
-.pkitem-big-malasada{
+.pkitem-big-malasada {
   @include sprite-rect(22px, 15px, -582px, -200px);
 }
-.pkitem-big-nugget{
+.pkitem-big-nugget {
   @include sprite-rect(18px, 18px, 0px, -222px);
 }
-.pkitem-black-apricorn{
+.pkitem-black-apricorn {
   @include sprite-rect(18px, 18px, -20px, -222px);
 }
-.pkitem-black-glasses{
+.pkitem-black-glasses {
   @include sprite-rect(21px, 15px, -40px, -222px);
 }
-.pkitem-black-sludge{
+.pkitem-black-sludge {
   @include sprite-rect(20px, 17px, -63px, -222px);
 }
-.pkitem-blue-apricorn{
+.pkitem-blue-apricorn {
   @include sprite-rect(18px, 18px, -85px, -222px);
 }
-.pkitem-blue-card{
+.pkitem-blue-card {
   @include sprite-rect(20px, 16px, -105px, -222px);
 }
-.pkitem-blue-orb{
+.pkitem-blue-orb {
   @include sprite-rect(18px, 18px, -127px, -222px);
 }
-.pkitem-blunder-policy{
+.pkitem-blunder-policy {
   @include sprite-rect(20px, 17px, -147px, -222px);
 }
-.pkitem-boost-mulch{
+.pkitem-boost-mulch {
   @include sprite-rect(18px, 19px, -169px, -222px);
 }
-.pkitem-buginium-z{
+.pkitem-buginium-z {
   @include sprite-rect(24px, 13px, -189px, -222px);
 }
-.pkitem-burn-drive{
+.pkitem-burn-drive {
   @include sprite-rect(21px, 15px, -215px, -222px);
 }
-.pkitem-calcium{
+.pkitem-calcium {
   @include sprite-rect(14px, 22px, -238px, -222px);
 }
-.pkitem-carbos{
+.pkitem-carbos {
   @include sprite-rect(14px, 22px, -254px, -222px);
 }
-.pkitem-card-key{
+.pkitem-card-key {
   @include sprite-rect(20px, 16px, -270px, -222px);
 }
-.pkitem-cherish-ball{
+.pkitem-cherish-ball {
   @include sprite-rect(18px, 18px, -292px, -222px);
 }
-.pkitem-chesto-berry{
+.pkitem-chesto-berry {
   @include sprite-rect(18px, 19px, -312px, -222px);
 }
-.pkitem-chill-drive{
+.pkitem-chill-drive {
   @include sprite-rect(21px, 15px, -332px, -222px);
 }
-.pkitem-cleanse-tag{
+.pkitem-cleanse-tag {
   @include sprite-rect(17px, 19px, -355px, -222px);
 }
-.pkitem-coconut-milk{
+.pkitem-coconut-milk {
   @include sprite-rect(16px, 20px, -374px, -222px);
 }
-.pkitem-damp-mulch{
+.pkitem-damp-mulch {
   @include sprite-rect(18px, 19px, -392px, -222px);
 }
-.pkitem-darkinium-z{
+.pkitem-darkinium-z {
   @include sprite-rect(24px, 13px, -412px, -222px);
 }
-.pkitem-data-card{
+.pkitem-data-card {
   @include sprite-rect(20px, 16px, -438px, -222px);
 }
-.pkitem-dawn-stone{
+.pkitem-dawn-stone {
   @include sprite-rect(18px, 19px, -460px, -222px);
 }
-.pkitem-decidium-z{
+.pkitem-decidium-z {
   @include sprite-rect(24px, 13px, -480px, -222px);
 }
-.pkitem-dive-ball{
+.pkitem-dive-ball {
   @include sprite-rect(18px, 18px, -506px, -222px);
 }
-.pkitem-douse-drive{
+.pkitem-douse-drive {
   @include sprite-rect(21px, 15px, -526px, -222px);
 }
-.pkitem-dragonium-z{
+.pkitem-dragonium-z {
   @include sprite-rect(24px, 13px, -549px, -222px);
 }
-.pkitem-dream-ball{
+.pkitem-dream-ball {
   @include sprite-rect(18px, 18px, -575px, -222px);
 }
-.pkitem-dubious-disc{
+.pkitem-dubious-disc {
   @include sprite-rect(20px, 17px, -595px, -222px);
 }
-.pkitem-dusk-ball{
+.pkitem-dusk-ball {
   @include sprite-rect(18px, 18px, -617px, -222px);
 }
-.pkitem-eevium-z{
+.pkitem-eevium-z {
   @include sprite-rect(24px, 13px, 0px, -246px);
 }
-.pkitem-electrium-z{
+.pkitem-electrium-z {
   @include sprite-rect(24px, 13px, -26px, -246px);
 }
-.pkitem-fairium-z{
+.pkitem-fairium-z {
   @include sprite-rect(24px, 13px, -52px, -246px);
 }
-.pkitem-fast-ball{
+.pkitem-fast-ball {
   @include sprite-rect(18px, 18px, -78px, -246px);
 }
-.pkitem-fightinium-z{
+.pkitem-fightinium-z {
   @include sprite-rect(24px, 13px, -98px, -246px);
 }
-.pkitem-firium-z{
+.pkitem-firium-z {
   @include sprite-rect(24px, 13px, -124px, -246px);
 }
-.pkitem-flyinium-z{
+.pkitem-flyinium-z {
   @include sprite-rect(24px, 13px, -150px, -246px);
 }
-.pkitem-friend-ball{
+.pkitem-friend-ball {
   @include sprite-rect(18px, 18px, -176px, -246px);
 }
-.pkitem-ghostium-z{
+.pkitem-ghostium-z {
   @include sprite-rect(24px, 13px, -196px, -246px);
 }
-.pkitem-gigantamix{
+.pkitem-gigantamix {
   @include sprite-rect(14px, 23px, -222px, -246px);
 }
-.pkitem-gooey-mulch{
+.pkitem-gooey-mulch {
   @include sprite-rect(18px, 19px, -238px, -246px);
 }
-.pkitem-grassium-z{
+.pkitem-grassium-z {
   @include sprite-rect(24px, 13px, -258px, -246px);
 }
-.pkitem-great-ball{
+.pkitem-great-ball {
   @include sprite-rect(18px, 18px, -284px, -246px);
 }
-.pkitem-green-apricorn{
+.pkitem-green-apricorn {
   @include sprite-rect(18px, 18px, -304px, -246px);
 }
-.pkitem-groundium-z{
+.pkitem-groundium-z {
   @include sprite-rect(24px, 13px, -324px, -246px);
 }
-.pkitem-growth-mulch{
+.pkitem-growth-mulch {
   @include sprite-rect(18px, 19px, -350px, -246px);
 }
-.pkitem-grubby-hanky{
+.pkitem-grubby-hanky {
   @include sprite-rect(18px, 18px, -370px, -246px);
 }
-.pkitem-heal-ball{
+.pkitem-heal-ball {
   @include sprite-rect(18px, 18px, -390px, -246px);
 }
-.pkitem-honor-of-kalos{
+.pkitem-honor-of-kalos {
   @include sprite-rect(13px, 24px, -410px, -246px);
 }
-.pkitem-hp-up{
+.pkitem-hp-up {
   @include sprite-rect(14px, 22px, -425px, -246px);
 }
-.pkitem-hyper-potion{
+.pkitem-hyper-potion {
   @include sprite-rect(15px, 21px, -441px, -246px);
 }
-.pkitem-icium-z{
+.pkitem-icium-z {
   @include sprite-rect(24px, 13px, -458px, -246px);
 }
-.pkitem-incinium-z{
+.pkitem-incinium-z {
   @include sprite-rect(24px, 13px, -484px, -246px);
 }
-.pkitem-iron{
+.pkitem-iron {
   @include sprite-rect(14px, 22px, -510px, -246px);
 }
-.pkitem-large-leek{
+.pkitem-large-leek {
   @include sprite-rect(19px, 18px, -526px, -246px);
 }
-.pkitem-level-ball{
+.pkitem-level-ball {
   @include sprite-rect(18px, 18px, -547px, -246px);
 }
-.pkitem-lock-capsule{
+.pkitem-lock-capsule {
   @include sprite-rect(17px, 20px, -567px, -246px);
 }
-.pkitem-love-ball{
+.pkitem-love-ball {
   @include sprite-rect(18px, 18px, -586px, -246px);
 }
-.pkitem-lure-ball{
+.pkitem-lure-ball {
   @include sprite-rect(18px, 18px, -606px, -246px);
 }
-.pkitem-lure{
+.pkitem-lure {
   @include sprite-rect(15px, 22px, -626px, -246px);
 }
-.pkitem-luxury-ball{
+.pkitem-luxury-ball {
   @include sprite-rect(18px, 18px, 0px, -272px);
 }
-.pkitem-magnet{
+.pkitem-magnet {
   @include sprite-rect(18px, 18px, -20px, -272px);
 }
-.pkitem-mago-berry{
+.pkitem-mago-berry {
   @include sprite-rect(18px, 19px, -40px, -272px);
 }
-.pkitem-magost-berry{
+.pkitem-magost-berry {
   @include sprite-rect(18px, 19px, -60px, -272px);
 }
-.pkitem-marshadium-z{
+.pkitem-marshadium-z {
   @include sprite-rect(24px, 13px, -80px, -272px);
 }
-.pkitem-master-ball{
+.pkitem-master-ball {
   @include sprite-rect(18px, 18px, -106px, -272px);
 }
-.pkitem-max-lure{
+.pkitem-max-lure {
   @include sprite-rect(15px, 22px, -126px, -272px);
 }
-.pkitem-max-repel{
+.pkitem-max-repel {
   @include sprite-rect(14px, 22px, -143px, -272px);
 }
-.pkitem-mental-herb{
+.pkitem-mental-herb {
   @include sprite-rect(19px, 17px, -159px, -272px);
 }
-.pkitem-metal-coat{
+.pkitem-metal-coat {
   @include sprite-rect(17px, 20px, -180px, -272px);
 }
-.pkitem-meteorite--2{
+.pkitem-meteorite--2 {
   @include sprite-rect(18px, 18px, -199px, -272px);
 }
-.pkitem-mewnium-z{
+.pkitem-mewnium-z {
   @include sprite-rect(24px, 13px, -219px, -272px);
 }
-.pkitem-micle-berry{
+.pkitem-micle-berry {
   @include sprite-rect(18px, 18px, -245px, -272px);
 }
-.pkitem-moomoo-milk{
+.pkitem-moomoo-milk {
   @include sprite-rect(14px, 23px, -265px, -272px);
 }
-.pkitem-moon-ball{
+.pkitem-moon-ball {
   @include sprite-rect(18px, 18px, -281px, -272px);
 }
-.pkitem-nest-ball{
+.pkitem-nest-ball {
   @include sprite-rect(18px, 18px, -301px, -272px);
 }
-.pkitem-net-ball{
+.pkitem-net-ball {
   @include sprite-rect(18px, 18px, -321px, -272px);
 }
-.pkitem-normalium-z{
+.pkitem-normalium-z {
   @include sprite-rect(24px, 13px, -341px, -272px);
 }
-.pkitem-oran-berry{
+.pkitem-oran-berry {
   @include sprite-rect(19px, 18px, -367px, -272px);
 }
-.pkitem-park-ball{
+.pkitem-park-ball {
   @include sprite-rect(18px, 18px, -388px, -272px);
 }
-.pkitem-pass{
+.pkitem-pass {
   @include sprite-rect(20px, 16px, -408px, -272px);
 }
-.pkitem-pikanium-z{
+.pkitem-pikanium-z {
   @include sprite-rect(24px, 13px, -430px, -272px);
 }
-.pkitem-pikashunium-z{
+.pkitem-pikashunium-z {
   @include sprite-rect(24px, 13px, -456px, -272px);
 }
-.pkitem-pink-apricorn{
+.pkitem-pink-apricorn {
   @include sprite-rect(18px, 18px, -482px, -272px);
 }
-.pkitem-plume-fossil{
+.pkitem-plume-fossil {
   @include sprite-rect(19px, 18px, -502px, -272px);
 }
-.pkitem-poisonium-z{
+.pkitem-poisonium-z {
   @include sprite-rect(24px, 13px, -523px, -272px);
 }
-.pkitem-poke-ball{
+.pkitem-poke-ball {
   @include sprite-rect(18px, 18px, -549px, -272px);
 }
-.pkitem-pokemon-box-link{
+.pkitem-pokemon-box-link {
   @include sprite-rect(15px, 21px, -569px, -272px);
 }
-.pkitem-potion{
+.pkitem-potion {
   @include sprite-rect(15px, 21px, -586px, -272px);
 }
-.pkitem-power-herb{
+.pkitem-power-herb {
   @include sprite-rect(19px, 17px, -603px, -272px);
 }
-.pkitem-pp-max{
+.pkitem-pp-max {
   @include sprite-rect(14px, 22px, 0px, -297px);
 }
-.pkitem-pp-up{
+.pkitem-pp-up {
   @include sprite-rect(14px, 22px, -16px, -297px);
 }
-.pkitem-premier-ball{
+.pkitem-premier-ball {
   @include sprite-rect(18px, 18px, -32px, -297px);
 }
-.pkitem-primarium-z{
+.pkitem-primarium-z {
   @include sprite-rect(24px, 13px, -52px, -297px);
 }
-.pkitem-prop-case{
+.pkitem-prop-case {
   @include sprite-rect(19px, 18px, -78px, -297px);
 }
-.pkitem-protein{
+.pkitem-protein {
   @include sprite-rect(14px, 22px, -99px, -297px);
 }
-.pkitem-psychium-z{
+.pkitem-psychium-z {
   @include sprite-rect(24px, 13px, -115px, -297px);
 }
-.pkitem-quick-ball{
+.pkitem-quick-ball {
   @include sprite-rect(18px, 18px, -141px, -297px);
 }
-.pkitem-quick-claw{
+.pkitem-quick-claw {
   @include sprite-rect(17px, 19px, -161px, -297px);
 }
-.pkitem-red-apricorn{
+.pkitem-red-apricorn {
   @include sprite-rect(18px, 18px, -180px, -297px);
 }
-.pkitem-relic-crown{
+.pkitem-relic-crown {
   @include sprite-rect(21px, 16px, -200px, -297px);
 }
-.pkitem-relic-statue{
+.pkitem-relic-statue {
   @include sprite-rect(15px, 22px, -223px, -297px);
 }
-.pkitem-repeat-ball{
+.pkitem-repeat-ball {
   @include sprite-rect(18px, 18px, -240px, -297px);
 }
-.pkitem-repel{
+.pkitem-repel {
   @include sprite-rect(14px, 22px, -260px, -297px);
 }
-.pkitem-ribbon-sweet{
+.pkitem-ribbon-sweet {
   @include sprite-rect(20px, 16px, -276px, -297px);
 }
-.pkitem-rich-mulch{
+.pkitem-rich-mulch {
   @include sprite-rect(18px, 19px, -298px, -297px);
 }
-.pkitem-rockium-z{
+.pkitem-rockium-z {
   @include sprite-rect(24px, 13px, -318px, -297px);
 }
-.pkitem-sachet{
+.pkitem-sachet {
   @include sprite-rect(16px, 21px, -344px, -297px);
 }
-.pkitem-safari-ball{
+.pkitem-safari-ball {
   @include sprite-rect(18px, 18px, -362px, -297px);
 }
-.pkitem-shock-drive{
+.pkitem-shock-drive {
   @include sprite-rect(21px, 15px, -382px, -297px);
 }
-.pkitem-snorlium-z{
+.pkitem-snorlium-z {
   @include sprite-rect(24px, 13px, -405px, -297px);
 }
-.pkitem-spell-tag{
+.pkitem-spell-tag {
   @include sprite-rect(17px, 19px, -431px, -297px);
 }
-.pkitem-spice-mix{
+.pkitem-spice-mix {
   @include sprite-rect(14px, 23px, -450px, -297px);
 }
-.pkitem-sport-ball{
+.pkitem-sport-ball {
   @include sprite-rect(18px, 18px, -466px, -297px);
 }
-.pkitem-stable-mulch{
+.pkitem-stable-mulch {
   @include sprite-rect(18px, 19px, -486px, -297px);
 }
-.pkitem-steelium-z{
+.pkitem-steelium-z {
   @include sprite-rect(24px, 13px, -506px, -297px);
 }
-.pkitem-super-lure{
+.pkitem-super-lure {
   @include sprite-rect(15px, 22px, -532px, -297px);
 }
-.pkitem-super-potion{
+.pkitem-super-potion {
   @include sprite-rect(15px, 21px, -549px, -297px);
 }
-.pkitem-super-repel{
+.pkitem-super-repel {
   @include sprite-rect(14px, 22px, -566px, -297px);
 }
-.pkitem-surprise-mulch{
+.pkitem-surprise-mulch {
   @include sprite-rect(18px, 19px, -582px, -297px);
 }
-.pkitem-tapunium-z{
+.pkitem-tapunium-z {
   @include sprite-rect(24px, 13px, 0px, -322px);
 }
-.pkitem-timer-ball{
+.pkitem-timer-ball {
   @include sprite-rect(18px, 19px, -26px, -322px);
 }
-.pkitem-tin-of-beans{
+.pkitem-tin-of-beans {
   @include sprite-rect(15px, 21px, -46px, -322px);
 }
-.pkitem-ultra-ball{
+.pkitem-ultra-ball {
   @include sprite-rect(18px, 18px, -63px, -322px);
 }
-.pkitem-unknown-item{
+.pkitem-unknown-item {
   @include sprite-rect(14px, 22px, -83px, -322px);
 }
-.pkitem-unown-report{
+.pkitem-unown-report {
   @include sprite-rect(18px, 19px, -99px, -322px);
 }
-.pkitem-up-grade{
+.pkitem-up-grade {
   @include sprite-rect(20px, 17px, -119px, -322px);
 }
-.pkitem-vs-seeker{
+.pkitem-vs-seeker {
   @include sprite-rect(20px, 17px, -141px, -322px);
 }
-.pkitem-waterium-z{
+.pkitem-waterium-z {
   @include sprite-rect(24px, 13px, -163px, -322px);
 }
-.pkitem-weakness-policy{
+.pkitem-weakness-policy {
   @include sprite-rect(20px, 17px, -189px, -322px);
 }
-.pkitem-white-apricorn{
+.pkitem-white-apricorn {
   @include sprite-rect(18px, 18px, -211px, -322px);
 }
-.pkitem-white-herb{
+.pkitem-white-herb {
   @include sprite-rect(19px, 17px, -231px, -322px);
 }
-.pkitem-wise-glasses{
+.pkitem-wise-glasses {
   @include sprite-rect(21px, 15px, -252px, -322px);
 }
-.pkitem-yellow-apricorn{
+.pkitem-yellow-apricorn {
   @include sprite-rect(18px, 18px, -275px, -322px);
 }
-.pkitem-zinc{
+.pkitem-zinc {
   @include sprite-rect(14px, 22px, -295px, -322px);
 }
-.pkitem-adrenaline-orb{
+.pkitem-adrenaline-orb {
   @include sprite-rect(17px, 21px, -311px, -322px);
 }
-.pkitem-assault-vest{
+.pkitem-assault-vest {
   @include sprite-rect(21px, 18px, -330px, -322px);
 }
-.pkitem-auroraticket{
+.pkitem-auroraticket {
   @include sprite-rect(21px, 17px, -353px, -322px);
 }
-.pkitem-babiri-berry{
+.pkitem-babiri-berry {
   @include sprite-rect(19px, 19px, -376px, -322px);
 }
-.pkitem-band-autograph{
+.pkitem-band-autograph {
   @include sprite-rect(21px, 18px, -397px, -322px);
 }
-.pkitem-basement-key--new-mauville{
+.pkitem-basement-key--new-mauville {
   @include sprite-rect(19px, 20px, -420px, -322px);
 }
-.pkitem-basement-key{
+.pkitem-basement-key {
   @include sprite-rect(19px, 20px, -441px, -322px);
 }
-.pkitem-beast-ball{
+.pkitem-beast-ball {
   @include sprite-rect(20px, 19px, -462px, -322px);
 }
-.pkitem-berry-juice{
+.pkitem-berry-juice {
   @include sprite-rect(20px, 19px, -484px, -322px);
 }
-.pkitem-bike-voucher{
+.pkitem-bike-voucher {
   @include sprite-rect(21px, 17px, -506px, -322px);
 }
-.pkitem-binding-band{
+.pkitem-binding-band {
   @include sprite-rect(21px, 18px, -529px, -322px);
 }
-.pkitem-bread{
+.pkitem-bread {
   @include sprite-rect(17px, 21px, -552px, -322px);
 }
-.pkitem-card-key-gen3{
+.pkitem-card-key-gen3 {
   @include sprite-rect(21px, 17px, -571px, -322px);
 }
-.pkitem-chilan-berry{
+.pkitem-chilan-berry {
   @include sprite-rect(19px, 20px, -594px, -322px);
 }
-.pkitem-choice-specs{
+.pkitem-choice-specs {
   @include sprite-rect(22px, 16px, -615px, -322px);
 }
-.pkitem-chople-berry{
+.pkitem-chople-berry {
   @include sprite-rect(19px, 20px, 0px, -346px);
 }
-.pkitem-coba-berry{
+.pkitem-coba-berry {
   @include sprite-rect(19px, 19px, -21px, -346px);
 }
-.pkitem-contest-pass{
+.pkitem-contest-pass {
   @include sprite-rect(21px, 17px, -42px, -346px);
 }
-.pkitem-coupon-1{
+.pkitem-coupon-1 {
   @include sprite-rect(21px, 17px, -65px, -346px);
 }
-.pkitem-coupon-2{
+.pkitem-coupon-2 {
   @include sprite-rect(21px, 17px, -88px, -346px);
 }
-.pkitem-coupon-3{
+.pkitem-coupon-3 {
   @include sprite-rect(21px, 17px, -111px, -346px);
 }
-.pkitem-deep-sea-scale{
+.pkitem-deep-sea-scale {
   @include sprite-rect(20px, 18px, -134px, -346px);
 }
-.pkitem-deep-sea-tooth{
+.pkitem-deep-sea-tooth {
   @include sprite-rect(20px, 19px, -156px, -346px);
 }
-.pkitem-devon-scope-gen3{
+.pkitem-devon-scope-gen3 {
   @include sprite-rect(22px, 16px, -178px, -346px);
 }
-.pkitem-devon-scope{
+.pkitem-devon-scope {
   @include sprite-rect(23px, 16px, -202px, -346px);
 }
-.pkitem-dragon-scale{
+.pkitem-dragon-scale {
   @include sprite-rect(22px, 16px, -227px, -346px);
 }
-.pkitem-dragon-skull{
+.pkitem-dragon-skull {
   @include sprite-rect(19px, 20px, -251px, -346px);
 }
-.pkitem-dusk-stone{
+.pkitem-dusk-stone {
   @include sprite-rect(19px, 19px, -272px, -346px);
 }
-.pkitem-dynamax-crystal{
+.pkitem-dynamax-crystal {
   @include sprite-rect(22px, 16px, -293px, -346px);
 }
-.pkitem-eject-button{
+.pkitem-eject-button {
   @include sprite-rect(20px, 18px, -317px, -346px);
 }
-.pkitem-elixir{
+.pkitem-elixir {
   @include sprite-rect(16px, 22px, -339px, -346px);
 }
-.pkitem-enigma-stone{
+.pkitem-enigma-stone {
   @include sprite-rect(20px, 19px, -357px, -346px);
 }
-.pkitem-eon-ticket{
+.pkitem-eon-ticket {
   @include sprite-rect(21px, 17px, -379px, -346px);
 }
-.pkitem-escape-rope{
+.pkitem-escape-rope {
   @include sprite-rect(21px, 17px, -402px, -346px);
 }
-.pkitem-ether{
+.pkitem-ether {
   @include sprite-rect(16px, 22px, -425px, -346px);
 }
-.pkitem-fame-checker{
+.pkitem-fame-checker {
   @include sprite-rect(22px, 17px, -443px, -346px);
 }
-.pkitem-festival-ticket{
+.pkitem-festival-ticket {
   @include sprite-rect(21px, 17px, -467px, -346px);
 }
-.pkitem-full-incense{
+.pkitem-full-incense {
   @include sprite-rect(20px, 19px, -490px, -346px);
 }
-.pkitem-full-restore{
+.pkitem-full-restore {
   @include sprite-rect(16px, 22px, -512px, -346px);
 }
-.pkitem-galactic-key{
+.pkitem-galactic-key {
   @include sprite-rect(21px, 17px, -530px, -346px);
 }
-.pkitem-go-goggles-gen3{
+.pkitem-go-goggles-gen3 {
   @include sprite-rect(22px, 16px, -553px, -346px);
 }
-.pkitem-gold-leaf{
+.pkitem-gold-leaf {
   @include sprite-rect(18px, 21px, -577px, -346px);
 }
-.pkitem-gold-teeth{
+.pkitem-gold-teeth {
   @include sprite-rect(19px, 20px, -597px, -346px);
 }
-.pkitem-heavy-ball{
+.pkitem-heavy-ball {
   @include sprite-rect(20px, 18px, -618px, -346px);
 }
-.pkitem-instant-noodles{
+.pkitem-instant-noodles {
   @include sprite-rect(18px, 20px, -640px, -346px);
 }
-.pkitem-kebia-berry{
+.pkitem-kebia-berry {
   @include sprite-rect(19px, 19px, 0px, -370px);
 }
-.pkitem-lax-incense{
+.pkitem-lax-incense {
   @include sprite-rect(20px, 19px, -21px, -370px);
 }
-.pkitem-liberty-pass{
+.pkitem-liberty-pass {
   @include sprite-rect(21px, 17px, -43px, -370px);
 }
-.pkitem-liechi-berry{
+.pkitem-liechi-berry {
   @include sprite-rect(20px, 19px, -66px, -370px);
 }
-.pkitem-lift-key{
+.pkitem-lift-key {
   @include sprite-rect(20px, 19px, -88px, -370px);
 }
-.pkitem-lock-capsule-gen4{
+.pkitem-lock-capsule-gen4 {
   @include sprite-rect(20px, 18px, -110px, -370px);
 }
-.pkitem-loot-sack{
+.pkitem-loot-sack {
   @include sprite-rect(18px, 21px, -132px, -370px);
 }
-.pkitem-luck-incense{
+.pkitem-luck-incense {
   @include sprite-rect(20px, 19px, -152px, -370px);
 }
-.pkitem-machine-part{
+.pkitem-machine-part {
   @include sprite-rect(19px, 20px, -174px, -370px);
 }
-.pkitem-magma-emblem{
+.pkitem-magma-emblem {
   @include sprite-rect(20px, 19px, -195px, -370px);
 }
-.pkitem-magma-stone{
+.pkitem-magma-stone {
   @include sprite-rect(20px, 18px, -217px, -370px);
 }
-.pkitem-makeup-bag{
+.pkitem-makeup-bag {
   @include sprite-rect(22px, 16px, -239px, -370px);
 }
-.pkitem-max-elixir{
+.pkitem-max-elixir {
   @include sprite-rect(16px, 22px, -263px, -370px);
 }
-.pkitem-max-ether{
+.pkitem-max-ether {
   @include sprite-rect(16px, 22px, -281px, -370px);
 }
-.pkitem-max-potion{
+.pkitem-max-potion {
   @include sprite-rect(16px, 22px, -299px, -370px);
 }
-.pkitem-medal-box{
+.pkitem-medal-box {
   @include sprite-rect(22px, 17px, -317px, -370px);
 }
-.pkitem-meteorite{
+.pkitem-meteorite {
   @include sprite-rect(18px, 20px, -341px, -370px);
 }
-.pkitem-mixed-mushrooms{
+.pkitem-mixed-mushrooms {
   @include sprite-rect(18px, 21px, -361px, -370px);
 }
-.pkitem-mystic-water{
+.pkitem-mystic-water {
   @include sprite-rect(18px, 21px, -381px, -370px);
 }
-.pkitem-mysticticket{
+.pkitem-mysticticket {
   @include sprite-rect(21px, 17px, -401px, -370px);
 }
-.pkitem-oaks-parcel{
+.pkitem-oaks-parcel {
   @include sprite-rect(20px, 19px, -424px, -370px);
 }
-.pkitem-odd-incense{
+.pkitem-odd-incense {
   @include sprite-rect(20px, 19px, -446px, -370px);
 }
-.pkitem-odd-keystone{
+.pkitem-odd-keystone {
   @include sprite-rect(20px, 19px, -468px, -370px);
 }
-.pkitem-old-amber-fossil{
+.pkitem-old-amber-fossil {
   @include sprite-rect(20px, 19px, -490px, -370px);
 }
-.pkitem-old-amber{
+.pkitem-old-amber {
   @include sprite-rect(20px, 19px, -512px, -370px);
 }
-.pkitem-pack-of-potatoes{
+.pkitem-pack-of-potatoes {
   @include sprite-rect(18px, 21px, -534px, -370px);
 }
-.pkitem-packaged-curry{
+.pkitem-packaged-curry {
   @include sprite-rect(18px, 20px, -554px, -370px);
 }
-.pkitem-pair-of-tickets{
+.pkitem-pair-of-tickets {
   @include sprite-rect(21px, 17px, -574px, -370px);
 }
-.pkitem-parcel{
+.pkitem-parcel {
   @include sprite-rect(20px, 19px, -597px, -370px);
 }
-.pkitem-passho-berry{
+.pkitem-passho-berry {
   @include sprite-rect(20px, 18px, -619px, -370px);
 }
-.pkitem-permit{
+.pkitem-permit {
   @include sprite-rect(21px, 17px, 0px, -394px);
 }
-.pkitem-plasma-card{
+.pkitem-plasma-card {
   @include sprite-rect(21px, 17px, -23px, -394px);
 }
-.pkitem-point-card{
+.pkitem-point-card {
   @include sprite-rect(21px, 17px, -46px, -394px);
 }
-.pkitem-poison-barb{
+.pkitem-poison-barb {
   @include sprite-rect(19px, 19px, -69px, -394px);
 }
-.pkitem-power-plant-pass{
+.pkitem-power-plant-pass {
   @include sprite-rect(21px, 17px, -90px, -394px);
 }
-.pkitem-pure-incense{
+.pkitem-pure-incense {
   @include sprite-rect(20px, 19px, -113px, -394px);
 }
-.pkitem-qualot-berry{
+.pkitem-qualot-berry {
   @include sprite-rect(19px, 19px, -135px, -394px);
 }
-.pkitem-rage-candy-bar{
+.pkitem-rage-candy-bar {
   @include sprite-rect(20px, 18px, -156px, -394px);
 }
-.pkitem-rainbow-pass{
+.pkitem-rainbow-pass {
   @include sprite-rect(21px, 17px, -178px, -394px);
 }
-.pkitem-rindo-berry{
+.pkitem-rindo-berry {
   @include sprite-rect(19px, 20px, -201px, -394px);
 }
-.pkitem-rock-incense{
+.pkitem-rock-incense {
   @include sprite-rect(20px, 19px, -222px, -394px);
 }
-.pkitem-rocky-helmet{
+.pkitem-rocky-helmet {
   @include sprite-rect(20px, 18px, -244px, -394px);
 }
-.pkitem-rose-incense{
+.pkitem-rose-incense {
   @include sprite-rect(20px, 19px, -266px, -394px);
 }
-.pkitem-roseli-berry{
+.pkitem-roseli-berry {
   @include sprite-rect(19px, 19px, -288px, -394px);
 }
-.pkitem-ruby{
+.pkitem-ruby {
   @include sprite-rect(20px, 19px, -309px, -394px);
 }
-.pkitem-safety-goggles{
+.pkitem-safety-goggles {
   @include sprite-rect(23px, 16px, -331px, -394px);
 }
-.pkitem-salad-mix{
+.pkitem-salad-mix {
   @include sprite-rect(18px, 21px, -356px, -394px);
 }
-.pkitem-sapphire{
+.pkitem-sapphire {
   @include sprite-rect(20px, 19px, -376px, -394px);
 }
-.pkitem-sausages{
+.pkitem-sausages {
   @include sprite-rect(20px, 19px, -398px, -394px);
 }
-.pkitem-sea-incense{
+.pkitem-sea-incense {
   @include sprite-rect(20px, 19px, -420px, -394px);
 }
-.pkitem-secret-potion{
+.pkitem-secret-potion {
   @include sprite-rect(21px, 18px, -442px, -394px);
 }
-.pkitem-shalour-sable{
+.pkitem-shalour-sable {
   @include sprite-rect(19px, 20px, -465px, -394px);
 }
-.pkitem-shell-bell{
+.pkitem-shell-bell {
   @include sprite-rect(21px, 18px, -486px, -394px);
 }
-.pkitem-shiny-stone{
+.pkitem-shiny-stone {
   @include sprite-rect(19px, 19px, -509px, -394px);
 }
-.pkitem-shuca-berry{
+.pkitem-shuca-berry {
   @include sprite-rect(19px, 20px, -530px, -394px);
 }
-.pkitem-silver-leaf{
+.pkitem-silver-leaf {
   @include sprite-rect(18px, 21px, -551px, -394px);
 }
-.pkitem-sitrus-berry{
+.pkitem-sitrus-berry {
   @include sprite-rect(18px, 20px, -571px, -394px);
 }
-.pkitem-smoke-poke-tail{
+.pkitem-smoke-poke-tail {
   @include sprite-rect(20px, 18px, -591px, -394px);
 }
-.pkitem-soot-sack{
+.pkitem-soot-sack {
   @include sprite-rect(18px, 21px, -613px, -394px);
 }
-.pkitem-sprinklotad{
+.pkitem-sprinklotad {
   @include sprite-rect(22px, 16px, -633px, -394px);
 }
-.pkitem-squirt-bottle{
+.pkitem-squirt-bottle {
   @include sprite-rect(22px, 17px, 0px, -417px);
 }
-.pkitem-ss-ticket{
+.pkitem-ss-ticket {
   @include sprite-rect(21px, 17px, -24px, -417px);
 }
-.pkitem-suite-key{
+.pkitem-suite-key {
   @include sprite-rect(20px, 19px, -47px, -417px);
 }
-.pkitem-sweet-apple{
+.pkitem-sweet-apple {
   @include sprite-rect(20px, 19px, -69px, -417px);
 }
-.pkitem-tart-apple{
+.pkitem-tart-apple {
   @include sprite-rect(20px, 19px, -91px, -417px);
 }
-.pkitem-throat-spray{
+.pkitem-throat-spray {
   @include sprite-rect(18px, 21px, -113px, -417px);
 }
-.pkitem-tri-pass{
+.pkitem-tri-pass {
   @include sprite-rect(21px, 17px, -133px, -417px);
 }
-.pkitem-wacan-berry{
+.pkitem-wacan-berry {
   @include sprite-rect(20px, 19px, -156px, -417px);
 }
-.pkitem-wave-incense{
+.pkitem-wave-incense {
   @include sprite-rect(20px, 19px, -178px, -417px);
 }
-.pkitem-zoom-lens{
+.pkitem-zoom-lens {
   @include sprite-rect(19px, 19px, -200px, -417px);
 }
-.pkitem-aguav-berry{
+.pkitem-aguav-berry {
   @include sprite-rect(19px, 22px, -221px, -417px);
 }
-.pkitem-air-balloon{
+.pkitem-air-balloon {
   @include sprite-rect(18px, 22px, -242px, -417px);
 }
-.pkitem-amulet-coin{
+.pkitem-amulet-coin {
   @include sprite-rect(21px, 19px, -262px, -417px);
 }
-.pkitem-armorite-ore{
+.pkitem-armorite-ore {
   @include sprite-rect(18px, 22px, -285px, -417px);
 }
-.pkitem-aspear-berry{
+.pkitem-aspear-berry {
   @include sprite-rect(20px, 20px, -305px, -417px);
 }
-.pkitem-autograph{
+.pkitem-autograph {
   @include sprite-rect(22px, 19px, -327px, -417px);
 }
-.pkitem-bachs-food-tin{
+.pkitem-bachs-food-tin {
   @include sprite-rect(23px, 18px, -351px, -417px);
 }
-.pkitem-black-belt{
+.pkitem-black-belt {
   @include sprite-rect(20px, 21px, -376px, -417px);
 }
-.pkitem-bluk-berry{
+.pkitem-bluk-berry {
   @include sprite-rect(20px, 21px, -398px, -417px);
 }
-.pkitem-bobs-food-tin{
+.pkitem-bobs-food-tin {
   @include sprite-rect(17px, 24px, -420px, -417px);
 }
-.pkitem-bright-powder{
+.pkitem-bright-powder {
   @include sprite-rect(22px, 18px, -439px, -417px);
 }
-.pkitem-bug-memory{
+.pkitem-bug-memory {
   @include sprite-rect(20px, 20px, -463px, -417px);
 }
-.pkitem-bug-tm{
+.pkitem-bug-tm {
   @include sprite-rect(20px, 20px, -485px, -417px);
 }
-.pkitem-bug-tr{
+.pkitem-bug-tr {
   @include sprite-rect(20px, 20px, -507px, -417px);
 }
-.pkitem-catching-charm{
+.pkitem-catching-charm {
   @include sprite-rect(19px, 22px, -529px, -417px);
 }
-.pkitem-charcoal{
+.pkitem-charcoal {
   @include sprite-rect(20px, 20px, -550px, -417px);
 }
-.pkitem-claw-fossil{
+.pkitem-claw-fossil {
   @include sprite-rect(21px, 19px, -572px, -417px);
 }
-.pkitem-clear-bell{
+.pkitem-clear-bell {
   @include sprite-rect(22px, 19px, -595px, -417px);
 }
-.pkitem-colbur-berry{
+.pkitem-colbur-berry {
   @include sprite-rect(20px, 20px, -619px, -417px);
 }
-.pkitem-colress-machine{
+.pkitem-colress-machine {
   @include sprite-rect(19px, 22px, -641px, -417px);
 }
-.pkitem-cover-fossil{
+.pkitem-cover-fossil {
   @include sprite-rect(21px, 20px, 0px, -443px);
 }
-.pkitem-custap-berry{
+.pkitem-custap-berry {
   @include sprite-rect(20px, 20px, -23px, -443px);
 }
-.pkitem-dark-memory{
+.pkitem-dark-memory {
   @include sprite-rect(20px, 20px, -45px, -443px);
 }
-.pkitem-dark-tm{
+.pkitem-dark-tm {
   @include sprite-rect(20px, 20px, -67px, -443px);
 }
-.pkitem-dark-tr{
+.pkitem-dark-tr {
   @include sprite-rect(20px, 20px, -89px, -443px);
 }
-.pkitem-devon-goods{
+.pkitem-devon-goods {
   @include sprite-rect(19px, 22px, -111px, -443px);
 }
-.pkitem-devon-parts{
+.pkitem-devon-parts {
   @include sprite-rect(19px, 22px, -132px, -443px);
 }
-.pkitem-dire-hit{
+.pkitem-dire-hit {
   @include sprite-rect(20px, 20px, -153px, -443px);
 }
-.pkitem-dna-splicers{
+.pkitem-dna-splicers {
   @include sprite-rect(20px, 20px, -175px, -443px);
 }
-.pkitem-dome-fossil{
+.pkitem-dome-fossil {
   @include sprite-rect(20px, 21px, -197px, -443px);
 }
-.pkitem-dragon-fang{
+.pkitem-dragon-fang {
   @include sprite-rect(19px, 21px, -219px, -443px);
 }
-.pkitem-dragon-memory{
+.pkitem-dragon-memory {
   @include sprite-rect(20px, 20px, -240px, -443px);
 }
-.pkitem-dragon-tm{
+.pkitem-dragon-tm {
   @include sprite-rect(20px, 20px, -262px, -443px);
 }
-.pkitem-dragon-tr{
+.pkitem-dragon-tr {
   @include sprite-rect(20px, 20px, -284px, -443px);
 }
-.pkitem-dropped-item--red{
+.pkitem-dropped-item--red {
   @include sprite-rect(19px, 21px, -306px, -443px);
 }
-.pkitem-dropped-item--yellow{
+.pkitem-dropped-item--yellow {
   @include sprite-rect(19px, 21px, -327px, -443px);
 }
-.pkitem-dropped-item{
+.pkitem-dropped-item {
   @include sprite-rect(19px, 21px, -348px, -443px);
 }
-.pkitem-dynamax-candy{
+.pkitem-dynamax-candy {
   @include sprite-rect(20px, 21px, -369px, -443px);
 }
-.pkitem-electirizer{
+.pkitem-electirizer {
   @include sprite-rect(20px, 20px, -391px, -443px);
 }
-.pkitem-electric-memory{
+.pkitem-electric-memory {
   @include sprite-rect(20px, 20px, -413px, -443px);
 }
-.pkitem-electric-seed{
+.pkitem-electric-seed {
   @include sprite-rect(25px, 15px, -435px, -443px);
 }
-.pkitem-electric-tm{
+.pkitem-electric-tm {
   @include sprite-rect(20px, 20px, -462px, -443px);
 }
-.pkitem-electric-tr{
+.pkitem-electric-tr {
   @include sprite-rect(20px, 20px, -484px, -443px);
 }
-.pkitem-enigma-berry{
+.pkitem-enigma-berry {
   @include sprite-rect(20px, 20px, -506px, -443px);
 }
-.pkitem-enigmatic-card{
+.pkitem-enigmatic-card {
   @include sprite-rect(22px, 18px, -528px, -443px);
 }
-.pkitem-exp-candy-xl{
+.pkitem-exp-candy-xl {
   @include sprite-rect(21px, 20px, -552px, -443px);
 }
-.pkitem-fairy-memory{
+.pkitem-fairy-memory {
   @include sprite-rect(20px, 20px, -575px, -443px);
 }
-.pkitem-fairy-tm{
+.pkitem-fairy-tm {
   @include sprite-rect(20px, 20px, -597px, -443px);
 }
-.pkitem-fairy-tr{
+.pkitem-fairy-tr {
   @include sprite-rect(20px, 20px, -619px, -443px);
 }
-.pkitem-fighting-hm{
+.pkitem-fighting-hm {
   @include sprite-rect(20px, 20px, -641px, -443px);
 }
-.pkitem-fighting-memory{
+.pkitem-fighting-memory {
   @include sprite-rect(20px, 20px, 0px, -467px);
 }
-.pkitem-fighting-tm{
+.pkitem-fighting-tm {
   @include sprite-rect(20px, 20px, -22px, -467px);
 }
-.pkitem-fighting-tr{
+.pkitem-fighting-tr {
   @include sprite-rect(20px, 20px, -44px, -467px);
 }
-.pkitem-fire-memory{
+.pkitem-fire-memory {
   @include sprite-rect(20px, 20px, -66px, -467px);
 }
-.pkitem-fire-stone{
+.pkitem-fire-stone {
   @include sprite-rect(20px, 21px, -88px, -467px);
 }
-.pkitem-fire-tm{
+.pkitem-fire-tm {
   @include sprite-rect(20px, 20px, -110px, -467px);
 }
-.pkitem-fire-tr{
+.pkitem-fire-tr {
   @include sprite-rect(20px, 20px, -132px, -467px);
 }
-.pkitem-flying-hm{
+.pkitem-flying-hm {
   @include sprite-rect(20px, 20px, -154px, -467px);
 }
-.pkitem-flying-memory{
+.pkitem-flying-memory {
   @include sprite-rect(20px, 20px, -176px, -467px);
 }
-.pkitem-flying-tm{
+.pkitem-flying-tm {
   @include sprite-rect(20px, 20px, -198px, -467px);
 }
-.pkitem-flying-tr{
+.pkitem-flying-tr {
   @include sprite-rect(20px, 20px, -220px, -467px);
 }
-.pkitem-focus-sash{
+.pkitem-focus-sash {
   @include sprite-rect(20px, 21px, -242px, -467px);
 }
-.pkitem-fresh-cream{
+.pkitem-fresh-cream {
   @include sprite-rect(20px, 20px, -264px, -467px);
 }
-.pkitem-fried-food{
+.pkitem-fried-food {
   @include sprite-rect(25px, 16px, -286px, -467px);
 }
-.pkitem-ganlon-berry{
+.pkitem-ganlon-berry {
   @include sprite-rect(20px, 20px, -313px, -467px);
 }
-.pkitem-ghost-memory{
+.pkitem-ghost-memory {
   @include sprite-rect(20px, 20px, -335px, -467px);
 }
-.pkitem-ghost-tm{
+.pkitem-ghost-tm {
   @include sprite-rect(20px, 20px, -357px, -467px);
 }
-.pkitem-ghost-tr{
+.pkitem-ghost-tr {
   @include sprite-rect(20px, 20px, -379px, -467px);
 }
-.pkitem-golden-razz-berry{
+.pkitem-golden-razz-berry {
   @include sprite-rect(19px, 21px, -401px, -467px);
 }
-.pkitem-gram-1{
+.pkitem-gram-1 {
   @include sprite-rect(22px, 19px, -422px, -467px);
 }
-.pkitem-gram-2{
+.pkitem-gram-2 {
   @include sprite-rect(22px, 19px, -446px, -467px);
 }
-.pkitem-gram-3{
+.pkitem-gram-3 {
   @include sprite-rect(22px, 19px, -470px, -467px);
 }
-.pkitem-grass-memory{
+.pkitem-grass-memory {
   @include sprite-rect(20px, 20px, -494px, -467px);
 }
-.pkitem-grass-tm{
+.pkitem-grass-tm {
   @include sprite-rect(20px, 20px, -516px, -467px);
 }
-.pkitem-grass-tr{
+.pkitem-grass-tr {
   @include sprite-rect(20px, 20px, -538px, -467px);
 }
-.pkitem-grassy-seed{
+.pkitem-grassy-seed {
   @include sprite-rect(25px, 15px, -560px, -467px);
 }
-.pkitem-grepa-berry{
+.pkitem-grepa-berry {
   @include sprite-rect(21px, 20px, -587px, -467px);
 }
-.pkitem-ground-memory{
+.pkitem-ground-memory {
   @include sprite-rect(20px, 20px, -610px, -467px);
 }
-.pkitem-ground-tm{
+.pkitem-ground-tm {
   @include sprite-rect(20px, 20px, -632px, -467px);
 }
-.pkitem-ground-tr{
+.pkitem-ground-tr {
   @include sprite-rect(20px, 20px, -654px, -467px);
 }
-.pkitem-guard-spec{
+.pkitem-guard-spec {
   @include sprite-rect(20px, 20px, 0px, -490px);
 }
-.pkitem-haban-berry{
+.pkitem-haban-berry {
   @include sprite-rect(20px, 20px, -22px, -490px);
 }
-.pkitem-helix-fossil{
+.pkitem-helix-fossil {
   @include sprite-rect(20px, 21px, -44px, -490px);
 }
-.pkitem-hi-tech-earbuds{
+.pkitem-hi-tech-earbuds {
   @include sprite-rect(25px, 15px, -66px, -490px);
 }
-.pkitem-hondew-berry{
+.pkitem-hondew-berry {
   @include sprite-rect(20px, 21px, -93px, -490px);
 }
-.pkitem-honey{
+.pkitem-honey {
   @include sprite-rect(20px, 20px, -115px, -490px);
 }
-.pkitem-ice-memory{
+.pkitem-ice-memory {
   @include sprite-rect(20px, 20px, -137px, -490px);
 }
-.pkitem-ice-stone{
+.pkitem-ice-stone {
   @include sprite-rect(20px, 20px, -159px, -490px);
 }
-.pkitem-ice-tm{
+.pkitem-ice-tm {
   @include sprite-rect(20px, 20px, -181px, -490px);
 }
-.pkitem-ice-tr{
+.pkitem-ice-tr {
   @include sprite-rect(20px, 20px, -203px, -490px);
 }
-.pkitem-jaboca-berry{
+.pkitem-jaboca-berry {
   @include sprite-rect(20px, 20px, -225px, -490px);
 }
-.pkitem-key-stone{
+.pkitem-key-stone {
   @include sprite-rect(18px, 22px, -247px, -490px);
 }
-.pkitem-key-to-room-1{
+.pkitem-key-to-room-1 {
   @include sprite-rect(21px, 19px, -267px, -490px);
 }
-.pkitem-key-to-room-2{
+.pkitem-key-to-room-2 {
   @include sprite-rect(21px, 19px, -290px, -490px);
 }
-.pkitem-key-to-room-4{
+.pkitem-key-to-room-4 {
   @include sprite-rect(21px, 19px, -313px, -490px);
 }
-.pkitem-key-to-room-6{
+.pkitem-key-to-room-6 {
   @include sprite-rect(21px, 19px, -336px, -490px);
 }
-.pkitem-kommonium-z{
+.pkitem-kommonium-z {
   @include sprite-rect(28px, 13px, -359px, -490px);
 }
-.pkitem-lansat-berry{
+.pkitem-lansat-berry {
   @include sprite-rect(19px, 21px, -389px, -490px);
 }
-.pkitem-leaf-stone{
+.pkitem-leaf-stone {
   @include sprite-rect(19px, 21px, -410px, -490px);
 }
-.pkitem-letter{
+.pkitem-letter {
   @include sprite-rect(22px, 19px, -431px, -490px);
 }
-.pkitem-lunalium-z{
+.pkitem-lunalium-z {
   @include sprite-rect(28px, 13px, -455px, -490px);
 }
-.pkitem-lunar-wing{
+.pkitem-lunar-wing {
   @include sprite-rect(21px, 20px, -485px, -490px);
 }
-.pkitem-lycanium-z{
+.pkitem-lycanium-z {
   @include sprite-rect(28px, 13px, -508px, -490px);
 }
-.pkitem-magmarizer{
+.pkitem-magmarizer {
   @include sprite-rect(20px, 20px, -538px, -490px);
 }
-.pkitem-mega-charm{
+.pkitem-mega-charm {
   @include sprite-rect(21px, 20px, -560px, -490px);
 }
-.pkitem-mega-cuff{
+.pkitem-mega-cuff {
   @include sprite-rect(22px, 19px, -583px, -490px);
 }
-.pkitem-member-card{
+.pkitem-member-card {
   @include sprite-rect(21px, 20px, -607px, -490px);
 }
-.pkitem-metal-powder{
+.pkitem-metal-powder {
   @include sprite-rect(22px, 18px, -630px, -490px);
 }
-.pkitem-mimikium-z{
+.pkitem-mimikium-z {
   @include sprite-rect(28px, 13px, -654px, -490px);
 }
-.pkitem-misty-seed{
+.pkitem-misty-seed {
   @include sprite-rect(25px, 15px, -684px, -490px);
 }
-.pkitem-moon-flute{
+.pkitem-moon-flute {
   @include sprite-rect(20px, 20px, 0px, -514px);
 }
-.pkitem-moon-stone{
+.pkitem-moon-stone {
   @include sprite-rect(21px, 19px, -22px, -514px);
 }
-.pkitem-n-lunarizer{
+.pkitem-n-lunarizer {
   @include sprite-rect(21px, 19px, -45px, -514px);
 }
-.pkitem-n-solarizer{
+.pkitem-n-solarizer {
   @include sprite-rect(21px, 19px, -68px, -514px);
 }
-.pkitem-never-melt-ice{
+.pkitem-never-melt-ice {
   @include sprite-rect(20px, 21px, -91px, -514px);
 }
-.pkitem-nomel-berry{
+.pkitem-nomel-berry {
   @include sprite-rect(20px, 20px, -113px, -514px);
 }
-.pkitem-normal-hm{
+.pkitem-normal-hm {
   @include sprite-rect(20px, 20px, -135px, -514px);
 }
-.pkitem-normal-tm{
+.pkitem-normal-tm {
   @include sprite-rect(20px, 20px, -157px, -514px);
 }
-.pkitem-normal-tr{
+.pkitem-normal-tr {
   @include sprite-rect(20px, 20px, -179px, -514px);
 }
-.pkitem-oaks-letter{
+.pkitem-oaks-letter {
   @include sprite-rect(22px, 19px, -201px, -514px);
 }
-.pkitem-old-charm{
+.pkitem-old-charm {
   @include sprite-rect(20px, 20px, -225px, -514px);
 }
-.pkitem-oval-charm{
+.pkitem-oval-charm {
   @include sprite-rect(19px, 22px, -247px, -514px);
 }
-.pkitem-pasta{
+.pkitem-pasta {
   @include sprite-rect(19px, 21px, -268px, -514px);
 }
-.pkitem-pecha-berry{
+.pkitem-pecha-berry {
   @include sprite-rect(20px, 20px, -289px, -514px);
 }
-.pkitem-persim-berry{
+.pkitem-persim-berry {
   @include sprite-rect(20px, 20px, -311px, -514px);
 }
-.pkitem-petaya-berry{
+.pkitem-petaya-berry {
   @include sprite-rect(20px, 21px, -333px, -514px);
 }
-.pkitem-poison-memory{
+.pkitem-poison-memory {
   @include sprite-rect(20px, 20px, -355px, -514px);
 }
-.pkitem-poison-tm{
+.pkitem-poison-tm {
   @include sprite-rect(20px, 20px, -377px, -514px);
 }
-.pkitem-poison-tr{
+.pkitem-poison-tr {
   @include sprite-rect(20px, 20px, -399px, -514px);
 }
-.pkitem-poke-toy{
+.pkitem-poke-toy {
   @include sprite-rect(18px, 22px, -421px, -514px);
 }
-.pkitem-pomeg-berry{
+.pkitem-pomeg-berry {
   @include sprite-rect(19px, 21px, -441px, -514px);
 }
-.pkitem-profs-letter{
+.pkitem-profs-letter {
   @include sprite-rect(22px, 19px, -462px, -514px);
 }
-.pkitem-protector{
+.pkitem-protector {
   @include sprite-rect(20px, 20px, -486px, -514px);
 }
-.pkitem-psychic-memory{
+.pkitem-psychic-memory {
   @include sprite-rect(20px, 20px, -508px, -514px);
 }
-.pkitem-psychic-seed{
+.pkitem-psychic-seed {
   @include sprite-rect(25px, 15px, -530px, -514px);
 }
-.pkitem-psychic-tm{
+.pkitem-psychic-tm {
   @include sprite-rect(20px, 20px, -557px, -514px);
 }
-.pkitem-psychic-tr{
+.pkitem-psychic-tr {
   @include sprite-rect(20px, 20px, -579px, -514px);
 }
-.pkitem-pungent-root{
+.pkitem-pungent-root {
   @include sprite-rect(20px, 21px, -601px, -514px);
 }
-.pkitem-quick-powder{
+.pkitem-quick-powder {
   @include sprite-rect(22px, 18px, -623px, -514px);
 }
-.pkitem-rare-bone{
+.pkitem-rare-bone {
   @include sprite-rect(20px, 20px, -647px, -514px);
 }
-.pkitem-rawst-berry{
+.pkitem-rawst-berry {
   @include sprite-rect(21px, 20px, 0px, -538px);
 }
-.pkitem-razz-berry{
+.pkitem-razz-berry {
   @include sprite-rect(19px, 21px, -23px, -538px);
 }
-.pkitem-razz-gen3-berry{
+.pkitem-razz-gen3-berry {
   @include sprite-rect(20px, 20px, -44px, -538px);
 }
-.pkitem-reaper-cloth{
+.pkitem-reaper-cloth {
   @include sprite-rect(20px, 21px, -66px, -538px);
 }
-.pkitem-red-orb{
+.pkitem-red-orb {
   @include sprite-rect(18px, 22px, -88px, -538px);
 }
-.pkitem-rm-1-key{
+.pkitem-rm-1-key {
   @include sprite-rect(21px, 19px, -108px, -538px);
 }
-.pkitem-rm-2-key{
+.pkitem-rm-2-key {
   @include sprite-rect(21px, 19px, -131px, -538px);
 }
-.pkitem-rm-4-key{
+.pkitem-rm-4-key {
   @include sprite-rect(21px, 19px, -154px, -538px);
 }
-.pkitem-rm-6-key{
+.pkitem-rm-6-key {
   @include sprite-rect(21px, 19px, -177px, -538px);
 }
-.pkitem-rock-memory{
+.pkitem-rock-memory {
   @include sprite-rect(20px, 20px, -200px, -538px);
 }
-.pkitem-rock-tm{
+.pkitem-rock-tm {
   @include sprite-rect(20px, 20px, -222px, -538px);
 }
-.pkitem-rock-tr{
+.pkitem-rock-tr {
   @include sprite-rect(20px, 20px, -244px, -538px);
 }
-.pkitem-rusted-shield{
+.pkitem-rusted-shield {
   @include sprite-rect(22px, 18px, -266px, -538px);
 }
-.pkitem-rusted-sword{
+.pkitem-rusted-sword {
   @include sprite-rect(21px, 20px, -290px, -538px);
 }
-.pkitem-sacred-ash{
+.pkitem-sacred-ash {
   @include sprite-rect(22px, 18px, -313px, -538px);
 }
-.pkitem-secret-key-kanto{
+.pkitem-secret-key-kanto {
   @include sprite-rect(21px, 20px, -337px, -538px);
 }
-.pkitem-secret-key-sinnoh{
+.pkitem-secret-key-sinnoh {
   @include sprite-rect(19px, 21px, -360px, -538px);
 }
-.pkitem-sharp-beak{
+.pkitem-sharp-beak {
   @include sprite-rect(19px, 21px, -381px, -538px);
 }
-.pkitem-shed-shell{
+.pkitem-shed-shell {
   @include sprite-rect(20px, 20px, -402px, -538px);
 }
-.pkitem-shiny-charm{
+.pkitem-shiny-charm {
   @include sprite-rect(19px, 22px, -424px, -538px);
 }
-.pkitem-shoal-shell{
+.pkitem-shoal-shell {
   @include sprite-rect(20px, 20px, -445px, -538px);
 }
-.pkitem-silph-scope-gen3{
+.pkitem-silph-scope-gen3 {
   @include sprite-rect(22px, 18px, -467px, -538px);
 }
-.pkitem-silver-razz-berry{
+.pkitem-silver-razz-berry {
   @include sprite-rect(19px, 21px, -491px, -538px);
 }
-.pkitem-soft-sand{
+.pkitem-soft-sand {
   @include sprite-rect(22px, 18px, -512px, -538px);
 }
-.pkitem-solganium-z{
+.pkitem-solganium-z {
   @include sprite-rect(28px, 13px, -536px, -538px);
 }
-.pkitem-sparkling-stone-sm{
+.pkitem-sparkling-stone-sm {
   @include sprite-rect(19px, 21px, -566px, -538px);
 }
-.pkitem-sparkling-stone{
+.pkitem-sparkling-stone {
   @include sprite-rect(19px, 21px, -587px, -538px);
 }
-.pkitem-spelon-berry{
+.pkitem-spelon-berry {
   @include sprite-rect(20px, 21px, -608px, -538px);
 }
-.pkitem-stardust{
+.pkitem-stardust {
   @include sprite-rect(22px, 18px, -630px, -538px);
 }
-.pkitem-starf-berry{
+.pkitem-starf-berry {
   @include sprite-rect(20px, 20px, -654px, -538px);
 }
-.pkitem-steel-memory{
+.pkitem-steel-memory {
   @include sprite-rect(20px, 20px, 0px, -562px);
 }
-.pkitem-steel-tm{
+.pkitem-steel-tm {
   @include sprite-rect(20px, 20px, -22px, -562px);
 }
-.pkitem-steel-tr{
+.pkitem-steel-tr {
   @include sprite-rect(20px, 20px, -44px, -562px);
 }
-.pkitem-storage-key--galactic-warehouse{
+.pkitem-storage-key--galactic-warehouse {
   @include sprite-rect(19px, 22px, -66px, -562px);
 }
-.pkitem-storage-key--sea-mauville{
+.pkitem-storage-key--sea-mauville {
   @include sprite-rect(19px, 21px, -87px, -562px);
 }
-.pkitem-storage-key{
+.pkitem-storage-key {
   @include sprite-rect(19px, 21px, -108px, -562px);
 }
-.pkitem-sun-flute{
+.pkitem-sun-flute {
   @include sprite-rect(20px, 20px, -129px, -562px);
 }
-.pkitem-tamato-berry{
+.pkitem-tamato-berry {
   @include sprite-rect(20px, 21px, -151px, -562px);
 }
-.pkitem-tanga-berry{
+.pkitem-tanga-berry {
   @include sprite-rect(20px, 20px, -173px, -562px);
 }
-.pkitem-thick-club{
+.pkitem-thick-club {
   @include sprite-rect(20px, 20px, -195px, -562px);
 }
-.pkitem-thunder-stone{
+.pkitem-thunder-stone {
   @include sprite-rect(20px, 20px, -217px, -562px);
 }
-.pkitem-tm-case{
+.pkitem-tm-case {
   @include sprite-rect(22px, 18px, -239px, -562px);
 }
-.pkitem-town-map-gen3{
+.pkitem-town-map-gen3 {
   @include sprite-rect(21px, 19px, -263px, -562px);
 }
-.pkitem-tropical-shell{
+.pkitem-tropical-shell {
   @include sprite-rect(22px, 18px, -286px, -562px);
 }
-.pkitem-ultranecrozium-z{
+.pkitem-ultranecrozium-z {
   @include sprite-rect(28px, 13px, -310px, -562px);
 }
-.pkitem-wailmer-pail{
+.pkitem-wailmer-pail {
   @include sprite-rect(22px, 18px, -340px, -562px);
 }
-.pkitem-water-hm{
+.pkitem-water-hm {
   @include sprite-rect(20px, 20px, -364px, -562px);
 }
-.pkitem-water-memory{
+.pkitem-water-memory {
   @include sprite-rect(20px, 20px, -386px, -562px);
 }
-.pkitem-water-stone{
+.pkitem-water-stone {
   @include sprite-rect(20px, 20px, -408px, -562px);
 }
-.pkitem-water-tm{
+.pkitem-water-tm {
   @include sprite-rect(20px, 20px, -430px, -562px);
 }
-.pkitem-water-tr{
+.pkitem-water-tr {
   @include sprite-rect(20px, 20px, -452px, -562px);
 }
-.pkitem-whipped-dream{
+.pkitem-whipped-dream {
   @include sprite-rect(19px, 21px, -474px, -562px);
 }
-.pkitem-wide-lens{
+.pkitem-wide-lens {
   @include sprite-rect(20px, 21px, -495px, -562px);
 }
-.pkitem-x-accuracy{
+.pkitem-x-accuracy {
   @include sprite-rect(20px, 20px, -517px, -562px);
 }
-.pkitem-x-attack{
+.pkitem-x-attack {
   @include sprite-rect(20px, 20px, -539px, -562px);
 }
-.pkitem-x-defense{
+.pkitem-x-defense {
   @include sprite-rect(20px, 20px, -561px, -562px);
 }
-.pkitem-x-sp-atk{
+.pkitem-x-sp-atk {
   @include sprite-rect(20px, 20px, -583px, -562px);
 }
-.pkitem-x-sp-def{
+.pkitem-x-sp-def {
   @include sprite-rect(20px, 20px, -605px, -562px);
 }
-.pkitem-x-speed{
+.pkitem-x-speed {
   @include sprite-rect(20px, 20px, -627px, -562px);
 }
-.pkitem-xtransceiver--blue{
+.pkitem-xtransceiver--blue {
   @include sprite-rect(19px, 21px, -649px, -562px);
 }
-.pkitem-xtransceiver--red{
+.pkitem-xtransceiver--red {
   @include sprite-rect(19px, 21px, 0px, -586px);
 }
-.pkitem-xtransceiver--yellow{
+.pkitem-xtransceiver--yellow {
   @include sprite-rect(19px, 21px, -21px, -586px);
 }
-.pkitem-xtransceiver{
+.pkitem-xtransceiver {
   @include sprite-rect(19px, 21px, -42px, -586px);
 }
-.pkitem-yache-berry{
+.pkitem-yache-berry {
   @include sprite-rect(20px, 21px, -63px, -586px);
 }
-.pkitem-azure-flute{
+.pkitem-azure-flute {
   @include sprite-rect(22px, 21px, -85px, -586px);
 }
-.pkitem-basement-key--goldenrod{
+.pkitem-basement-key--goldenrod {
   @include sprite-rect(22px, 21px, -109px, -586px);
 }
-.pkitem-belue-berry{
+.pkitem-belue-berry {
   @include sprite-rect(21px, 21px, -133px, -586px);
 }
-.pkitem-berry-pouch{
+.pkitem-berry-pouch {
   @include sprite-rect(21px, 21px, -156px, -586px);
 }
-.pkitem-bicycle{
+.pkitem-bicycle {
   @include sprite-rect(21px, 22px, -179px, -586px);
 }
-.pkitem-big-root{
+.pkitem-big-root {
   @include sprite-rect(21px, 22px, -202px, -586px);
 }
-.pkitem-black-flute{
+.pkitem-black-flute {
   @include sprite-rect(21px, 21px, -225px, -586px);
 }
-.pkitem-blue-flute{
+.pkitem-blue-flute {
   @include sprite-rect(21px, 21px, -248px, -586px);
 }
-.pkitem-boiled-egg{
+.pkitem-boiled-egg {
   @include sprite-rect(22px, 21px, -271px, -586px);
 }
-.pkitem-chipped-pot{
+.pkitem-chipped-pot {
   @include sprite-rect(24px, 18px, -295px, -586px);
 }
-.pkitem-coin-case{
+.pkitem-coin-case {
   @include sprite-rect(22px, 21px, -321px, -586px);
 }
-.pkitem-contest-costume--jacket{
+.pkitem-contest-costume--jacket {
   @include sprite-rect(27px, 15px, -345px, -586px);
 }
-.pkitem-cornn-berry{
+.pkitem-cornn-berry {
   @include sprite-rect(22px, 21px, -374px, -586px);
 }
-.pkitem-cracked-pot{
+.pkitem-cracked-pot {
   @include sprite-rect(24px, 18px, -398px, -586px);
 }
-.pkitem-destiny-knot{
+.pkitem-destiny-knot {
   @include sprite-rect(20px, 22px, -424px, -586px);
 }
-.pkitem-dowsing-machine-gen5{
+.pkitem-dowsing-machine-gen5 {
   @include sprite-rect(20px, 22px, -446px, -586px);
 }
-.pkitem-durin-berry{
+.pkitem-durin-berry {
   @include sprite-rect(21px, 22px, -468px, -586px);
 }
-.pkitem-dynamax-band{
+.pkitem-dynamax-band {
   @include sprite-rect(21px, 21px, -491px, -586px);
 }
-.pkitem-elevator-key{
+.pkitem-elevator-key {
   @include sprite-rect(23px, 19px, -514px, -586px);
 }
-.pkitem-energy-root{
+.pkitem-energy-root {
   @include sprite-rect(20px, 22px, -539px, -586px);
 }
-.pkitem-eon-flute{
+.pkitem-eon-flute {
   @include sprite-rect(21px, 21px, -561px, -586px);
 }
-.pkitem-exp-share{
+.pkitem-exp-share {
   @include sprite-rect(22px, 20px, -584px, -586px);
 }
-.pkitem-expert-belt{
+.pkitem-expert-belt {
   @include sprite-rect(22px, 21px, -608px, -586px);
 }
-.pkitem-explorer-kit{
+.pkitem-explorer-kit {
   @include sprite-rect(21px, 22px, -632px, -586px);
 }
-.pkitem-fancy-apple{
+.pkitem-fancy-apple {
   @include sprite-rect(21px, 21px, -655px, -586px);
 }
-.pkitem-fashion-case{
+.pkitem-fashion-case {
   @include sprite-rect(22px, 21px, -678px, -586px);
 }
-.pkitem-figy-berry{
+.pkitem-figy-berry {
   @include sprite-rect(20px, 22px, 0px, -610px);
 }
-.pkitem-gb-sounds{
+.pkitem-gb-sounds {
   @include sprite-rect(22px, 21px, -22px, -610px);
 }
-.pkitem-go-goggles{
+.pkitem-go-goggles {
   @include sprite-rect(24px, 19px, -46px, -610px);
 }
-.pkitem-golden-pinap-berry{
+.pkitem-golden-pinap-berry {
   @include sprite-rect(21px, 22px, -72px, -610px);
 }
-.pkitem-griseous-orb{
+.pkitem-griseous-orb {
   @include sprite-rect(20px, 22px, -95px, -610px);
 }
-.pkitem-heat-rock{
+.pkitem-heat-rock {
   @include sprite-rect(22px, 21px, -117px, -610px);
 }
-.pkitem-iapapa-berry{
+.pkitem-iapapa-berry {
   @include sprite-rect(21px, 22px, -141px, -610px);
 }
-.pkitem-kee-berry{
+.pkitem-kee-berry {
   @include sprite-rect(22px, 21px, -164px, -610px);
 }
-.pkitem-kelpsy-berry{
+.pkitem-kelpsy-berry {
   @include sprite-rect(21px, 22px, -188px, -610px);
 }
-.pkitem-kings-rock{
+.pkitem-kings-rock {
   @include sprite-rect(21px, 22px, -211px, -610px);
 }
-.pkitem-lagging-tail{
+.pkitem-lagging-tail {
   @include sprite-rect(22px, 21px, -234px, -610px);
 }
-.pkitem-leek{
+.pkitem-leek {
   @include sprite-rect(21px, 21px, -258px, -610px);
 }
-.pkitem-leppa-berry{
+.pkitem-leppa-berry {
   @include sprite-rect(22px, 21px, -281px, -610px);
 }
-.pkitem-mach-bike{
+.pkitem-mach-bike {
   @include sprite-rect(22px, 21px, -305px, -610px);
 }
-.pkitem-macho-brace{
+.pkitem-macho-brace {
   @include sprite-rect(21px, 21px, -329px, -610px);
 }
-.pkitem-magma-suit{
+.pkitem-magma-suit {
   @include sprite-rect(22px, 20px, -352px, -610px);
 }
-.pkitem-maranga-berry{
+.pkitem-maranga-berry {
   @include sprite-rect(21px, 22px, -376px, -610px);
 }
-.pkitem-mark-charm{
+.pkitem-mark-charm {
   @include sprite-rect(19px, 24px, -399px, -610px);
 }
-.pkitem-max-revive{
+.pkitem-max-revive {
   @include sprite-rect(20px, 22px, -420px, -610px);
 }
-.pkitem-old-letter{
+.pkitem-old-letter {
   @include sprite-rect(24px, 19px, -442px, -610px);
 }
-.pkitem-pal-pad{
+.pkitem-pal-pad {
   @include sprite-rect(22px, 20px, -468px, -610px);
 }
-.pkitem-pamtre-berry{
+.pkitem-pamtre-berry {
   @include sprite-rect(20px, 22px, -492px, -610px);
 }
-.pkitem-pinap-berry{
+.pkitem-pinap-berry {
   @include sprite-rect(21px, 22px, -514px, -610px);
 }
-.pkitem-poffin-case{
+.pkitem-poffin-case {
   @include sprite-rect(20px, 22px, -537px, -610px);
 }
-.pkitem-poke-doll{
+.pkitem-poke-doll {
   @include sprite-rect(22px, 21px, -559px, -610px);
 }
-.pkitem-poke-flute-gen3{
+.pkitem-poke-flute-gen3 {
   @include sprite-rect(21px, 21px, -583px, -610px);
 }
-.pkitem-poke-flute{
+.pkitem-poke-flute {
   @include sprite-rect(21px, 21px, -606px, -610px);
 }
-.pkitem-poke-radar{
+.pkitem-poke-radar {
   @include sprite-rect(21px, 22px, -629px, -610px);
 }
-.pkitem-power-anklet{
+.pkitem-power-anklet {
   @include sprite-rect(22px, 21px, -652px, -610px);
 }
-.pkitem-power-band{
+.pkitem-power-band {
   @include sprite-rect(22px, 21px, -676px, -610px);
 }
-.pkitem-power-belt{
+.pkitem-power-belt {
   @include sprite-rect(22px, 21px, 0px, -636px);
 }
-.pkitem-power-bracer{
+.pkitem-power-bracer {
   @include sprite-rect(22px, 21px, -24px, -636px);
 }
-.pkitem-power-weight{
+.pkitem-power-weight {
   @include sprite-rect(22px, 21px, -48px, -636px);
 }
-.pkitem-prison-bottle{
+.pkitem-prison-bottle {
   @include sprite-rect(15px, 28px, -72px, -636px);
 }
-.pkitem-professors-mask{
+.pkitem-professors-mask {
   @include sprite-rect(21px, 22px, -89px, -636px);
 }
-.pkitem-protective-pads{
+.pkitem-protective-pads {
   @include sprite-rect(20px, 22px, -112px, -636px);
 }
-.pkitem-rainbow-flower{
+.pkitem-rainbow-flower {
   @include sprite-rect(22px, 20px, -134px, -636px);
 }
-.pkitem-rare-candy{
+.pkitem-rare-candy {
   @include sprite-rect(21px, 21px, -158px, -636px);
 }
-.pkitem-red-chain{
+.pkitem-red-chain {
   @include sprite-rect(22px, 21px, -181px, -636px);
 }
-.pkitem-red-flute{
+.pkitem-red-flute {
   @include sprite-rect(21px, 21px, -205px, -636px);
 }
-.pkitem-reveal-glass{
+.pkitem-reveal-glass {
   @include sprite-rect(21px, 22px, -228px, -636px);
 }
-.pkitem-revival-herb{
+.pkitem-revival-herb {
   @include sprite-rect(21px, 22px, -251px, -636px);
 }
-.pkitem-root-fossil{
+.pkitem-root-fossil {
   @include sprite-rect(21px, 21px, -274px, -636px);
 }
-.pkitem-rotom-catalog{
+.pkitem-rotom-catalog {
   @include sprite-rect(24px, 19px, -297px, -636px);
 }
-.pkitem-rowap-berry{
+.pkitem-rowap-berry {
   @include sprite-rect(21px, 21px, -323px, -636px);
 }
-.pkitem-rule-book{
+.pkitem-rule-book {
   @include sprite-rect(22px, 20px, -346px, -636px);
 }
-.pkitem-scope-lens{
+.pkitem-scope-lens {
   @include sprite-rect(22px, 21px, -370px, -636px);
 }
-.pkitem-silver-pinap-berry{
+.pkitem-silver-pinap-berry {
   @include sprite-rect(21px, 22px, -394px, -636px);
 }
-.pkitem-skull-fossil{
+.pkitem-skull-fossil {
   @include sprite-rect(22px, 21px, -417px, -636px);
 }
-.pkitem-strange-souvenir{
+.pkitem-strange-souvenir {
   @include sprite-rect(16px, 27px, -441px, -636px);
 }
-.pkitem-surge-badge{
+.pkitem-surge-badge {
   @include sprite-rect(21px, 21px, -459px, -636px);
 }
-.pkitem-teachy-tv{
+.pkitem-teachy-tv {
   @include sprite-rect(21px, 22px, -482px, -636px);
 }
-.pkitem-terrain-extender{
+.pkitem-terrain-extender {
   @include sprite-rect(19px, 23px, -505px, -636px);
 }
-.pkitem-tidal-bell{
+.pkitem-tidal-bell {
   @include sprite-rect(20px, 22px, -526px, -636px);
 }
-.pkitem-twisted-spoon{
+.pkitem-twisted-spoon {
   @include sprite-rect(22px, 21px, -548px, -636px);
 }
-.pkitem-vs-recorder{
+.pkitem-vs-recorder {
   @include sprite-rect(22px, 20px, -572px, -636px);
 }
-.pkitem-wepear-berry{
+.pkitem-wepear-berry {
   @include sprite-rect(20px, 22px, -596px, -636px);
 }
-.pkitem-white-flute{
+.pkitem-white-flute {
   @include sprite-rect(21px, 21px, -618px, -636px);
 }
-.pkitem-wiki-berry{
+.pkitem-wiki-berry {
   @include sprite-rect(21px, 22px, -641px, -636px);
 }
-.pkitem-wishing-piece{
+.pkitem-wishing-piece {
   @include sprite-rect(23px, 20px, -664px, -636px);
 }
-.pkitem-wishing-star{
+.pkitem-wishing-star {
   @include sprite-rect(21px, 21px, 0px, -666px);
 }
-.pkitem-works-key{
+.pkitem-works-key {
   @include sprite-rect(21px, 22px, -23px, -666px);
 }
-.pkitem-yellow-flute{
+.pkitem-yellow-flute {
   @include sprite-rect(21px, 21px, -46px, -666px);
 }
-.pkitem-acro-bike{
+.pkitem-acro-bike {
   @include sprite-rect(21px, 23px, -69px, -666px);
 }
-.pkitem-adamant-orb{
+.pkitem-adamant-orb {
   @include sprite-rect(22px, 22px, -92px, -666px);
 }
-.pkitem-air-mail{
+.pkitem-air-mail {
   @include sprite-rect(22px, 22px, -116px, -666px);
 }
-.pkitem-apricorn-box{
+.pkitem-apricorn-box {
   @include sprite-rect(22px, 22px, -140px, -666px);
 }
-.pkitem-aqua-suit{
+.pkitem-aqua-suit {
   @include sprite-rect(22px, 22px, -164px, -666px);
 }
-.pkitem-armor-fossil{
+.pkitem-armor-fossil {
   @include sprite-rect(22px, 22px, -188px, -666px);
 }
-.pkitem-attack-mint{
+.pkitem-attack-mint {
   @include sprite-rect(26px, 19px, -212px, -666px);
 }
-.pkitem-bead-mail{
+.pkitem-bead-mail {
   @include sprite-rect(22px, 22px, -240px, -666px);
 }
-.pkitem-bike--green{
+.pkitem-bike--green {
   @include sprite-rect(22px, 22px, -264px, -666px);
 }
-.pkitem-bike--yellow{
+.pkitem-bike--yellow {
   @include sprite-rect(22px, 22px, -288px, -666px);
 }
-.pkitem-bloom-mail{
+.pkitem-bloom-mail {
   @include sprite-rect(22px, 22px, -312px, -666px);
 }
-.pkitem-blue-scarf{
+.pkitem-blue-scarf {
   @include sprite-rect(22px, 22px, -336px, -666px);
 }
-.pkitem-brick-mail{
+.pkitem-brick-mail {
   @include sprite-rect(22px, 22px, -360px, -666px);
 }
-.pkitem-bridge-mail-d{
+.pkitem-bridge-mail-d {
   @include sprite-rect(22px, 22px, -384px, -666px);
 }
-.pkitem-bridge-mail-m{
+.pkitem-bridge-mail-m {
   @include sprite-rect(22px, 22px, -408px, -666px);
 }
-.pkitem-bridge-mail-s{
+.pkitem-bridge-mail-s {
   @include sprite-rect(22px, 22px, -432px, -666px);
 }
-.pkitem-bridge-mail-t{
+.pkitem-bridge-mail-t {
   @include sprite-rect(22px, 22px, -456px, -666px);
 }
-.pkitem-bridge-mail-v{
+.pkitem-bridge-mail-v {
   @include sprite-rect(22px, 22px, -480px, -666px);
 }
-.pkitem-bubble-mail{
+.pkitem-bubble-mail {
   @include sprite-rect(22px, 22px, -504px, -666px);
 }
-.pkitem-cheri-berry{
+.pkitem-cheri-berry {
   @include sprite-rect(22px, 22px, -528px, -666px);
 }
-.pkitem-choice-band{
+.pkitem-choice-band {
   @include sprite-rect(22px, 22px, -552px, -666px);
 }
-.pkitem-choice-scarf{
+.pkitem-choice-scarf {
   @include sprite-rect(22px, 22px, -576px, -666px);
 }
-.pkitem-damp-rock{
+.pkitem-damp-rock {
   @include sprite-rect(22px, 22px, -600px, -666px);
 }
-.pkitem-defense-mint{
+.pkitem-defense-mint {
   @include sprite-rect(26px, 19px, -624px, -666px);
 }
-.pkitem-discount-coupon{
+.pkitem-discount-coupon {
   @include sprite-rect(28px, 17px, -652px, -666px);
 }
-.pkitem-dowsing-machine-gen3{
+.pkitem-dowsing-machine-gen3 {
   @include sprite-rect(22px, 22px, -682px, -666px);
 }
-.pkitem-draco-plate{
+.pkitem-draco-plate {
   @include sprite-rect(22px, 22px, -706px, -666px);
 }
-.pkitem-dread-plate{
+.pkitem-dread-plate {
   @include sprite-rect(22px, 22px, 0px, -691px);
 }
-.pkitem-dream-mail{
+.pkitem-dream-mail {
   @include sprite-rect(22px, 22px, -24px, -691px);
 }
-.pkitem-earth-plate{
+.pkitem-earth-plate {
   @include sprite-rect(22px, 22px, -48px, -691px);
 }
-.pkitem-eject-pack{
+.pkitem-eject-pack {
   @include sprite-rect(23px, 22px, -72px, -691px);
 }
-.pkitem-exp-charm{
+.pkitem-exp-charm {
   @include sprite-rect(15px, 29px, -97px, -691px);
 }
-.pkitem-fab-mail{
+.pkitem-fab-mail {
   @include sprite-rect(22px, 22px, -114px, -691px);
 }
-.pkitem-favored-mail{
+.pkitem-favored-mail {
   @include sprite-rect(22px, 22px, -138px, -691px);
 }
-.pkitem-fist-plate{
+.pkitem-fist-plate {
   @include sprite-rect(22px, 22px, -162px, -691px);
 }
-.pkitem-flame-mail{
+.pkitem-flame-mail {
   @include sprite-rect(22px, 22px, -186px, -691px);
 }
-.pkitem-flame-plate{
+.pkitem-flame-plate {
   @include sprite-rect(22px, 22px, -210px, -691px);
 }
-.pkitem-fluffy-tail{
+.pkitem-fluffy-tail {
   @include sprite-rect(22px, 22px, -234px, -691px);
 }
-.pkitem-focus-band{
+.pkitem-focus-band {
   @include sprite-rect(22px, 22px, -258px, -691px);
 }
-.pkitem-forage-bag{
+.pkitem-forage-bag {
   @include sprite-rect(18px, 26px, -282px, -691px);
 }
-.pkitem-fossilized-drake{
+.pkitem-fossilized-drake {
   @include sprite-rect(22px, 23px, -302px, -691px);
 }
-.pkitem-fruit-bunch{
+.pkitem-fruit-bunch {
   @include sprite-rect(22px, 22px, -326px, -691px);
 }
-.pkitem-glitter-mail{
+.pkitem-glitter-mail {
   @include sprite-rect(22px, 22px, -350px, -691px);
 }
-.pkitem-gracidea{
+.pkitem-gracidea {
   @include sprite-rect(22px, 22px, -374px, -691px);
 }
-.pkitem-grass-mail{
+.pkitem-grass-mail {
   @include sprite-rect(22px, 22px, -398px, -691px);
 }
-.pkitem-green-scarf{
+.pkitem-green-scarf {
   @include sprite-rect(22px, 22px, -422px, -691px);
 }
-.pkitem-greet-mail{
+.pkitem-greet-mail {
   @include sprite-rect(22px, 22px, -446px, -691px);
 }
-.pkitem-grip-claw{
+.pkitem-grip-claw {
   @include sprite-rect(22px, 22px, -470px, -691px);
 }
-.pkitem-harbor-mail{
+.pkitem-harbor-mail {
   @include sprite-rect(22px, 22px, -494px, -691px);
 }
-.pkitem-heart-mail{
+.pkitem-heart-mail {
   @include sprite-rect(22px, 22px, -518px, -691px);
 }
-.pkitem-heavy-duty-boots{
+.pkitem-heavy-duty-boots {
   @include sprite-rect(24px, 21px, -542px, -691px);
 }
-.pkitem-icicle-plate{
+.pkitem-icicle-plate {
   @include sprite-rect(22px, 22px, -568px, -691px);
 }
-.pkitem-icy-rock{
+.pkitem-icy-rock {
   @include sprite-rect(22px, 22px, -592px, -691px);
 }
-.pkitem-inquiry-mail{
+.pkitem-inquiry-mail {
   @include sprite-rect(22px, 22px, -616px, -691px);
 }
-.pkitem-insect-plate{
+.pkitem-insect-plate {
   @include sprite-rect(22px, 22px, -640px, -691px);
 }
-.pkitem-iron-plate{
+.pkitem-iron-plate {
   @include sprite-rect(22px, 22px, -664px, -691px);
 }
-.pkitem-journal{
+.pkitem-journal {
   @include sprite-rect(22px, 22px, -688px, -691px);
 }
-.pkitem-kasib-berry{
+.pkitem-kasib-berry {
   @include sprite-rect(22px, 22px, 0px, -722px);
 }
-.pkitem-leaf-letter-eevee{
+.pkitem-leaf-letter-eevee {
   @include sprite-rect(24px, 21px, -24px, -722px);
 }
-.pkitem-leaf-letter-pikachu{
+.pkitem-leaf-letter-pikachu {
   @include sprite-rect(24px, 21px, -50px, -722px);
 }
-.pkitem-like-mail{
+.pkitem-like-mail {
   @include sprite-rect(22px, 22px, -76px, -722px);
 }
-.pkitem-lucky-punch{
+.pkitem-lucky-punch {
   @include sprite-rect(22px, 22px, -100px, -722px);
 }
-.pkitem-lustrous-orb{
+.pkitem-lustrous-orb {
   @include sprite-rect(22px, 22px, -124px, -722px);
 }
-.pkitem-mail{
+.pkitem-mail {
   @include sprite-rect(22px, 22px, -148px, -722px);
 }
-.pkitem-meadow-plate{
+.pkitem-meadow-plate {
   @include sprite-rect(22px, 22px, -172px, -722px);
 }
-.pkitem-mech-mail{
+.pkitem-mech-mail {
   @include sprite-rect(22px, 22px, -196px, -722px);
 }
-.pkitem-mind-plate{
+.pkitem-mind-plate {
   @include sprite-rect(22px, 22px, -220px, -722px);
 }
-.pkitem-moomoo-cheese{
+.pkitem-moomoo-cheese {
   @include sprite-rect(22px, 22px, -244px, -722px);
 }
-.pkitem-mosaic-mail{
+.pkitem-mosaic-mail {
   @include sprite-rect(22px, 22px, -268px, -722px);
 }
-.pkitem-muscle-band{
+.pkitem-muscle-band {
   @include sprite-rect(22px, 22px, -292px, -722px);
 }
-.pkitem-nanab-gen3-berry{
+.pkitem-nanab-gen3-berry {
   @include sprite-rect(22px, 22px, -316px, -722px);
 }
-.pkitem-neutral-mint{
+.pkitem-neutral-mint {
   @include sprite-rect(26px, 19px, -340px, -722px);
 }
-.pkitem-old-sea-map{
+.pkitem-old-sea-map {
   @include sprite-rect(22px, 22px, -368px, -722px);
 }
-.pkitem-orange-mail{
+.pkitem-orange-mail {
   @include sprite-rect(22px, 22px, -392px, -722px);
 }
-.pkitem-payapa-berry{
+.pkitem-payapa-berry {
   @include sprite-rect(22px, 22px, -416px, -722px);
 }
-.pkitem-photo-album{
+.pkitem-photo-album {
   @include sprite-rect(22px, 22px, -440px, -722px);
 }
-.pkitem-pink-scarf{
+.pkitem-pink-scarf {
   @include sprite-rect(22px, 22px, -464px, -722px);
 }
-.pkitem-pixie-plate{
+.pkitem-pixie-plate {
   @include sprite-rect(22px, 22px, -488px, -722px);
 }
-.pkitem-pokeblock-case{
+.pkitem-pokeblock-case {
   @include sprite-rect(22px, 22px, -512px, -722px);
 }
-.pkitem-power-lens{
+.pkitem-power-lens {
   @include sprite-rect(22px, 22px, -536px, -722px);
 }
-.pkitem-precooked-burger{
+.pkitem-precooked-burger {
   @include sprite-rect(21px, 23px, -560px, -722px);
 }
-.pkitem-rabuta-berry{
+.pkitem-rabuta-berry {
   @include sprite-rect(22px, 22px, -583px, -722px);
 }
-.pkitem-red-scarf{
+.pkitem-red-scarf {
   @include sprite-rect(22px, 22px, -607px, -722px);
 }
-.pkitem-retro-mail{
+.pkitem-retro-mail {
   @include sprite-rect(22px, 22px, -631px, -722px);
 }
-.pkitem-ride-pager{
+.pkitem-ride-pager {
   @include sprite-rect(22px, 22px, -655px, -722px);
 }
-.pkitem-rotom-bike-1{
+.pkitem-rotom-bike-1 {
   @include sprite-rect(21px, 23px, -679px, -722px);
 }
-.pkitem-rsvp-mail{
+.pkitem-rsvp-mail {
   @include sprite-rect(22px, 22px, -702px, -722px);
 }
-.pkitem-salac-berry{
+.pkitem-salac-berry {
   @include sprite-rect(22px, 22px, 0px, -747px);
 }
-.pkitem-scanner{
+.pkitem-scanner {
   @include sprite-rect(22px, 22px, -24px, -747px);
 }
-.pkitem-seal-case{
+.pkitem-seal-case {
   @include sprite-rect(22px, 22px, -48px, -747px);
 }
-.pkitem-shadow-mail{
+.pkitem-shadow-mail {
   @include sprite-rect(22px, 22px, -72px, -747px);
 }
-.pkitem-silk-scarf{
+.pkitem-silk-scarf {
   @include sprite-rect(22px, 22px, -96px, -747px);
 }
-.pkitem-silph-scope{
+.pkitem-silph-scope {
   @include sprite-rect(27px, 18px, -120px, -747px);
 }
-.pkitem-sky-plate{
+.pkitem-sky-plate {
   @include sprite-rect(22px, 22px, -149px, -747px);
 }
-.pkitem-smooth-rock{
+.pkitem-smooth-rock {
   @include sprite-rect(22px, 22px, -173px, -747px);
 }
-.pkitem-snow-mail{
+.pkitem-snow-mail {
   @include sprite-rect(22px, 22px, -197px, -747px);
 }
-.pkitem-space-mail{
+.pkitem-space-mail {
   @include sprite-rect(22px, 22px, -221px, -747px);
 }
-.pkitem-special-attack-mint{
+.pkitem-special-attack-mint {
   @include sprite-rect(26px, 19px, -245px, -747px);
 }
-.pkitem-special-defense-mint{
+.pkitem-special-defense-mint {
   @include sprite-rect(26px, 19px, -273px, -747px);
 }
-.pkitem-speed-mint{
+.pkitem-speed-mint {
   @include sprite-rect(26px, 19px, -301px, -747px);
 }
-.pkitem-splash-plate{
+.pkitem-splash-plate {
   @include sprite-rect(22px, 22px, -329px, -747px);
 }
-.pkitem-spooky-plate{
+.pkitem-spooky-plate {
   @include sprite-rect(22px, 22px, -353px, -747px);
 }
-.pkitem-sprayduck{
+.pkitem-sprayduck {
   @include sprite-rect(22px, 22px, -377px, -747px);
 }
-.pkitem-steel-mail{
+.pkitem-steel-mail {
   @include sprite-rect(22px, 22px, -401px, -747px);
 }
-.pkitem-stone-plate{
+.pkitem-stone-plate {
   @include sprite-rect(22px, 22px, -425px, -747px);
 }
-.pkitem-sun-stone{
+.pkitem-sun-stone {
   @include sprite-rect(22px, 22px, -449px, -747px);
 }
-.pkitem-thanks-mail{
+.pkitem-thanks-mail {
   @include sprite-rect(22px, 22px, -473px, -747px);
 }
-.pkitem-tmv-pass{
+.pkitem-tmv-pass {
   @include sprite-rect(27px, 18px, -497px, -747px);
 }
-.pkitem-town-map-gen4{
+.pkitem-town-map-gen4 {
   @include sprite-rect(22px, 22px, -526px, -747px);
 }
-.pkitem-town-map{
+.pkitem-town-map {
   @include sprite-rect(25px, 20px, -550px, -747px);
 }
-.pkitem-toxic-plate{
+.pkitem-toxic-plate {
   @include sprite-rect(22px, 22px, -577px, -747px);
 }
-.pkitem-tropic-mail{
+.pkitem-tropic-mail {
   @include sprite-rect(22px, 22px, -601px, -747px);
 }
-.pkitem-tunnel-mail{
+.pkitem-tunnel-mail {
   @include sprite-rect(22px, 22px, -625px, -747px);
 }
-.pkitem-watmel-berry{
+.pkitem-watmel-berry {
   @include sprite-rect(22px, 22px, -649px, -747px);
 }
-.pkitem-wave-mail{
+.pkitem-wave-mail {
   @include sprite-rect(22px, 22px, -673px, -747px);
 }
-.pkitem-wood-mail{
+.pkitem-wood-mail {
   @include sprite-rect(22px, 22px, -697px, -747px);
 }
-.pkitem-yellow-scarf{
+.pkitem-yellow-scarf {
   @include sprite-rect(22px, 22px, -721px, -747px);
 }
-.pkitem-z-ring{
+.pkitem-z-ring {
   @include sprite-rect(22px, 22px, 0px, -771px);
 }
-.pkitem-zap-plate{
+.pkitem-zap-plate {
   @include sprite-rect(22px, 22px, -24px, -771px);
 }
-.pkitem-armor-pass{
+.pkitem-armor-pass {
   @include sprite-rect(28px, 19px, -48px, -771px);
 }
-.pkitem-camping-gear{
+.pkitem-camping-gear {
   @include sprite-rect(26px, 20px, -78px, -771px);
 }
-.pkitem-devon-scuba-gear{
+.pkitem-devon-scuba-gear {
   @include sprite-rect(26px, 20px, -106px, -771px);
 }
-.pkitem-fishing-rod-gen7{
+.pkitem-fishing-rod-gen7 {
   @include sprite-rect(26px, 21px, -134px, -771px);
 }
-.pkitem-fossilized-bird{
+.pkitem-fossilized-bird {
   @include sprite-rect(23px, 23px, -162px, -771px);
 }
-.pkitem-fossilized-dino{
+.pkitem-fossilized-dino {
   @include sprite-rect(23px, 23px, -187px, -771px);
 }
-.pkitem-good-rod{
+.pkitem-good-rod {
   @include sprite-rect(24px, 22px, -212px, -771px);
 }
-.pkitem-looker-ticket{
+.pkitem-looker-ticket {
   @include sprite-rect(28px, 18px, -238px, -771px);
 }
-.pkitem-old-rod{
+.pkitem-old-rod {
   @include sprite-rect(24px, 22px, -268px, -771px);
 }
-.pkitem-pewter-crunchies{
+.pkitem-pewter-crunchies {
   @include sprite-rect(27px, 20px, -294px, -771px);
 }
-.pkitem-pokeblock-kit{
+.pkitem-pokeblock-kit {
   @include sprite-rect(24px, 22px, -323px, -771px);
 }
-.pkitem-room-service{
+.pkitem-room-service {
   @include sprite-rect(22px, 25px, -349px, -771px);
 }
-.pkitem-small-bouquet{
+.pkitem-small-bouquet {
   @include sprite-rect(24px, 23px, -373px, -771px);
 }
-.pkitem-stretchy-spring{
+.pkitem-stretchy-spring {
   @include sprite-rect(25px, 21px, -399px, -771px);
 }
-.pkitem-super-rod{
+.pkitem-super-rod {
   @include sprite-rect(25px, 21px, -426px, -771px);
 }
-.pkitem-z-power-ring{
+.pkitem-z-power-ring {
   @include sprite-rect(22px, 24px, -453px, -771px);
 }
-.pkitem-dowsing-machine-xy{
+.pkitem-dowsing-machine-xy {
   @include sprite-rect(24px, 24px, -477px, -771px);
 }
-.pkitem-fishing-rod{
+.pkitem-fishing-rod {
   @include sprite-rect(25px, 24px, -503px, -771px);
 }
-.pkitem-fossilized-fish{
+.pkitem-fossilized-fish {
   @include sprite-rect(24px, 24px, -530px, -771px);
 }
-.pkitem-golden-nanab-berry{
+.pkitem-golden-nanab-berry {
   @include sprite-rect(24px, 24px, -556px, -771px);
 }
-.pkitem-jaw-fossil{
+.pkitem-jaw-fossil {
   @include sprite-rect(24px, 25px, -582px, -771px);
 }
-.pkitem-max-honey{
+.pkitem-max-honey {
   @include sprite-rect(24px, 25px, -608px, -771px);
 }
-.pkitem-nanab-berry{
+.pkitem-nanab-berry {
   @include sprite-rect(24px, 24px, -634px, -771px);
 }
-.pkitem-sail-fossil{
+.pkitem-sail-fossil {
   @include sprite-rect(25px, 24px, -660px, -771px);
 }
-.pkitem-silver-nanab-berry{
+.pkitem-silver-nanab-berry {
   @include sprite-rect(24px, 24px, -687px, -771px);
 }
-.pkitem-style-card{
+.pkitem-style-card {
   @include sprite-rect(27px, 21px, -713px, -771px);
 }
-.pkitem-utility-umbrella{
+.pkitem-utility-umbrella {
   @include sprite-rect(24px, 24px, -742px, -771px);
 }
-.pkitem-adventure-guide{
+.pkitem-adventure-guide {
   @include sprite-rect(27px, 24px, -768px, -771px);
 }
-.pkitem-adventure-rules{
+.pkitem-adventure-rules {
   @include sprite-rect(27px, 24px, 0px, -798px);
 }
-.pkitem-brittle-bones{
+.pkitem-brittle-bones {
   @include sprite-rect(25px, 25px, -29px, -798px);
 }
-.pkitem-endorsement{
+.pkitem-endorsement {
   @include sprite-rect(24px, 26px, -56px, -798px);
 }
-.pkitem-rotom-bike-2{
+.pkitem-rotom-bike-2 {
   @include sprite-rect(27px, 23px, -82px, -798px);
 }
-.pkitem-rotom-bike-3{
+.pkitem-rotom-bike-3 {
   @include sprite-rect(28px, 23px, -111px, -798px);
 }
-.pkitem-rotom-bike-4{
+.pkitem-rotom-bike-4 {
   @include sprite-rect(28px, 23px, -141px, -798px);
 }
-.pkitem-sonias-book{
+.pkitem-sonias-book {
   @include sprite-rect(27px, 24px, -171px, -798px);
 }
-.pkitem-travel-trunk--gold{
+.pkitem-travel-trunk--gold {
   @include sprite-rect(23px, 28px, -200px, -798px);
 }
-.pkitem-travel-trunk--silver{
+.pkitem-travel-trunk--silver {
   @include sprite-rect(23px, 28px, -225px, -798px);
 }
-.pkitem-travel-trunk{
+.pkitem-travel-trunk {
   @include sprite-rect(23px, 28px, -250px, -798px);
 }
-.pkitem-dowsing-machine{
+.pkitem-dowsing-machine {
   @include sprite-rect(26px, 26px, -275px, -798px);
 }
-.pkitem-max-mushrooms{
+.pkitem-max-mushrooms {
   @include sprite-rect(27px, 26px, -303px, -798px);
 }
-.pkitem-roller-skates{
+.pkitem-roller-skates {
   @include sprite-rect(28px, 25px, -332px, -798px);
 }
-.pkitem-galarica-cuff{
+.pkitem-galarica-cuff {
   @include sprite-rect(27px, 28px, -362px, -798px);
 }
-.pkitem-galarica-twig{
+.pkitem-galarica-twig {
   @include sprite-rect(29px, 30px, -391px, -798px);
 }
-.pkitem-storage-battle-pocket{
+.pkitem-storage-battle-pocket {
   @include sprite-rect(32px, 27px, -422px, -798px);
 }
-.pkitem-storage-candy-jar{
+.pkitem-storage-candy-jar {
   @include sprite-rect(32px, 27px, -456px, -798px);
 }
-.pkitem-storage-catching-pocket{
+.pkitem-storage-catching-pocket {
   @include sprite-rect(32px, 27px, -490px, -798px);
 }
-.pkitem-storage-clothing-trunk{
+.pkitem-storage-clothing-trunk {
   @include sprite-rect(32px, 27px, -524px, -798px);
 }
-.pkitem-storage-medicine-pocket{
+.pkitem-storage-medicine-pocket {
   @include sprite-rect(32px, 27px, -558px, -798px);
 }
-.pkitem-storage-pokemon-box{
+.pkitem-storage-pokemon-box {
   @include sprite-rect(32px, 27px, -592px, -798px);
 }
-.pkitem-storage-power-up-pocket{
+.pkitem-storage-power-up-pocket {
   @include sprite-rect(32px, 27px, -626px, -798px);
 }
-.pkitem-storage-tm-case{
+.pkitem-storage-tm-case {
   @include sprite-rect(32px, 27px, -660px, -798px);
 }

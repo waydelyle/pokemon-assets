@@ -1,14 +1,13 @@
-
 .pkms-wrapper {
-    width:67px;
-    height:56px;
-    line-height:54px;
-    text-align:center;
-    display:inline-block;
-    vertical-align:middle;
-    padding:1px;
+  width: 67px;
+  height: 56px;
+  line-height: 54px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px;
 }
- 
+
 .pkms {
   display: inline-block;
   vertical-align: middle;
@@ -18,6528 +17,6528 @@
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
 }
-.pkms-tynamo{
-  width:14px;
-  height:11px;
+.pkms-tynamo {
+  width: 14px;
+  height: 11px;
   background-position: 0px 0px;
 }
-.pkms-carbink{
-  width:14px;
-  height:13px;
+.pkms-carbink {
+  width: 14px;
+  height: 13px;
   background-position: -16px 0px;
 }
-.pkms-egg-manaphy{
-  width:12px;
-  height:15px;
+.pkms-egg-manaphy {
+  width: 12px;
+  height: 15px;
   background-position: -32px 0px;
 }
-.pkms-egg{
-  width:13px;
-  height:14px;
+.pkms-egg {
+  width: 13px;
+  height: 14px;
   background-position: -46px 0px;
 }
-.pkms-goomy{
-  width:12px;
-  height:14px;
+.pkms-goomy {
+  width: 12px;
+  height: 14px;
   background-position: -61px 0px;
 }
-.pkms-tympole{
-  width:14px;
-  height:13px;
+.pkms-tympole {
+  width: 14px;
+  height: 13px;
   background-position: -75px 0px;
 }
-.pkms-unown-x{
-  width:13px;
-  height:14px;
+.pkms-unown-x {
+  width: 13px;
+  height: 14px;
   background-position: -91px 0px;
 }
-.pkms-aron{
-  width:16px;
-  height:12px;
+.pkms-aron {
+  width: 16px;
+  height: 12px;
   background-position: -106px 0px;
 }
-.pkms-bronzor{
-  width:13px;
-  height:16px;
+.pkms-bronzor {
+  width: 13px;
+  height: 16px;
   background-position: -124px 0px;
 }
-.pkms-diglett{
-  width:15px;
-  height:14px;
+.pkms-diglett {
+  width: 15px;
+  height: 14px;
   background-position: -139px 0px;
 }
-.pkms-ditto{
-  width:16px;
-  height:13px;
+.pkms-ditto {
+  width: 16px;
+  height: 13px;
   background-position: -156px 0px;
 }
-.pkms-kabuto{
-  width:16px;
-  height:13px;
+.pkms-kabuto {
+  width: 16px;
+  height: 13px;
   background-position: -174px 0px;
 }
-.pkms-karrablast{
-  width:12px;
-  height:17px;
+.pkms-karrablast {
+  width: 12px;
+  height: 17px;
   background-position: -192px 0px;
 }
-.pkms-luvdisc{
-  width:12px;
-  height:17px;
+.pkms-luvdisc {
+  width: 12px;
+  height: 17px;
   background-position: -206px 0px;
 }
-.pkms-munna{
-  width:15px;
-  height:14px;
+.pkms-munna {
+  width: 15px;
+  height: 14px;
   background-position: -220px 0px;
 }
-.pkms-roggenrola{
-  width:11px;
-  height:17px;
+.pkms-roggenrola {
+  width: 11px;
+  height: 17px;
   background-position: -237px 0px;
 }
-.pkms-solosis{
-  width:15px;
-  height:14px;
+.pkms-solosis {
+  width: 15px;
+  height: 14px;
   background-position: -250px 0px;
 }
-.pkms-unown-r{
-  width:10px;
-  height:18px;
+.pkms-unown-r {
+  width: 10px;
+  height: 18px;
   background-position: -267px 0px;
 }
-.pkms-unown-z{
-  width:10px;
-  height:19px;
+.pkms-unown-z {
+  width: 10px;
+  height: 19px;
   background-position: -279px 0px;
 }
-.pkms-vanillite{
-  width:12px;
-  height:16px;
+.pkms-vanillite {
+  width: 12px;
+  height: 16px;
   background-position: -291px 0px;
 }
-.pkms-voltorb{
-  width:14px;
-  height:14px;
+.pkms-voltorb {
+  width: 14px;
+  height: 14px;
   background-position: -305px 0px;
 }
-.pkms-budew{
-  width:12px;
-  height:18px;
+.pkms-budew {
+  width: 12px;
+  height: 18px;
   background-position: -321px 0px;
 }
-.pkms-caterpie{
-  width:14px;
-  height:16px;
+.pkms-caterpie {
+  width: 14px;
+  height: 16px;
   background-position: -335px 0px;
 }
-.pkms-ferroseed{
-  width:15px;
-  height:16px;
+.pkms-ferroseed {
+  width: 15px;
+  height: 16px;
   background-position: -351px 0px;
 }
-.pkms-foongus{
-  width:14px;
-  height:17px;
+.pkms-foongus {
+  width: 14px;
+  height: 17px;
   background-position: -368px 0px;
 }
-.pkms-grubbin{
-  width:17px;
-  height:13px;
+.pkms-grubbin {
+  width: 17px;
+  height: 13px;
   background-position: -384px 0px;
 }
-.pkms-kakuna{
-  width:13px;
-  height:18px;
+.pkms-kakuna {
+  width: 13px;
+  height: 18px;
   background-position: -403px 0px;
 }
-.pkms-litwick{
-  width:13px;
-  height:18px;
+.pkms-litwick {
+  width: 13px;
+  height: 18px;
   background-position: -418px 0px;
 }
-.pkms-metapod{
-  width:12px;
-  height:18px;
+.pkms-metapod {
+  width: 12px;
+  height: 18px;
   background-position: -433px 0px;
 }
-.pkms-petilil{
-  width:12px;
-  height:18px;
+.pkms-petilil {
+  width: 12px;
+  height: 18px;
   background-position: -447px 0px;
 }
-.pkms-scraggy{
-  width:15px;
-  height:16px;
+.pkms-scraggy {
+  width: 15px;
+  height: 16px;
   background-position: 0px -21px;
 }
-.pkms-sinistea{
-  width:17px;
-  height:14px;
+.pkms-sinistea {
+  width: 17px;
+  height: 14px;
   background-position: -17px -21px;
 }
-.pkms-sizzlipede{
-  width:21px;
-  height:10px;
+.pkms-sizzlipede {
+  width: 21px;
+  height: 10px;
   background-position: -36px -21px;
 }
-.pkms-snom{
-  width:17px;
-  height:14px;
+.pkms-snom {
+  width: 17px;
+  height: 14px;
   background-position: -59px -21px;
 }
-.pkms-spritzee{
-  width:15px;
-  height:16px;
+.pkms-spritzee {
+  width: 15px;
+  height: 16px;
   background-position: -78px -21px;
 }
-.pkms-sunkern{
-  width:13px;
-  height:18px;
+.pkms-sunkern {
+  width: 13px;
+  height: 18px;
   background-position: -95px -21px;
 }
-.pkms-swinub{
-  width:18px;
-  height:13px;
+.pkms-swinub {
+  width: 18px;
+  height: 13px;
   background-position: -110px -21px;
 }
-.pkms-unown-exclamation{
-  width:10px;
-  height:20px;
+.pkms-unown-exclamation {
+  width: 10px;
+  height: 20px;
   background-position: -130px -21px;
 }
-.pkms-unown-g{
-  width:10px;
-  height:21px;
+.pkms-unown-g {
+  width: 10px;
+  height: 21px;
   background-position: -142px -21px;
 }
-.pkms-unown-i{
-  width:10px;
-  height:20px;
+.pkms-unown-i {
+  width: 10px;
+  height: 20px;
   background-position: -154px -21px;
 }
-.pkms-unown-j{
-  width:11px;
-  height:19px;
+.pkms-unown-j {
+  width: 11px;
+  height: 19px;
   background-position: -166px -21px;
 }
-.pkms-unown-p{
-  width:11px;
-  height:20px;
+.pkms-unown-p {
+  width: 11px;
+  height: 20px;
   background-position: -179px -21px;
 }
-.pkms-unown-q{
-  width:14px;
-  height:16px;
+.pkms-unown-q {
+  width: 14px;
+  height: 16px;
   background-position: -192px -21px;
 }
-.pkms-unown-t{
-  width:12px;
-  height:19px;
+.pkms-unown-t {
+  width: 12px;
+  height: 19px;
   background-position: -208px -21px;
 }
-.pkms-unown{
-  width:10px;
-  height:21px;
+.pkms-unown {
+  width: 10px;
+  height: 21px;
   background-position: -222px -21px;
 }
-.pkms-wishiwashi{
-  width:18px;
-  height:13px;
+.pkms-wishiwashi {
+  width: 18px;
+  height: 13px;
   background-position: -234px -21px;
 }
-.pkms-applin{
-  width:15px;
-  height:17px;
+.pkms-applin {
+  width: 15px;
+  height: 17px;
   background-position: -254px -21px;
 }
-.pkms-bonsly{
-  width:12px;
-  height:20px;
+.pkms-bonsly {
+  width: 12px;
+  height: 20px;
   background-position: -271px -21px;
 }
-.pkms-castform{
-  width:13px;
-  height:20px;
+.pkms-castform {
+  width: 13px;
+  height: 20px;
   background-position: -285px -21px;
 }
-.pkms-celebi{
-  width:14px;
-  height:18px;
+.pkms-celebi {
+  width: 14px;
+  height: 18px;
   background-position: -300px -21px;
 }
-.pkms-cleffa{
-  width:16px;
-  height:16px;
+.pkms-cleffa {
+  width: 16px;
+  height: 16px;
   background-position: -316px -21px;
 }
-.pkms-cubchoo{
-  width:14px;
-  height:18px;
+.pkms-cubchoo {
+  width: 14px;
+  height: 18px;
   background-position: -334px -21px;
 }
-.pkms-darumaka-galar{
-  width:17px;
-  height:15px;
+.pkms-darumaka-galar {
+  width: 17px;
+  height: 15px;
   background-position: -350px -21px;
 }
-.pkms-darumaka{
-  width:17px;
-  height:15px;
+.pkms-darumaka {
+  width: 17px;
+  height: 15px;
   background-position: -369px -21px;
 }
-.pkms-diglett-alola{
-  width:15px;
-  height:18px;
+.pkms-diglett-alola {
+  width: 15px;
+  height: 18px;
   background-position: -388px -21px;
 }
-.pkms-electrode{
-  width:16px;
-  height:16px;
+.pkms-electrode {
+  width: 16px;
+  height: 16px;
   background-position: -405px -21px;
 }
-.pkms-elgyem{
-  width:13px;
-  height:19px;
+.pkms-elgyem {
+  width: 13px;
+  height: 19px;
   background-position: -423px -21px;
 }
-.pkms-flabebe-blue{
-  width:15px;
-  height:18px;
+.pkms-flabebe-blue {
+  width: 15px;
+  height: 18px;
   background-position: -438px -21px;
 }
-.pkms-flabebe-orange{
-  width:15px;
-  height:18px;
+.pkms-flabebe-orange {
+  width: 15px;
+  height: 18px;
   background-position: -455px -21px;
 }
-.pkms-flabebe-white{
-  width:15px;
-  height:18px;
+.pkms-flabebe-white {
+  width: 15px;
+  height: 18px;
   background-position: -472px -21px;
 }
-.pkms-flabebe-yellow{
-  width:15px;
-  height:18px;
+.pkms-flabebe-yellow {
+  width: 15px;
+  height: 18px;
   background-position: 0px -44px;
 }
-.pkms-flabebe{
-  width:15px;
-  height:18px;
+.pkms-flabebe {
+  width: 15px;
+  height: 18px;
   background-position: -17px -44px;
 }
-.pkms-fletchling{
-  width:18px;
-  height:15px;
+.pkms-fletchling {
+  width: 18px;
+  height: 15px;
   background-position: -34px -44px;
 }
-.pkms-fomantis{
-  width:14px;
-  height:19px;
+.pkms-fomantis {
+  width: 14px;
+  height: 19px;
   background-position: -54px -44px;
 }
-.pkms-gothita{
-  width:14px;
-  height:18px;
+.pkms-gothita {
+  width: 14px;
+  height: 18px;
   background-position: -70px -44px;
 }
-.pkms-happiny{
-  width:14px;
-  height:19px;
+.pkms-happiny {
+  width: 14px;
+  height: 19px;
   background-position: -86px -44px;
 }
-.pkms-igglybuff{
-  width:15px;
-  height:18px;
+.pkms-igglybuff {
+  width: 15px;
+  height: 18px;
   background-position: -102px -44px;
 }
-.pkms-lotad{
-  width:17px;
-  height:15px;
+.pkms-lotad {
+  width: 17px;
+  height: 15px;
   background-position: -119px -44px;
 }
-.pkms-milcery{
-  width:16px;
-  height:17px;
+.pkms-milcery {
+  width: 16px;
+  height: 17px;
   background-position: -138px -44px;
 }
-.pkms-munchlax{
-  width:14px;
-  height:19px;
+.pkms-munchlax {
+  width: 14px;
+  height: 19px;
   background-position: -156px -44px;
 }
-.pkms-pidove{
-  width:16px;
-  height:16px;
+.pkms-pidove {
+  width: 16px;
+  height: 16px;
   background-position: -172px -44px;
 }
-.pkms-piplup{
-  width:13px;
-  height:19px;
+.pkms-piplup {
+  width: 13px;
+  height: 19px;
   background-position: -190px -44px;
 }
-.pkms-pumpkaboo-small{
-  width:15px;
-  height:17px;
+.pkms-pumpkaboo-small {
+  width: 15px;
+  height: 17px;
   background-position: -205px -44px;
 }
-.pkms-ralts{
-  width:14px;
-  height:18px;
+.pkms-ralts {
+  width: 14px;
+  height: 18px;
   background-position: -222px -44px;
 }
-.pkms-remoraid{
-  width:17px;
-  height:16px;
+.pkms-remoraid {
+  width: 17px;
+  height: 16px;
   background-position: -238px -44px;
 }
-.pkms-seedot{
-  width:15px;
-  height:17px;
+.pkms-seedot {
+  width: 15px;
+  height: 17px;
   background-position: -257px -44px;
 }
-.pkms-sewaddle{
-  width:15px;
-  height:17px;
+.pkms-sewaddle {
+  width: 15px;
+  height: 17px;
   background-position: -274px -44px;
 }
-.pkms-shelmet{
-  width:18px;
-  height:15px;
+.pkms-shelmet {
+  width: 18px;
+  height: 15px;
   background-position: -291px -44px;
 }
-.pkms-shroomish{
-  width:18px;
-  height:15px;
+.pkms-shroomish {
+  width: 18px;
+  height: 15px;
   background-position: -311px -44px;
 }
-.pkms-spewpa{
-  width:16px;
-  height:17px;
+.pkms-spewpa {
+  width: 16px;
+  height: 17px;
   background-position: -331px -44px;
 }
-.pkms-spinarak{
-  width:18px;
-  height:14px;
+.pkms-spinarak {
+  width: 18px;
+  height: 14px;
   background-position: -349px -44px;
 }
-.pkms-swirlix{
-  width:17px;
-  height:16px;
+.pkms-swirlix {
+  width: 17px;
+  height: 16px;
   background-position: -369px -44px;
 }
-.pkms-taillow{
-  width:18px;
-  height:15px;
+.pkms-taillow {
+  width: 18px;
+  height: 15px;
   background-position: -388px -44px;
 }
-.pkms-torchic{
-  width:13px;
-  height:19px;
+.pkms-torchic {
+  width: 13px;
+  height: 19px;
   background-position: -408px -44px;
 }
-.pkms-unown-b{
-  width:12px;
-  height:21px;
+.pkms-unown-b {
+  width: 12px;
+  height: 21px;
   background-position: -423px -44px;
 }
-.pkms-unown-d{
-  width:14px;
-  height:19px;
+.pkms-unown-d {
+  width: 14px;
+  height: 19px;
   background-position: -437px -44px;
 }
-.pkms-unown-k{
-  width:13px;
-  height:20px;
+.pkms-unown-k {
+  width: 13px;
+  height: 20px;
   background-position: -453px -44px;
 }
-.pkms-unown-l{
-  width:13px;
-  height:20px;
+.pkms-unown-l {
+  width: 13px;
+  height: 20px;
   background-position: -468px -44px;
 }
-.pkms-unown-question{
-  width:11px;
-  height:21px;
+.pkms-unown-question {
+  width: 11px;
+  height: 21px;
   background-position: -483px -44px;
 }
-.pkms-unown-v{
-  width:14px;
-  height:18px;
+.pkms-unown-v {
+  width: 14px;
+  height: 18px;
   background-position: -496px -44px;
 }
-.pkms-unown-y{
-  width:13px;
-  height:19px;
+.pkms-unown-y {
+  width: 13px;
+  height: 19px;
   background-position: 0px -67px;
 }
-.pkms-venipede{
-  width:18px;
-  height:14px;
+.pkms-venipede {
+  width: 18px;
+  height: 14px;
   background-position: -15px -67px;
 }
-.pkms-weedle{
-  width:16px;
-  height:17px;
+.pkms-weedle {
+  width: 16px;
+  height: 17px;
   background-position: -35px -67px;
 }
-.pkms-whismur{
-  width:17px;
-  height:16px;
+.pkms-whismur {
+  width: 17px;
+  height: 16px;
   background-position: -53px -67px;
 }
-.pkms-zorua{
-  width:16px;
-  height:17px;
+.pkms-zorua {
+  width: 16px;
+  height: 17px;
   background-position: -72px -67px;
 }
-.pkms-alomomola{
-  width:13px;
-  height:22px;
+.pkms-alomomola {
+  width: 13px;
+  height: 22px;
   background-position: -90px -67px;
 }
-.pkms-azurill{
-  width:15px;
-  height:19px;
+.pkms-azurill {
+  width: 15px;
+  height: 19px;
   background-position: -105px -67px;
 }
-.pkms-bagon{
-  width:15px;
-  height:20px;
+.pkms-bagon {
+  width: 15px;
+  height: 20px;
   background-position: -122px -67px;
 }
-.pkms-barboach{
-  width:21px;
-  height:13px;
+.pkms-barboach {
+  width: 21px;
+  height: 13px;
   background-position: -139px -67px;
 }
-.pkms-bellsprout{
-  width:20px;
-  height:15px;
+.pkms-bellsprout {
+  width: 20px;
+  height: 15px;
   background-position: -162px -67px;
 }
-.pkms-bergmite{
-  width:17px;
-  height:18px;
+.pkms-bergmite {
+  width: 17px;
+  height: 18px;
   background-position: -184px -67px;
 }
-.pkms-bounsweet{
-  width:16px;
-  height:19px;
+.pkms-bounsweet {
+  width: 16px;
+  height: 19px;
   background-position: -203px -67px;
 }
-.pkms-castform-rainy{
-  width:14px;
-  height:21px;
+.pkms-castform-rainy {
+  width: 14px;
+  height: 21px;
   background-position: -221px -67px;
 }
-.pkms-chikorita{
-  width:15px;
-  height:19px;
+.pkms-chikorita {
+  width: 15px;
+  height: 19px;
   background-position: -237px -67px;
 }
-.pkms-cottonee{
-  width:21px;
-  height:14px;
+.pkms-cottonee {
+  width: 21px;
+  height: 14px;
   background-position: -254px -67px;
 }
-.pkms-croagunk{
-  width:17px;
-  height:17px;
+.pkms-croagunk {
+  width: 17px;
+  height: 17px;
   background-position: -277px -67px;
 }
-.pkms-dewpider{
-  width:14px;
-  height:20px;
+.pkms-dewpider {
+  width: 14px;
+  height: 20px;
   background-position: -296px -67px;
 }
-.pkms-ducklett{
-  width:16px;
-  height:19px;
+.pkms-ducklett {
+  width: 16px;
+  height: 19px;
   background-position: -312px -67px;
 }
-.pkms-duosion{
-  width:16px;
-  height:19px;
+.pkms-duosion {
+  width: 16px;
+  height: 19px;
   background-position: -330px -67px;
 }
-.pkms-eevee{
-  width:17px;
-  height:18px;
+.pkms-eevee {
+  width: 17px;
+  height: 18px;
   background-position: -348px -67px;
 }
-.pkms-electrike{
-  width:19px;
-  height:15px;
+.pkms-electrike {
+  width: 19px;
+  height: 15px;
   background-position: -367px -67px;
 }
-.pkms-espurr{
-  width:16px;
-  height:18px;
+.pkms-espurr {
+  width: 16px;
+  height: 18px;
   background-position: -388px -67px;
 }
-.pkms-gossifleur{
-  width:17px;
-  height:18px;
+.pkms-gossifleur {
+  width: 17px;
+  height: 18px;
   background-position: -406px -67px;
 }
-.pkms-gulpin{
-  width:17px;
-  height:17px;
+.pkms-gulpin {
+  width: 17px;
+  height: 17px;
   background-position: -425px -67px;
 }
-.pkms-helioptile{
-  width:18px;
-  height:17px;
+.pkms-helioptile {
+  width: 18px;
+  height: 17px;
   background-position: -444px -67px;
 }
-.pkms-horsea{
-  width:18px;
-  height:17px;
+.pkms-horsea {
+  width: 18px;
+  height: 17px;
   background-position: -464px -67px;
 }
-.pkms-larvitar{
-  width:15px;
-  height:20px;
+.pkms-larvitar {
+  width: 15px;
+  height: 20px;
   background-position: -484px -67px;
 }
-.pkms-leavanny{
-  width:14px;
-  height:21px;
+.pkms-leavanny {
+  width: 14px;
+  height: 21px;
   background-position: -501px -67px;
 }
-.pkms-ledyba{
-  width:16px;
-  height:18px;
+.pkms-ledyba {
+  width: 16px;
+  height: 18px;
   background-position: -517px -67px;
 }
-.pkms-meloetta{
-  width:14px;
-  height:21px;
+.pkms-meloetta {
+  width: 14px;
+  height: 21px;
   background-position: -535px -67px;
 }
-.pkms-meltan{
-  width:17px;
-  height:17px;
+.pkms-meltan {
+  width: 17px;
+  height: 17px;
   background-position: 0px -91px;
 }
-.pkms-mime-jr{
-  width:14px;
-  height:21px;
+.pkms-mime-jr {
+  width: 14px;
+  height: 21px;
   background-position: -19px -91px;
 }
-.pkms-minior-blue{
-  width:17px;
-  height:18px;
+.pkms-minior-blue {
+  width: 17px;
+  height: 18px;
   background-position: -35px -91px;
 }
-.pkms-minior-green{
-  width:17px;
-  height:18px;
+.pkms-minior-green {
+  width: 17px;
+  height: 18px;
   background-position: -54px -91px;
 }
-.pkms-minior-indigo{
-  width:17px;
-  height:18px;
+.pkms-minior-indigo {
+  width: 17px;
+  height: 18px;
   background-position: -73px -91px;
 }
-.pkms-minior-orange{
-  width:17px;
-  height:18px;
+.pkms-minior-orange {
+  width: 17px;
+  height: 18px;
   background-position: -92px -91px;
 }
-.pkms-minior-red{
-  width:17px;
-  height:18px;
+.pkms-minior-red {
+  width: 17px;
+  height: 18px;
   background-position: -111px -91px;
 }
-.pkms-minior-violet{
-  width:17px;
-  height:18px;
+.pkms-minior-violet {
+  width: 17px;
+  height: 18px;
   background-position: -130px -91px;
 }
-.pkms-minior-yellow{
-  width:17px;
-  height:18px;
+.pkms-minior-yellow {
+  width: 17px;
+  height: 18px;
   background-position: -149px -91px;
 }
-.pkms-minior{
-  width:17px;
-  height:18px;
+.pkms-minior {
+  width: 17px;
+  height: 18px;
   background-position: -168px -91px;
 }
-.pkms-minun{
-  width:16px;
-  height:19px;
+.pkms-minun {
+  width: 16px;
+  height: 19px;
   background-position: -187px -91px;
 }
-.pkms-misdreavus{
-  width:16px;
-  height:19px;
+.pkms-misdreavus {
+  width: 16px;
+  height: 19px;
   background-position: -205px -91px;
 }
-.pkms-natu{
-  width:17px;
-  height:18px;
+.pkms-natu {
+  width: 17px;
+  height: 18px;
   background-position: -223px -91px;
 }
-.pkms-nosepass{
-  width:17px;
-  height:18px;
+.pkms-nosepass {
+  width: 17px;
+  height: 18px;
   background-position: -242px -91px;
 }
-.pkms-oshawott{
-  width:16px;
-  height:18px;
+.pkms-oshawott {
+  width: 16px;
+  height: 18px;
   background-position: -261px -91px;
 }
-.pkms-pancham{
-  width:15px;
-  height:19px;
+.pkms-pancham {
+  width: 15px;
+  height: 19px;
   background-position: -279px -91px;
 }
-.pkms-pawniard{
-  width:14px;
-  height:20px;
+.pkms-pawniard {
+  width: 14px;
+  height: 20px;
   background-position: -296px -91px;
 }
-.pkms-pichu-spiky-eared{
-  width:15px;
-  height:19px;
+.pkms-pichu-spiky-eared {
+  width: 15px;
+  height: 19px;
   background-position: -312px -91px;
 }
-.pkms-pichu{
-  width:15px;
-  height:19px;
+.pkms-pichu {
+  width: 15px;
+  height: 19px;
   background-position: -329px -91px;
 }
-.pkms-pidgey{
-  width:18px;
-  height:17px;
+.pkms-pidgey {
+  width: 18px;
+  height: 17px;
   background-position: -346px -91px;
 }
-.pkms-plusle{
-  width:16px;
-  height:19px;
+.pkms-plusle {
+  width: 16px;
+  height: 19px;
   background-position: -366px -91px;
 }
-.pkms-poliwag{
-  width:20px;
-  height:15px;
+.pkms-poliwag {
+  width: 20px;
+  height: 15px;
   background-position: -384px -91px;
 }
-.pkms-pupitar{
-  width:16px;
-  height:19px;
+.pkms-pupitar {
+  width: 16px;
+  height: 19px;
   background-position: -406px -91px;
 }
-.pkms-rookidee{
-  width:19px;
-  height:16px;
+.pkms-rookidee {
+  width: 19px;
+  height: 16px;
   background-position: -424px -91px;
 }
-.pkms-rowlet{
-  width:17px;
-  height:18px;
+.pkms-rowlet {
+  width: 17px;
+  height: 18px;
   background-position: -445px -91px;
 }
-.pkms-scatterbug{
-  width:14px;
-  height:21px;
+.pkms-scatterbug {
+  width: 14px;
+  height: 21px;
   background-position: -464px -91px;
 }
-.pkms-shaymin{
-  width:18px;
-  height:16px;
+.pkms-shaymin {
+  width: 18px;
+  height: 16px;
   background-position: -480px -91px;
 }
-.pkms-shuppet{
-  width:15px;
-  height:19px;
+.pkms-shuppet {
+  width: 15px;
+  height: 19px;
   background-position: -500px -91px;
 }
-.pkms-skiddo{
-  width:17px;
-  height:18px;
+.pkms-skiddo {
+  width: 17px;
+  height: 18px;
   background-position: -517px -91px;
 }
-.pkms-smoochum{
-  width:14px;
-  height:20px;
+.pkms-smoochum {
+  width: 14px;
+  height: 20px;
   background-position: -536px -91px;
 }
-.pkms-snorunt{
-  width:15px;
-  height:19px;
+.pkms-snorunt {
+  width: 15px;
+  height: 19px;
   background-position: 0px -114px;
 }
-.pkms-spearow{
-  width:19px;
-  height:16px;
+.pkms-spearow {
+  width: 19px;
+  height: 16px;
   background-position: -17px -114px;
 }
-.pkms-spheal{
-  width:19px;
-  height:16px;
+.pkms-spheal {
+  width: 19px;
+  height: 16px;
   background-position: -38px -114px;
 }
-.pkms-spoink{
-  width:14px;
-  height:20px;
+.pkms-spoink {
+  width: 14px;
+  height: 20px;
   background-position: -59px -114px;
 }
-.pkms-staryu{
-  width:17px;
-  height:17px;
+.pkms-staryu {
+  width: 17px;
+  height: 17px;
   background-position: -75px -114px;
 }
-.pkms-swablu{
-  width:19px;
-  height:16px;
+.pkms-swablu {
+  width: 19px;
+  height: 16px;
   background-position: -94px -114px;
 }
-.pkms-togepi{
-  width:16px;
-  height:18px;
+.pkms-togepi {
+  width: 16px;
+  height: 18px;
   background-position: -115px -114px;
 }
-.pkms-tyrogue{
-  width:13px;
-  height:21px;
+.pkms-tyrogue {
+  width: 13px;
+  height: 21px;
   background-position: -133px -114px;
 }
-.pkms-unown-c{
-  width:15px;
-  height:20px;
+.pkms-unown-c {
+  width: 15px;
+  height: 20px;
   background-position: -148px -114px;
 }
-.pkms-unown-e{
-  width:14px;
-  height:20px;
+.pkms-unown-e {
+  width: 14px;
+  height: 20px;
   background-position: -165px -114px;
 }
-.pkms-unown-f{
-  width:15px;
-  height:19px;
+.pkms-unown-f {
+  width: 15px;
+  height: 19px;
   background-position: -181px -114px;
 }
-.pkms-unown-u{
-  width:18px;
-  height:16px;
+.pkms-unown-u {
+  width: 18px;
+  height: 16px;
   background-position: -198px -114px;
 }
-.pkms-unown-w{
-  width:17px;
-  height:17px;
+.pkms-unown-w {
+  width: 17px;
+  height: 17px;
   background-position: -218px -114px;
 }
-.pkms-woobat{
-  width:20px;
-  height:15px;
+.pkms-woobat {
+  width: 20px;
+  height: 15px;
   background-position: -237px -114px;
 }
-.pkms-wurmple{
-  width:18px;
-  height:17px;
+.pkms-wurmple {
+  width: 18px;
+  height: 17px;
   background-position: -259px -114px;
 }
-.pkms-archen{
-  width:21px;
-  height:15px;
+.pkms-archen {
+  width: 21px;
+  height: 15px;
   background-position: -279px -114px;
 }
-.pkms-baltoy{
-  width:16px;
-  height:21px;
+.pkms-baltoy {
+  width: 16px;
+  height: 21px;
   background-position: -302px -114px;
 }
-.pkms-beldum{
-  width:19px;
-  height:17px;
+.pkms-beldum {
+  width: 19px;
+  height: 17px;
   background-position: -320px -114px;
 }
-.pkms-bidoof{
-  width:20px;
-  height:16px;
+.pkms-bidoof {
+  width: 20px;
+  height: 16px;
   background-position: -341px -114px;
 }
-.pkms-charjabug{
-  width:18px;
-  height:19px;
+.pkms-charjabug {
+  width: 18px;
+  height: 19px;
   background-position: -363px -114px;
 }
-.pkms-cherubi{
-  width:18px;
-  height:18px;
+.pkms-cherubi {
+  width: 18px;
+  height: 18px;
   background-position: -383px -114px;
 }
-.pkms-chimecho{
-  width:15px;
-  height:21px;
+.pkms-chimecho {
+  width: 15px;
+  height: 21px;
   background-position: -403px -114px;
 }
-.pkms-clefairy{
-  width:18px;
-  height:19px;
+.pkms-clefairy {
+  width: 18px;
+  height: 19px;
   background-position: -420px -114px;
 }
-.pkms-clobbopus{
-  width:19px;
-  height:17px;
+.pkms-clobbopus {
+  width: 19px;
+  height: 17px;
   background-position: -440px -114px;
 }
-.pkms-deino{
-  width:16px;
-  height:20px;
+.pkms-deino {
+  width: 16px;
+  height: 20px;
   background-position: -461px -114px;
 }
-.pkms-drifloon{
-  width:15px;
-  height:22px;
+.pkms-drifloon {
+  width: 15px;
+  height: 22px;
   background-position: -479px -114px;
 }
-.pkms-dwebble{
-  width:19px;
-  height:17px;
+.pkms-dwebble {
+  width: 19px;
+  height: 17px;
   background-position: -496px -114px;
 }
-.pkms-fennekin{
-  width:17px;
-  height:19px;
+.pkms-fennekin {
+  width: 17px;
+  height: 19px;
   background-position: -517px -114px;
 }
-.pkms-froakie{
-  width:18px;
-  height:19px;
+.pkms-froakie {
+  width: 18px;
+  height: 19px;
   background-position: -536px -114px;
 }
-.pkms-golett{
-  width:18px;
-  height:18px;
+.pkms-golett {
+  width: 18px;
+  height: 18px;
   background-position: -556px -114px;
 }
-.pkms-hoothoot{
-  width:17px;
-  height:20px;
+.pkms-hoothoot {
+  width: 17px;
+  height: 20px;
   background-position: 0px -138px;
 }
-.pkms-impidimp{
-  width:17px;
-  height:20px;
+.pkms-impidimp {
+  width: 17px;
+  height: 20px;
   background-position: -19px -138px;
 }
-.pkms-joltik{
-  width:21px;
-  height:16px;
+.pkms-joltik {
+  width: 21px;
+  height: 16px;
   background-position: -38px -138px;
 }
-.pkms-lampent{
-  width:19px;
-  height:18px;
+.pkms-lampent {
+  width: 19px;
+  height: 18px;
   background-position: -61px -138px;
 }
-.pkms-lillipup{
-  width:18px;
-  height:18px;
+.pkms-lillipup {
+  width: 18px;
+  height: 18px;
   background-position: -82px -138px;
 }
-.pkms-machop{
-  width:16px;
-  height:20px;
+.pkms-machop {
+  width: 16px;
+  height: 20px;
   background-position: -102px -138px;
 }
-.pkms-magby{
-  width:16px;
-  height:20px;
+.pkms-magby {
+  width: 16px;
+  height: 20px;
   background-position: -120px -138px;
 }
-.pkms-makuhita{
-  width:18px;
-  height:19px;
+.pkms-makuhita {
+  width: 18px;
+  height: 19px;
   background-position: -138px -138px;
 }
-.pkms-mantyke{
-  width:20px;
-  height:17px;
+.pkms-mantyke {
+  width: 20px;
+  height: 17px;
   background-position: -158px -138px;
 }
-.pkms-meditite{
-  width:17px;
-  height:20px;
+.pkms-meditite {
+  width: 17px;
+  height: 20px;
   background-position: -180px -138px;
 }
-.pkms-mienfoo{
-  width:18px;
-  height:19px;
+.pkms-mienfoo {
+  width: 18px;
+  height: 19px;
   background-position: -199px -138px;
 }
-.pkms-morelull{
-  width:13px;
-  height:24px;
+.pkms-morelull {
+  width: 13px;
+  height: 24px;
   background-position: -219px -138px;
 }
-.pkms-mudkip{
-  width:19px;
-  height:18px;
+.pkms-mudkip {
+  width: 19px;
+  height: 18px;
   background-position: -234px -138px;
 }
-.pkms-nidoran-f{
-  width:18px;
-  height:19px;
+.pkms-nidoran-f {
+  width: 18px;
+  height: 19px;
   background-position: -255px -138px;
 }
-.pkms-nincada{
-  width:23px;
-  height:14px;
+.pkms-nincada {
+  width: 23px;
+  height: 14px;
   background-position: -275px -138px;
 }
-.pkms-numel{
-  width:19px;
-  height:18px;
+.pkms-numel {
+  width: 19px;
+  height: 18px;
   background-position: -300px -138px;
 }
-.pkms-oddish{
-  width:17px;
-  height:19px;
+.pkms-oddish {
+  width: 17px;
+  height: 19px;
   background-position: -321px -138px;
 }
-.pkms-omanyte{
-  width:18px;
-  height:18px;
+.pkms-omanyte {
+  width: 18px;
+  height: 18px;
   background-position: -340px -138px;
 }
-.pkms-oricorio{
-  width:17px;
-  height:19px;
+.pkms-oricorio {
+  width: 17px;
+  height: 19px;
   background-position: -360px -138px;
 }
-.pkms-palpitoad{
-  width:18px;
-  height:18px;
+.pkms-palpitoad {
+  width: 18px;
+  height: 18px;
   background-position: -379px -138px;
 }
-.pkms-phanpy{
-  width:20px;
-  height:16px;
+.pkms-phanpy {
+  width: 20px;
+  height: 16px;
   background-position: -399px -138px;
 }
-.pkms-pincurchin{
-  width:19px;
-  height:17px;
+.pkms-pincurchin {
+  width: 19px;
+  height: 17px;
   background-position: -421px -138px;
 }
-.pkms-pineco{
-  width:17px;
-  height:19px;
+.pkms-pineco {
+  width: 17px;
+  height: 19px;
   background-position: -442px -138px;
 }
-.pkms-popplio{
-  width:17px;
-  height:20px;
+.pkms-popplio {
+  width: 17px;
+  height: 20px;
   background-position: -461px -138px;
 }
-.pkms-porygon{
-  width:19px;
-  height:18px;
+.pkms-porygon {
+  width: 19px;
+  height: 18px;
   background-position: -480px -138px;
 }
-.pkms-pumpkaboo-large{
-  width:17px;
-  height:20px;
+.pkms-pumpkaboo-large {
+  width: 17px;
+  height: 20px;
   background-position: -501px -138px;
 }
-.pkms-pumpkaboo{
-  width:17px;
-  height:19px;
+.pkms-pumpkaboo {
+  width: 17px;
+  height: 19px;
   background-position: -520px -138px;
 }
-.pkms-riolu{
-  width:18px;
-  height:18px;
+.pkms-riolu {
+  width: 18px;
+  height: 18px;
   background-position: -539px -138px;
 }
-.pkms-rolycoly{
-  width:20px;
-  height:17px;
+.pkms-rolycoly {
+  width: 20px;
+  height: 17px;
   background-position: -559px -138px;
 }
-.pkms-salandit{
-  width:19px;
-  height:18px;
+.pkms-salandit {
+  width: 19px;
+  height: 18px;
   background-position: -581px -138px;
 }
-.pkms-shellder{
-  width:19px;
-  height:18px;
+.pkms-shellder {
+  width: 19px;
+  height: 18px;
   background-position: 0px -164px;
 }
-.pkms-shellos{
-  width:17px;
-  height:20px;
+.pkms-shellos {
+  width: 17px;
+  height: 20px;
   background-position: -21px -164px;
 }
-.pkms-silicobra{
-  width:18px;
-  height:19px;
+.pkms-silicobra {
+  width: 18px;
+  height: 19px;
   background-position: -40px -164px;
 }
-.pkms-skiploom{
-  width:19px;
-  height:17px;
+.pkms-skiploom {
+  width: 19px;
+  height: 17px;
   background-position: -60px -164px;
 }
-.pkms-sliggoo{
-  width:15px;
-  height:22px;
+.pkms-sliggoo {
+  width: 15px;
+  height: 22px;
   background-position: -81px -164px;
 }
-.pkms-snivy{
-  width:20px;
-  height:17px;
+.pkms-snivy {
+  width: 20px;
+  height: 17px;
   background-position: -98px -164px;
 }
-.pkms-spinda-blank{
-  width:15px;
-  height:21px;
+.pkms-spinda-blank {
+  width: 15px;
+  height: 21px;
   background-position: -120px -164px;
 }
-.pkms-spinda-filled{
-  width:15px;
-  height:21px;
+.pkms-spinda-filled {
+  width: 15px;
+  height: 21px;
   background-position: -137px -164px;
 }
-.pkms-spinda{
-  width:15px;
-  height:21px;
+.pkms-spinda {
+  width: 15px;
+  height: 21px;
   background-position: -154px -164px;
 }
-.pkms-starly{
-  width:19px;
-  height:18px;
+.pkms-starly {
+  width: 19px;
+  height: 18px;
   background-position: -171px -164px;
 }
-.pkms-stufful{
-  width:17px;
-  height:19px;
+.pkms-stufful {
+  width: 17px;
+  height: 19px;
   background-position: -192px -164px;
 }
-.pkms-swadloon{
-  width:20px;
-  height:16px;
+.pkms-swadloon {
+  width: 20px;
+  height: 16px;
   background-position: -211px -164px;
 }
-.pkms-tangela{
-  width:19px;
-  height:18px;
+.pkms-tangela {
+  width: 19px;
+  height: 18px;
   background-position: -233px -164px;
 }
-.pkms-teddiursa{
-  width:16px;
-  height:20px;
+.pkms-teddiursa {
+  width: 16px;
+  height: 20px;
   background-position: -254px -164px;
 }
-.pkms-tepig{
-  width:18px;
-  height:18px;
+.pkms-tepig {
+  width: 18px;
+  height: 18px;
   background-position: -272px -164px;
 }
-.pkms-totodile{
-  width:18px;
-  height:18px;
+.pkms-totodile {
+  width: 18px;
+  height: 18px;
   background-position: -292px -164px;
 }
-.pkms-tyrunt{
-  width:20px;
-  height:17px;
+.pkms-tyrunt {
+  width: 20px;
+  height: 17px;
   background-position: -312px -164px;
 }
-.pkms-unown-h{
-  width:18px;
-  height:19px;
+.pkms-unown-h {
+  width: 18px;
+  height: 19px;
   background-position: -334px -164px;
 }
-.pkms-unown-n{
-  width:22px;
-  height:14px;
+.pkms-unown-n {
+  width: 22px;
+  height: 14px;
   background-position: -354px -164px;
 }
-.pkms-unown-o{
-  width:18px;
-  height:19px;
+.pkms-unown-o {
+  width: 18px;
+  height: 19px;
   background-position: -378px -164px;
 }
-.pkms-unown-s{
-  width:14px;
-  height:23px;
+.pkms-unown-s {
+  width: 14px;
+  height: 23px;
   background-position: -398px -164px;
 }
-.pkms-vanillish{
-  width:15px;
-  height:21px;
+.pkms-vanillish {
+  width: 15px;
+  height: 21px;
   background-position: -414px -164px;
 }
-.pkms-wooper{
-  width:20px;
-  height:17px;
+.pkms-wooper {
+  width: 20px;
+  height: 17px;
   background-position: -431px -164px;
 }
-.pkms-axew{
-  width:18px;
-  height:20px;
+.pkms-axew {
+  width: 18px;
+  height: 20px;
   background-position: -453px -164px;
 }
-.pkms-blitzle{
-  width:17px;
-  height:22px;
+.pkms-blitzle {
+  width: 17px;
+  height: 22px;
   background-position: -473px -164px;
 }
-.pkms-bulbasaur{
-  width:20px;
-  height:19px;
+.pkms-bulbasaur {
+  width: 20px;
+  height: 19px;
   background-position: -492px -164px;
 }
-.pkms-burmy-sandy{
-  width:15px;
-  height:23px;
+.pkms-burmy-sandy {
+  width: 15px;
+  height: 23px;
   background-position: -514px -164px;
 }
-.pkms-burmy-trash{
-  width:16px;
-  height:23px;
+.pkms-burmy-trash {
+  width: 16px;
+  height: 23px;
   background-position: -531px -164px;
 }
-.pkms-burmy{
-  width:17px;
-  height:22px;
+.pkms-burmy {
+  width: 17px;
+  height: 22px;
   background-position: -549px -164px;
 }
-.pkms-cacnea{
-  width:22px;
-  height:17px;
+.pkms-cacnea {
+  width: 22px;
+  height: 17px;
   background-position: -568px -164px;
 }
-.pkms-carvanha{
-  width:19px;
-  height:19px;
+.pkms-carvanha {
+  width: 19px;
+  height: 19px;
   background-position: 0px -189px;
 }
-.pkms-cascoon{
-  width:21px;
-  height:18px;
+.pkms-cascoon {
+  width: 21px;
+  height: 18px;
   background-position: -21px -189px;
 }
-.pkms-castform-sunny{
-  width:18px;
-  height:20px;
+.pkms-castform-sunny {
+  width: 18px;
+  height: 20px;
   background-position: -44px -189px;
 }
-.pkms-chansey{
-  width:19px;
-  height:20px;
+.pkms-chansey {
+  width: 19px;
+  height: 20px;
   background-position: -64px -189px;
 }
-.pkms-chespin{
-  width:17px;
-  height:22px;
+.pkms-chespin {
+  width: 17px;
+  height: 22px;
   background-position: -85px -189px;
 }
-.pkms-chewtle{
-  width:16px;
-  height:23px;
+.pkms-chewtle {
+  width: 16px;
+  height: 23px;
   background-position: -104px -189px;
 }
-.pkms-clamperl{
-  width:19px;
-  height:19px;
+.pkms-clamperl {
+  width: 19px;
+  height: 19px;
   background-position: -122px -189px;
 }
-.pkms-cryogonal{
-  width:19px;
-  height:20px;
+.pkms-cryogonal {
+  width: 19px;
+  height: 20px;
   background-position: -143px -189px;
 }
-.pkms-cubone{
-  width:20px;
-  height:19px;
+.pkms-cubone {
+  width: 20px;
+  height: 19px;
   background-position: -164px -189px;
 }
-.pkms-cutiefly{
-  width:19px;
-  height:20px;
+.pkms-cutiefly {
+  width: 19px;
+  height: 20px;
   background-position: -186px -189px;
 }
-.pkms-cyndaquil{
-  width:20px;
-  height:18px;
+.pkms-cyndaquil {
+  width: 20px;
+  height: 18px;
   background-position: -207px -189px;
 }
-.pkms-dartrix{
-  width:17px;
-  height:22px;
+.pkms-dartrix {
+  width: 17px;
+  height: 22px;
   background-position: -229px -189px;
 }
-.pkms-doduo{
-  width:21px;
-  height:18px;
+.pkms-doduo {
+  width: 21px;
+  height: 18px;
   background-position: -248px -189px;
 }
-.pkms-dratini{
-  width:20px;
-  height:18px;
+.pkms-dratini {
+  width: 20px;
+  height: 18px;
   background-position: -271px -189px;
 }
-.pkms-drilbur{
-  width:21px;
-  height:17px;
+.pkms-drilbur {
+  width: 21px;
+  height: 17px;
   background-position: -293px -189px;
 }
-.pkms-duskull{
-  width:18px;
-  height:21px;
+.pkms-duskull {
+  width: 18px;
+  height: 21px;
   background-position: -316px -189px;
 }
-.pkms-ekans{
-  width:18px;
-  height:21px;
+.pkms-ekans {
+  width: 18px;
+  height: 21px;
   background-position: -336px -189px;
 }
-.pkms-feebas{
-  width:17px;
-  height:21px;
+.pkms-feebas {
+  width: 17px;
+  height: 21px;
   background-position: -356px -189px;
 }
-.pkms-finneon{
-  width:20px;
-  height:18px;
+.pkms-finneon {
+  width: 20px;
+  height: 18px;
   background-position: -375px -189px;
 }
-.pkms-frillish-f{
-  width:19px;
-  height:20px;
+.pkms-frillish-f {
+  width: 19px;
+  height: 20px;
   background-position: -397px -189px;
 }
-.pkms-frillish{
-  width:19px;
-  height:20px;
+.pkms-frillish {
+  width: 19px;
+  height: 20px;
   background-position: -418px -189px;
 }
-.pkms-geodude-alola{
-  width:24px;
-  height:15px;
+.pkms-geodude-alola {
+  width: 24px;
+  height: 15px;
   background-position: -439px -189px;
 }
-.pkms-geodude{
-  width:24px;
-  height:15px;
+.pkms-geodude {
+  width: 24px;
+  height: 15px;
   background-position: -465px -189px;
 }
-.pkms-gible{
-  width:19px;
-  height:19px;
+.pkms-gible {
+  width: 19px;
+  height: 19px;
   background-position: -491px -189px;
 }
-.pkms-grimer-alola{
-  width:21px;
-  height:18px;
+.pkms-grimer-alola {
+  width: 21px;
+  height: 18px;
   background-position: -512px -189px;
 }
-.pkms-grimer{
-  width:21px;
-  height:18px;
+.pkms-grimer {
+  width: 21px;
+  height: 18px;
   background-position: -535px -189px;
 }
-.pkms-houndour{
-  width:19px;
-  height:20px;
+.pkms-houndour {
+  width: 19px;
+  height: 20px;
   background-position: -558px -189px;
 }
-.pkms-illumise{
-  width:19px;
-  height:20px;
+.pkms-illumise {
+  width: 19px;
+  height: 20px;
   background-position: -579px -189px;
 }
-.pkms-inkay{
-  width:18px;
-  height:20px;
+.pkms-inkay {
+  width: 18px;
+  height: 20px;
   background-position: -600px -189px;
 }
-.pkms-jigglypuff{
-  width:18px;
-  height:20px;
+.pkms-jigglypuff {
+  width: 18px;
+  height: 20px;
   background-position: -620px -189px;
 }
-.pkms-klink{
-  width:22px;
-  height:16px;
+.pkms-klink {
+  width: 22px;
+  height: 16px;
   background-position: 0px -214px;
 }
-.pkms-kricketot{
-  width:17px;
-  height:22px;
+.pkms-kricketot {
+  width: 17px;
+  height: 22px;
   background-position: -24px -214px;
 }
-.pkms-larvesta{
-  width:20px;
-  height:19px;
+.pkms-larvesta {
+  width: 20px;
+  height: 19px;
   background-position: -43px -214px;
 }
-.pkms-lileep{
-  width:18px;
-  height:20px;
+.pkms-lileep {
+  width: 18px;
+  height: 20px;
   background-position: -65px -214px;
 }
-.pkms-magnemite{
-  width:23px;
-  height:15px;
+.pkms-magnemite {
+  width: 23px;
+  height: 15px;
   background-position: -85px -214px;
 }
-.pkms-meloetta-pirouette{
-  width:15px;
-  height:23px;
+.pkms-meloetta-pirouette {
+  width: 15px;
+  height: 23px;
   background-position: -110px -214px;
 }
-.pkms-morpeko-hangry{
-  width:17px;
-  height:21px;
+.pkms-morpeko-hangry {
+  width: 17px;
+  height: 21px;
   background-position: -127px -214px;
 }
-.pkms-morpeko{
-  width:17px;
-  height:21px;
+.pkms-morpeko {
+  width: 17px;
+  height: 21px;
   background-position: -146px -214px;
 }
-.pkms-nidoran-m{
-  width:18px;
-  height:20px;
+.pkms-nidoran-m {
+  width: 18px;
+  height: 20px;
   background-position: -165px -214px;
 }
-.pkms-nuzleaf{
-  width:16px;
-  height:23px;
+.pkms-nuzleaf {
+  width: 16px;
+  height: 23px;
   background-position: -185px -214px;
 }
-.pkms-patrat{
-  width:20px;
-  height:18px;
+.pkms-patrat {
+  width: 20px;
+  height: 18px;
   background-position: -203px -214px;
 }
-.pkms-pikipek{
-  width:17px;
-  height:22px;
+.pkms-pikipek {
+  width: 17px;
+  height: 22px;
   background-position: -225px -214px;
 }
-.pkms-poochyena{
-  width:21px;
-  height:18px;
+.pkms-poochyena {
+  width: 21px;
+  height: 18px;
   background-position: -244px -214px;
 }
-.pkms-prinplup{
-  width:17px;
-  height:22px;
+.pkms-prinplup {
+  width: 17px;
+  height: 22px;
   background-position: -267px -214px;
 }
-.pkms-psyduck{
-  width:18px;
-  height:21px;
+.pkms-psyduck {
+  width: 18px;
+  height: 21px;
   background-position: -286px -214px;
 }
-.pkms-rufflet{
-  width:17px;
-  height:21px;
+.pkms-rufflet {
+  width: 17px;
+  height: 21px;
   background-position: -306px -214px;
 }
-.pkms-sandile{
-  width:22px;
-  height:16px;
+.pkms-sandile {
+  width: 22px;
+  height: 16px;
   background-position: -325px -214px;
 }
-.pkms-sandshrew-alola{
-  width:21px;
-  height:18px;
+.pkms-sandshrew-alola {
+  width: 21px;
+  height: 18px;
   background-position: -349px -214px;
 }
-.pkms-sandshrew{
-  width:20px;
-  height:18px;
+.pkms-sandshrew {
+  width: 20px;
+  height: 18px;
   background-position: -372px -214px;
 }
-.pkms-shellos-east{
-  width:19px;
-  height:20px;
+.pkms-shellos-east {
+  width: 19px;
+  height: 20px;
   background-position: -394px -214px;
 }
-.pkms-silcoon{
-  width:21px;
-  height:18px;
+.pkms-silcoon {
+  width: 21px;
+  height: 18px;
   background-position: -415px -214px;
 }
-.pkms-skrelp{
-  width:18px;
-  height:21px;
+.pkms-skrelp {
+  width: 18px;
+  height: 21px;
   background-position: -438px -214px;
 }
-.pkms-slugma{
-  width:17px;
-  height:21px;
+.pkms-slugma {
+  width: 17px;
+  height: 21px;
   background-position: -458px -214px;
 }
-.pkms-sneasel{
-  width:17px;
-  height:21px;
+.pkms-sneasel {
+  width: 17px;
+  height: 21px;
   background-position: -477px -214px;
 }
-.pkms-squirtle{
-  width:21px;
-  height:17px;
+.pkms-squirtle {
+  width: 21px;
+  height: 17px;
   background-position: -496px -214px;
 }
-.pkms-swalot{
-  width:20px;
-  height:18px;
+.pkms-swalot {
+  width: 20px;
+  height: 18px;
   background-position: -519px -214px;
 }
-.pkms-tirtouga{
-  width:23px;
-  height:15px;
+.pkms-tirtouga {
+  width: 23px;
+  height: 15px;
   background-position: -541px -214px;
 }
-.pkms-togetic{
-  width:17px;
-  height:21px;
+.pkms-togetic {
+  width: 17px;
+  height: 21px;
   background-position: -566px -214px;
 }
-.pkms-toxel{
-  width:18px;
-  height:21px;
+.pkms-toxel {
+  width: 18px;
+  height: 21px;
   background-position: -585px -214px;
 }
-.pkms-tranquill{
-  width:19px;
-  height:20px;
+.pkms-tranquill {
+  width: 19px;
+  height: 20px;
   background-position: -605px -214px;
 }
-.pkms-trapinch{
-  width:19px;
-  height:19px;
+.pkms-trapinch {
+  width: 19px;
+  height: 19px;
   background-position: 0px -239px;
 }
-.pkms-trubbish{
-  width:21px;
-  height:18px;
+.pkms-trubbish {
+  width: 21px;
+  height: 18px;
   background-position: -21px -239px;
 }
-.pkms-unown-m{
-  width:18px;
-  height:20px;
+.pkms-unown-m {
+  width: 18px;
+  height: 20px;
   background-position: -44px -239px;
 }
-.pkms-whirlipede{
-  width:22px;
-  height:16px;
+.pkms-whirlipede {
+  width: 22px;
+  height: 16px;
   background-position: -64px -239px;
 }
-.pkms-wimpod{
-  width:24px;
-  height:14px;
+.pkms-wimpod {
+  width: 24px;
+  height: 14px;
   background-position: -88px -239px;
 }
-.pkms-wooloo{
-  width:20px;
-  height:19px;
+.pkms-wooloo {
+  width: 20px;
+  height: 19px;
   background-position: -114px -239px;
 }
-.pkms-yamask-galar{
-  width:22px;
-  height:16px;
+.pkms-yamask-galar {
+  width: 22px;
+  height: 16px;
   background-position: -136px -239px;
 }
-.pkms-yamask{
-  width:22px;
-  height:16px;
+.pkms-yamask {
+  width: 22px;
+  height: 16px;
   background-position: -160px -239px;
 }
-.pkms-zigzagoon-galar{
-  width:22px;
-  height:16px;
+.pkms-zigzagoon-galar {
+  width: 22px;
+  height: 16px;
   background-position: -184px -239px;
 }
-.pkms-zigzagoon{
-  width:22px;
-  height:16px;
+.pkms-zigzagoon {
+  width: 22px;
+  height: 16px;
   background-position: -208px -239px;
 }
-.pkms-amaura{
-  width:17px;
-  height:24px;
+.pkms-amaura {
+  width: 17px;
+  height: 24px;
   background-position: -232px -239px;
 }
-.pkms-arrokuda{
-  width:25px;
-  height:15px;
+.pkms-arrokuda {
+  width: 25px;
+  height: 15px;
   background-position: -251px -239px;
 }
-.pkms-banette{
-  width:22px;
-  height:19px;
+.pkms-banette {
+  width: 22px;
+  height: 19px;
   background-position: -278px -239px;
 }
-.pkms-binacle{
-  width:16px;
-  height:24px;
+.pkms-binacle {
+  width: 16px;
+  height: 24px;
   background-position: -302px -239px;
 }
-.pkms-bruxish{
-  width:21px;
-  height:20px;
+.pkms-bruxish {
+  width: 21px;
+  height: 20px;
   background-position: -320px -239px;
 }
-.pkms-buizel{
-  width:21px;
-  height:20px;
+.pkms-buizel {
+  width: 21px;
+  height: 20px;
   background-position: -343px -239px;
 }
-.pkms-buneary{
-  width:18px;
-  height:22px;
+.pkms-buneary {
+  width: 18px;
+  height: 22px;
   background-position: -366px -239px;
 }
-.pkms-bunnelby{
-  width:16px;
-  height:25px;
+.pkms-bunnelby {
+  width: 16px;
+  height: 25px;
   background-position: -386px -239px;
 }
-.pkms-castform-snowy{
-  width:17px;
-  height:23px;
+.pkms-castform-snowy {
+  width: 17px;
+  height: 23px;
   background-position: -404px -239px;
 }
-.pkms-charmander{
-  width:21px;
-  height:19px;
+.pkms-charmander {
+  width: 21px;
+  height: 19px;
   background-position: -423px -239px;
 }
-.pkms-chimchar{
-  width:19px;
-  height:22px;
+.pkms-chimchar {
+  width: 19px;
+  height: 22px;
   background-position: -446px -239px;
 }
-.pkms-chinchou{
-  width:22px;
-  height:19px;
+.pkms-chinchou {
+  width: 22px;
+  height: 19px;
   background-position: -467px -239px;
 }
-.pkms-clauncher{
-  width:24px;
-  height:17px;
+.pkms-clauncher {
+  width: 24px;
+  height: 17px;
   background-position: -491px -239px;
 }
-.pkms-corphish{
-  width:21px;
-  height:19px;
+.pkms-corphish {
+  width: 21px;
+  height: 19px;
   background-position: -517px -239px;
 }
-.pkms-corsola-galar{
-  width:21px;
-  height:20px;
+.pkms-corsola-galar {
+  width: 21px;
+  height: 20px;
   background-position: -540px -239px;
 }
-.pkms-corsola{
-  width:21px;
-  height:20px;
+.pkms-corsola {
+  width: 21px;
+  height: 20px;
   background-position: -563px -239px;
 }
-.pkms-corvisquire{
-  width:22px;
-  height:19px;
+.pkms-corvisquire {
+  width: 22px;
+  height: 19px;
   background-position: -586px -239px;
 }
-.pkms-cosmoem{
-  width:21px;
-  height:19px;
+.pkms-cosmoem {
+  width: 21px;
+  height: 19px;
   background-position: -610px -239px;
 }
-.pkms-crabrawler{
-  width:20px;
-  height:21px;
+.pkms-crabrawler {
+  width: 20px;
+  height: 21px;
   background-position: -633px -239px;
 }
-.pkms-cranidos{
-  width:21px;
-  height:19px;
+.pkms-cranidos {
+  width: 21px;
+  height: 19px;
   background-position: -655px -239px;
 }
-.pkms-deerling-autumn{
-  width:18px;
-  height:22px;
+.pkms-deerling-autumn {
+  width: 18px;
+  height: 22px;
   background-position: 0px -266px;
 }
-.pkms-deerling-summer{
-  width:18px;
-  height:22px;
+.pkms-deerling-summer {
+  width: 18px;
+  height: 22px;
   background-position: -20px -266px;
 }
-.pkms-deerling-winter{
-  width:18px;
-  height:22px;
+.pkms-deerling-winter {
+  width: 18px;
+  height: 22px;
   background-position: -40px -266px;
 }
-.pkms-deerling{
-  width:18px;
-  height:22px;
+.pkms-deerling {
+  width: 18px;
+  height: 22px;
   background-position: -60px -266px;
 }
-.pkms-dreepy{
-  width:24px;
-  height:17px;
+.pkms-dreepy {
+  width: 24px;
+  height: 17px;
   background-position: -80px -266px;
 }
-.pkms-eelektrik{
-  width:21px;
-  height:19px;
+.pkms-eelektrik {
+  width: 21px;
+  height: 19px;
   background-position: -106px -266px;
 }
-.pkms-elekid{
-  width:21px;
-  height:20px;
+.pkms-elekid {
+  width: 21px;
+  height: 20px;
   background-position: -129px -266px;
 }
-.pkms-floette-blue{
-  width:19px;
-  height:22px;
+.pkms-floette-blue {
+  width: 19px;
+  height: 22px;
   background-position: -152px -266px;
 }
-.pkms-floette-orange{
-  width:19px;
-  height:22px;
+.pkms-floette-orange {
+  width: 19px;
+  height: 22px;
   background-position: -173px -266px;
 }
-.pkms-floette-white{
-  width:19px;
-  height:22px;
+.pkms-floette-white {
+  width: 19px;
+  height: 22px;
   background-position: -194px -266px;
 }
-.pkms-floette-yellow{
-  width:19px;
-  height:22px;
+.pkms-floette-yellow {
+  width: 19px;
+  height: 22px;
   background-position: -215px -266px;
 }
-.pkms-floette{
-  width:19px;
-  height:22px;
+.pkms-floette {
+  width: 19px;
+  height: 22px;
   background-position: -236px -266px;
 }
-.pkms-forretress{
-  width:23px;
-  height:18px;
+.pkms-forretress {
+  width: 23px;
+  height: 18px;
   background-position: -257px -266px;
 }
-.pkms-gourgeist-small{
-  width:18px;
-  height:22px;
+.pkms-gourgeist-small {
+  width: 18px;
+  height: 22px;
   background-position: -282px -266px;
 }
-.pkms-hoopa{
-  width:21px;
-  height:19px;
+.pkms-hoopa {
+  width: 21px;
+  height: 19px;
   background-position: -302px -266px;
 }
-.pkms-ivysaur{
-  width:21px;
-  height:20px;
+.pkms-ivysaur {
+  width: 21px;
+  height: 20px;
   background-position: -325px -266px;
 }
-.pkms-kecleon{
-  width:20px;
-  height:20px;
+.pkms-kecleon {
+  width: 20px;
+  height: 20px;
   background-position: -348px -266px;
 }
-.pkms-kirlia{
-  width:18px;
-  height:23px;
+.pkms-kirlia {
+  width: 18px;
+  height: 23px;
   background-position: -370px -266px;
 }
-.pkms-komala{
-  width:21px;
-  height:20px;
+.pkms-komala {
+  width: 21px;
+  height: 20px;
   background-position: -390px -266px;
 }
-.pkms-kubfu{
-  width:18px;
-  height:22px;
+.pkms-kubfu {
+  width: 18px;
+  height: 22px;
   background-position: -413px -266px;
 }
-.pkms-lairon{
-  width:23px;
-  height:17px;
+.pkms-lairon {
+  width: 23px;
+  height: 17px;
   background-position: -433px -266px;
 }
-.pkms-ledian{
-  width:19px;
-  height:21px;
+.pkms-ledian {
+  width: 19px;
+  height: 21px;
   background-position: -458px -266px;
 }
-.pkms-lickitung{
-  width:23px;
-  height:18px;
+.pkms-lickitung {
+  width: 23px;
+  height: 18px;
   background-position: -479px -266px;
 }
-.pkms-litleo{
-  width:21px;
-  height:20px;
+.pkms-litleo {
+  width: 21px;
+  height: 20px;
   background-position: -504px -266px;
 }
-.pkms-lombre{
-  width:19px;
-  height:22px;
+.pkms-lombre {
+  width: 19px;
+  height: 22px;
   background-position: -527px -266px;
 }
-.pkms-marill{
-  width:23px;
-  height:17px;
+.pkms-marill {
+  width: 23px;
+  height: 17px;
   background-position: -548px -266px;
 }
-.pkms-marshtomp{
-  width:20px;
-  height:21px;
+.pkms-marshtomp {
+  width: 20px;
+  height: 21px;
   background-position: -573px -266px;
 }
-.pkms-minccino{
-  width:22px;
-  height:19px;
+.pkms-minccino {
+  width: 22px;
+  height: 19px;
   background-position: -595px -266px;
 }
-.pkms-murkrow{
-  width:19px;
-  height:21px;
+.pkms-murkrow {
+  width: 19px;
+  height: 21px;
   background-position: -619px -266px;
 }
-.pkms-nidorina{
-  width:19px;
-  height:22px;
+.pkms-nidorina {
+  width: 19px;
+  height: 22px;
   background-position: -640px -266px;
 }
-.pkms-nidorino{
-  width:19px;
-  height:22px;
+.pkms-nidorino {
+  width: 19px;
+  height: 22px;
   background-position: 0px -291px;
 }
-.pkms-noibat{
-  width:21px;
-  height:20px;
+.pkms-noibat {
+  width: 21px;
+  height: 20px;
   background-position: -21px -291px;
 }
-.pkms-oricorio-pau{
-  width:18px;
-  height:22px;
+.pkms-oricorio-pau {
+  width: 18px;
+  height: 22px;
   background-position: -44px -291px;
 }
-.pkms-oricorio-pom-pom{
-  width:20px;
-  height:20px;
+.pkms-oricorio-pom-pom {
+  width: 20px;
+  height: 20px;
   background-position: -64px -291px;
 }
-.pkms-oricorio-sensu{
-  width:17px;
-  height:23px;
+.pkms-oricorio-sensu {
+  width: 17px;
+  height: 23px;
   background-position: -86px -291px;
 }
-.pkms-pansage{
-  width:20px;
-  height:21px;
+.pkms-pansage {
+  width: 20px;
+  height: 21px;
   background-position: -105px -291px;
 }
-.pkms-pansear{
-  width:20px;
-  height:20px;
+.pkms-pansear {
+  width: 20px;
+  height: 20px;
   background-position: -127px -291px;
 }
-.pkms-phione{
-  width:23px;
-  height:17px;
+.pkms-phione {
+  width: 23px;
+  height: 17px;
   background-position: -149px -291px;
 }
-.pkms-pidgeotto{
-  width:21px;
-  height:20px;
+.pkms-pidgeotto {
+  width: 21px;
+  height: 20px;
   background-position: -174px -291px;
 }
-.pkms-pikachu-cosplay{
-  width:21px;
-  height:20px;
+.pkms-pikachu-cosplay {
+  width: 21px;
+  height: 20px;
   background-position: -197px -291px;
 }
-.pkms-pikachu-f{
-  width:21px;
-  height:20px;
+.pkms-pikachu-f {
+  width: 21px;
+  height: 20px;
   background-position: -220px -291px;
 }
-.pkms-pikachu-libre{
-  width:21px;
-  height:20px;
+.pkms-pikachu-libre {
+  width: 21px;
+  height: 20px;
   background-position: -243px -291px;
 }
-.pkms-pikachu-phd{
-  width:21px;
-  height:20px;
+.pkms-pikachu-phd {
+  width: 21px;
+  height: 20px;
   background-position: -266px -291px;
 }
-.pkms-pikachu-rock-star{
-  width:21px;
-  height:20px;
+.pkms-pikachu-rock-star {
+  width: 21px;
+  height: 20px;
   background-position: -289px -291px;
 }
-.pkms-pikachu{
-  width:21px;
-  height:20px;
+.pkms-pikachu {
+  width: 21px;
+  height: 20px;
   background-position: -312px -291px;
 }
-.pkms-poliwhirl{
-  width:22px;
-  height:19px;
+.pkms-poliwhirl {
+  width: 22px;
+  height: 19px;
   background-position: -335px -291px;
 }
-.pkms-pumpkaboo-super{
-  width:20px;
-  height:21px;
+.pkms-pumpkaboo-super {
+  width: 20px;
+  height: 21px;
   background-position: -359px -291px;
 }
-.pkms-rattata{
-  width:20px;
-  height:21px;
+.pkms-rattata {
+  width: 20px;
+  height: 21px;
   background-position: -381px -291px;
 }
-.pkms-rockruff{
-  width:19px;
-  height:22px;
+.pkms-rockruff {
+  width: 19px;
+  height: 22px;
   background-position: -403px -291px;
 }
-.pkms-sentret{
-  width:15px;
-  height:26px;
+.pkms-sentret {
+  width: 15px;
+  height: 26px;
   background-position: -424px -291px;
 }
-.pkms-shelgon{
-  width:20px;
-  height:21px;
+.pkms-shelgon {
+  width: 20px;
+  height: 21px;
   background-position: -441px -291px;
 }
-.pkms-shieldon{
-  width:20px;
-  height:20px;
+.pkms-shieldon {
+  width: 20px;
+  height: 20px;
   background-position: -463px -291px;
 }
-.pkms-skitty{
-  width:20px;
-  height:20px;
+.pkms-skitty {
+  width: 20px;
+  height: 20px;
   background-position: -485px -291px;
 }
-.pkms-slakoth{
-  width:25px;
-  height:15px;
+.pkms-slakoth {
+  width: 25px;
+  height: 15px;
   background-position: -507px -291px;
 }
-.pkms-slowpoke-galar{
-  width:26px;
-  height:14px;
+.pkms-slowpoke-galar {
+  width: 26px;
+  height: 14px;
   background-position: -534px -291px;
 }
-.pkms-snover{
-  width:21px;
-  height:20px;
+.pkms-snover {
+  width: 21px;
+  height: 20px;
   background-position: -562px -291px;
 }
-.pkms-snubbull{
-  width:21px;
-  height:20px;
+.pkms-snubbull {
+  width: 21px;
+  height: 20px;
   background-position: -585px -291px;
 }
-.pkms-spiritomb{
-  width:21px;
-  height:20px;
+.pkms-spiritomb {
+  width: 21px;
+  height: 20px;
   background-position: -608px -291px;
 }
-.pkms-steenee{
-  width:18px;
-  height:23px;
+.pkms-steenee {
+  width: 18px;
+  height: 23px;
   background-position: -631px -291px;
 }
-.pkms-sunflora{
-  width:19px;
-  height:21px;
+.pkms-sunflora {
+  width: 19px;
+  height: 21px;
   background-position: -651px -291px;
 }
-.pkms-trumbeak{
-  width:19px;
-  height:22px;
+.pkms-trumbeak {
+  width: 19px;
+  height: 22px;
   background-position: 0px -319px;
 }
-.pkms-turtwig{
-  width:18px;
-  height:22px;
+.pkms-turtwig {
+  width: 18px;
+  height: 22px;
   background-position: -21px -319px;
 }
-.pkms-victini{
-  width:18px;
-  height:22px;
+.pkms-victini {
+  width: 18px;
+  height: 22px;
   background-position: -41px -319px;
 }
-.pkms-volbeat{
-  width:20px;
-  height:20px;
+.pkms-volbeat {
+  width: 20px;
+  height: 20px;
   background-position: -61px -319px;
 }
-.pkms-vullaby{
-  width:22px;
-  height:19px;
+.pkms-vullaby {
+  width: 22px;
+  height: 19px;
   background-position: -83px -319px;
 }
-.pkms-vulpix{
-  width:20px;
-  height:20px;
+.pkms-vulpix {
+  width: 20px;
+  height: 20px;
   background-position: -107px -319px;
 }
-.pkms-wingull{
-  width:26px;
-  height:14px;
+.pkms-wingull {
+  width: 26px;
+  height: 14px;
   background-position: -129px -319px;
 }
-.pkms-yungoos{
-  width:25px;
-  height:16px;
+.pkms-yungoos {
+  width: 25px;
+  height: 16px;
   background-position: -157px -319px;
 }
-.pkms-zubat{
-  width:21px;
-  height:20px;
+.pkms-zubat {
+  width: 21px;
+  height: 20px;
   background-position: -184px -319px;
 }
-.pkms-aipom{
-  width:24px;
-  height:19px;
+.pkms-aipom {
+  width: 24px;
+  height: 19px;
   background-position: -207px -319px;
 }
-.pkms-anorith{
-  width:22px;
-  height:20px;
+.pkms-anorith {
+  width: 22px;
+  height: 20px;
   background-position: -233px -319px;
 }
-.pkms-bayleef{
-  width:20px;
-  height:23px;
+.pkms-bayleef {
+  width: 20px;
+  height: 23px;
   background-position: -257px -319px;
 }
-.pkms-braixen{
-  width:20px;
-  height:22px;
+.pkms-braixen {
+  width: 20px;
+  height: 22px;
   background-position: -279px -319px;
 }
-.pkms-chatot{
-  width:20px;
-  height:22px;
+.pkms-chatot {
+  width: 20px;
+  height: 22px;
   background-position: -301px -319px;
 }
-.pkms-chingling{
-  width:23px;
-  height:19px;
+.pkms-chingling {
+  width: 23px;
+  height: 19px;
   background-position: -323px -319px;
 }
-.pkms-combee{
-  width:25px;
-  height:18px;
+.pkms-combee {
+  width: 25px;
+  height: 18px;
   background-position: -348px -319px;
 }
-.pkms-cosmog{
-  width:23px;
-  height:20px;
+.pkms-cosmog {
+  width: 23px;
+  height: 20px;
   background-position: -375px -319px;
 }
-.pkms-delcatty{
-  width:22px;
-  height:21px;
+.pkms-delcatty {
+  width: 22px;
+  height: 21px;
   background-position: -400px -319px;
 }
-.pkms-dewott{
-  width:19px;
-  height:23px;
+.pkms-dewott {
+  width: 19px;
+  height: 23px;
   background-position: -424px -319px;
 }
-.pkms-diancie{
-  width:21px;
-  height:22px;
+.pkms-diancie {
+  width: 21px;
+  height: 22px;
   background-position: -445px -319px;
 }
-.pkms-exeggcute{
-  width:24px;
-  height:18px;
+.pkms-exeggcute {
+  width: 24px;
+  height: 18px;
   background-position: -468px -319px;
 }
-.pkms-flaaffy{
-  width:21px;
-  height:22px;
+.pkms-flaaffy {
+  width: 21px;
+  height: 22px;
   background-position: -494px -319px;
 }
-.pkms-fletchinder{
-  width:22px;
-  height:20px;
+.pkms-fletchinder {
+  width: 22px;
+  height: 20px;
   background-position: -517px -319px;
 }
-.pkms-gloom{
-  width:22px;
-  height:21px;
+.pkms-gloom {
+  width: 22px;
+  height: 21px;
   background-position: -541px -319px;
 }
-.pkms-goldeen{
-  width:24px;
-  height:19px;
+.pkms-goldeen {
+  width: 24px;
+  height: 19px;
   background-position: -565px -319px;
 }
-.pkms-gothorita{
-  width:22px;
-  height:20px;
+.pkms-gothorita {
+  width: 22px;
+  height: 20px;
   background-position: -591px -319px;
 }
-.pkms-grookey{
-  width:19px;
-  height:23px;
+.pkms-grookey {
+  width: 19px;
+  height: 23px;
   background-position: -615px -319px;
 }
-.pkms-grotle{
-  width:22px;
-  height:21px;
+.pkms-grotle {
+  width: 22px;
+  height: 21px;
   background-position: -636px -319px;
 }
-.pkms-growlithe{
-  width:21px;
-  height:22px;
+.pkms-growlithe {
+  width: 21px;
+  height: 22px;
   background-position: -660px -319px;
 }
-.pkms-grumpig{
-  width:23px;
-  height:19px;
+.pkms-grumpig {
+  width: 23px;
+  height: 19px;
   background-position: -683px -319px;
 }
-.pkms-hatenna{
-  width:19px;
-  height:23px;
+.pkms-hatenna {
+  width: 19px;
+  height: 23px;
   background-position: 0px -344px;
 }
-.pkms-herdier{
-  width:21px;
-  height:22px;
+.pkms-herdier {
+  width: 21px;
+  height: 22px;
   background-position: -21px -344px;
 }
-.pkms-hippopotas-f{
-  width:24px;
-  height:18px;
+.pkms-hippopotas-f {
+  width: 24px;
+  height: 18px;
   background-position: -44px -344px;
 }
-.pkms-hippopotas{
-  width:24px;
-  height:18px;
+.pkms-hippopotas {
+  width: 24px;
+  height: 18px;
   background-position: -70px -344px;
 }
-.pkms-honedge{
-  width:18px;
-  height:24px;
+.pkms-honedge {
+  width: 18px;
+  height: 24px;
   background-position: -96px -344px;
 }
-.pkms-hoppip{
-  width:22px;
-  height:20px;
+.pkms-hoppip {
+  width: 22px;
+  height: 20px;
   background-position: -116px -344px;
 }
-.pkms-houndoom{
-  width:20px;
-  height:23px;
+.pkms-houndoom {
+  width: 20px;
+  height: 23px;
   background-position: -140px -344px;
 }
-.pkms-jirachi{
-  width:22px;
-  height:20px;
+.pkms-jirachi {
+  width: 22px;
+  height: 20px;
   background-position: -162px -344px;
 }
-.pkms-linoone-galar{
-  width:22px;
-  height:20px;
+.pkms-linoone-galar {
+  width: 22px;
+  height: 20px;
   background-position: -186px -344px;
 }
-.pkms-linoone{
-  width:22px;
-  height:20px;
+.pkms-linoone {
+  width: 22px;
+  height: 20px;
   background-position: -210px -344px;
 }
-.pkms-lucario-mega{
-  width:19px;
-  height:24px;
+.pkms-lucario-mega {
+  width: 19px;
+  height: 24px;
   background-position: -234px -344px;
 }
-.pkms-lunatone{
-  width:18px;
-  height:24px;
+.pkms-lunatone {
+  width: 18px;
+  height: 24px;
   background-position: -255px -344px;
 }
-.pkms-magcargo{
-  width:21px;
-  height:22px;
+.pkms-magcargo {
+  width: 21px;
+  height: 22px;
   background-position: -275px -344px;
 }
-.pkms-manaphy{
-  width:22px;
-  height:20px;
+.pkms-manaphy {
+  width: 22px;
+  height: 20px;
   background-position: -298px -344px;
 }
-.pkms-mareanie{
-  width:22px;
-  height:20px;
+.pkms-mareanie {
+  width: 22px;
+  height: 20px;
   background-position: -322px -344px;
 }
-.pkms-mareep{
-  width:22px;
-  height:20px;
+.pkms-mareep {
+  width: 22px;
+  height: 20px;
   background-position: -346px -344px;
 }
-.pkms-medicham{
-  width:17px;
-  height:25px;
+.pkms-medicham {
+  width: 17px;
+  height: 25px;
   background-position: -370px -344px;
 }
-.pkms-meowth-alola{
-  width:21px;
-  height:21px;
+.pkms-meowth-alola {
+  width: 21px;
+  height: 21px;
   background-position: -389px -344px;
 }
-.pkms-meowth-galar{
-  width:21px;
-  height:21px;
+.pkms-meowth-galar {
+  width: 21px;
+  height: 21px;
   background-position: -412px -344px;
 }
-.pkms-meowth{
-  width:21px;
-  height:21px;
+.pkms-meowth {
+  width: 21px;
+  height: 21px;
   background-position: -435px -344px;
 }
-.pkms-panpour{
-  width:21px;
-  height:21px;
+.pkms-panpour {
+  width: 21px;
+  height: 21px;
   background-position: -458px -344px;
 }
-.pkms-paras{
-  width:22px;
-  height:20px;
+.pkms-paras {
+  width: 22px;
+  height: 20px;
   background-position: -481px -344px;
 }
-.pkms-piloswine{
-  width:22px;
-  height:21px;
+.pkms-piloswine {
+  width: 22px;
+  height: 21px;
   background-position: -505px -344px;
 }
-.pkms-purrloin{
-  width:21px;
-  height:22px;
+.pkms-purrloin {
+  width: 21px;
+  height: 22px;
   background-position: -529px -344px;
 }
-.pkms-quilava{
-  width:23px;
-  height:20px;
+.pkms-quilava {
+  width: 23px;
+  height: 20px;
   background-position: -552px -344px;
 }
-.pkms-quilladin{
-  width:21px;
-  height:22px;
+.pkms-quilladin {
+  width: 21px;
+  height: 22px;
   background-position: -577px -344px;
 }
-.pkms-rattata-alola{
-  width:21px;
-  height:21px;
+.pkms-rattata-alola {
+  width: 21px;
+  height: 21px;
   background-position: -600px -344px;
 }
-.pkms-servine{
-  width:22px;
-  height:20px;
+.pkms-servine {
+  width: 22px;
+  height: 20px;
   background-position: -623px -344px;
 }
-.pkms-seviper{
-  width:23px;
-  height:20px;
+.pkms-seviper {
+  width: 23px;
+  height: 20px;
   background-position: -647px -344px;
 }
-.pkms-shaymin-sky{
-  width:21px;
-  height:22px;
+.pkms-shaymin-sky {
+  width: 21px;
+  height: 22px;
   background-position: -672px -344px;
 }
-.pkms-skwovet{
-  width:22px;
-  height:21px;
+.pkms-skwovet {
+  width: 22px;
+  height: 21px;
   background-position: 0px -371px;
 }
-.pkms-slowpoke{
-  width:21px;
-  height:21px;
+.pkms-slowpoke {
+  width: 21px;
+  height: 21px;
   background-position: -24px -371px;
 }
-.pkms-surskit{
-  width:23px;
-  height:19px;
+.pkms-surskit {
+  width: 23px;
+  height: 19px;
   background-position: -47px -371px;
 }
-.pkms-swellow{
-  width:23px;
-  height:19px;
+.pkms-swellow {
+  width: 23px;
+  height: 19px;
   background-position: -72px -371px;
 }
-.pkms-timburr{
-  width:24px;
-  height:19px;
+.pkms-timburr {
+  width: 24px;
+  height: 19px;
   background-position: -97px -371px;
 }
-.pkms-treecko{
-  width:21px;
-  height:21px;
+.pkms-treecko {
+  width: 21px;
+  height: 21px;
   background-position: -123px -371px;
 }
-.pkms-venonat{
-  width:17px;
-  height:26px;
+.pkms-venonat {
+  width: 17px;
+  height: 26px;
   background-position: -146px -371px;
 }
-.pkms-vulpix-alola{
-  width:22px;
-  height:21px;
+.pkms-vulpix-alola {
+  width: 22px;
+  height: 21px;
   background-position: -165px -371px;
 }
-.pkms-watchog{
-  width:20px;
-  height:22px;
+.pkms-watchog {
+  width: 20px;
+  height: 22px;
   background-position: -189px -371px;
 }
-.pkms-weepinbell{
-  width:22px;
-  height:20px;
+.pkms-weepinbell {
+  width: 22px;
+  height: 20px;
   background-position: -211px -371px;
 }
-.pkms-yamper{
-  width:22px;
-  height:20px;
+.pkms-yamper {
+  width: 22px;
+  height: 20px;
   background-position: -235px -371px;
 }
-.pkms-abra{
-  width:23px;
-  height:21px;
+.pkms-abra {
+  width: 23px;
+  height: 21px;
   background-position: -259px -371px;
 }
-.pkms-altaria{
-  width:20px;
-  height:24px;
+.pkms-altaria {
+  width: 20px;
+  height: 24px;
   background-position: -284px -371px;
 }
-.pkms-ampharos{
-  width:20px;
-  height:25px;
+.pkms-ampharos {
+  width: 20px;
+  height: 25px;
   background-position: -306px -371px;
 }
-.pkms-audino{
-  width:22px;
-  height:22px;
+.pkms-audino {
+  width: 22px;
+  height: 22px;
   background-position: -328px -371px;
 }
-.pkms-bibarel{
-  width:22px;
-  height:22px;
+.pkms-bibarel {
+  width: 22px;
+  height: 22px;
   background-position: -352px -371px;
 }
-.pkms-blipbug{
-  width:18px;
-  height:27px;
+.pkms-blipbug {
+  width: 18px;
+  height: 27px;
   background-position: -376px -371px;
 }
-.pkms-boldore{
-  width:24px;
-  height:21px;
+.pkms-boldore {
+  width: 24px;
+  height: 21px;
   background-position: -396px -371px;
 }
-.pkms-charmeleon{
-  width:22px;
-  height:23px;
+.pkms-charmeleon {
+  width: 22px;
+  height: 23px;
   background-position: -422px -371px;
 }
-.pkms-dragonair{
-  width:22px;
-  height:22px;
+.pkms-dragonair {
+  width: 22px;
+  height: 22px;
   background-position: -446px -371px;
 }
-.pkms-dustox{
-  width:26px;
-  height:19px;
+.pkms-dustox {
+  width: 26px;
+  height: 19px;
   background-position: -470px -371px;
 }
-.pkms-eiscue-noice{
-  width:14px;
-  height:31px;
+.pkms-eiscue-noice {
+  width: 14px;
+  height: 31px;
   background-position: -498px -371px;
 }
-.pkms-floette-eternal{
-  width:23px;
-  height:21px;
+.pkms-floette-eternal {
+  width: 23px;
+  height: 21px;
   background-position: -514px -371px;
 }
-.pkms-frogadier{
-  width:23px;
-  height:22px;
+.pkms-frogadier {
+  width: 23px;
+  height: 22px;
   background-position: -539px -371px;
 }
-.pkms-furret{
-  width:23px;
-  height:21px;
+.pkms-furret {
+  width: 23px;
+  height: 21px;
   background-position: -564px -371px;
 }
-.pkms-gabite{
-  width:23px;
-  height:21px;
+.pkms-gabite {
+  width: 23px;
+  height: 21px;
   background-position: -589px -371px;
 }
-.pkms-gastly{
-  width:23px;
-  height:21px;
+.pkms-gastly {
+  width: 23px;
+  height: 21px;
   background-position: -614px -371px;
 }
-.pkms-girafarig{
-  width:22px;
-  height:23px;
+.pkms-girafarig {
+  width: 22px;
+  height: 23px;
   background-position: -639px -371px;
 }
-.pkms-gogoat{
-  width:23px;
-  height:22px;
+.pkms-gogoat {
+  width: 23px;
+  height: 22px;
   background-position: -663px -371px;
 }
-.pkms-granbull{
-  width:22px;
-  height:23px;
+.pkms-granbull {
+  width: 22px;
+  height: 23px;
   background-position: -688px -371px;
 }
-.pkms-gumshoos{
-  width:20px;
-  height:24px;
+.pkms-gumshoos {
+  width: 20px;
+  height: 24px;
   background-position: 0px -404px;
 }
-.pkms-hattrem{
-  width:22px;
-  height:22px;
+.pkms-hattrem {
+  width: 22px;
+  height: 22px;
   background-position: -22px -404px;
 }
-.pkms-jangmo-o{
-  width:22px;
-  height:23px;
+.pkms-jangmo-o {
+  width: 22px;
+  height: 23px;
   background-position: -46px -404px;
 }
-.pkms-jumpluff{
-  width:22px;
-  height:22px;
+.pkms-jumpluff {
+  width: 22px;
+  height: 22px;
   background-position: -70px -404px;
 }
-.pkms-kricketune{
-  width:20px;
-  height:24px;
+.pkms-kricketune {
+  width: 20px;
+  height: 24px;
   background-position: -94px -404px;
 }
-.pkms-loudred{
-  width:21px;
-  height:23px;
+.pkms-loudred {
+  width: 21px;
+  height: 23px;
   background-position: -116px -404px;
 }
-.pkms-lumineon{
-  width:22px;
-  height:23px;
+.pkms-lumineon {
+  width: 22px;
+  height: 23px;
   background-position: -139px -404px;
 }
-.pkms-monferno{
-  width:22px;
-  height:23px;
+.pkms-monferno {
+  width: 22px;
+  height: 23px;
   background-position: -163px -404px;
 }
-.pkms-morgrem{
-  width:22px;
-  height:23px;
+.pkms-morgrem {
+  width: 22px;
+  height: 23px;
   background-position: -187px -404px;
 }
-.pkms-mothim{
-  width:25px;
-  height:20px;
+.pkms-mothim {
+  width: 25px;
+  height: 20px;
   background-position: -211px -404px;
 }
-.pkms-mudbray{
-  width:21px;
-  height:23px;
+.pkms-mudbray {
+  width: 21px;
+  height: 23px;
   background-position: -238px -404px;
 }
-.pkms-nickit{
-  width:24px;
-  height:21px;
+.pkms-nickit {
+  width: 24px;
+  height: 21px;
   background-position: -261px -404px;
 }
-.pkms-nihilego{
-  width:21px;
-  height:24px;
+.pkms-nihilego {
+  width: 21px;
+  height: 24px;
   background-position: -287px -404px;
 }
-.pkms-omastar{
-  width:22px;
-  height:22px;
+.pkms-omastar {
+  width: 22px;
+  height: 22px;
   background-position: -310px -404px;
 }
-.pkms-pachirisu{
-  width:22px;
-  height:23px;
+.pkms-pachirisu {
+  width: 22px;
+  height: 23px;
   background-position: -334px -404px;
 }
-.pkms-parasect{
-  width:22px;
-  height:22px;
+.pkms-parasect {
+  width: 22px;
+  height: 22px;
   background-position: -358px -404px;
 }
-.pkms-pignite{
-  width:23px;
-  height:21px;
+.pkms-pignite {
+  width: 23px;
+  height: 21px;
   background-position: -382px -404px;
 }
-.pkms-pikachu-alola-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-alola-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -407px -404px;
 }
-.pkms-pikachu-alola-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-alola-cap {
+  width: 24px;
+  height: 21px;
   background-position: -433px -404px;
 }
-.pkms-pikachu-hoenn-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-hoenn-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -459px -404px;
 }
-.pkms-pikachu-hoenn-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-hoenn-cap {
+  width: 24px;
+  height: 21px;
   background-position: -485px -404px;
 }
-.pkms-pikachu-kalos-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-kalos-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -511px -404px;
 }
-.pkms-pikachu-kalos-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-kalos-cap {
+  width: 24px;
+  height: 21px;
   background-position: -537px -404px;
 }
-.pkms-pikachu-original-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-original-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -563px -404px;
 }
-.pkms-pikachu-original-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-original-cap {
+  width: 24px;
+  height: 21px;
   background-position: -589px -404px;
 }
-.pkms-pikachu-partner-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-partner-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -615px -404px;
 }
-.pkms-pikachu-partner-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-partner-cap {
+  width: 24px;
+  height: 21px;
   background-position: -641px -404px;
 }
-.pkms-pikachu-pop-star{
-  width:24px;
-  height:20px;
+.pkms-pikachu-pop-star {
+  width: 24px;
+  height: 20px;
   background-position: -667px -404px;
 }
-.pkms-pikachu-sinnoh-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-sinnoh-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -693px -404px;
 }
-.pkms-pikachu-sinnoh-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-sinnoh-cap {
+  width: 24px;
+  height: 21px;
   background-position: -719px -404px;
 }
-.pkms-pikachu-unova-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-unova-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: 0px -430px;
 }
-.pkms-pikachu-unova-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-unova-cap {
+  width: 24px;
+  height: 21px;
   background-position: -26px -430px;
 }
-.pkms-pikachu-world-cap-female{
-  width:24px;
-  height:21px;
+.pkms-pikachu-world-cap-female {
+  width: 24px;
+  height: 21px;
   background-position: -52px -430px;
 }
-.pkms-pikachu-world-cap{
-  width:24px;
-  height:21px;
+.pkms-pikachu-world-cap {
+  width: 24px;
+  height: 21px;
   background-position: -78px -430px;
 }
-.pkms-ponyta-galar{
-  width:24px;
-  height:21px;
+.pkms-ponyta-galar {
+  width: 24px;
+  height: 21px;
   background-position: -104px -430px;
 }
-.pkms-purugly{
-  width:23px;
-  height:21px;
+.pkms-purugly {
+  width: 23px;
+  height: 21px;
   background-position: -130px -430px;
 }
-.pkms-registeel{
-  width:23px;
-  height:22px;
+.pkms-registeel {
+  width: 23px;
+  height: 22px;
   background-position: -155px -430px;
 }
-.pkms-rhyhorn{
-  width:24px;
-  height:20px;
+.pkms-rhyhorn {
+  width: 24px;
+  height: 20px;
   background-position: -180px -430px;
 }
-.pkms-sandygast{
-  width:23px;
-  height:22px;
+.pkms-sandygast {
+  width: 23px;
+  height: 22px;
   background-position: -206px -430px;
 }
-.pkms-seadra{
-  width:24px;
-  height:20px;
+.pkms-seadra {
+  width: 24px;
+  height: 20px;
   background-position: -231px -430px;
 }
-.pkms-sealeo{
-  width:26px;
-  height:18px;
+.pkms-sealeo {
+  width: 26px;
+  height: 18px;
   background-position: -257px -430px;
 }
-.pkms-shinx{
-  width:24px;
-  height:21px;
+.pkms-shinx {
+  width: 24px;
+  height: 21px;
   background-position: -285px -430px;
 }
-.pkms-simipour{
-  width:24px;
-  height:21px;
+.pkms-simipour {
+  width: 24px;
+  height: 21px;
   background-position: -311px -430px;
 }
-.pkms-smeargle{
-  width:24px;
-  height:21px;
+.pkms-smeargle {
+  width: 24px;
+  height: 21px;
   background-position: -337px -430px;
 }
-.pkms-staravia{
-  width:22px;
-  height:23px;
+.pkms-staravia {
+  width: 22px;
+  height: 23px;
   background-position: -363px -430px;
 }
-.pkms-stunky{
-  width:26px;
-  height:19px;
+.pkms-stunky {
+  width: 26px;
+  height: 19px;
   background-position: -387px -430px;
 }
-.pkms-tapu-lele{
-  width:20px;
-  height:25px;
+.pkms-tapu-lele {
+  width: 20px;
+  height: 25px;
   background-position: -415px -430px;
 }
-.pkms-toucannon{
-  width:23px;
-  height:21px;
+.pkms-toucannon {
+  width: 23px;
+  height: 21px;
   background-position: -437px -430px;
 }
-.pkms-unknown-pokemon2{
-  width:22px;
-  height:22px;
+.pkms-unknown-pokemon2 {
+  width: 22px;
+  height: 22px;
   background-position: -462px -430px;
 }
-.pkms-ursaring{
-  width:21px;
-  height:23px;
+.pkms-ursaring {
+  width: 21px;
+  height: 23px;
   background-position: -486px -430px;
 }
-.pkms-vibrava{
-  width:25px;
-  height:20px;
+.pkms-vibrava {
+  width: 25px;
+  height: 20px;
   background-position: -509px -430px;
 }
-.pkms-wormadam{
-  width:22px;
-  height:23px;
+.pkms-wormadam {
+  width: 22px;
+  height: 23px;
   background-position: -536px -430px;
 }
-.pkms-yanma{
-  width:28px;
-  height:16px;
+.pkms-yanma {
+  width: 28px;
+  height: 16px;
   background-position: -560px -430px;
 }
-.pkms-zangoose{
-  width:23px;
-  height:22px;
+.pkms-zangoose {
+  width: 23px;
+  height: 22px;
   background-position: -590px -430px;
 }
-.pkms-archeops{
-  width:26px;
-  height:21px;
+.pkms-archeops {
+  width: 26px;
+  height: 21px;
   background-position: -615px -430px;
 }
-.pkms-ariados{
-  width:25px;
-  height:22px;
+.pkms-ariados {
+  width: 25px;
+  height: 22px;
   background-position: -643px -430px;
 }
-.pkms-blacephalon{
-  width:22px;
-  height:25px;
+.pkms-blacephalon {
+  width: 22px;
+  height: 25px;
   background-position: -670px -430px;
 }
-.pkms-brionne{
-  width:23px;
-  height:24px;
+.pkms-brionne {
+  width: 23px;
+  height: 24px;
   background-position: -694px -430px;
 }
-.pkms-cacturne{
-  width:19px;
-  height:27px;
+.pkms-cacturne {
+  width: 19px;
+  height: 27px;
   background-position: -719px -430px;
 }
-.pkms-carkol{
-  width:22px;
-  height:24px;
+.pkms-carkol {
+  width: 22px;
+  height: 24px;
   background-position: -740px -430px;
 }
-.pkms-carracosta{
-  width:25px;
-  height:22px;
+.pkms-carracosta {
+  width: 25px;
+  height: 22px;
   background-position: 0px -459px;
 }
-.pkms-cherrim{
-  width:19px;
-  height:27px;
+.pkms-cherrim {
+  width: 19px;
+  height: 27px;
   background-position: -27px -459px;
 }
-.pkms-croconaw{
-  width:21px;
-  height:25px;
+.pkms-croconaw {
+  width: 21px;
+  height: 25px;
   background-position: -48px -459px;
 }
-.pkms-cufant{
-  width:25px;
-  height:22px;
+.pkms-cufant {
+  width: 25px;
+  height: 22px;
   background-position: -71px -459px;
 }
-.pkms-dottler{
-  width:25px;
-  height:22px;
+.pkms-dottler {
+  width: 25px;
+  height: 22px;
   background-position: -98px -459px;
 }
-.pkms-drowzee{
-  width:24px;
-  height:22px;
+.pkms-drowzee {
+  width: 24px;
+  height: 22px;
   background-position: -125px -459px;
 }
-.pkms-dugtrio-alola{
-  width:23px;
-  height:24px;
+.pkms-dugtrio-alola {
+  width: 23px;
+  height: 24px;
   background-position: -151px -459px;
 }
-.pkms-floatzel{
-  width:25px;
-  height:21px;
+.pkms-floatzel {
+  width: 25px;
+  height: 21px;
   background-position: -176px -459px;
 }
-.pkms-fraxure{
-  width:25px;
-  height:21px;
+.pkms-fraxure {
+  width: 25px;
+  height: 21px;
   background-position: -203px -459px;
 }
-.pkms-genesect--no-drive{
-  width:22px;
-  height:24px;
+.pkms-genesect--no-drive {
+  width: 22px;
+  height: 24px;
   background-position: -230px -459px;
 }
-.pkms-genesect-burn{
-  width:22px;
-  height:24px;
+.pkms-genesect-burn {
+  width: 22px;
+  height: 24px;
   background-position: -254px -459px;
 }
-.pkms-genesect-chill{
-  width:22px;
-  height:24px;
+.pkms-genesect-chill {
+  width: 22px;
+  height: 24px;
   background-position: -278px -459px;
 }
-.pkms-genesect-douse{
-  width:22px;
-  height:24px;
+.pkms-genesect-douse {
+  width: 22px;
+  height: 24px;
   background-position: -302px -459px;
 }
-.pkms-genesect-shock{
-  width:22px;
-  height:24px;
+.pkms-genesect-shock {
+  width: 22px;
+  height: 24px;
   background-position: -326px -459px;
 }
-.pkms-genesect{
-  width:22px;
-  height:24px;
+.pkms-genesect {
+  width: 22px;
+  height: 24px;
   background-position: -350px -459px;
 }
-.pkms-glalie-mega{
-  width:23px;
-  height:24px;
+.pkms-glalie-mega {
+  width: 23px;
+  height: 24px;
   background-position: -374px -459px;
 }
-.pkms-gorebyss{
-  width:26px;
-  height:21px;
+.pkms-gorebyss {
+  width: 26px;
+  height: 21px;
   background-position: -399px -459px;
 }
-.pkms-hariyama{
-  width:24px;
-  height:23px;
+.pkms-hariyama {
+  width: 24px;
+  height: 23px;
   background-position: -427px -459px;
 }
-.pkms-klang{
-  width:27px;
-  height:19px;
+.pkms-klang {
+  width: 27px;
+  height: 19px;
   background-position: -453px -459px;
 }
-.pkms-krokorok{
-  width:25px;
-  height:21px;
+.pkms-krokorok {
+  width: 25px;
+  height: 21px;
   background-position: -482px -459px;
 }
-.pkms-litten{
-  width:25px;
-  height:21px;
+.pkms-litten {
+  width: 25px;
+  height: 21px;
   background-position: -509px -459px;
 }
-.pkms-magikarp{
-  width:22px;
-  height:24px;
+.pkms-magikarp {
+  width: 22px;
+  height: 24px;
   background-position: -536px -459px;
 }
-.pkms-magmortar{
-  width:25px;
-  height:22px;
+.pkms-magmortar {
+  width: 25px;
+  height: 22px;
   background-position: -560px -459px;
 }
-.pkms-mewtwo-mega-x{
-  width:21px;
-  height:26px;
+.pkms-mewtwo-mega-x {
+  width: 21px;
+  height: 26px;
   background-position: -587px -459px;
 }
-.pkms-mightyena{
-  width:25px;
-  height:21px;
+.pkms-mightyena {
+  width: 25px;
+  height: 21px;
   background-position: -610px -459px;
 }
-.pkms-mismagius{
-  width:19px;
-  height:28px;
+.pkms-mismagius {
+  width: 19px;
+  height: 28px;
   background-position: -637px -459px;
 }
-.pkms-persian-alola{
-  width:24px;
-  height:22px;
+.pkms-persian-alola {
+  width: 24px;
+  height: 22px;
   background-position: -658px -459px;
 }
-.pkms-phantump{
-  width:25px;
-  height:21px;
+.pkms-phantump {
+  width: 25px;
+  height: 21px;
   background-position: -684px -459px;
 }
-.pkms-pikachu-belle{
-  width:22px;
-  height:25px;
+.pkms-pikachu-belle {
+  width: 22px;
+  height: 25px;
   background-position: -711px -459px;
 }
-.pkms-ponyta{
-  width:24px;
-  height:23px;
+.pkms-ponyta {
+  width: 24px;
+  height: 23px;
   background-position: -735px -459px;
 }
-.pkms-probopass{
-  width:24px;
-  height:23px;
+.pkms-probopass {
+  width: 24px;
+  height: 23px;
   background-position: 0px -489px;
 }
-.pkms-pyukumuku{
-  width:26px;
-  height:20px;
+.pkms-pyukumuku {
+  width: 26px;
+  height: 20px;
   background-position: -26px -489px;
 }
-.pkms-raticate-alola{
-  width:25px;
-  height:22px;
+.pkms-raticate-alola {
+  width: 25px;
+  height: 22px;
   background-position: -54px -489px;
 }
-.pkms-raticate{
-  width:25px;
-  height:21px;
+.pkms-raticate {
+  width: 25px;
+  height: 21px;
   background-position: -81px -489px;
 }
-.pkms-relicanth{
-  width:25px;
-  height:21px;
+.pkms-relicanth {
+  width: 25px;
+  height: 21px;
   background-position: -108px -489px;
 }
-.pkms-roselia{
-  width:25px;
-  height:22px;
+.pkms-roselia {
+  width: 25px;
+  height: 22px;
   background-position: -135px -489px;
 }
-.pkms-sawsbuck-summer{
-  width:23px;
-  height:24px;
+.pkms-sawsbuck-summer {
+  width: 23px;
+  height: 24px;
   background-position: -162px -489px;
 }
-.pkms-sawsbuck-winter{
-  width:23px;
-  height:24px;
+.pkms-sawsbuck-winter {
+  width: 23px;
+  height: 24px;
   background-position: -187px -489px;
 }
-.pkms-sawsbuck{
-  width:23px;
-  height:24px;
+.pkms-sawsbuck {
+  width: 23px;
+  height: 24px;
   background-position: -212px -489px;
 }
-.pkms-scorbunny{
-  width:18px;
-  height:28px;
+.pkms-scorbunny {
+  width: 18px;
+  height: 28px;
   background-position: -237px -489px;
 }
-.pkms-skorupi{
-  width:24px;
-  height:22px;
+.pkms-skorupi {
+  width: 24px;
+  height: 22px;
   background-position: -257px -489px;
 }
-.pkms-sobble{
-  width:22px;
-  height:25px;
+.pkms-sobble {
+  width: 22px;
+  height: 25px;
   background-position: -283px -489px;
 }
-.pkms-stantler{
-  width:21px;
-  height:25px;
+.pkms-stantler {
+  width: 21px;
+  height: 25px;
   background-position: -307px -489px;
 }
-.pkms-tentacool{
-  width:24px;
-  height:22px;
+.pkms-tentacool {
+  width: 24px;
+  height: 22px;
   background-position: -330px -489px;
 }
-.pkms-torracat{
-  width:23px;
-  height:24px;
+.pkms-torracat {
+  width: 23px;
+  height: 24px;
   background-position: -356px -489px;
 }
-.pkms-wartortle{
-  width:24px;
-  height:22px;
+.pkms-wartortle {
+  width: 24px;
+  height: 22px;
   background-position: -381px -489px;
 }
-.pkms-wormadam-sandy{
-  width:24px;
-  height:23px;
+.pkms-wormadam-sandy {
+  width: 24px;
+  height: 23px;
   background-position: -407px -489px;
 }
-.pkms-wormadam-trash{
-  width:23px;
-  height:23px;
+.pkms-wormadam-trash {
+  width: 23px;
+  height: 23px;
   background-position: -433px -489px;
 }
-.pkms-wynaut{
-  width:25px;
-  height:22px;
+.pkms-wynaut {
+  width: 25px;
+  height: 22px;
   background-position: -458px -489px;
 }
-.pkms-xurkitree{
-  width:18px;
-  height:29px;
+.pkms-xurkitree {
+  width: 18px;
+  height: 29px;
   background-position: -485px -489px;
 }
-.pkms-absol{
-  width:23px;
-  height:25px;
+.pkms-absol {
+  width: 23px;
+  height: 25px;
   background-position: -505px -489px;
 }
-.pkms-armaldo{
-  width:26px;
-  height:23px;
+.pkms-armaldo {
+  width: 26px;
+  height: 23px;
   background-position: -530px -489px;
 }
-.pkms-audino-mega{
-  width:22px;
-  height:26px;
+.pkms-audino-mega {
+  width: 22px;
+  height: 26px;
   background-position: -558px -489px;
 }
-.pkms-bastiodon{
-  width:26px;
-  height:23px;
+.pkms-bastiodon {
+  width: 26px;
+  height: 23px;
   background-position: -582px -489px;
 }
-.pkms-beautifly{
-  width:25px;
-  height:24px;
+.pkms-beautifly {
+  width: 25px;
+  height: 24px;
   background-position: -610px -489px;
 }
-.pkms-beedrill{
-  width:25px;
-  height:23px;
+.pkms-beedrill {
+  width: 25px;
+  height: 23px;
   background-position: -637px -489px;
 }
-.pkms-breloom{
-  width:23px;
-  height:25px;
+.pkms-breloom {
+  width: 23px;
+  height: 25px;
   background-position: -664px -489px;
 }
-.pkms-camerupt{
-  width:27px;
-  height:22px;
+.pkms-camerupt {
+  width: 27px;
+  height: 22px;
   background-position: -689px -489px;
 }
-.pkms-combusken{
-  width:23px;
-  height:25px;
+.pkms-combusken {
+  width: 23px;
+  height: 25px;
   background-position: -718px -489px;
 }
-.pkms-cradily{
-  width:25px;
-  height:24px;
+.pkms-cradily {
+  width: 25px;
+  height: 24px;
   background-position: -743px -489px;
 }
-.pkms-deoxys-defense{
-  width:26px;
-  height:23px;
+.pkms-deoxys-defense {
+  width: 26px;
+  height: 23px;
   background-position: 0px -520px;
 }
-.pkms-deoxys{
-  width:26px;
-  height:22px;
+.pkms-deoxys {
+  width: 26px;
+  height: 22px;
   background-position: -28px -520px;
 }
-.pkms-eevee-starter{
-  width:26px;
-  height:22px;
+.pkms-eevee-starter {
+  width: 26px;
+  height: 22px;
   background-position: -56px -520px;
 }
-.pkms-electivire{
-  width:26px;
-  height:23px;
+.pkms-electivire {
+  width: 26px;
+  height: 23px;
   background-position: -84px -520px;
 }
-.pkms-empoleon{
-  width:23px;
-  height:25px;
+.pkms-empoleon {
+  width: 23px;
+  height: 25px;
   background-position: -112px -520px;
 }
-.pkms-entei{
-  width:25px;
-  height:24px;
+.pkms-entei {
+  width: 25px;
+  height: 24px;
   background-position: -137px -520px;
 }
-.pkms-farfetchd{
-  width:26px;
-  height:22px;
+.pkms-farfetchd {
+  width: 26px;
+  height: 22px;
   background-position: -164px -520px;
 }
-.pkms-furfrou-matron{
-  width:24px;
-  height:25px;
+.pkms-furfrou-matron {
+  width: 24px;
+  height: 25px;
   background-position: -192px -520px;
 }
-.pkms-glameow{
-  width:26px;
-  height:22px;
+.pkms-glameow {
+  width: 26px;
+  height: 22px;
   background-position: -218px -520px;
 }
-.pkms-gligar{
-  width:24px;
-  height:24px;
+.pkms-gligar {
+  width: 24px;
+  height: 24px;
   background-position: -246px -520px;
 }
-.pkms-gourgeist-large{
-  width:23px;
-  height:25px;
+.pkms-gourgeist-large {
+  width: 23px;
+  height: 25px;
   background-position: -272px -520px;
 }
-.pkms-gourgeist-super{
-  width:23px;
-  height:25px;
+.pkms-gourgeist-super {
+  width: 23px;
+  height: 25px;
   background-position: -297px -520px;
 }
-.pkms-graveler{
-  width:26px;
-  height:22px;
+.pkms-graveler {
+  width: 26px;
+  height: 22px;
   background-position: -322px -520px;
 }
-.pkms-hakamo-o{
-  width:21px;
-  height:27px;
+.pkms-hakamo-o {
+  width: 21px;
+  height: 27px;
   background-position: -350px -520px;
 }
-.pkms-honchkrow{
-  width:26px;
-  height:22px;
+.pkms-honchkrow {
+  width: 26px;
+  height: 22px;
   background-position: -373px -520px;
 }
-.pkms-huntail{
-  width:25px;
-  height:24px;
+.pkms-huntail {
+  width: 25px;
+  height: 24px;
   background-position: -401px -520px;
 }
-.pkms-krabby{
-  width:28px;
-  height:21px;
+.pkms-krabby {
+  width: 28px;
+  height: 21px;
   background-position: -428px -520px;
 }
-.pkms-latias{
-  width:27px;
-  height:21px;
+.pkms-latias {
+  width: 27px;
+  height: 21px;
   background-position: -458px -520px;
 }
-.pkms-machoke{
-  width:26px;
-  height:22px;
+.pkms-machoke {
+  width: 26px;
+  height: 22px;
   background-position: -487px -520px;
 }
-.pkms-mankey{
-  width:28px;
-  height:20px;
+.pkms-mankey {
+  width: 28px;
+  height: 20px;
   background-position: -515px -520px;
 }
-.pkms-masquerain{
-  width:26px;
-  height:23px;
+.pkms-masquerain {
+  width: 26px;
+  height: 23px;
   background-position: -545px -520px;
 }
-.pkms-metang{
-  width:27px;
-  height:22px;
+.pkms-metang {
+  width: 27px;
+  height: 22px;
   background-position: -573px -520px;
 }
-.pkms-mew{
-  width:23px;
-  height:25px;
+.pkms-mew {
+  width: 23px;
+  height: 25px;
   background-position: -602px -520px;
 }
-.pkms-mimikyu-busted{
-  width:29px;
-  height:20px;
+.pkms-mimikyu-busted {
+  width: 29px;
+  height: 20px;
   background-position: -627px -520px;
 }
-.pkms-poipole{
-  width:23px;
-  height:25px;
+.pkms-poipole {
+  width: 23px;
+  height: 25px;
   background-position: -658px -520px;
 }
-.pkms-rampardos{
-  width:25px;
-  height:23px;
+.pkms-rampardos {
+  width: 25px;
+  height: 23px;
   background-position: -683px -520px;
 }
-.pkms-regice{
-  width:25px;
-  height:23px;
+.pkms-regice {
+  width: 25px;
+  height: 23px;
   background-position: -710px -520px;
 }
-.pkms-sandslash-alola{
-  width:25px;
-  height:24px;
+.pkms-sandslash-alola {
+  width: 25px;
+  height: 24px;
   background-position: -737px -520px;
 }
-.pkms-seel{
-  width:25px;
-  height:23px;
+.pkms-seel {
+  width: 25px;
+  height: 23px;
   background-position: -764px -520px;
 }
-.pkms-simisear{
-  width:26px;
-  height:22px;
+.pkms-simisear {
+  width: 26px;
+  height: 22px;
   background-position: -791px -520px;
 }
-.pkms-staraptor{
-  width:23px;
-  height:25px;
+.pkms-staraptor {
+  width: 23px;
+  height: 25px;
   background-position: 0px -549px;
 }
-.pkms-tapu-bulu{
-  width:22px;
-  height:26px;
+.pkms-tapu-bulu {
+  width: 22px;
+  height: 26px;
   background-position: -25px -549px;
 }
-.pkms-tapu-fini{
-  width:22px;
-  height:26px;
+.pkms-tapu-fini {
+  width: 22px;
+  height: 26px;
   background-position: -49px -549px;
 }
-.pkms-thwackey{
-  width:22px;
-  height:26px;
+.pkms-thwackey {
+  width: 22px;
+  height: 26px;
   background-position: -73px -549px;
 }
-.pkms-typhlosion{
-  width:23px;
-  height:25px;
+.pkms-typhlosion {
+  width: 23px;
+  height: 25px;
   background-position: -97px -549px;
 }
-.pkms-uxie{
-  width:26px;
-  height:22px;
+.pkms-uxie {
+  width: 26px;
+  height: 22px;
   background-position: -122px -549px;
 }
-.pkms-vigoroth{
-  width:27px;
-  height:22px;
+.pkms-vigoroth {
+  width: 27px;
+  height: 22px;
   background-position: -150px -549px;
 }
-.pkms-zweilous{
-  width:26px;
-  height:22px;
+.pkms-zweilous {
+  width: 26px;
+  height: 22px;
   background-position: -179px -549px;
 }
-.pkms-altaria-mega{
-  width:27px;
-  height:23px;
+.pkms-altaria-mega {
+  width: 27px;
+  height: 23px;
   background-position: -207px -549px;
 }
-.pkms-amoonguss{
-  width:24px;
-  height:26px;
+.pkms-amoonguss {
+  width: 24px;
+  height: 26px;
   background-position: -236px -549px;
 }
-.pkms-aurorus{
-  width:24px;
-  height:27px;
+.pkms-aurorus {
+  width: 24px;
+  height: 27px;
   background-position: -262px -549px;
 }
-.pkms-azelf{
-  width:26px;
-  height:24px;
+.pkms-azelf {
+  width: 26px;
+  height: 24px;
   background-position: -288px -549px;
 }
-.pkms-basculin-blue-striped{
-  width:27px;
-  height:23px;
+.pkms-basculin-blue-striped {
+  width: 27px;
+  height: 23px;
   background-position: -316px -549px;
 }
-.pkms-basculin{
-  width:28px;
-  height:23px;
+.pkms-basculin {
+  width: 28px;
+  height: 23px;
   background-position: -345px -549px;
 }
-.pkms-blaziken{
-  width:25px;
-  height:26px;
+.pkms-blaziken {
+  width: 25px;
+  height: 26px;
   background-position: -375px -549px;
 }
-.pkms-carnivine{
-  width:27px;
-  height:23px;
+.pkms-carnivine {
+  width: 27px;
+  height: 23px;
   background-position: -402px -549px;
 }
-.pkms-chesnaught{
-  width:26px;
-  height:24px;
+.pkms-chesnaught {
+  width: 26px;
+  height: 24px;
   background-position: -431px -549px;
 }
-.pkms-cresselia{
-  width:25px;
-  height:26px;
+.pkms-cresselia {
+  width: 25px;
+  height: 26px;
   background-position: -459px -549px;
 }
-.pkms-darmanitan-zen{
-  width:26px;
-  height:24px;
+.pkms-darmanitan-zen {
+  width: 26px;
+  height: 24px;
   background-position: -486px -549px;
 }
-.pkms-delphox{
-  width:27px;
-  height:23px;
+.pkms-delphox {
+  width: 27px;
+  height: 23px;
   background-position: -514px -549px;
 }
-.pkms-deoxys-speed{
-  width:25px;
-  height:25px;
+.pkms-deoxys-speed {
+  width: 25px;
+  height: 25px;
   background-position: -543px -549px;
 }
-.pkms-donphan{
-  width:29px;
-  height:22px;
+.pkms-donphan {
+  width: 29px;
+  height: 22px;
   background-position: -570px -549px;
 }
-.pkms-drakloak{
-  width:26px;
-  height:24px;
+.pkms-drakloak {
+  width: 26px;
+  height: 24px;
   background-position: -601px -549px;
 }
-.pkms-dunsparce{
-  width:24px;
-  height:26px;
+.pkms-dunsparce {
+  width: 24px;
+  height: 26px;
   background-position: -629px -549px;
 }
-.pkms-dusclops{
-  width:26px;
-  height:24px;
+.pkms-dusclops {
+  width: 26px;
+  height: 24px;
   background-position: -655px -549px;
 }
-.pkms-furfrou-dandy{
-  width:24px;
-  height:26px;
+.pkms-furfrou-dandy {
+  width: 24px;
+  height: 26px;
   background-position: -683px -549px;
 }
-.pkms-furfrou-debutante{
-  width:25px;
-  height:25px;
+.pkms-furfrou-debutante {
+  width: 25px;
+  height: 25px;
   background-position: -709px -549px;
 }
-.pkms-furfrou-heart{
-  width:25px;
-  height:26px;
+.pkms-furfrou-heart {
+  width: 25px;
+  height: 26px;
   background-position: -736px -549px;
 }
-.pkms-furfrou-kabuki{
-  width:25px;
-  height:25px;
+.pkms-furfrou-kabuki {
+  width: 25px;
+  height: 25px;
   background-position: -763px -549px;
 }
-.pkms-furfrou-la-reine{
-  width:25px;
-  height:25px;
+.pkms-furfrou-la-reine {
+  width: 25px;
+  height: 25px;
   background-position: -790px -549px;
 }
-.pkms-furfrou-pharaoh{
-  width:24px;
-  height:26px;
+.pkms-furfrou-pharaoh {
+  width: 24px;
+  height: 26px;
   background-position: 0px -578px;
 }
-.pkms-furfrou{
-  width:24px;
-  height:27px;
+.pkms-furfrou {
+  width: 24px;
+  height: 27px;
   background-position: -26px -578px;
 }
-.pkms-gallade-mega{
-  width:25px;
-  height:26px;
+.pkms-gallade-mega {
+  width: 25px;
+  height: 26px;
   background-position: -52px -578px;
 }
-.pkms-garchomp{
-  width:29px;
-  height:22px;
+.pkms-garchomp {
+  width: 29px;
+  height: 22px;
   background-position: -79px -578px;
 }
-.pkms-gardevoir-mega{
-  width:26px;
-  height:24px;
+.pkms-gardevoir-mega {
+  width: 26px;
+  height: 24px;
   background-position: -110px -578px;
 }
-.pkms-grovyle{
-  width:28px;
-  height:22px;
+.pkms-grovyle {
+  width: 28px;
+  height: 22px;
   background-position: -138px -578px;
 }
-.pkms-gurdurr{
-  width:27px;
-  height:24px;
+.pkms-gurdurr {
+  width: 27px;
+  height: 24px;
   background-position: -168px -578px;
 }
-.pkms-houndoom-mega{
-  width:23px;
-  height:27px;
+.pkms-houndoom-mega {
+  width: 23px;
+  height: 27px;
   background-position: -197px -578px;
 }
-.pkms-indeedee{
-  width:22px;
-  height:28px;
+.pkms-indeedee {
+  width: 22px;
+  height: 28px;
   background-position: -222px -578px;
 }
-.pkms-infernape{
-  width:26px;
-  height:24px;
+.pkms-infernape {
+  width: 26px;
+  height: 24px;
   background-position: -246px -578px;
 }
-.pkms-koffing{
-  width:25px;
-  height:26px;
+.pkms-koffing {
+  width: 25px;
+  height: 26px;
   background-position: -274px -578px;
 }
-.pkms-latios{
-  width:28px;
-  height:22px;
+.pkms-latios {
+  width: 28px;
+  height: 22px;
   background-position: -301px -578px;
 }
-.pkms-luxio{
-  width:30px;
-  height:21px;
+.pkms-luxio {
+  width: 30px;
+  height: 21px;
   background-position: -331px -578px;
 }
-.pkms-manectric-mega{
-  width:26px;
-  height:24px;
+.pkms-manectric-mega {
+  width: 26px;
+  height: 24px;
   background-position: -363px -578px;
 }
-.pkms-meganium{
-  width:23px;
-  height:27px;
+.pkms-meganium {
+  width: 23px;
+  height: 27px;
   background-position: -391px -578px;
 }
-.pkms-mesprit{
-  width:29px;
-  height:22px;
+.pkms-mesprit {
+  width: 29px;
+  height: 22px;
   background-position: -416px -578px;
 }
-.pkms-mewtwo-mega-y{
-  width:20px;
-  height:30px;
+.pkms-mewtwo-mega-y {
+  width: 20px;
+  height: 30px;
   background-position: -447px -578px;
 }
-.pkms-muk-alola{
-  width:26px;
-  height:25px;
+.pkms-muk-alola {
+  width: 26px;
+  height: 25px;
   background-position: -469px -578px;
 }
-.pkms-muk{
-  width:26px;
-  height:25px;
+.pkms-muk {
+  width: 26px;
+  height: 25px;
   background-position: -497px -578px;
 }
-.pkms-pikachu-starter-female{
-  width:28px;
-  height:23px;
+.pkms-pikachu-starter-female {
+  width: 28px;
+  height: 23px;
   background-position: -525px -578px;
 }
-.pkms-pikachu-starter{
-  width:28px;
-  height:23px;
+.pkms-pikachu-starter {
+  width: 28px;
+  height: 23px;
   background-position: -555px -578px;
 }
-.pkms-primeape{
-  width:28px;
-  height:23px;
+.pkms-primeape {
+  width: 28px;
+  height: 23px;
   background-position: -585px -578px;
 }
-.pkms-qwilfish{
-  width:29px;
-  height:22px;
+.pkms-qwilfish {
+  width: 29px;
+  height: 22px;
   background-position: -615px -578px;
 }
-.pkms-raboot{
-  width:22px;
-  height:29px;
+.pkms-raboot {
+  width: 22px;
+  height: 29px;
   background-position: -646px -578px;
 }
-.pkms-regirock{
-  width:27px;
-  height:23px;
+.pkms-regirock {
+  width: 27px;
+  height: 23px;
   background-position: -670px -578px;
 }
-.pkms-sawsbuck-autumn{
-  width:25px;
-  height:25px;
+.pkms-sawsbuck-autumn {
+  width: 25px;
+  height: 25px;
   background-position: -699px -578px;
 }
-.pkms-serperior{
-  width:28px;
-  height:22px;
+.pkms-serperior {
+  width: 28px;
+  height: 22px;
   background-position: -726px -578px;
 }
-.pkms-simisage{
-  width:25px;
-  height:25px;
+.pkms-simisage {
+  width: 25px;
+  height: 25px;
   background-position: -756px -578px;
 }
-.pkms-slowbro-mega{
-  width:25px;
-  height:26px;
+.pkms-slowbro-mega {
+  width: 25px;
+  height: 26px;
   background-position: -783px -578px;
 }
-.pkms-swampert{
-  width:26px;
-  height:25px;
+.pkms-swampert {
+  width: 26px;
+  height: 25px;
   background-position: -810px -578px;
 }
-.pkms-torterra{
-  width:28px;
-  height:23px;
+.pkms-torterra {
+  width: 28px;
+  height: 23px;
   background-position: 0px -610px;
 }
-.pkms-unknown-pokemon{
-  width:29px;
-  height:21px;
+.pkms-unknown-pokemon {
+  width: 29px;
+  height: 21px;
   background-position: -30px -610px;
 }
-.pkms-vivillon-archipelago{
-  width:26px;
-  height:25px;
+.pkms-vivillon-archipelago {
+  width: 26px;
+  height: 25px;
   background-position: -61px -610px;
 }
-.pkms-vivillon-continental{
-  width:26px;
-  height:25px;
+.pkms-vivillon-continental {
+  width: 26px;
+  height: 25px;
   background-position: -89px -610px;
 }
-.pkms-vivillon-elegant{
-  width:26px;
-  height:25px;
+.pkms-vivillon-elegant {
+  width: 26px;
+  height: 25px;
   background-position: -117px -610px;
 }
-.pkms-vivillon-fancy{
-  width:26px;
-  height:25px;
+.pkms-vivillon-fancy {
+  width: 26px;
+  height: 25px;
   background-position: -145px -610px;
 }
-.pkms-vivillon-garden{
-  width:26px;
-  height:25px;
+.pkms-vivillon-garden {
+  width: 26px;
+  height: 25px;
   background-position: -173px -610px;
 }
-.pkms-vivillon-high-plains{
-  width:26px;
-  height:25px;
+.pkms-vivillon-high-plains {
+  width: 26px;
+  height: 25px;
   background-position: -201px -610px;
 }
-.pkms-vivillon-icy-snow{
-  width:26px;
-  height:25px;
+.pkms-vivillon-icy-snow {
+  width: 26px;
+  height: 25px;
   background-position: -229px -610px;
 }
-.pkms-vivillon-jungle{
-  width:26px;
-  height:25px;
+.pkms-vivillon-jungle {
+  width: 26px;
+  height: 25px;
   background-position: -257px -610px;
 }
-.pkms-vivillon-marine{
-  width:26px;
-  height:25px;
+.pkms-vivillon-marine {
+  width: 26px;
+  height: 25px;
   background-position: -285px -610px;
 }
-.pkms-vivillon-modern{
-  width:26px;
-  height:25px;
+.pkms-vivillon-modern {
+  width: 26px;
+  height: 25px;
   background-position: -313px -610px;
 }
-.pkms-vivillon-monsoon{
-  width:26px;
-  height:25px;
+.pkms-vivillon-monsoon {
+  width: 26px;
+  height: 25px;
   background-position: -341px -610px;
 }
-.pkms-vivillon-ocean{
-  width:26px;
-  height:25px;
+.pkms-vivillon-ocean {
+  width: 26px;
+  height: 25px;
   background-position: -369px -610px;
 }
-.pkms-vivillon-pokeball{
-  width:26px;
-  height:25px;
+.pkms-vivillon-pokeball {
+  width: 26px;
+  height: 25px;
   background-position: -397px -610px;
 }
-.pkms-vivillon-polar{
-  width:26px;
-  height:25px;
+.pkms-vivillon-polar {
+  width: 26px;
+  height: 25px;
   background-position: -425px -610px;
 }
-.pkms-vivillon-river{
-  width:26px;
-  height:25px;
+.pkms-vivillon-river {
+  width: 26px;
+  height: 25px;
   background-position: -453px -610px;
 }
-.pkms-vivillon-sandstorm{
-  width:26px;
-  height:25px;
+.pkms-vivillon-sandstorm {
+  width: 26px;
+  height: 25px;
   background-position: -481px -610px;
 }
-.pkms-vivillon-savanna{
-  width:26px;
-  height:25px;
+.pkms-vivillon-savanna {
+  width: 26px;
+  height: 25px;
   background-position: -509px -610px;
 }
-.pkms-vivillon-sun{
-  width:26px;
-  height:25px;
+.pkms-vivillon-sun {
+  width: 26px;
+  height: 25px;
   background-position: -537px -610px;
 }
-.pkms-vivillon-tundra{
-  width:26px;
-  height:25px;
+.pkms-vivillon-tundra {
+  width: 26px;
+  height: 25px;
   background-position: -565px -610px;
 }
-.pkms-vivillon{
-  width:26px;
-  height:25px;
+.pkms-vivillon {
+  width: 26px;
+  height: 25px;
   background-position: -593px -610px;
 }
-.pkms-walrein{
-  width:28px;
-  height:22px;
+.pkms-walrein {
+  width: 28px;
+  height: 22px;
   background-position: -621px -610px;
 }
-.pkms-yanmega{
-  width:30px;
-  height:21px;
+.pkms-yanmega {
+  width: 30px;
+  height: 21px;
   background-position: -651px -610px;
 }
-.pkms-zebstrika{
-  width:27px;
-  height:23px;
+.pkms-zebstrika {
+  width: 27px;
+  height: 23px;
   background-position: -683px -610px;
 }
-.pkms-absol-mega{
-  width:26px;
-  height:26px;
+.pkms-absol-mega {
+  width: 26px;
+  height: 26px;
   background-position: -712px -610px;
 }
-.pkms-aggron{
-  width:29px;
-  height:24px;
+.pkms-aggron {
+  width: 29px;
+  height: 24px;
   background-position: -740px -610px;
 }
-.pkms-alcremie-caramel-swirl-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-berry {
+  width: 23px;
+  height: 30px;
   background-position: -771px -610px;
 }
-.pkms-alcremie-caramel-swirl-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-clover {
+  width: 23px;
+  height: 30px;
   background-position: -796px -610px;
 }
-.pkms-alcremie-caramel-swirl-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-flower {
+  width: 23px;
+  height: 30px;
   background-position: -821px -610px;
 }
-.pkms-alcremie-caramel-swirl-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-love {
+  width: 23px;
+  height: 30px;
   background-position: 0px -642px;
 }
-.pkms-alcremie-caramel-swirl-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-plain {
+  width: 23px;
+  height: 30px;
   background-position: -25px -642px;
 }
-.pkms-alcremie-caramel-swirl-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-star {
+  width: 23px;
+  height: 30px;
   background-position: -50px -642px;
 }
-.pkms-alcremie-caramel-swirl-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -75px -642px;
 }
-.pkms-alcremie-lemon-cream-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-berry {
+  width: 23px;
+  height: 30px;
   background-position: -100px -642px;
 }
-.pkms-alcremie-lemon-cream-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-clover {
+  width: 23px;
+  height: 30px;
   background-position: -125px -642px;
 }
-.pkms-alcremie-lemon-cream-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-flower {
+  width: 23px;
+  height: 30px;
   background-position: -150px -642px;
 }
-.pkms-alcremie-lemon-cream-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-love {
+  width: 23px;
+  height: 30px;
   background-position: -175px -642px;
 }
-.pkms-alcremie-lemon-cream-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-plain {
+  width: 23px;
+  height: 30px;
   background-position: -200px -642px;
 }
-.pkms-alcremie-lemon-cream-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-star {
+  width: 23px;
+  height: 30px;
   background-position: -225px -642px;
 }
-.pkms-alcremie-lemon-cream-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-lemon-cream-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -250px -642px;
 }
-.pkms-alcremie-matcha-cream-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-berry {
+  width: 23px;
+  height: 30px;
   background-position: -275px -642px;
 }
-.pkms-alcremie-matcha-cream-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-clover {
+  width: 23px;
+  height: 30px;
   background-position: -300px -642px;
 }
-.pkms-alcremie-matcha-cream-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-flower {
+  width: 23px;
+  height: 30px;
   background-position: -325px -642px;
 }
-.pkms-alcremie-matcha-cream-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-love {
+  width: 23px;
+  height: 30px;
   background-position: -350px -642px;
 }
-.pkms-alcremie-matcha-cream-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-plain {
+  width: 23px;
+  height: 30px;
   background-position: -375px -642px;
 }
-.pkms-alcremie-matcha-cream-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-star {
+  width: 23px;
+  height: 30px;
   background-position: -400px -642px;
 }
-.pkms-alcremie-matcha-cream-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-matcha-cream-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -425px -642px;
 }
-.pkms-alcremie-mint-cream-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-berry {
+  width: 23px;
+  height: 30px;
   background-position: -450px -642px;
 }
-.pkms-alcremie-mint-cream-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-clover {
+  width: 23px;
+  height: 30px;
   background-position: -475px -642px;
 }
-.pkms-alcremie-mint-cream-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-flower {
+  width: 23px;
+  height: 30px;
   background-position: -500px -642px;
 }
-.pkms-alcremie-mint-cream-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-love {
+  width: 23px;
+  height: 30px;
   background-position: -525px -642px;
 }
-.pkms-alcremie-mint-cream-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-plain {
+  width: 23px;
+  height: 30px;
   background-position: -550px -642px;
 }
-.pkms-alcremie-mint-cream-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-star {
+  width: 23px;
+  height: 30px;
   background-position: -575px -642px;
 }
-.pkms-alcremie-mint-cream-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-mint-cream-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -600px -642px;
 }
-.pkms-alcremie-rainbow-swirl-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-berry {
+  width: 23px;
+  height: 30px;
   background-position: -625px -642px;
 }
-.pkms-alcremie-rainbow-swirl-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-clover {
+  width: 23px;
+  height: 30px;
   background-position: -650px -642px;
 }
-.pkms-alcremie-rainbow-swirl-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-flower {
+  width: 23px;
+  height: 30px;
   background-position: -675px -642px;
 }
-.pkms-alcremie-rainbow-swirl-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-love {
+  width: 23px;
+  height: 30px;
   background-position: -700px -642px;
 }
-.pkms-alcremie-rainbow-swirl-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-plain {
+  width: 23px;
+  height: 30px;
   background-position: -725px -642px;
 }
-.pkms-alcremie-rainbow-swirl-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-star {
+  width: 23px;
+  height: 30px;
   background-position: 0px -674px;
 }
-.pkms-alcremie-rainbow-swirl-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -25px -674px;
 }
-.pkms-alcremie-ruby-cream-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-berry {
+  width: 23px;
+  height: 30px;
   background-position: -50px -674px;
 }
-.pkms-alcremie-ruby-cream-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-clover {
+  width: 23px;
+  height: 30px;
   background-position: -75px -674px;
 }
-.pkms-alcremie-ruby-cream-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-flower {
+  width: 23px;
+  height: 30px;
   background-position: -100px -674px;
 }
-.pkms-alcremie-ruby-cream-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-love {
+  width: 23px;
+  height: 30px;
   background-position: -125px -674px;
 }
-.pkms-alcremie-ruby-cream-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-plain {
+  width: 23px;
+  height: 30px;
   background-position: -150px -674px;
 }
-.pkms-alcremie-ruby-cream-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-star {
+  width: 23px;
+  height: 30px;
   background-position: -175px -674px;
 }
-.pkms-alcremie-ruby-cream-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-cream-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -200px -674px;
 }
-.pkms-alcremie-ruby-swirl-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-berry {
+  width: 23px;
+  height: 30px;
   background-position: -225px -674px;
 }
-.pkms-alcremie-ruby-swirl-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-clover {
+  width: 23px;
+  height: 30px;
   background-position: -250px -674px;
 }
-.pkms-alcremie-ruby-swirl-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-flower {
+  width: 23px;
+  height: 30px;
   background-position: -275px -674px;
 }
-.pkms-alcremie-ruby-swirl-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-love {
+  width: 23px;
+  height: 30px;
   background-position: -300px -674px;
 }
-.pkms-alcremie-ruby-swirl-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-plain {
+  width: 23px;
+  height: 30px;
   background-position: -325px -674px;
 }
-.pkms-alcremie-ruby-swirl-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-star {
+  width: 23px;
+  height: 30px;
   background-position: -350px -674px;
 }
-.pkms-alcremie-ruby-swirl-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -375px -674px;
 }
-.pkms-alcremie-salted-cream-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-berry {
+  width: 23px;
+  height: 30px;
   background-position: -400px -674px;
 }
-.pkms-alcremie-salted-cream-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-clover {
+  width: 23px;
+  height: 30px;
   background-position: -425px -674px;
 }
-.pkms-alcremie-salted-cream-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-flower {
+  width: 23px;
+  height: 30px;
   background-position: -450px -674px;
 }
-.pkms-alcremie-salted-cream-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-love {
+  width: 23px;
+  height: 30px;
   background-position: -475px -674px;
 }
-.pkms-alcremie-salted-cream-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-plain {
+  width: 23px;
+  height: 30px;
   background-position: -500px -674px;
 }
-.pkms-alcremie-salted-cream-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-star {
+  width: 23px;
+  height: 30px;
   background-position: -525px -674px;
 }
-.pkms-alcremie-salted-cream-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-salted-cream-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -550px -674px;
 }
-.pkms-alcremie-vanilla-cream-berry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-berry {
+  width: 23px;
+  height: 30px;
   background-position: -575px -674px;
 }
-.pkms-alcremie-vanilla-cream-clover{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-clover {
+  width: 23px;
+  height: 30px;
   background-position: -600px -674px;
 }
-.pkms-alcremie-vanilla-cream-flower{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-flower {
+  width: 23px;
+  height: 30px;
   background-position: -625px -674px;
 }
-.pkms-alcremie-vanilla-cream-love{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-love {
+  width: 23px;
+  height: 30px;
   background-position: -650px -674px;
 }
-.pkms-alcremie-vanilla-cream-plain{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-plain {
+  width: 23px;
+  height: 30px;
   background-position: -675px -674px;
 }
-.pkms-alcremie-vanilla-cream-star{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-star {
+  width: 23px;
+  height: 30px;
   background-position: -700px -674px;
 }
-.pkms-alcremie-vanilla-cream-strawberry{
-  width:23px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-strawberry {
+  width: 23px;
+  height: 30px;
   background-position: -725px -674px;
 }
-.pkms-alcremie{
-  width:23px;
-  height:30px;
+.pkms-alcremie {
+  width: 23px;
+  height: 30px;
   background-position: 0px -706px;
 }
-.pkms-aromatisse{
-  width:22px;
-  height:30px;
+.pkms-aromatisse {
+  width: 22px;
+  height: 30px;
   background-position: -25px -706px;
 }
-.pkms-beedrill-mega{
-  width:27px;
-  height:26px;
+.pkms-beedrill-mega {
+  width: 27px;
+  height: 26px;
   background-position: -49px -706px;
 }
-.pkms-bellossom{
-  width:25px;
-  height:28px;
+.pkms-bellossom {
+  width: 25px;
+  height: 28px;
   background-position: -78px -706px;
 }
-.pkms-cramorant{
-  width:23px;
-  height:29px;
+.pkms-cramorant {
+  width: 23px;
+  height: 29px;
   background-position: -105px -706px;
 }
-.pkms-crobat{
-  width:30px;
-  height:23px;
+.pkms-crobat {
+  width: 30px;
+  height: 23px;
   background-position: -130px -706px;
 }
-.pkms-drizzile{
-  width:24px;
-  height:28px;
+.pkms-drizzile {
+  width: 24px;
+  height: 28px;
   background-position: -162px -706px;
 }
-.pkms-eelektross{
-  width:30px;
-  height:22px;
+.pkms-eelektross {
+  width: 30px;
+  height: 22px;
   background-position: -188px -706px;
 }
-.pkms-emboar{
-  width:28px;
-  height:25px;
+.pkms-emboar {
+  width: 28px;
+  height: 25px;
   background-position: -220px -706px;
 }
-.pkms-fearow{
-  width:30px;
-  height:22px;
+.pkms-fearow {
+  width: 30px;
+  height: 22px;
   background-position: -250px -706px;
 }
-.pkms-florges-blue{
-  width:26px;
-  height:27px;
+.pkms-florges-blue {
+  width: 26px;
+  height: 27px;
   background-position: -282px -706px;
 }
-.pkms-florges-orange{
-  width:26px;
-  height:27px;
+.pkms-florges-orange {
+  width: 26px;
+  height: 27px;
   background-position: -310px -706px;
 }
-.pkms-florges-white{
-  width:26px;
-  height:27px;
+.pkms-florges-white {
+  width: 26px;
+  height: 27px;
   background-position: -338px -706px;
 }
-.pkms-florges-yellow{
-  width:26px;
-  height:27px;
+.pkms-florges-yellow {
+  width: 26px;
+  height: 27px;
   background-position: -366px -706px;
 }
-.pkms-florges{
-  width:26px;
-  height:27px;
+.pkms-florges {
+  width: 26px;
+  height: 27px;
   background-position: -394px -706px;
 }
-.pkms-froslass{
-  width:22px;
-  height:31px;
+.pkms-froslass {
+  width: 22px;
+  height: 31px;
   background-position: -422px -706px;
 }
-.pkms-furfrou-diamond{
-  width:24px;
-  height:28px;
+.pkms-furfrou-diamond {
+  width: 24px;
+  height: 28px;
   background-position: -446px -706px;
 }
-.pkms-furfrou-star{
-  width:26px;
-  height:27px;
+.pkms-furfrou-star {
+  width: 26px;
+  height: 27px;
   background-position: -472px -706px;
 }
-.pkms-giratina-origin{
-  width:28px;
-  height:25px;
+.pkms-giratina-origin {
+  width: 28px;
+  height: 25px;
   background-position: -500px -706px;
 }
-.pkms-gliscor{
-  width:31px;
-  height:22px;
+.pkms-gliscor {
+  width: 31px;
+  height: 22px;
   background-position: -530px -706px;
 }
-.pkms-graveler-alola{
-  width:29px;
-  height:24px;
+.pkms-graveler-alola {
+  width: 29px;
+  height: 24px;
   background-position: -563px -706px;
 }
-.pkms-greninja-ash{
-  width:30px;
-  height:23px;
+.pkms-greninja-ash {
+  width: 30px;
+  height: 23px;
   background-position: -594px -706px;
 }
-.pkms-greninja{
-  width:30px;
-  height:22px;
+.pkms-greninja {
+  width: 30px;
+  height: 22px;
   background-position: -626px -706px;
 }
-.pkms-heatran{
-  width:33px;
-  height:20px;
+.pkms-heatran {
+  width: 33px;
+  height: 20px;
   background-position: -658px -706px;
 }
-.pkms-indeedee-f{
-  width:26px;
-  height:27px;
+.pkms-indeedee-f {
+  width: 26px;
+  height: 27px;
   background-position: -693px -706px;
 }
-.pkms-kangaskhan-mega{
-  width:30px;
-  height:22px;
+.pkms-kangaskhan-mega {
+  width: 30px;
+  height: 22px;
   background-position: -721px -706px;
 }
-.pkms-mimikyu{
-  width:23px;
-  height:30px;
+.pkms-mimikyu {
+  width: 23px;
+  height: 30px;
   background-position: -753px -706px;
 }
-.pkms-sharpedo-mega{
-  width:25px;
-  height:27px;
+.pkms-sharpedo-mega {
+  width: 25px;
+  height: 27px;
   background-position: -778px -706px;
 }
-.pkms-skuntank{
-  width:28px;
-  height:25px;
+.pkms-skuntank {
+  width: 28px;
+  height: 25px;
   background-position: -805px -706px;
 }
-.pkms-slaking{
-  width:28px;
-  height:25px;
+.pkms-slaking {
+  width: 28px;
+  height: 25px;
   background-position: -835px -706px;
 }
-.pkms-stunfisk-galar{
-  width:31px;
-  height:22px;
+.pkms-stunfisk-galar {
+  width: 31px;
+  height: 22px;
   background-position: 0px -739px;
 }
-.pkms-stunfisk{
-  width:30px;
-  height:22px;
+.pkms-stunfisk {
+  width: 30px;
+  height: 22px;
   background-position: -33px -739px;
 }
-.pkms-swanna{
-  width:30px;
-  height:22px;
+.pkms-swanna {
+  width: 30px;
+  height: 22px;
   background-position: -65px -739px;
 }
-.pkms-tyrantrum{
-  width:30px;
-  height:22px;
+.pkms-tyrantrum {
+  width: 30px;
+  height: 22px;
   background-position: -97px -739px;
 }
-.pkms-umbreon{
-  width:26px;
-  height:27px;
+.pkms-umbreon {
+  width: 26px;
+  height: 27px;
   background-position: -129px -739px;
 }
-.pkms-volcanion{
-  width:25px;
-  height:27px;
+.pkms-volcanion {
+  width: 25px;
+  height: 27px;
   background-position: -157px -739px;
 }
-.pkms-abomasnow-mega{
-  width:27px;
-  height:27px;
+.pkms-abomasnow-mega {
+  width: 27px;
+  height: 27px;
   background-position: -184px -739px;
 }
-.pkms-alcremie-caramel-swirl-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-caramel-swirl-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -213px -739px;
 }
-.pkms-alcremie-lemon-cream-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-lemon-cream-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -240px -739px;
 }
-.pkms-alcremie-matcha-cream-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-matcha-cream-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -267px -739px;
 }
-.pkms-alcremie-mint-cream-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-mint-cream-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -294px -739px;
 }
-.pkms-alcremie-rainbow-swirl-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-rainbow-swirl-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -321px -739px;
 }
-.pkms-alcremie-ruby-cream-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-ruby-cream-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -348px -739px;
 }
-.pkms-alcremie-ruby-swirl-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-ruby-swirl-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -375px -739px;
 }
-.pkms-alcremie-salted-cream-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-salted-cream-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -402px -739px;
 }
-.pkms-alcremie-vanilla-cream-ribbon{
-  width:25px;
-  height:30px;
+.pkms-alcremie-vanilla-cream-ribbon {
+  width: 25px;
+  height: 30px;
   background-position: -429px -739px;
 }
-.pkms-ambipom{
-  width:29px;
-  height:25px;
+.pkms-ambipom {
+  width: 29px;
+  height: 25px;
   background-position: -456px -739px;
 }
-.pkms-ampharos-mega{
-  width:29px;
-  height:26px;
+.pkms-ampharos-mega {
+  width: 29px;
+  height: 26px;
   background-position: -487px -739px;
 }
-.pkms-arceus-bug{
-  width:28px;
-  height:27px;
+.pkms-arceus-bug {
+  width: 28px;
+  height: 27px;
   background-position: -518px -739px;
 }
-.pkms-arceus-dark{
-  width:28px;
-  height:27px;
+.pkms-arceus-dark {
+  width: 28px;
+  height: 27px;
   background-position: -548px -739px;
 }
-.pkms-arceus-dragon{
-  width:28px;
-  height:27px;
+.pkms-arceus-dragon {
+  width: 28px;
+  height: 27px;
   background-position: -578px -739px;
 }
-.pkms-arceus-electric{
-  width:28px;
-  height:27px;
+.pkms-arceus-electric {
+  width: 28px;
+  height: 27px;
   background-position: -608px -739px;
 }
-.pkms-arceus-fairy{
-  width:28px;
-  height:27px;
+.pkms-arceus-fairy {
+  width: 28px;
+  height: 27px;
   background-position: -638px -739px;
 }
-.pkms-arceus-fighting{
-  width:28px;
-  height:27px;
+.pkms-arceus-fighting {
+  width: 28px;
+  height: 27px;
   background-position: -668px -739px;
 }
-.pkms-arceus-fire{
-  width:28px;
-  height:27px;
+.pkms-arceus-fire {
+  width: 28px;
+  height: 27px;
   background-position: -698px -739px;
 }
-.pkms-arceus-flying{
-  width:28px;
-  height:27px;
+.pkms-arceus-flying {
+  width: 28px;
+  height: 27px;
   background-position: -728px -739px;
 }
-.pkms-arceus-ghost{
-  width:28px;
-  height:27px;
+.pkms-arceus-ghost {
+  width: 28px;
+  height: 27px;
   background-position: -758px -739px;
 }
-.pkms-arceus-grass{
-  width:28px;
-  height:27px;
+.pkms-arceus-grass {
+  width: 28px;
+  height: 27px;
   background-position: -788px -739px;
 }
-.pkms-arceus-ground{
-  width:28px;
-  height:27px;
+.pkms-arceus-ground {
+  width: 28px;
+  height: 27px;
   background-position: -818px -739px;
 }
-.pkms-arceus-ice{
-  width:28px;
-  height:27px;
+.pkms-arceus-ice {
+  width: 28px;
+  height: 27px;
   background-position: -848px -739px;
 }
-.pkms-arceus-poison{
-  width:28px;
-  height:27px;
+.pkms-arceus-poison {
+  width: 28px;
+  height: 27px;
   background-position: 0px -771px;
 }
-.pkms-arceus-psychic{
-  width:28px;
-  height:27px;
+.pkms-arceus-psychic {
+  width: 28px;
+  height: 27px;
   background-position: -30px -771px;
 }
-.pkms-arceus-rock{
-  width:28px;
-  height:27px;
+.pkms-arceus-rock {
+  width: 28px;
+  height: 27px;
   background-position: -60px -771px;
 }
-.pkms-arceus-steel{
-  width:28px;
-  height:27px;
+.pkms-arceus-steel {
+  width: 28px;
+  height: 27px;
   background-position: -90px -771px;
 }
-.pkms-arceus-water{
-  width:28px;
-  height:27px;
+.pkms-arceus-water {
+  width: 28px;
+  height: 27px;
   background-position: -120px -771px;
 }
-.pkms-arceus{
-  width:28px;
-  height:27px;
+.pkms-arceus {
+  width: 28px;
+  height: 27px;
   background-position: -150px -771px;
 }
-.pkms-buzzwole{
-  width:25px;
-  height:29px;
+.pkms-buzzwole {
+  width: 25px;
+  height: 29px;
   background-position: -180px -771px;
 }
-.pkms-cherrim-sunshine{
-  width:26px;
-  height:28px;
+.pkms-cherrim-sunshine {
+  width: 26px;
+  height: 28px;
   background-position: -207px -771px;
 }
-.pkms-crabominable{
-  width:32px;
-  height:23px;
+.pkms-crabominable {
+  width: 32px;
+  height: 23px;
   background-position: -235px -771px;
 }
-.pkms-deoxys-attack{
-  width:29px;
-  height:26px;
+.pkms-deoxys-attack {
+  width: 29px;
+  height: 26px;
   background-position: -269px -771px;
 }
-.pkms-diancie-mega{
-  width:30px;
-  height:25px;
+.pkms-diancie-mega {
+  width: 30px;
+  height: 25px;
   background-position: -300px -771px;
 }
-.pkms-doublade{
-  width:31px;
-  height:23px;
+.pkms-doublade {
+  width: 31px;
+  height: 23px;
   background-position: -332px -771px;
 }
-.pkms-falinks{
-  width:31px;
-  height:23px;
+.pkms-falinks {
+  width: 31px;
+  height: 23px;
   background-position: -365px -771px;
 }
-.pkms-garchomp-mega{
-  width:30px;
-  height:25px;
+.pkms-garchomp-mega {
+  width: 30px;
+  height: 25px;
   background-position: -398px -771px;
 }
-.pkms-giratina{
-  width:30px;
-  height:24px;
+.pkms-giratina {
+  width: 30px;
+  height: 24px;
   background-position: -430px -771px;
 }
-.pkms-heliolisk{
-  width:25px;
-  height:30px;
+.pkms-heliolisk {
+  width: 25px;
+  height: 30px;
   background-position: -462px -771px;
 }
-.pkms-kadabra{
-  width:29px;
-  height:25px;
+.pkms-kadabra {
+  width: 29px;
+  height: 25px;
   background-position: -489px -771px;
 }
-.pkms-kyogre{
-  width:33px;
-  height:21px;
+.pkms-kyogre {
+  width: 33px;
+  height: 21px;
   background-position: -520px -771px;
 }
-.pkms-landorus-therian{
-  width:27px;
-  height:28px;
+.pkms-landorus-therian {
+  width: 27px;
+  height: 28px;
   background-position: -555px -771px;
 }
-.pkms-metagross{
-  width:32px;
-  height:23px;
+.pkms-metagross {
+  width: 32px;
+  height: 23px;
   background-position: -584px -771px;
 }
-.pkms-ninetales-alola{
-  width:30px;
-  height:25px;
+.pkms-ninetales-alola {
+  width: 30px;
+  height: 25px;
   background-position: -618px -771px;
 }
-.pkms-octillery{
-  width:27px;
-  height:27px;
+.pkms-octillery {
+  width: 27px;
+  height: 27px;
   background-position: -650px -771px;
 }
-.pkms-porygon2{
-  width:27px;
-  height:27px;
+.pkms-porygon2 {
+  width: 27px;
+  height: 27px;
   background-position: -679px -771px;
 }
-.pkms-pyroar-f{
-  width:30px;
-  height:24px;
+.pkms-pyroar-f {
+  width: 30px;
+  height: 24px;
   background-position: -708px -771px;
 }
-.pkms-raichu-alola{
-  width:26px;
-  height:28px;
+.pkms-raichu-alola {
+  width: 26px;
+  height: 28px;
   background-position: -740px -771px;
 }
-.pkms-raikou{
-  width:30px;
-  height:25px;
+.pkms-raikou {
+  width: 30px;
+  height: 25px;
   background-position: -768px -771px;
 }
-.pkms-regigigas{
-  width:32px;
-  height:23px;
+.pkms-regigigas {
+  width: 32px;
+  height: 23px;
   background-position: -800px -771px;
 }
-.pkms-roserade{
-  width:25px;
-  height:30px;
+.pkms-roserade {
+  width: 25px;
+  height: 30px;
   background-position: -834px -771px;
 }
-.pkms-rotom{
-  width:28px;
-  height:27px;
+.pkms-rotom {
+  width: 28px;
+  height: 27px;
   background-position: -861px -771px;
 }
-.pkms-sableye-mega{
-  width:28px;
-  height:27px;
+.pkms-sableye-mega {
+  width: 28px;
+  height: 27px;
   background-position: -891px -771px;
 }
-.pkms-salamence{
-  width:32px;
-  height:23px;
+.pkms-salamence {
+  width: 32px;
+  height: 23px;
   background-position: 0px -803px;
 }
-.pkms-samurott{
-  width:31px;
-  height:23px;
+.pkms-samurott {
+  width: 31px;
+  height: 23px;
   background-position: -34px -803px;
 }
-.pkms-sceptile{
-  width:28px;
-  height:26px;
+.pkms-sceptile {
+  width: 28px;
+  height: 26px;
   background-position: -67px -803px;
 }
-.pkms-suicune{
-  width:29px;
-  height:25px;
+.pkms-suicune {
+  width: 29px;
+  height: 25px;
   background-position: -97px -803px;
 }
-.pkms-swampert-mega{
-  width:32px;
-  height:23px;
+.pkms-swampert-mega {
+  width: 32px;
+  height: 23px;
   background-position: -128px -803px;
 }
-.pkms-tapu-koko{
-  width:28px;
-  height:26px;
+.pkms-tapu-koko {
+  width: 28px;
+  height: 26px;
   background-position: -162px -803px;
 }
-.pkms-togedemaru{
-  width:28px;
-  height:27px;
+.pkms-togedemaru {
+  width: 28px;
+  height: 27px;
   background-position: -192px -803px;
 }
-.pkms-venusaur-mega{
-  width:29px;
-  height:26px;
+.pkms-venusaur-mega {
+  width: 29px;
+  height: 26px;
   background-position: -222px -803px;
 }
-.pkms-aerodactyl-mega{
-  width:32px;
-  height:24px;
+.pkms-aerodactyl-mega {
+  width: 32px;
+  height: 24px;
   background-position: -253px -803px;
 }
-.pkms-aggron-mega{
-  width:31px;
-  height:26px;
+.pkms-aggron-mega {
+  width: 31px;
+  height: 26px;
   background-position: -287px -803px;
 }
-.pkms-banette-mega{
-  width:26px;
-  height:30px;
+.pkms-banette-mega {
+  width: 26px;
+  height: 30px;
   background-position: -320px -803px;
 }
-.pkms-barraskewda{
-  width:36px;
-  height:20px;
+.pkms-barraskewda {
+  width: 36px;
+  height: 20px;
   background-position: -348px -803px;
 }
-.pkms-dialga{
-  width:30px;
-  height:27px;
+.pkms-dialga {
+  width: 30px;
+  height: 27px;
   background-position: -386px -803px;
 }
-.pkms-eiscue{
-  width:21px;
-  height:35px;
+.pkms-eiscue {
+  width: 21px;
+  height: 35px;
   background-position: -418px -803px;
 }
-.pkms-eldegoss{
-  width:26px;
-  height:30px;
+.pkms-eldegoss {
+  width: 26px;
+  height: 30px;
   background-position: -441px -803px;
 }
-.pkms-feraligatr{
-  width:31px;
-  height:26px;
+.pkms-feraligatr {
+  width: 31px;
+  height: 26px;
   background-position: -469px -803px;
 }
-.pkms-gastrodon-east{
-  width:27px;
-  height:29px;
+.pkms-gastrodon-east {
+  width: 27px;
+  height: 29px;
   background-position: -502px -803px;
 }
-.pkms-grapploct{
-  width:28px;
-  height:28px;
+.pkms-grapploct {
+  width: 28px;
+  height: 28px;
   background-position: -531px -803px;
 }
-.pkms-groudon{
-  width:33px;
-  height:24px;
+.pkms-groudon {
+  width: 33px;
+  height: 24px;
   background-position: -561px -803px;
 }
-.pkms-haunter{
-  width:30px;
-  height:26px;
+.pkms-haunter {
+  width: 30px;
+  height: 26px;
   background-position: -596px -803px;
 }
-.pkms-hitmonlee{
-  width:28px;
-  height:29px;
+.pkms-hitmonlee {
+  width: 28px;
+  height: 29px;
   background-position: -628px -803px;
 }
-.pkms-kyogre-primal{
-  width:36px;
-  height:21px;
+.pkms-kyogre-primal {
+  width: 36px;
+  height: 21px;
   background-position: -658px -803px;
 }
-.pkms-landorus{
-  width:31px;
-  height:26px;
+.pkms-landorus {
+  width: 31px;
+  height: 26px;
   background-position: -696px -803px;
 }
-.pkms-lopunny-mega{
-  width:33px;
-  height:24px;
+.pkms-lopunny-mega {
+  width: 33px;
+  height: 24px;
   background-position: -729px -803px;
 }
-.pkms-mawile-mega{
-  width:30px;
-  height:26px;
+.pkms-mawile-mega {
+  width: 30px;
+  height: 26px;
   background-position: -764px -803px;
 }
-.pkms-medicham-mega{
-  width:29px;
-  height:27px;
+.pkms-medicham-mega {
+  width: 29px;
+  height: 27px;
   background-position: -796px -803px;
 }
-.pkms-metagross-mega{
-  width:32px;
-  height:24px;
+.pkms-metagross-mega {
+  width: 32px;
+  height: 24px;
   background-position: -827px -803px;
 }
-.pkms-musharna{
-  width:30px;
-  height:27px;
+.pkms-musharna {
+  width: 30px;
+  height: 27px;
   background-position: -861px -803px;
 }
-.pkms-palkia{
-  width:30px;
-  height:26px;
+.pkms-palkia {
+  width: 30px;
+  height: 26px;
   background-position: -893px -803px;
 }
-.pkms-perrserker{
-  width:26px;
-  height:31px;
+.pkms-perrserker {
+  width: 26px;
+  height: 31px;
   background-position: -925px -803px;
 }
-.pkms-pinsir-mega{
-  width:31px;
-  height:25px;
+.pkms-pinsir-mega {
+  width: 31px;
+  height: 25px;
   background-position: 0px -840px;
 }
-.pkms-politoed{
-  width:24px;
-  height:33px;
+.pkms-politoed {
+  width: 24px;
+  height: 33px;
   background-position: -33px -840px;
 }
-.pkms-polteageist{
-  width:28px;
-  height:29px;
+.pkms-polteageist {
+  width: 28px;
+  height: 29px;
   background-position: -59px -840px;
 }
-.pkms-pyroar{
-  width:32px;
-  height:25px;
+.pkms-pyroar {
+  width: 32px;
+  height: 25px;
   background-position: -89px -840px;
 }
-.pkms-scizor-mega{
-  width:28px;
-  height:28px;
+.pkms-scizor-mega {
+  width: 28px;
+  height: 28px;
   background-position: -123px -840px;
 }
-.pkms-shedinja{
-  width:28px;
-  height:28px;
+.pkms-shedinja {
+  width: 28px;
+  height: 28px;
   background-position: -153px -840px;
 }
-.pkms-shiinotic{
-  width:29px;
-  height:28px;
+.pkms-shiinotic {
+  width: 29px;
+  height: 28px;
   background-position: -183px -840px;
 }
-.pkms-torkoal{
-  width:30px;
-  height:27px;
+.pkms-torkoal {
+  width: 30px;
+  height: 27px;
   background-position: -214px -840px;
 }
-.pkms-tornadus-therian{
-  width:30px;
-  height:27px;
+.pkms-tornadus-therian {
+  width: 30px;
+  height: 27px;
   background-position: -246px -840px;
 }
-.pkms-tornadus{
-  width:30px;
-  height:26px;
+.pkms-tornadus {
+  width: 30px;
+  height: 26px;
   background-position: -278px -840px;
 }
-.pkms-tropius{
-  width:31px;
-  height:26px;
+.pkms-tropius {
+  width: 31px;
+  height: 26px;
   background-position: -310px -840px;
 }
-.pkms-tsareena{
-  width:26px;
-  height:31px;
+.pkms-tsareena {
+  width: 26px;
+  height: 31px;
   background-position: -343px -840px;
 }
-.pkms-tyranitar-mega{
-  width:28px;
-  height:29px;
+.pkms-tyranitar-mega {
+  width: 28px;
+  height: 29px;
   background-position: -371px -840px;
 }
-.pkms-wailmer{
-  width:33px;
-  height:24px;
+.pkms-wailmer {
+  width: 33px;
+  height: 24px;
   background-position: -401px -840px;
 }
-.pkms-yveltal{
-  width:30px;
-  height:27px;
+.pkms-yveltal {
+  width: 30px;
+  height: 27px;
   background-position: -436px -840px;
 }
-.pkms-zygarde-10{
-  width:28px;
-  height:29px;
+.pkms-zygarde-10 {
+  width: 28px;
+  height: 29px;
   background-position: -468px -840px;
 }
-.pkms-araquanid{
-  width:34px;
-  height:25px;
+.pkms-araquanid {
+  width: 34px;
+  height: 25px;
   background-position: -498px -840px;
 }
-.pkms-arbok{
-  width:28px;
-  height:30px;
+.pkms-arbok {
+  width: 28px;
+  height: 30px;
   background-position: -534px -840px;
 }
-.pkms-arctovish{
-  width:30px;
-  height:28px;
+.pkms-arctovish {
+  width: 30px;
+  height: 28px;
   background-position: -564px -840px;
 }
-.pkms-beheeyem{
-  width:24px;
-  height:34px;
+.pkms-beheeyem {
+  width: 24px;
+  height: 34px;
   background-position: -596px -840px;
 }
-.pkms-bewear{
-  width:26px;
-  height:32px;
+.pkms-bewear {
+  width: 26px;
+  height: 32px;
   background-position: -622px -840px;
 }
-.pkms-bisharp{
-  width:26px;
-  height:32px;
+.pkms-bisharp {
+  width: 26px;
+  height: 32px;
   background-position: -650px -840px;
 }
-.pkms-blastoise-mega{
-  width:30px;
-  height:28px;
+.pkms-blastoise-mega {
+  width: 30px;
+  height: 28px;
   background-position: -678px -840px;
 }
-.pkms-blaziken-mega{
-  width:32px;
-  height:27px;
+.pkms-blaziken-mega {
+  width: 32px;
+  height: 27px;
   background-position: -710px -840px;
 }
-.pkms-camerupt-mega{
-  width:31px;
-  height:28px;
+.pkms-camerupt-mega {
+  width: 31px;
+  height: 28px;
   background-position: -744px -840px;
 }
-.pkms-darkrai{
-  width:31px;
-  height:28px;
+.pkms-darkrai {
+  width: 31px;
+  height: 28px;
   background-position: -777px -840px;
 }
-.pkms-delibird{
-  width:26px;
-  height:32px;
+.pkms-delibird {
+  width: 26px;
+  height: 32px;
   background-position: -810px -840px;
 }
-.pkms-gallade{
-  width:26px;
-  height:33px;
+.pkms-gallade {
+  width: 26px;
+  height: 33px;
   background-position: -838px -840px;
 }
-.pkms-gastrodon{
-  width:28px;
-  height:30px;
+.pkms-gastrodon {
+  width: 28px;
+  height: 30px;
   background-position: -866px -840px;
 }
-.pkms-glalie{
-  width:30px;
-  height:28px;
+.pkms-glalie {
+  width: 30px;
+  height: 28px;
   background-position: -896px -840px;
 }
-.pkms-golurk{
-  width:28px;
-  height:30px;
+.pkms-golurk {
+  width: 28px;
+  height: 30px;
   background-position: 0px -876px;
 }
-.pkms-gothitelle{
-  width:28px;
-  height:31px;
+.pkms-gothitelle {
+  width: 28px;
+  height: 31px;
   background-position: -30px -876px;
 }
-.pkms-gyarados-mega{
-  width:30px;
-  height:29px;
+.pkms-gyarados-mega {
+  width: 30px;
+  height: 29px;
   background-position: -60px -876px;
 }
-.pkms-ho-oh{
-  width:29px;
-  height:30px;
+.pkms-ho-oh {
+  width: 29px;
+  height: 30px;
   background-position: -92px -876px;
 }
-.pkms-jolteon{
-  width:28px;
-  height:31px;
+.pkms-jolteon {
+  width: 28px;
+  height: 31px;
   background-position: -123px -876px;
 }
-.pkms-latias-mega{
-  width:35px;
-  height:24px;
+.pkms-latias-mega {
+  width: 35px;
+  height: 24px;
   background-position: -153px -876px;
 }
-.pkms-latios-mega{
-  width:35px;
-  height:24px;
+.pkms-latios-mega {
+  width: 35px;
+  height: 24px;
   background-position: -190px -876px;
 }
-.pkms-mandibuzz{
-  width:25px;
-  height:34px;
+.pkms-mandibuzz {
+  width: 25px;
+  height: 34px;
   background-position: -227px -876px;
 }
-.pkms-meowstic-f{
-  width:28px;
-  height:30px;
+.pkms-meowstic-f {
+  width: 28px;
+  height: 30px;
   background-position: -254px -876px;
 }
-.pkms-meowstic{
-  width:28px;
-  height:30px;
+.pkms-meowstic {
+  width: 28px;
+  height: 30px;
   background-position: -284px -876px;
 }
-.pkms-pheromosa{
-  width:28px;
-  height:30px;
+.pkms-pheromosa {
+  width: 28px;
+  height: 30px;
   background-position: -314px -876px;
 }
-.pkms-rayquaza{
-  width:31px;
-  height:27px;
+.pkms-rayquaza {
+  width: 31px;
+  height: 27px;
   background-position: -344px -876px;
 }
-.pkms-ribombee{
-  width:30px;
-  height:28px;
+.pkms-ribombee {
+  width: 30px;
+  height: 28px;
   background-position: -377px -876px;
 }
-.pkms-salazzle{
-  width:27px;
-  height:31px;
+.pkms-salazzle {
+  width: 27px;
+  height: 31px;
   background-position: -409px -876px;
 }
-.pkms-sandslash{
-  width:29px;
-  height:30px;
+.pkms-sandslash {
+  width: 29px;
+  height: 30px;
   background-position: -438px -876px;
 }
-.pkms-shuckle{
-  width:30px;
-  height:28px;
+.pkms-shuckle {
+  width: 30px;
+  height: 28px;
   background-position: -469px -876px;
 }
-.pkms-slurpuff{
-  width:29px;
-  height:30px;
+.pkms-slurpuff {
+  width: 29px;
+  height: 30px;
   background-position: -501px -876px;
 }
-.pkms-stakataka{
-  width:28px;
-  height:30px;
+.pkms-stakataka {
+  width: 28px;
+  height: 30px;
   background-position: -532px -876px;
 }
-.pkms-thundurus-therian{
-  width:32px;
-  height:26px;
+.pkms-thundurus-therian {
+  width: 32px;
+  height: 26px;
   background-position: -562px -876px;
 }
-.pkms-thundurus{
-  width:31px;
-  height:27px;
+.pkms-thundurus {
+  width: 31px;
+  height: 27px;
   background-position: -596px -876px;
 }
-.pkms-toxtricity-low-key{
-  width:22px;
-  height:36px;
+.pkms-toxtricity-low-key {
+  width: 22px;
+  height: 36px;
   background-position: -629px -876px;
 }
-.pkms-unfezant-f{
-  width:29px;
-  height:29px;
+.pkms-unfezant-f {
+  width: 29px;
+  height: 29px;
   background-position: -653px -876px;
 }
-.pkms-whiscash{
-  width:34px;
-  height:24px;
+.pkms-whiscash {
+  width: 34px;
+  height: 24px;
   background-position: -684px -876px;
 }
-.pkms-wobbuffet{
-  width:26px;
-  height:33px;
+.pkms-wobbuffet {
+  width: 26px;
+  height: 33px;
   background-position: -720px -876px;
 }
-.pkms-xerneas-active{
-  width:29px;
-  height:30px;
+.pkms-xerneas-active {
+  width: 29px;
+  height: 30px;
   background-position: -748px -876px;
 }
-.pkms-xerneas{
-  width:29px;
-  height:30px;
+.pkms-xerneas {
+  width: 29px;
+  height: 30px;
   background-position: -779px -876px;
 }
-.pkms-zygarde{
-  width:28px;
-  height:30px;
+.pkms-zygarde {
+  width: 28px;
+  height: 30px;
   background-position: -810px -876px;
 }
-.pkms-alakazam-mega{
-  width:30px;
-  height:30px;
+.pkms-alakazam-mega {
+  width: 30px;
+  height: 30px;
   background-position: -840px -876px;
 }
-.pkms-arctozolt{
-  width:26px;
-  height:35px;
+.pkms-arctozolt {
+  width: 26px;
+  height: 35px;
   background-position: -872px -876px;
 }
-.pkms-claydol{
-  width:30px;
-  height:31px;
+.pkms-claydol {
+  width: 30px;
+  height: 31px;
   background-position: -900px -876px;
 }
-.pkms-cramorant-gulping{
-  width:29px;
-  height:31px;
+.pkms-cramorant-gulping {
+  width: 29px;
+  height: 31px;
   background-position: 0px -914px;
 }
-.pkms-dedenne{
-  width:34px;
-  height:27px;
+.pkms-dedenne {
+  width: 34px;
+  height: 27px;
   background-position: -31px -914px;
 }
-.pkms-drifblim{
-  width:30px;
-  height:31px;
+.pkms-drifblim {
+  width: 30px;
+  height: 31px;
   background-position: -67px -914px;
 }
-.pkms-dubwool{
-  width:30px;
-  height:30px;
+.pkms-dubwool {
+  width: 30px;
+  height: 30px;
   background-position: -99px -914px;
 }
-.pkms-durant{
-  width:39px;
-  height:22px;
+.pkms-durant {
+  width: 39px;
+  height: 22px;
   background-position: -131px -914px;
 }
-.pkms-gardevoir{
-  width:26px;
-  height:35px;
+.pkms-gardevoir {
+  width: 26px;
+  height: 35px;
   background-position: -172px -914px;
 }
-.pkms-goodra{
-  width:31px;
-  height:30px;
+.pkms-goodra {
+  width: 31px;
+  height: 30px;
   background-position: -200px -914px;
 }
-.pkms-greedent{
-  width:30px;
-  height:31px;
+.pkms-greedent {
+  width: 30px;
+  height: 31px;
   background-position: -233px -914px;
 }
-.pkms-groudon-primal{
-  width:36px;
-  height:24px;
+.pkms-groudon-primal {
+  width: 36px;
+  height: 24px;
   background-position: -265px -914px;
 }
-.pkms-hatterene{
-  width:27px;
-  height:34px;
+.pkms-hatterene {
+  width: 27px;
+  height: 34px;
   background-position: -303px -914px;
 }
-.pkms-hippowdon-f{
-  width:36px;
-  height:24px;
+.pkms-hippowdon-f {
+  width: 36px;
+  height: 24px;
   background-position: -332px -914px;
 }
-.pkms-hippowdon{
-  width:36px;
-  height:24px;
+.pkms-hippowdon {
+  width: 36px;
+  height: 24px;
   background-position: -370px -914px;
 }
-.pkms-jellicent{
-  width:30px;
-  height:31px;
+.pkms-jellicent {
+  width: 30px;
+  height: 31px;
   background-position: -408px -914px;
 }
-.pkms-kartana{
-  width:31px;
-  height:29px;
+.pkms-kartana {
+  width: 31px;
+  height: 29px;
   background-position: -440px -914px;
 }
-.pkms-lucario{
-  width:24px;
-  height:36px;
+.pkms-lucario {
+  width: 24px;
+  height: 36px;
   background-position: -473px -914px;
 }
-.pkms-lugia{
-  width:32px;
-  height:29px;
+.pkms-lugia {
+  width: 32px;
+  height: 29px;
   background-position: -499px -914px;
 }
-.pkms-lurantis{
-  width:27px;
-  height:33px;
+.pkms-lurantis {
+  width: 27px;
+  height: 33px;
   background-position: -533px -914px;
 }
-.pkms-lycanroc-midnight{
-  width:28px;
-  height:33px;
+.pkms-lycanroc-midnight {
+  width: 28px;
+  height: 33px;
   background-position: -562px -914px;
 }
-.pkms-lycanroc{
-  width:32px;
-  height:28px;
+.pkms-lycanroc {
+  width: 32px;
+  height: 28px;
   background-position: -592px -914px;
 }
-.pkms-malamar{
-  width:27px;
-  height:34px;
+.pkms-malamar {
+  width: 27px;
+  height: 34px;
   background-position: -626px -914px;
 }
-.pkms-marshadow{
-  width:27px;
-  height:34px;
+.pkms-marshadow {
+  width: 27px;
+  height: 34px;
   background-position: -655px -914px;
 }
-.pkms-mawile{
-  width:34px;
-  height:27px;
+.pkms-mawile {
+  width: 34px;
+  height: 27px;
   background-position: -684px -914px;
 }
-.pkms-noctowl{
-  width:23px;
-  height:38px;
+.pkms-noctowl {
+  width: 23px;
+  height: 38px;
   background-position: -720px -914px;
 }
-.pkms-obstagoon{
-  width:29px;
-  height:31px;
+.pkms-obstagoon {
+  width: 29px;
+  height: 31px;
   background-position: -745px -914px;
 }
-.pkms-palossand{
-  width:29px;
-  height:31px;
+.pkms-palossand {
+  width: 29px;
+  height: 31px;
   background-position: -776px -914px;
 }
-.pkms-sableye{
-  width:31px;
-  height:30px;
+.pkms-sableye {
+  width: 31px;
+  height: 30px;
   background-position: -807px -914px;
 }
-.pkms-salamence-mega{
-  width:35px;
-  height:25px;
+.pkms-salamence-mega {
+  width: 35px;
+  height: 25px;
   background-position: -840px -914px;
 }
-.pkms-sandaconda{
-  width:35px;
-  height:25px;
+.pkms-sandaconda {
+  width: 35px;
+  height: 25px;
   background-position: -877px -914px;
 }
-.pkms-solrock{
-  width:30px;
-  height:31px;
+.pkms-solrock {
+  width: 30px;
+  height: 31px;
   background-position: -914px -914px;
 }
-.pkms-starmie{
-  width:30px;
-  height:31px;
+.pkms-starmie {
+  width: 30px;
+  height: 31px;
   background-position: -946px -914px;
 }
-.pkms-stoutland{
-  width:32px;
-  height:29px;
+.pkms-stoutland {
+  width: 32px;
+  height: 29px;
   background-position: 0px -954px;
 }
-.pkms-sylveon{
-  width:30px;
-  height:31px;
+.pkms-sylveon {
+  width: 30px;
+  height: 31px;
   background-position: -34px -954px;
 }
-.pkms-xatu{
-  width:25px;
-  height:35px;
+.pkms-xatu {
+  width: 25px;
+  height: 35px;
   background-position: -66px -954px;
 }
-.pkms-accelgor{
-  width:33px;
-  height:29px;
+.pkms-accelgor {
+  width: 33px;
+  height: 29px;
   background-position: -93px -954px;
 }
-.pkms-avalugg{
-  width:37px;
-  height:25px;
+.pkms-avalugg {
+  width: 37px;
+  height: 25px;
   background-position: -128px -954px;
 }
-.pkms-bronzong{
-  width:36px;
-  height:27px;
+.pkms-bronzong {
+  width: 36px;
+  height: 27px;
   background-position: -167px -954px;
 }
-.pkms-celesteela{
-  width:32px;
-  height:30px;
+.pkms-celesteela {
+  width: 32px;
+  height: 30px;
   background-position: -205px -954px;
 }
-.pkms-charizard-mega-y{
-  width:38px;
-  height:25px;
+.pkms-charizard-mega-y {
+  width: 38px;
+  height: 25px;
   background-position: -239px -954px;
 }
-.pkms-cinccino{
-  width:33px;
-  height:30px;
+.pkms-cinccino {
+  width: 33px;
+  height: 30px;
   background-position: -279px -954px;
 }
-.pkms-cinderace{
-  width:21px;
-  height:41px;
+.pkms-cinderace {
+  width: 21px;
+  height: 41px;
   background-position: -314px -954px;
 }
-.pkms-copperajah{
-  width:33px;
-  height:30px;
+.pkms-copperajah {
+  width: 33px;
+  height: 30px;
   background-position: -337px -954px;
 }
-.pkms-darmanitan-galar-zen{
-  width:30px;
-  height:33px;
+.pkms-darmanitan-galar-zen {
+  width: 30px;
+  height: 33px;
   background-position: -372px -954px;
 }
-.pkms-decidueye{
-  width:25px;
-  height:38px;
+.pkms-decidueye {
+  width: 25px;
+  height: 38px;
   background-position: -404px -954px;
 }
-.pkms-dracovish{
-  width:31px;
-  height:32px;
+.pkms-dracovish {
+  width: 31px;
+  height: 32px;
   background-position: -431px -954px;
 }
-.pkms-drampa{
-  width:38px;
-  height:25px;
+.pkms-drampa {
+  width: 38px;
+  height: 25px;
   background-position: -464px -954px;
 }
-.pkms-flareon{
-  width:30px;
-  height:33px;
+.pkms-flareon {
+  width: 30px;
+  height: 33px;
   background-position: -504px -954px;
 }
-.pkms-gengar-mega{
-  width:34px;
-  height:29px;
+.pkms-gengar-mega {
+  width: 34px;
+  height: 29px;
   background-position: -536px -954px;
 }
-.pkms-heatmor{
-  width:37px;
-  height:26px;
+.pkms-heatmor {
+  width: 37px;
+  height: 26px;
   background-position: -572px -954px;
 }
-.pkms-jellicent-f{
-  width:31px;
-  height:32px;
+.pkms-jellicent-f {
+  width: 31px;
+  height: 32px;
   background-position: -611px -954px;
 }
-.pkms-krookodile{
-  width:32px;
-  height:30px;
+.pkms-krookodile {
+  width: 32px;
+  height: 30px;
   background-position: -644px -954px;
 }
-.pkms-lanturn{
-  width:39px;
-  height:24px;
+.pkms-lanturn {
+  width: 39px;
+  height: 24px;
   background-position: -678px -954px;
 }
-.pkms-lickilicky{
-  width:30px;
-  height:32px;
+.pkms-lickilicky {
+  width: 30px;
+  height: 32px;
   background-position: -719px -954px;
 }
-.pkms-lilligant{
-  width:28px;
-  height:34px;
+.pkms-lilligant {
+  width: 28px;
+  height: 34px;
   background-position: -751px -954px;
 }
-.pkms-luxray{
-  width:33px;
-  height:30px;
+.pkms-luxray {
+  width: 33px;
+  height: 30px;
   background-position: -781px -954px;
 }
-.pkms-mamoswine{
-  width:35px;
-  height:28px;
+.pkms-mamoswine {
+  width: 35px;
+  height: 28px;
   background-position: -816px -954px;
 }
-.pkms-manectric{
-  width:29px;
-  height:33px;
+.pkms-manectric {
+  width: 29px;
+  height: 33px;
   background-position: -853px -954px;
 }
-.pkms-marowak{
-  width:33px;
-  height:30px;
+.pkms-marowak {
+  width: 33px;
+  height: 30px;
   background-position: -884px -954px;
 }
-.pkms-mudsdale{
-  width:33px;
-  height:30px;
+.pkms-mudsdale {
+  width: 33px;
+  height: 30px;
   background-position: -919px -954px;
 }
-.pkms-naganadel{
-  width:33px;
-  height:29px;
+.pkms-naganadel {
+  width: 33px;
+  height: 29px;
   background-position: -954px -954px;
 }
-.pkms-necrozma-ultra{
-  width:35px;
-  height:28px;
+.pkms-necrozma-ultra {
+  width: 35px;
+  height: 28px;
   background-position: -989px -954px;
 }
-.pkms-orbeetle{
-  width:29px;
-  height:33px;
+.pkms-orbeetle {
+  width: 29px;
+  height: 33px;
   background-position: 0px -997px;
 }
-.pkms-pelipper{
-  width:34px;
-  height:28px;
+.pkms-pelipper {
+  width: 34px;
+  height: 28px;
   background-position: -31px -997px;
 }
-.pkms-pidgeot-mega{
-  width:35px;
-  height:27px;
+.pkms-pidgeot-mega {
+  width: 35px;
+  height: 27px;
   background-position: -67px -997px;
 }
-.pkms-porygon-z{
-  width:27px;
-  height:36px;
+.pkms-porygon-z {
+  width: 27px;
+  height: 36px;
   background-position: -104px -997px;
 }
-.pkms-rayquaza-mega{
-  width:38px;
-  height:25px;
+.pkms-rayquaza-mega {
+  width: 38px;
+  height: 25px;
   background-position: -133px -997px;
 }
-.pkms-rotom-mow{
-  width:30px;
-  height:32px;
+.pkms-rotom-mow {
+  width: 30px;
+  height: 32px;
   background-position: -173px -997px;
 }
-.pkms-scrafty{
-  width:28px;
-  height:34px;
+.pkms-scrafty {
+  width: 28px;
+  height: 34px;
   background-position: -205px -997px;
 }
-.pkms-swoobat{
-  width:36px;
-  height:27px;
+.pkms-swoobat {
+  width: 36px;
+  height: 27px;
   background-position: -235px -997px;
 }
-.pkms-talonflame{
-  width:35px;
-  height:28px;
+.pkms-talonflame {
+  width: 35px;
+  height: 28px;
   background-position: -273px -997px;
 }
-.pkms-unfezant{
-  width:30px;
-  height:32px;
+.pkms-unfezant {
+  width: 30px;
+  height: 32px;
   background-position: -310px -997px;
 }
-.pkms-vanilluxe{
-  width:31px;
-  height:31px;
+.pkms-vanilluxe {
+  width: 31px;
+  height: 31px;
   background-position: -342px -997px;
 }
-.pkms-vespiquen{
-  width:32px;
-  height:31px;
+.pkms-vespiquen {
+  width: 32px;
+  height: 31px;
   background-position: -375px -997px;
 }
-.pkms-virizion{
-  width:27px;
-  height:35px;
+.pkms-virizion {
+  width: 27px;
+  height: 35px;
   background-position: -409px -997px;
 }
-.pkms-weavile{
-  width:27px;
-  height:36px;
+.pkms-weavile {
+  width: 27px;
+  height: 36px;
   background-position: -438px -997px;
 }
-.pkms-zygarde-complete{
-  width:32px;
-  height:30px;
+.pkms-zygarde-complete {
+  width: 32px;
+  height: 30px;
   background-position: -467px -997px;
 }
-.pkms-aegislash{
-  width:30px;
-  height:35px;
+.pkms-aegislash {
+  width: 30px;
+  height: 35px;
   background-position: -501px -997px;
 }
-.pkms-appletun{
-  width:34px;
-  height:31px;
+.pkms-appletun {
+  width: 34px;
+  height: 31px;
   background-position: -533px -997px;
 }
-.pkms-boltund{
-  width:36px;
-  height:29px;
+.pkms-boltund {
+  width: 36px;
+  height: 29px;
   background-position: -569px -997px;
 }
-.pkms-charizard-mega-x{
-  width:40px;
-  height:25px;
+.pkms-charizard-mega-x {
+  width: 40px;
+  height: 25px;
   background-position: -607px -997px;
 }
-.pkms-comfey{
-  width:31px;
-  height:34px;
+.pkms-comfey {
+  width: 31px;
+  height: 34px;
   background-position: -649px -997px;
 }
-.pkms-corviknight{
-  width:34px;
-  height:31px;
+.pkms-corviknight {
+  width: 34px;
+  height: 31px;
   background-position: -682px -997px;
 }
-.pkms-crawdaunt{
-  width:33px;
-  height:32px;
+.pkms-crawdaunt {
+  width: 33px;
+  height: 32px;
   background-position: -718px -997px;
 }
-.pkms-cursola{
-  width:32px;
-  height:32px;
+.pkms-cursola {
+  width: 32px;
+  height: 32px;
   background-position: -753px -997px;
 }
-.pkms-darmanitan-galar{
-  width:29px;
-  height:35px;
+.pkms-darmanitan-galar {
+  width: 29px;
+  height: 35px;
   background-position: -787px -997px;
 }
-.pkms-dhelmise{
-  width:29px;
-  height:36px;
+.pkms-dhelmise {
+  width: 29px;
+  height: 36px;
   background-position: -818px -997px;
 }
-.pkms-diggersby{
-  width:34px;
-  height:30px;
+.pkms-diggersby {
+  width: 34px;
+  height: 30px;
   background-position: -849px -997px;
 }
-.pkms-duraludon{
-  width:29px;
-  height:35px;
+.pkms-duraludon {
+  width: 29px;
+  height: 35px;
   background-position: -885px -997px;
 }
-.pkms-emolga{
-  width:38px;
-  height:26px;
+.pkms-emolga {
+  width: 38px;
+  height: 26px;
   background-position: -916px -997px;
 }
-.pkms-espeon{
-  width:35px;
-  height:29px;
+.pkms-espeon {
+  width: 35px;
+  height: 29px;
   background-position: -956px -997px;
 }
-.pkms-galvantula{
-  width:37px;
-  height:28px;
+.pkms-galvantula {
+  width: 37px;
+  height: 28px;
   background-position: -993px -997px;
 }
-.pkms-grimmsnarl{
-  width:31px;
-  height:33px;
+.pkms-grimmsnarl {
+  width: 31px;
+  height: 33px;
   background-position: 0px -1035px;
 }
-.pkms-guzzlord{
-  width:37px;
-  height:28px;
+.pkms-guzzlord {
+  width: 37px;
+  height: 28px;
   background-position: -33px -1035px;
 }
-.pkms-hawlucha{
-  width:35px;
-  height:30px;
+.pkms-hawlucha {
+  width: 35px;
+  height: 30px;
   background-position: -72px -1035px;
 }
-.pkms-heracross-mega{
-  width:34px;
-  height:30px;
+.pkms-heracross-mega {
+  width: 34px;
+  height: 30px;
   background-position: -109px -1035px;
 }
-.pkms-incineroar{
-  width:34px;
-  height:31px;
+.pkms-incineroar {
+  width: 34px;
+  height: 31px;
   background-position: -145px -1035px;
 }
-.pkms-kabutops{
-  width:32px;
-  height:33px;
+.pkms-kabutops {
+  width: 32px;
+  height: 33px;
   background-position: -181px -1035px;
 }
-.pkms-kingdra{
-  width:30px;
-  height:34px;
+.pkms-kingdra {
+  width: 30px;
+  height: 34px;
   background-position: -215px -1035px;
 }
-.pkms-leafeon{
-  width:33px;
-  height:31px;
+.pkms-leafeon {
+  width: 33px;
+  height: 31px;
   background-position: -247px -1035px;
 }
-.pkms-lycanroc-dusk{
-  width:32px;
-  height:33px;
+.pkms-lycanroc-dusk {
+  width: 32px;
+  height: 33px;
   background-position: -282px -1035px;
 }
-.pkms-mantine{
-  width:45px;
-  height:20px;
+.pkms-mantine {
+  width: 45px;
+  height: 20px;
   background-position: -316px -1035px;
 }
-.pkms-maractus{
-  width:32px;
-  height:33px;
+.pkms-maractus {
+  width: 32px;
+  height: 33px;
   background-position: -363px -1035px;
 }
-.pkms-mr-mime-galar{
-  width:33px;
-  height:32px;
+.pkms-mr-mime-galar {
+  width: 33px;
+  height: 32px;
   background-position: -397px -1035px;
 }
-.pkms-ninjask{
-  width:34px;
-  height:30px;
+.pkms-ninjask {
+  width: 34px;
+  height: 30px;
   background-position: -432px -1035px;
 }
-.pkms-quagsire{
-  width:34px;
-  height:31px;
+.pkms-quagsire {
+  width: 34px;
+  height: 31px;
   background-position: -468px -1035px;
 }
-.pkms-rotom-heat{
-  width:34px;
-  height:30px;
+.pkms-rotom-heat {
+  width: 34px;
+  height: 30px;
   background-position: -504px -1035px;
 }
-.pkms-sawk{
-  width:32px;
-  height:32px;
+.pkms-sawk {
+  width: 32px;
+  height: 32px;
   background-position: -540px -1035px;
 }
-.pkms-sceptile-mega{
-  width:37px;
-  height:27px;
+.pkms-sceptile-mega {
+  width: 37px;
+  height: 27px;
   background-position: -574px -1035px;
 }
-.pkms-scizor{
-  width:30px;
-  height:35px;
+.pkms-scizor {
+  width: 30px;
+  height: 35px;
   background-position: -613px -1035px;
 }
-.pkms-slowbro-galar{
-  width:31px;
-  height:33px;
+.pkms-slowbro-galar {
+  width: 31px;
+  height: 33px;
   background-position: -645px -1035px;
 }
-.pkms-sudowoodo{
-  width:30px;
-  height:34px;
+.pkms-sudowoodo {
+  width: 30px;
+  height: 34px;
   background-position: -678px -1035px;
 }
-.pkms-terrakion{
-  width:36px;
-  height:29px;
+.pkms-terrakion {
+  width: 36px;
+  height: 29px;
   background-position: -710px -1035px;
 }
-.pkms-thievul{
-  width:33px;
-  height:32px;
+.pkms-thievul {
+  width: 33px;
+  height: 32px;
   background-position: -748px -1035px;
 }
-.pkms-toxicroak{
-  width:35px;
-  height:30px;
+.pkms-toxicroak {
+  width: 35px;
+  height: 30px;
   background-position: -783px -1035px;
 }
-.pkms-toxtricity{
-  width:25px;
-  height:39px;
+.pkms-toxtricity {
+  width: 25px;
+  height: 39px;
   background-position: -820px -1035px;
 }
-.pkms-volcarona{
-  width:35px;
-  height:30px;
+.pkms-volcarona {
+  width: 35px;
+  height: 30px;
   background-position: -847px -1035px;
 }
-.pkms-abomasnow{
-  width:36px;
-  height:30px;
+.pkms-abomasnow {
+  width: 36px;
+  height: 30px;
   background-position: -884px -1035px;
 }
-.pkms-aegislash-blade{
-  width:31px;
-  height:35px;
+.pkms-aegislash-blade {
+  width: 31px;
+  height: 35px;
   background-position: -922px -1035px;
 }
-.pkms-azumarill{
-  width:32px;
-  height:35px;
+.pkms-azumarill {
+  width: 32px;
+  height: 35px;
   background-position: -955px -1035px;
 }
-.pkms-barbaracle{
-  width:36px;
-  height:31px;
+.pkms-barbaracle {
+  width: 36px;
+  height: 31px;
   background-position: -989px -1035px;
 }
-.pkms-blissey{
-  width:33px;
-  height:33px;
+.pkms-blissey {
+  width: 33px;
+  height: 33px;
   background-position: -1027px -1035px;
 }
-.pkms-centiskorch{
-  width:37px;
-  height:30px;
+.pkms-centiskorch {
+  width: 37px;
+  height: 30px;
   background-position: 0px -1076px;
 }
-.pkms-cobalion{
-  width:29px;
-  height:37px;
+.pkms-cobalion {
+  width: 29px;
+  height: 37px;
   background-position: -39px -1076px;
 }
-.pkms-cramorant-gorging{
-  width:31px;
-  height:35px;
+.pkms-cramorant-gorging {
+  width: 31px;
+  height: 35px;
   background-position: -70px -1076px;
 }
-.pkms-crustle{
-  width:36px;
-  height:30px;
+.pkms-crustle {
+  width: 36px;
+  height: 30px;
   background-position: -103px -1076px;
 }
-.pkms-drednaw{
-  width:40px;
-  height:27px;
+.pkms-drednaw {
+  width: 40px;
+  height: 27px;
   background-position: -141px -1076px;
 }
-.pkms-dugtrio{
-  width:32px;
-  height:34px;
+.pkms-dugtrio {
+  width: 32px;
+  height: 34px;
   background-position: -183px -1076px;
 }
-.pkms-flapple{
-  width:35px;
-  height:31px;
+.pkms-flapple {
+  width: 35px;
+  height: 31px;
   background-position: -217px -1076px;
 }
-.pkms-gengar{
-  width:32px;
-  height:35px;
+.pkms-gengar {
+  width: 32px;
+  height: 35px;
   background-position: -254px -1076px;
 }
-.pkms-glaceon{
-  width:36px;
-  height:30px;
+.pkms-glaceon {
+  width: 36px;
+  height: 30px;
   background-position: -288px -1076px;
 }
-.pkms-hitmontop{
-  width:37px;
-  height:30px;
+.pkms-hitmontop {
+  width: 37px;
+  height: 30px;
   background-position: -326px -1076px;
 }
-.pkms-hoopa-unbound{
-  width:38px;
-  height:28px;
+.pkms-hoopa-unbound {
+  width: 38px;
+  height: 28px;
   background-position: -365px -1076px;
 }
-.pkms-kommo-o{
-  width:34px;
-  height:33px;
+.pkms-kommo-o {
+  width: 34px;
+  height: 33px;
   background-position: -405px -1076px;
 }
-.pkms-lopunny{
-  width:34px;
-  height:32px;
+.pkms-lopunny {
+  width: 34px;
+  height: 32px;
   background-position: -441px -1076px;
 }
-.pkms-magearna-original{
-  width:28px;
-  height:39px;
+.pkms-magearna-original {
+  width: 28px;
+  height: 39px;
   background-position: -477px -1076px;
 }
-.pkms-magearna{
-  width:28px;
-  height:39px;
+.pkms-magearna {
+  width: 28px;
+  height: 39px;
   background-position: -507px -1076px;
 }
-.pkms-mr-rime{
-  width:33px;
-  height:34px;
+.pkms-mr-rime {
+  width: 33px;
+  height: 34px;
   background-position: -537px -1076px;
 }
-.pkms-pangoro{
-  width:33px;
-  height:33px;
+.pkms-pangoro {
+  width: 33px;
+  height: 33px;
   background-position: -572px -1076px;
 }
-.pkms-rapidash-galar{
-  width:36px;
-  height:31px;
+.pkms-rapidash-galar {
+  width: 36px;
+  height: 31px;
   background-position: -607px -1076px;
 }
-.pkms-seismitoad{
-  width:38px;
-  height:28px;
+.pkms-seismitoad {
+  width: 38px;
+  height: 28px;
   background-position: -645px -1076px;
 }
-.pkms-slowking{
-  width:27px;
-  height:40px;
+.pkms-slowking {
+  width: 27px;
+  height: 40px;
   background-position: -685px -1076px;
 }
-.pkms-togekiss{
-  width:41px;
-  height:26px;
+.pkms-togekiss {
+  width: 41px;
+  height: 26px;
   background-position: -714px -1076px;
 }
-.pkms-urshifu{
-  width:33px;
-  height:33px;
+.pkms-urshifu {
+  width: 33px;
+  height: 33px;
   background-position: -757px -1076px;
 }
-.pkms-whimsicott{
-  width:35px;
-  height:31px;
+.pkms-whimsicott {
+  width: 35px;
+  height: 31px;
   background-position: -792px -1076px;
 }
-.pkms-bouffalant{
-  width:40px;
-  height:29px;
+.pkms-bouffalant {
+  width: 40px;
+  height: 29px;
   background-position: -829px -1076px;
 }
-.pkms-clawitzer{
-  width:41px;
-  height:28px;
+.pkms-clawitzer {
+  width: 41px;
+  height: 28px;
   background-position: -871px -1076px;
 }
-.pkms-clefable{
-  width:37px;
-  height:31px;
+.pkms-clefable {
+  width: 37px;
+  height: 31px;
   background-position: -914px -1076px;
 }
-.pkms-darmanitan{
-  width:35px;
-  height:34px;
+.pkms-darmanitan {
+  width: 35px;
+  height: 34px;
   background-position: -953px -1076px;
 }
-.pkms-dragalge{
-  width:37px;
-  height:32px;
+.pkms-dragalge {
+  width: 37px;
+  height: 32px;
   background-position: -990px -1076px;
 }
-.pkms-electabuzz{
-  width:32px;
-  height:36px;
+.pkms-electabuzz {
+  width: 32px;
+  height: 36px;
   background-position: -1029px -1076px;
 }
-.pkms-escavalier{
-  width:32px;
-  height:36px;
+.pkms-escavalier {
+  width: 32px;
+  height: 36px;
   background-position: -1063px -1076px;
 }
-.pkms-excadrill{
-  width:39px;
-  height:29px;
+.pkms-excadrill {
+  width: 39px;
+  height: 29px;
   background-position: 0px -1118px;
 }
-.pkms-ferrothorn{
-  width:42px;
-  height:26px;
+.pkms-ferrothorn {
+  width: 42px;
+  height: 26px;
   background-position: -41px -1118px;
 }
-.pkms-frosmoth{
-  width:37px;
-  height:32px;
+.pkms-frosmoth {
+  width: 37px;
+  height: 32px;
   background-position: -85px -1118px;
 }
-.pkms-haxorus{
-  width:35px;
-  height:33px;
+.pkms-haxorus {
+  width: 35px;
+  height: 33px;
   background-position: -124px -1118px;
 }
-.pkms-hitmonchan{
-  width:34px;
-  height:35px;
+.pkms-hitmonchan {
+  width: 34px;
+  height: 35px;
   background-position: -161px -1118px;
 }
-.pkms-kangaskhan{
-  width:35px;
-  height:33px;
+.pkms-kangaskhan {
+  width: 35px;
+  height: 33px;
   background-position: -197px -1118px;
 }
-.pkms-klinklang{
-  width:36px;
-  height:32px;
+.pkms-klinklang {
+  width: 36px;
+  height: 32px;
   background-position: -234px -1118px;
 }
-.pkms-lapras{
-  width:32px;
-  height:36px;
+.pkms-lapras {
+  width: 32px;
+  height: 36px;
   background-position: -272px -1118px;
 }
-.pkms-liepard{
-  width:33px;
-  height:35px;
+.pkms-liepard {
+  width: 33px;
+  height: 35px;
   background-position: -306px -1118px;
 }
-.pkms-miltank{
-  width:35px;
-  height:33px;
+.pkms-miltank {
+  width: 35px;
+  height: 33px;
   background-position: -341px -1118px;
 }
-.pkms-pidgeot{
-  width:35px;
-  height:34px;
+.pkms-pidgeot {
+  width: 35px;
+  height: 34px;
   background-position: -378px -1118px;
 }
-.pkms-rillaboom{
-  width:36px;
-  height:33px;
+.pkms-rillaboom {
+  width: 36px;
+  height: 33px;
   background-position: -415px -1118px;
 }
-.pkms-rotom-fan{
-  width:37px;
-  height:32px;
+.pkms-rotom-fan {
+  width: 37px;
+  height: 32px;
   background-position: -453px -1118px;
 }
-.pkms-rotom-wash{
-  width:36px;
-  height:32px;
+.pkms-rotom-wash {
+  width: 36px;
+  height: 32px;
   background-position: -492px -1118px;
 }
-.pkms-runerigus{
-  width:40px;
-  height:29px;
+.pkms-runerigus {
+  width: 40px;
+  height: 29px;
   background-position: -530px -1118px;
 }
-.pkms-seaking{
-  width:39px;
-  height:29px;
+.pkms-seaking {
+  width: 39px;
+  height: 29px;
   background-position: -572px -1118px;
 }
-.pkms-steelix-mega{
-  width:39px;
-  height:29px;
+.pkms-steelix-mega {
+  width: 39px;
+  height: 29px;
   background-position: -613px -1118px;
 }
-.pkms-stonjourner{
-  width:34px;
-  height:34px;
+.pkms-stonjourner {
+  width: 34px;
+  height: 34px;
   background-position: -654px -1118px;
 }
-.pkms-turtonator{
-  width:37px;
-  height:32px;
+.pkms-turtonator {
+  width: 37px;
+  height: 32px;
   background-position: -690px -1118px;
 }
-.pkms-type-null{
-  width:33px;
-  height:35px;
+.pkms-type-null {
+  width: 33px;
+  height: 35px;
   background-position: -729px -1118px;
 }
-.pkms-vaporeon{
-  width:39px;
-  height:30px;
+.pkms-vaporeon {
+  width: 39px;
+  height: 30px;
   background-position: -764px -1118px;
 }
-.pkms-vikavolt{
-  width:37px;
-  height:32px;
+.pkms-vikavolt {
+  width: 37px;
+  height: 32px;
   background-position: -805px -1118px;
 }
-.pkms-wigglytuff{
-  width:31px;
-  height:38px;
+.pkms-wigglytuff {
+  width: 31px;
+  height: 38px;
   background-position: -844px -1118px;
 }
-.pkms-alakazam{
-  width:36px;
-  height:35px;
+.pkms-alakazam {
+  width: 36px;
+  height: 35px;
   background-position: -877px -1118px;
 }
-.pkms-appletun-gmax{
-  width:27px;
-  height:44px;
+.pkms-appletun-gmax {
+  width: 27px;
+  height: 44px;
   background-position: -915px -1118px;
 }
-.pkms-beartic{
-  width:40px;
-  height:31px;
+.pkms-beartic {
+  width: 40px;
+  height: 31px;
   background-position: -944px -1118px;
 }
-.pkms-chandelure{
-  width:37px;
-  height:34px;
+.pkms-chandelure {
+  width: 37px;
+  height: 34px;
   background-position: -986px -1118px;
 }
-.pkms-cloyster{
-  width:37px;
-  height:33px;
+.pkms-cloyster {
+  width: 37px;
+  height: 33px;
   background-position: -1025px -1118px;
 }
-.pkms-flapple-gmax{
-  width:27px;
-  height:44px;
+.pkms-flapple-gmax {
+  width: 27px;
+  height: 44px;
   background-position: -1064px -1118px;
 }
-.pkms-flygon{
-  width:37px;
-  height:34px;
+.pkms-flygon {
+  width: 37px;
+  height: 34px;
   background-position: -1093px -1118px;
 }
-.pkms-gigalith{
-  width:38px;
-  height:33px;
+.pkms-gigalith {
+  width: 38px;
+  height: 33px;
   background-position: 0px -1164px;
 }
-.pkms-golduck{
-  width:38px;
-  height:32px;
+.pkms-golduck {
+  width: 38px;
+  height: 32px;
   background-position: -40px -1164px;
 }
-.pkms-golem{
-  width:38px;
-  height:33px;
+.pkms-golem {
+  width: 38px;
+  height: 33px;
   background-position: -80px -1164px;
 }
-.pkms-golisopod{
-  width:37px;
-  height:33px;
+.pkms-golisopod {
+  width: 37px;
+  height: 33px;
   background-position: -120px -1164px;
 }
-.pkms-gourgeist{
-  width:38px;
-  height:32px;
+.pkms-gourgeist {
+  width: 38px;
+  height: 32px;
   background-position: -159px -1164px;
 }
-.pkms-hydreigon{
-  width:42px;
-  height:29px;
+.pkms-hydreigon {
+  width: 42px;
+  height: 29px;
   background-position: -199px -1164px;
 }
-.pkms-jynx{
-  width:36px;
-  height:34px;
+.pkms-jynx {
+  width: 36px;
+  height: 34px;
   background-position: -243px -1164px;
 }
-.pkms-keldeo{
-  width:35px;
-  height:35px;
+.pkms-keldeo {
+  width: 35px;
+  height: 35px;
   background-position: -281px -1164px;
 }
-.pkms-klefki{
-  width:38px;
-  height:32px;
+.pkms-klefki {
+  width: 38px;
+  height: 32px;
   background-position: -318px -1164px;
 }
-.pkms-magnezone{
-  width:39px;
-  height:32px;
+.pkms-magnezone {
+  width: 39px;
+  height: 32px;
   background-position: -358px -1164px;
 }
-.pkms-mienshao{
-  width:37px;
-  height:33px;
+.pkms-mienshao {
+  width: 37px;
+  height: 33px;
   background-position: -399px -1164px;
 }
-.pkms-nidoqueen{
-  width:35px;
-  height:36px;
+.pkms-nidoqueen {
+  width: 35px;
+  height: 36px;
   background-position: -438px -1164px;
 }
-.pkms-ninetales{
-  width:38px;
-  height:33px;
+.pkms-ninetales {
+  width: 38px;
+  height: 33px;
   background-position: -475px -1164px;
 }
-.pkms-rapidash{
-  width:37px;
-  height:34px;
+.pkms-rapidash {
+  width: 37px;
+  height: 34px;
   background-position: -515px -1164px;
 }
-.pkms-scolipede{
-  width:35px;
-  height:35px;
+.pkms-scolipede {
+  width: 35px;
+  height: 35px;
   background-position: -554px -1164px;
 }
-.pkms-sigilyph{
-  width:33px;
-  height:37px;
+.pkms-sigilyph {
+  width: 33px;
+  height: 37px;
   background-position: -591px -1164px;
 }
-.pkms-toxapex{
-  width:38px;
-  height:32px;
+.pkms-toxapex {
+  width: 38px;
+  height: 32px;
   background-position: -626px -1164px;
 }
-.pkms-trevenant{
-  width:38px;
-  height:32px;
+.pkms-trevenant {
+  width: 38px;
+  height: 32px;
   background-position: -666px -1164px;
 }
-.pkms-venomoth{
-  width:34px;
-  height:36px;
+.pkms-venomoth {
+  width: 34px;
+  height: 36px;
   background-position: -706px -1164px;
 }
-.pkms-victreebel{
-  width:39px;
-  height:32px;
+.pkms-victreebel {
+  width: 39px;
+  height: 32px;
   background-position: -742px -1164px;
 }
-.pkms-vileplume{
-  width:38px;
-  height:32px;
+.pkms-vileplume {
+  width: 38px;
+  height: 32px;
   background-position: -783px -1164px;
 }
-.pkms-zeraora{
-  width:38px;
-  height:32px;
+.pkms-zeraora {
+  width: 38px;
+  height: 32px;
   background-position: -823px -1164px;
 }
-.pkms-zoroark{
-  width:38px;
-  height:33px;
+.pkms-zoroark {
+  width: 38px;
+  height: 33px;
   background-position: -863px -1164px;
 }
-.pkms-blastoise{
-  width:34px;
-  height:38px;
+.pkms-blastoise {
+  width: 34px;
+  height: 38px;
   background-position: -903px -1164px;
 }
-.pkms-cofagrigus{
-  width:38px;
-  height:34px;
+.pkms-cofagrigus {
+  width: 38px;
+  height: 34px;
   background-position: -939px -1164px;
 }
-.pkms-dodrio{
-  width:40px;
-  height:32px;
+.pkms-dodrio {
+  width: 40px;
+  height: 32px;
   background-position: -979px -1164px;
 }
-.pkms-dracozolt{
-  width:39px;
-  height:34px;
+.pkms-dracozolt {
+  width: 39px;
+  height: 34px;
   background-position: -1021px -1164px;
 }
-.pkms-eevee-gmax{
-  width:34px;
-  height:38px;
+.pkms-eevee-gmax {
+  width: 34px;
+  height: 38px;
   background-position: -1062px -1164px;
 }
-.pkms-garbodor{
-  width:42px;
-  height:30px;
+.pkms-garbodor {
+  width: 42px;
+  height: 30px;
   background-position: -1098px -1164px;
 }
-.pkms-golem-alola{
-  width:35px;
-  height:38px;
+.pkms-golem-alola {
+  width: 35px;
+  height: 38px;
   background-position: -1142px -1164px;
 }
-.pkms-inteleon{
-  width:28px;
-  height:45px;
+.pkms-inteleon {
+  width: 28px;
+  height: 45px;
   background-position: 0px -1204px;
 }
-.pkms-magneton{
-  width:39px;
-  height:34px;
+.pkms-magneton {
+  width: 39px;
+  height: 34px;
   background-position: -30px -1204px;
 }
-.pkms-milotic{
-  width:40px;
-  height:33px;
+.pkms-milotic {
+  width: 40px;
+  height: 33px;
   background-position: -71px -1204px;
 }
-.pkms-mr-mime{
-  width:37px;
-  height:36px;
+.pkms-mr-mime {
+  width: 37px;
+  height: 36px;
   background-position: -113px -1204px;
 }
-.pkms-noivern{
-  width:42px;
-  height:30px;
+.pkms-noivern {
+  width: 42px;
+  height: 30px;
   background-position: -152px -1204px;
 }
-.pkms-passimian{
-  width:42px;
-  height:31px;
+.pkms-passimian {
+  width: 42px;
+  height: 31px;
   background-position: -196px -1204px;
 }
-.pkms-poliwrath{
-  width:41px;
-  height:31px;
+.pkms-poliwrath {
+  width: 41px;
+  height: 31px;
   background-position: -240px -1204px;
 }
-.pkms-reuniclus{
-  width:46px;
-  height:27px;
+.pkms-reuniclus {
+  width: 46px;
+  height: 27px;
   background-position: -283px -1204px;
 }
-.pkms-rotom-frost{
-  width:39px;
-  height:33px;
+.pkms-rotom-frost {
+  width: 39px;
+  height: 33px;
   background-position: -331px -1204px;
 }
-.pkms-sharpedo{
-  width:36px;
-  height:37px;
+.pkms-sharpedo {
+  width: 36px;
+  height: 37px;
   background-position: -372px -1204px;
 }
-.pkms-silvally-bug{
-  width:31px;
-  height:42px;
+.pkms-silvally-bug {
+  width: 31px;
+  height: 42px;
   background-position: -410px -1204px;
 }
-.pkms-silvally-dark{
-  width:31px;
-  height:42px;
+.pkms-silvally-dark {
+  width: 31px;
+  height: 42px;
   background-position: -443px -1204px;
 }
-.pkms-silvally-dragon{
-  width:31px;
-  height:42px;
+.pkms-silvally-dragon {
+  width: 31px;
+  height: 42px;
   background-position: -476px -1204px;
 }
-.pkms-silvally-electric{
-  width:31px;
-  height:42px;
+.pkms-silvally-electric {
+  width: 31px;
+  height: 42px;
   background-position: -509px -1204px;
 }
-.pkms-silvally-fairy{
-  width:31px;
-  height:42px;
+.pkms-silvally-fairy {
+  width: 31px;
+  height: 42px;
   background-position: -542px -1204px;
 }
-.pkms-silvally-fighting{
-  width:31px;
-  height:42px;
+.pkms-silvally-fighting {
+  width: 31px;
+  height: 42px;
   background-position: -575px -1204px;
 }
-.pkms-silvally-fire{
-  width:31px;
-  height:42px;
+.pkms-silvally-fire {
+  width: 31px;
+  height: 42px;
   background-position: -608px -1204px;
 }
-.pkms-silvally-flying{
-  width:31px;
-  height:42px;
+.pkms-silvally-flying {
+  width: 31px;
+  height: 42px;
   background-position: -641px -1204px;
 }
-.pkms-silvally-ghost{
-  width:31px;
-  height:42px;
+.pkms-silvally-ghost {
+  width: 31px;
+  height: 42px;
   background-position: -674px -1204px;
 }
-.pkms-silvally-grass{
-  width:31px;
-  height:42px;
+.pkms-silvally-grass {
+  width: 31px;
+  height: 42px;
   background-position: -707px -1204px;
 }
-.pkms-silvally-ground{
-  width:31px;
-  height:42px;
+.pkms-silvally-ground {
+  width: 31px;
+  height: 42px;
   background-position: -740px -1204px;
 }
-.pkms-silvally-ice{
-  width:31px;
-  height:42px;
+.pkms-silvally-ice {
+  width: 31px;
+  height: 42px;
   background-position: -773px -1204px;
 }
-.pkms-silvally-poison{
-  width:31px;
-  height:42px;
+.pkms-silvally-poison {
+  width: 31px;
+  height: 42px;
   background-position: -806px -1204px;
 }
-.pkms-silvally-psychic{
-  width:31px;
-  height:42px;
+.pkms-silvally-psychic {
+  width: 31px;
+  height: 42px;
   background-position: -839px -1204px;
 }
-.pkms-silvally-rock{
-  width:31px;
-  height:42px;
+.pkms-silvally-rock {
+  width: 31px;
+  height: 42px;
   background-position: -872px -1204px;
 }
-.pkms-silvally-steel{
-  width:31px;
-  height:42px;
+.pkms-silvally-steel {
+  width: 31px;
+  height: 42px;
   background-position: -905px -1204px;
 }
-.pkms-silvally-water{
-  width:31px;
-  height:42px;
+.pkms-silvally-water {
+  width: 31px;
+  height: 42px;
   background-position: -938px -1204px;
 }
-.pkms-silvally{
-  width:31px;
-  height:42px;
+.pkms-silvally {
+  width: 31px;
+  height: 42px;
   background-position: -971px -1204px;
 }
-.pkms-tyranitar{
-  width:35px;
-  height:38px;
+.pkms-tyranitar {
+  width: 35px;
+  height: 38px;
   background-position: -1004px -1204px;
 }
-.pkms-wishiwashi-school{
-  width:42px;
-  height:31px;
+.pkms-wishiwashi-school {
+  width: 42px;
+  height: 31px;
   background-position: -1041px -1204px;
 }
-.pkms-zarude-dada{
-  width:44px;
-  height:29px;
+.pkms-zarude-dada {
+  width: 44px;
+  height: 29px;
   background-position: 0px -1251px;
 }
-.pkms-zarude{
-  width:44px;
-  height:29px;
+.pkms-zarude {
+  width: 44px;
+  height: 29px;
   background-position: -46px -1251px;
 }
-.pkms-arcanine{
-  width:37px;
-  height:37px;
+.pkms-arcanine {
+  width: 37px;
+  height: 37px;
   background-position: -92px -1251px;
 }
-.pkms-coalossal{
-  width:32px;
-  height:42px;
+.pkms-coalossal {
+  width: 32px;
+  height: 42px;
   background-position: -131px -1251px;
 }
-.pkms-dewgong{
-  width:37px;
-  height:37px;
+.pkms-dewgong {
+  width: 37px;
+  height: 37px;
   background-position: -165px -1251px;
 }
-.pkms-dusknoir{
-  width:40px;
-  height:34px;
+.pkms-dusknoir {
+  width: 40px;
+  height: 34px;
   background-position: -204px -1251px;
 }
-.pkms-exploud{
-  width:41px;
-  height:33px;
+.pkms-exploud {
+  width: 41px;
+  height: 33px;
   background-position: -246px -1251px;
 }
-.pkms-golbat{
-  width:41px;
-  height:33px;
+.pkms-golbat {
+  width: 41px;
+  height: 33px;
   background-position: -289px -1251px;
 }
-.pkms-hypno{
-  width:40px;
-  height:35px;
+.pkms-hypno {
+  width: 40px;
+  height: 35px;
   background-position: -332px -1251px;
 }
-.pkms-ludicolo{
-  width:36px;
-  height:38px;
+.pkms-ludicolo {
+  width: 36px;
+  height: 38px;
   background-position: -374px -1251px;
 }
-.pkms-magmar{
-  width:36px;
-  height:38px;
+.pkms-magmar {
+  width: 36px;
+  height: 38px;
   background-position: -412px -1251px;
 }
-.pkms-marowak-alola{
-  width:35px;
-  height:39px;
+.pkms-marowak-alola {
+  width: 35px;
+  height: 39px;
   background-position: -450px -1251px;
 }
-.pkms-meowth-gmax{
-  width:30px;
-  height:45px;
+.pkms-meowth-gmax {
+  width: 30px;
+  height: 45px;
   background-position: -487px -1251px;
 }
-.pkms-mewtwo{
-  width:32px;
-  height:42px;
+.pkms-mewtwo {
+  width: 32px;
+  height: 42px;
   background-position: -519px -1251px;
 }
-.pkms-nidoking{
-  width:42px;
-  height:33px;
+.pkms-nidoking {
+  width: 42px;
+  height: 33px;
   background-position: -553px -1251px;
 }
-.pkms-onix{
-  width:33px;
-  height:41px;
+.pkms-onix {
+  width: 33px;
+  height: 41px;
   background-position: -597px -1251px;
 }
-.pkms-persian{
-  width:37px;
-  height:37px;
+.pkms-persian {
+  width: 37px;
+  height: 37px;
   background-position: -632px -1251px;
 }
-.pkms-primarina{
-  width:39px;
-  height:36px;
+.pkms-primarina {
+  width: 39px;
+  height: 36px;
   background-position: -671px -1251px;
 }
-.pkms-raichu{
-  width:39px;
-  height:35px;
+.pkms-raichu {
+  width: 39px;
+  height: 35px;
   background-position: -712px -1251px;
 }
-.pkms-skarmory{
-  width:37px;
-  height:38px;
+.pkms-skarmory {
+  width: 37px;
+  height: 38px;
   background-position: -753px -1251px;
 }
-.pkms-slowbro{
-  width:41px;
-  height:33px;
+.pkms-slowbro {
+  width: 41px;
+  height: 33px;
   background-position: -792px -1251px;
 }
-.pkms-tangrowth{
-  width:46px;
-  height:28px;
+.pkms-tangrowth {
+  width: 46px;
+  height: 28px;
   background-position: -835px -1251px;
 }
-.pkms-zacian{
-  width:40px;
-  height:35px;
+.pkms-zacian {
+  width: 40px;
+  height: 35px;
   background-position: -883px -1251px;
 }
-.pkms-zamazenta{
-  width:37px;
-  height:38px;
+.pkms-zamazenta {
+  width: 37px;
+  height: 38px;
   background-position: -925px -1251px;
 }
-.pkms-aerodactyl{
-  width:47px;
-  height:30px;
+.pkms-aerodactyl {
+  width: 47px;
+  height: 30px;
   background-position: -964px -1251px;
 }
-.pkms-dragonite{
-  width:36px;
-  height:40px;
+.pkms-dragonite {
+  width: 36px;
+  height: 40px;
   background-position: -1013px -1251px;
 }
-.pkms-druddigon{
-  width:41px;
-  height:35px;
+.pkms-druddigon {
+  width: 41px;
+  height: 35px;
   background-position: -1051px -1251px;
 }
-.pkms-keldeo-resolute{
-  width:42px;
-  height:34px;
+.pkms-keldeo-resolute {
+  width: 42px;
+  height: 34px;
   background-position: -1094px -1251px;
 }
-.pkms-machamp{
-  width:40px;
-  height:36px;
+.pkms-machamp {
+  width: 40px;
+  height: 36px;
   background-position: -1138px -1251px;
 }
-.pkms-necrozma{
-  width:41px;
-  height:36px;
+.pkms-necrozma {
+  width: 41px;
+  height: 36px;
   background-position: -1180px -1251px;
 }
-.pkms-oranguru{
-  width:47px;
-  height:29px;
+.pkms-oranguru {
+  width: 47px;
+  height: 29px;
   background-position: 0px -1298px;
 }
-.pkms-rhyperior{
-  width:46px;
-  height:31px;
+.pkms-rhyperior {
+  width: 46px;
+  height: 31px;
   background-position: -49px -1298px;
 }
-.pkms-scyther{
-  width:37px;
-  height:39px;
+.pkms-scyther {
+  width: 37px;
+  height: 39px;
   background-position: -97px -1298px;
 }
-.pkms-throh{
-  width:45px;
-  height:32px;
+.pkms-throh {
+  width: 45px;
+  height: 32px;
   background-position: -136px -1298px;
 }
-.pkms-braviary{
-  width:41px;
-  height:38px;
+.pkms-braviary {
+  width: 41px;
+  height: 38px;
   background-position: -183px -1298px;
 }
-.pkms-butterfree{
-  width:41px;
-  height:38px;
+.pkms-butterfree {
+  width: 41px;
+  height: 38px;
   background-position: -226px -1298px;
 }
-.pkms-farfetchd-galar{
-  width:48px;
-  height:30px;
+.pkms-farfetchd-galar {
+  width: 48px;
+  height: 30px;
   background-position: -269px -1298px;
 }
-.pkms-gyarados{
-  width:38px;
-  height:40px;
+.pkms-gyarados {
+  width: 38px;
+  height: 40px;
   background-position: -319px -1298px;
 }
-.pkms-kyurem{
-  width:47px;
-  height:31px;
+.pkms-kyurem {
+  width: 47px;
+  height: 31px;
   background-position: -359px -1298px;
 }
-.pkms-lunala{
-  width:40px;
-  height:38px;
+.pkms-lunala {
+  width: 40px;
+  height: 38px;
   background-position: -408px -1298px;
 }
-.pkms-melmetal{
-  width:50px;
-  height:29px;
+.pkms-melmetal {
+  width: 50px;
+  height: 29px;
   background-position: -450px -1298px;
 }
-.pkms-shiftry{
-  width:46px;
-  height:33px;
+.pkms-shiftry {
+  width: 46px;
+  height: 33px;
   background-position: -502px -1298px;
 }
-.pkms-snorlax{
-  width:38px;
-  height:40px;
+.pkms-snorlax {
+  width: 38px;
+  height: 40px;
   background-position: -550px -1298px;
 }
-.pkms-tentacruel{
-  width:41px;
-  height:38px;
+.pkms-tentacruel {
+  width: 41px;
+  height: 38px;
   background-position: -590px -1298px;
 }
-.pkms-drapion{
-  width:52px;
-  height:28px;
+.pkms-drapion {
+  width: 52px;
+  height: 28px;
   background-position: -633px -1298px;
 }
-.pkms-exeggutor{
-  width:37px;
-  height:43px;
+.pkms-exeggutor {
+  width: 37px;
+  height: 43px;
   background-position: -687px -1298px;
 }
-.pkms-kyurem-black{
-  width:44px;
-  height:37px;
+.pkms-kyurem-black {
+  width: 44px;
+  height: 37px;
   background-position: -726px -1298px;
 }
-.pkms-pinsir{
-  width:46px;
-  height:35px;
+.pkms-pinsir {
+  width: 46px;
+  height: 35px;
   background-position: -772px -1298px;
 }
-.pkms-tauros{
-  width:42px;
-  height:38px;
+.pkms-tauros {
+  width: 42px;
+  height: 38px;
   background-position: -820px -1298px;
 }
-.pkms-zekrom{
-  width:41px;
-  height:40px;
+.pkms-zekrom {
+  width: 41px;
+  height: 40px;
   background-position: -864px -1298px;
 }
-.pkms-alcremie-gmax{
-  width:32px;
-  height:50px;
+.pkms-alcremie-gmax {
+  width: 32px;
+  height: 50px;
   background-position: -907px -1298px;
 }
-.pkms-charizard{
-  width:44px;
-  height:39px;
+.pkms-charizard {
+  width: 44px;
+  height: 39px;
   background-position: -941px -1298px;
 }
-.pkms-conkeldurr{
-  width:50px;
-  height:32px;
+.pkms-conkeldurr {
+  width: 50px;
+  height: 32px;
   background-position: -987px -1298px;
 }
-.pkms-duraludon-gmax{
-  width:35px;
-  height:48px;
+.pkms-duraludon-gmax {
+  width: 35px;
+  height: 48px;
   background-position: -1039px -1298px;
 }
-.pkms-hatterene-gmax{
-  width:39px;
-  height:43px;
+.pkms-hatterene-gmax {
+  width: 39px;
+  height: 43px;
   background-position: -1076px -1298px;
 }
-.pkms-kingler{
-  width:44px;
-  height:38px;
+.pkms-kingler {
+  width: 44px;
+  height: 38px;
   background-position: -1117px -1298px;
 }
-.pkms-rhydon{
-  width:44px;
-  height:38px;
+.pkms-rhydon {
+  width: 44px;
+  height: 38px;
   background-position: -1163px -1298px;
 }
-.pkms-urshifu-rapid-strike-gmax{
-  width:39px;
-  height:43px;
+.pkms-urshifu-rapid-strike-gmax {
+  width: 39px;
+  height: 43px;
   background-position: -1209px -1298px;
 }
-.pkms-venusaur{
-  width:43px;
-  height:39px;
+.pkms-venusaur {
+  width: 43px;
+  height: 39px;
   background-position: -1250px -1298px;
 }
-.pkms-heracross{
-  width:44px;
-  height:40px;
+.pkms-heracross {
+  width: 44px;
+  height: 40px;
   background-position: -1295px -1298px;
 }
-.pkms-wailord{
-  width:51px;
-  height:33px;
+.pkms-wailord {
+  width: 51px;
+  height: 33px;
   background-position: 0px -1350px;
 }
-.pkms-dragapult{
-  width:47px;
-  height:39px;
+.pkms-dragapult {
+  width: 47px;
+  height: 39px;
   background-position: -53px -1350px;
 }
-.pkms-gengar-gmax{
-  width:46px;
-  height:41px;
+.pkms-gengar-gmax {
+  width: 46px;
+  height: 41px;
   background-position: -102px -1350px;
 }
-.pkms-grimmsnarl-gmax{
-  width:39px;
-  height:48px;
+.pkms-grimmsnarl-gmax {
+  width: 39px;
+  height: 48px;
   background-position: -150px -1350px;
 }
-.pkms-lapras-gmax{
-  width:46px;
-  height:41px;
+.pkms-lapras-gmax {
+  width: 46px;
+  height: 41px;
   background-position: -191px -1350px;
 }
-.pkms-moltres{
-  width:42px;
-  height:44px;
+.pkms-moltres {
+  width: 42px;
+  height: 44px;
   background-position: -239px -1350px;
 }
-.pkms-pikachu-gmax{
-  width:35px;
-  height:52px;
+.pkms-pikachu-gmax {
+  width: 35px;
+  height: 52px;
   background-position: -283px -1350px;
 }
-.pkms-sandaconda-gmax{
-  width:44px;
-  height:42px;
+.pkms-sandaconda-gmax {
+  width: 44px;
+  height: 42px;
   background-position: -320px -1350px;
 }
-.pkms-solgaleo{
-  width:48px;
-  height:39px;
+.pkms-solgaleo {
+  width: 48px;
+  height: 39px;
   background-position: -366px -1350px;
 }
-.pkms-steelix{
-  width:47px;
-  height:39px;
+.pkms-steelix {
+  width: 47px;
+  height: 39px;
   background-position: -416px -1350px;
 }
-.pkms-urshifu-gmax{
-  width:39px;
-  height:48px;
+.pkms-urshifu-gmax {
+  width: 39px;
+  height: 48px;
   background-position: -465px -1350px;
 }
-.pkms-venusaur-gmax{
-  width:46px;
-  height:41px;
+.pkms-venusaur-gmax {
+  width: 46px;
+  height: 41px;
   background-position: -506px -1350px;
 }
-.pkms-zamazenta-crowned{
-  width:47px;
-  height:40px;
+.pkms-zamazenta-crowned {
+  width: 47px;
+  height: 40px;
   background-position: -554px -1350px;
 }
-.pkms-zapdos{
-  width:44px;
-  height:43px;
+.pkms-zapdos {
+  width: 44px;
+  height: 43px;
   background-position: -603px -1350px;
 }
-.pkms-copperajah-gmax{
-  width:42px;
-  height:47px;
+.pkms-copperajah-gmax {
+  width: 42px;
+  height: 47px;
   background-position: -649px -1350px;
 }
-.pkms-kingler-gmax{
-  width:49px;
-  height:39px;
+.pkms-kingler-gmax {
+  width: 49px;
+  height: 39px;
   background-position: -693px -1350px;
 }
-.pkms-melmetal-gmax{
-  width:47px;
-  height:42px;
+.pkms-melmetal-gmax {
+  width: 47px;
+  height: 42px;
   background-position: -744px -1350px;
 }
-.pkms-necrozma-dawn-wings{
-  width:46px;
-  height:43px;
+.pkms-necrozma-dawn-wings {
+  width: 46px;
+  height: 43px;
   background-position: -793px -1350px;
 }
-.pkms-sirfetchd{
-  width:37px;
-  height:52px;
+.pkms-sirfetchd {
+  width: 37px;
+  height: 52px;
   background-position: -841px -1350px;
 }
-.pkms-toxtricity-gmax{
-  width:42px;
-  height:47px;
+.pkms-toxtricity-gmax {
+  width: 42px;
+  height: 47px;
   background-position: -880px -1350px;
 }
-.pkms-toxtricity-low-key-gmax{
-  width:42px;
-  height:47px;
+.pkms-toxtricity-low-key-gmax {
+  width: 42px;
+  height: 47px;
   background-position: -924px -1350px;
 }
-.pkms-weezing-galar{
-  width:42px;
-  height:46px;
+.pkms-weezing-galar {
+  width: 42px;
+  height: 46px;
   background-position: -968px -1350px;
 }
-.pkms-butterfree-gmax{
-  width:46px;
-  height:44px;
+.pkms-butterfree-gmax {
+  width: 46px;
+  height: 44px;
   background-position: -1012px -1350px;
 }
-.pkms-charizard-gmax{
-  width:41px;
-  height:50px;
+.pkms-charizard-gmax {
+  width: 41px;
+  height: 50px;
   background-position: -1060px -1350px;
 }
-.pkms-exeggutor-alola{
-  width:37px;
-  height:54px;
+.pkms-exeggutor-alola {
+  width: 37px;
+  height: 54px;
   background-position: -1103px -1350px;
 }
-.pkms-garbodor-gmax{
-  width:51px;
-  height:40px;
+.pkms-garbodor-gmax {
+  width: 51px;
+  height: 40px;
   background-position: -1142px -1350px;
 }
-.pkms-machamp-gmax{
-  width:44px;
-  height:46px;
+.pkms-machamp-gmax {
+  width: 44px;
+  height: 46px;
   background-position: -1195px -1350px;
 }
-.pkms-weezing{
-  width:47px;
-  height:43px;
+.pkms-weezing {
+  width: 47px;
+  height: 43px;
   background-position: -1241px -1350px;
 }
-.pkms-zacian-crowned{
-  width:45px;
-  height:46px;
+.pkms-zacian-crowned {
+  width: 45px;
+  height: 46px;
   background-position: -1290px -1350px;
 }
-.pkms-articuno{
-  width:45px;
-  height:48px;
+.pkms-articuno {
+  width: 45px;
+  height: 48px;
   background-position: -1337px -1350px;
 }
-.pkms-blastoise-gmax{
-  width:49px;
-  height:44px;
+.pkms-blastoise-gmax {
+  width: 49px;
+  height: 44px;
   background-position: 0px -1406px;
 }
-.pkms-coalossal-gmax{
-  width:42px;
-  height:50px;
+.pkms-coalossal-gmax {
+  width: 42px;
+  height: 50px;
   background-position: -51px -1406px;
 }
-.pkms-corviknight-gmax{
-  width:48px;
-  height:44px;
+.pkms-corviknight-gmax {
+  width: 48px;
+  height: 44px;
   background-position: -95px -1406px;
 }
-.pkms-kyurem-white{
-  width:52px;
-  height:41px;
+.pkms-kyurem-white {
+  width: 52px;
+  height: 41px;
   background-position: -145px -1406px;
 }
-.pkms-orbeetle-gmax{
-  width:52px;
-  height:40px;
+.pkms-orbeetle-gmax {
+  width: 52px;
+  height: 40px;
   background-position: -199px -1406px;
 }
-.pkms-reshiram{
-  width:52px;
-  height:41px;
+.pkms-reshiram {
+  width: 52px;
+  height: 41px;
   background-position: -253px -1406px;
 }
-.pkms-drednaw-gmax{
-  width:51px;
-  height:46px;
+.pkms-drednaw-gmax {
+  width: 51px;
+  height: 46px;
   background-position: -307px -1406px;
 }
-.pkms-centiskorch-gmax{
-  width:54px;
-  height:45px;
+.pkms-centiskorch-gmax {
+  width: 54px;
+  height: 45px;
   background-position: -360px -1406px;
 }
-.pkms-necrozma-dusk-mane{
-  width:53px;
-  height:46px;
+.pkms-necrozma-dusk-mane {
+  width: 53px;
+  height: 46px;
   background-position: -416px -1406px;
 }
-.pkms-inteleon-gmax{
-  width:50px;
-  height:50px;
+.pkms-inteleon-gmax {
+  width: 50px;
+  height: 50px;
   background-position: -471px -1406px;
 }
-.pkms-cinderace-gmax{
-  width:53px;
-  height:50px;
+.pkms-cinderace-gmax {
+  width: 53px;
+  height: 50px;
   background-position: -523px -1406px;
 }
-.pkms-snorlax-gmax{
-  width:52px;
-  height:50px;
+.pkms-snorlax-gmax {
+  width: 52px;
+  height: 50px;
   background-position: -578px -1406px;
 }
-.pkms-eternatus{
-  width:58px;
-  height:49px;
+.pkms-eternatus {
+  width: 58px;
+  height: 49px;
   background-position: -632px -1406px;
 }
-.pkms-rillaboom-gmax{
-  width:62px;
-  height:50px;
+.pkms-rillaboom-gmax {
+  width: 62px;
+  height: 50px;
   background-position: -692px -1406px;
 }
-.pkms-eternatus-eternamax{
-  width:67px;
-  height:56px;
+.pkms-eternatus-eternamax {
+  width: 67px;
+  height: 56px;
   background-position: -756px -1406px;
 }

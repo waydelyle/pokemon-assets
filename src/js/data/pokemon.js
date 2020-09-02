@@ -1,6 +1,10 @@
 const {vv, lcvv, slugize, assets_dir, list_files, slug_to_title, print_joined_props, aliasize} = require('../tools')
 const fs = require('fs')
 const items = require('./../../../node_modules/pokemon-showdown/.data-dist/pokedex').Pokedex;
+
+// print_joined_props(items);
+// process.exit(0)
+
 const base_obj = {
   "num": 0,
   "name": null,
@@ -139,10 +143,6 @@ const expand_species = (key, obj) => {
 
 let normalized_data = [];
 let smogon_found = [];
-
-// print_joined_props(items);
-// module.exports = '';
-// process.exit(0)
 
 for (let [key, item] of Object.entries(items)) {
   if (item.num <= 0) {

@@ -44,9 +44,11 @@ const slugize = (str) => str
   .replace(/[\u0300-\u036f]/g, "")
   .toLowerCase();
 
-const slug_to_title = (str) => str.replace(/[-_’]/, ' ').replace(/\b\w/g, l => l.toUpperCase());
+const slug_to_title = (str) => str.replace(/([-_’]|--)/gi, ' ')
+  .replace(/[ ]+/gi, ' ')
+  .replace(/\b\w/g, l => l.toUpperCase());
 
-const aliasize = (str) => str.replace(/[-_]/, '')
+const aliasize = (str) => str.replace(/[-_ ]{1,}/gi, '')
 
 module.exports = {
   'vv': vv,

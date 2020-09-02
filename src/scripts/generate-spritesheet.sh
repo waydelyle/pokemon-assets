@@ -275,7 +275,7 @@ function selectText(node) {
   \$('.${_CSS_PREFIX}-wrapper').on('mouseenter',
     function(e) {
       var el = document.getElementById('css-class-viewer');
-      \$(el).text(\"<span class='${_CSS_PREFIX}-wrapper>\" + this.innerHTML.trim() + '</span>');
+      \$(el).text('<span class=\"${_CSS_PREFIX}-wrapper\">' + this.innerHTML.trim() + '</span>');
       el.focus();
       selectText(el);
     }

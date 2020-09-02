@@ -7,7 +7,9 @@ Essential Pokémon assets for any kind of project: menu icons, fonts, data, SASS
 - All Pokémon menu icon sprites up to Gen 8, with their shiny version.
 - Icon sprites for items, ribbons, marks and UI symbols.
 - Sprite sheets for all sprite sets, with CSS and SASS files.
+- PkIcon React component.
 - Data of the essential metagame info (abilities, items, moves, natures, pokemon, learn sets).
+- JS Data API helper class.
 - SVG images for type symbols and other UI elements.
 - Fonts from the GBC, GBA and DS games.
 - Music of the most relevant game events.

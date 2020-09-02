@@ -41,10 +41,13 @@ const base_obj = {
   eggGroups: [],
   hasLearnset: false,
   baseForme: null,
+  baseFormeAlias: null,
   baseFormeSprite: null,
   cosmeticFormes: [],
+  cosmeticFormesAliases: [],
   cosmeticFormesSprites: [],
   otherFormes: [],
+  otherFormesAliases: [],
   otherFormesSprites: [],
   formeOrder: [],
   prevo: null,
@@ -189,17 +192,22 @@ items.gastrodoneast = items.gastrodon;
       return spr;
     });
 
+    obj.otherFormesAliases = obj.otherFormesSprites.map((forme) => aliasize(forme));
+
     obj.cosmeticFormesSprites = obj.cosmeticFormes.map((forme) => {
       let spr = get_sprite_name(forme);
       smogon_found.push(spr);
       return spr;
     });
 
+    obj.cosmeticFormesAliases = obj.cosmeticFormesSprites.map((forme) => aliasize(forme));
+
     if (obj.baseForme) {
       obj.baseFormeSprite = get_sprite_name(
         obj.sprite + "-" + obj.baseForme,
         false
       );
+      obj.baseFormeAlias = aliasize(obj.baseFormeSprite)
       smogon_found.push(obj.baseFormeSprite);
     }
 

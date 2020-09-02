@@ -136,7 +136,7 @@ let smogon_found = [];
       canBeHeld: true,
     });
 
-    smogon_found.push(sprite);
+    smogon_found.push(key);
   }
 })();
 
@@ -144,12 +144,11 @@ const pngs_found = list_files(assets_dir + "/img/items", /\.png$/i);
 
 const check_pngs = (filename) => {
   let sprite = filename.replace(/\.png$/i, "");
+  let k = aliasize(sprite);
 
-  if (smogon_found.includes(sprite)) {
+  if (smogon_found.includes(k)) {
     return;
   }
-
-  let k = titleize(sprite);
 
   if (normalized_data[k] !== undefined) {
     throw new Error(`Object property .${k} already exists`);

@@ -5,7 +5,7 @@ const {
   list_files,
   titleize,
   aliasize,
-} = require("../tools");
+} = require("../../tools");
 const fs = require("fs");
 const items = require("pokemon-showdown/.data-dist/items").Items;
 //

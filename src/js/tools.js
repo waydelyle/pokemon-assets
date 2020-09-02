@@ -66,4 +66,5 @@ module.exports = {
   list_files: list_files,
   titleize: titleize,
   aliasize: aliasize,
+  regex_png: /.*\.png$/gi
 };

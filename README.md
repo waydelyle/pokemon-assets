@@ -54,9 +54,9 @@ Apart from the package.json devDependencies, your machine (which has to be macOS
 the following software in order to run the maintenance scripts:
 
 - node 10+
-- ImageMagick
-- pandoc
-- ffmpeg
+- ImageMagick 7.0+
+- pandoc 2.10+
+- ffmpeg 4.3+
 
 Maintenance scripts are self-explanatory by checking the Makefile.
 You don't need them or anything under the 'src` folder to use the assets.

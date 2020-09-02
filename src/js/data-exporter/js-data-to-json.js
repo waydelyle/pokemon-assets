@@ -1,5 +1,5 @@
 const fs = require("fs");
-const { output_dir } = require("./tools");
+const { output_dir } = require("./../tools");
 const abilities = require("./sources/abilities");
 const items = require("./sources/items");
 const learnsets = require("./sources/learnsets");

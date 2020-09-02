@@ -1,4 +1,4 @@
-const { vv, slugize } = require("../tools");
+const { vv, slugize } = require("../../tools");
 const fs = require("fs");
 const items = require("pokemon-showdown/.data-dist/moves").Moves;
 

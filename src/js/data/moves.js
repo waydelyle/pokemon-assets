@@ -18,14 +18,14 @@ const items = require("./../../../node_modules/pokemon-showdown/.data-dist/moves
 
 const base_obj = {
   num: 0,
-  accuracy: 0,
-  basePower: 0,
-  category: null,
+  name: null,
   desc: null,
   shortDesc: null,
-  isNonstandard: null,
-  name: null,
+  type: null,
+  basePower: 0,
+  accuracy: 0,
   pp: 0,
+  category: null,
   priority: 0,
   flags: {
     contact: 0,
@@ -40,7 +40,7 @@ const base_obj = {
     },
   },
   target: null,
-  type: null,
+  isNonstandard: null,
   contestType: null,
   drain: [],
   boosts: {},

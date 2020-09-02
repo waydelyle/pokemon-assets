@@ -4,7 +4,7 @@ const {
   slugize,
   assets_dir,
   list_files,
-  slug_to_title,
+  titleize,
   print_joined_props,
   aliasize,
 } = require("../tools");
@@ -39,6 +39,7 @@ const base_obj = {
   color: null,
   evos: [],
   eggGroups: [],
+  hasLearnset:false,
   baseForme: null,
   baseFormeSprite: null,
   cosmeticFormes: [],
@@ -162,12 +163,15 @@ const expand_species = (key, _obj) => {
   return _obj;
 };
 
-let normalized_data = [];
+let normalized_data = {};
 let smogon_found = [];
+
+items.rockruffdusk = items.rockruff;
+items.gastrodoneast = items.gastrodon;
 
 (() => {
   for (let [key, item] of Object.entries(items)) {
-    if (item.num <= 0) {
+    if (item.num < 0) {
       continue;
     }
 
@@ -199,7 +203,7 @@ let smogon_found = [];
       smogon_found.push(obj.baseFormeSprite);
     }
 
-    normalized_data.push(obj);
+    normalized_data[key] = obj;
     smogon_found.push(sprite);
   }
 })();
@@ -237,15 +241,5 @@ const check_pngs = (filename) => {
 
 pngs_found.forEach(check_pngs);
 pngs_found_shiny.forEach(check_pngs);
-
-normalized_data.sort((a, b) => {
-  if (a.num < b.num) {
-    return -1;
-  }
-  if (a.num > b.num) {
-    return 1;
-  }
-  return 0;
-});
 
 module.exports = normalized_data;

@@ -4,7 +4,7 @@ const {
   slugize,
   assets_dir,
   list_files,
-  slug_to_title,
+  titleize,
   print_joined_props,
   aliasize,
 } = require("../tools");
@@ -111,7 +111,7 @@ const base_obj = {
 
 const create_base_obj = () => JSON.parse(JSON.stringify(base_obj));
 
-let normalized_data = [];
+let normalized_data = {};
 
 (() => {
   for (let [key, item] of Object.entries(items)) {
@@ -119,23 +119,11 @@ let normalized_data = [];
     if (isNonstandard === "CAP") {
       continue;
     }
-    let obj = Object.assign({}, create_base_obj(), item, {
+    normalized_data[key] = Object.assign({}, create_base_obj(), item, {
       alias: key,
       slug: slugize(item.name),
     });
-
-    normalized_data.push(obj);
   }
 })();
-
-normalized_data.sort((a, b) => {
-  if (a.name < b.name) {
-    return -1;
-  }
-  if (a.name > b.name) {
-    return 1;
-  }
-  return 0;
-});
 
 module.exports = normalized_data;

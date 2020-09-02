@@ -4,7 +4,7 @@ const {
   slugize,
   assets_dir,
   list_files,
-  slug_to_title,
+  titleize,
   print_joined_props,
   aliasize,
 } = require("../tools");
@@ -120,7 +120,7 @@ const get_sprite_name = (item_name, fail_if_not_found = true) => {
   return sprite_name;
 };
 
-let normalized_data = [];
+let normalized_data = {};
 let smogon_found = [];
 
 (() => {
@@ -130,13 +130,12 @@ let smogon_found = [];
       continue;
     }
     let sprite = get_sprite_name(item.name);
-    let obj = Object.assign({}, create_base_obj(), item, {
+    normalized_data[key] = Object.assign({}, create_base_obj(), item, {
       alias: key,
       sprite: sprite,
       canBeHeld: true,
     });
 
-    normalized_data.push(obj);
     smogon_found.push(sprite);
   }
 })();
@@ -150,28 +149,22 @@ const check_pngs = (filename) => {
     return;
   }
 
-  let obj = Object.assign({}, create_base_obj(), {
+  let k = titleize(sprite);
+
+  if(normalized_data[k] !== undefined){
+    throw new Error(`Object property .${k} already exists`);
+  }
+
+  normalized_data[k] = Object.assign({}, create_base_obj(), {
     num: -1,
-    name: slug_to_title(sprite),
-    alias: aliasize(sprite),
+    name: titleize(sprite),
+    alias: k,
     sprite: sprite,
     gen: -1,
     canBeHeld: true,
   });
-
-  normalized_data.push(obj);
 };
 
 pngs_found.forEach(check_pngs);
-
-normalized_data.sort((a, b) => {
-  if (a.name < b.name) {
-    return -1;
-  }
-  if (a.name > b.name) {
-    return 1;
-  }
-  return 0;
-});
 
 module.exports = normalized_data;

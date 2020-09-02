@@ -4,12 +4,13 @@ const {
   slugize,
   assets_dir,
   list_files,
-  slug_to_title,
+  titleize,
   print_joined_props,
   aliasize,
 } = require("../tools");
 const fs = require("fs");
 const items = require("./../../../node_modules/pokemon-showdown/.data-dist/learnsets").Learnsets;
+const nonstandard = require("./nonstandard-pokemon");
 
 //
 // print_joined_props(items)
@@ -29,6 +30,12 @@ let normalized_data = [];
 
 (() => {
   for (let [key, item] of Object.entries(items)) {
+    if (
+      nonstandard.includes(key)
+      || ['pokestargiant2', 'pokestargiantpropo2'].includes(key)
+    ) {
+      continue;
+    }
     let obj = Object.assign({}, create_base_obj(), item, {
       pokemon: key
     });

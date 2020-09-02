@@ -48,7 +48,7 @@ const slugize = (str) =>
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase();
 
-const slug_to_title = (str) =>
+const titleize = (str) =>
   str
     .replace(/([-_’]|--)/gi, " ")
     .replace(/[ ]+/gi, " ")
@@ -64,6 +64,6 @@ module.exports = {
   assets_dir: __dirname + "/../../assets",
   output_dir: __dirname + "/../../assets/data",
   list_files: list_files,
-  slug_to_title: slug_to_title,
+  titleize: titleize,
   aliasize: aliasize,
 };

@@ -19,6 +19,8 @@ const items = require("./../../../node_modules/pokemon-showdown/.data-dist/moves
 const base_obj = {
   num: 0,
   name: null,
+  alias: null,
+  slug: null,
   desc: null,
   shortDesc: null,
   type: null,

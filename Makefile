@@ -23,6 +23,9 @@ pretty:
 spritesheets:
 	./src/scripts/generate-all-spritesheets.sh
 
+showdown-data:
+	./src/scripts/transpile-showdown-data.sh
+
 data:
 	node src/js/js-data-to-json.js
 

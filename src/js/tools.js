@@ -43,7 +43,7 @@ const print_joined_props = (items) => {
 const slugize = (str) =>
   str
     .replace(/\s/g, "-")
-    .replace(/['’.%:]/g, "")
+    .replace(/['’.%:,;+/]/g, "")
     .normalize("NFD")
     .replace(/[\u0300-\u036f]/g, "")
     .toLowerCase();

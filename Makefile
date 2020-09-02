@@ -27,7 +27,7 @@ showdown-data:
 	./src/scripts/transpile-showdown-data.sh
 
 data:
-	node src/js/js-data-to-json.js
+	node src/js/data-exporter/js-data-to-json.js
 
 data-sync: data
 	npx prettier --write ./assets/data

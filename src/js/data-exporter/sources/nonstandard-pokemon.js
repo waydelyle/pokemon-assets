@@ -1,4 +1,4 @@
-const items = require("./../../../node_modules/pokemon-showdown/.data-dist/pokedex")
+const items = require("pokemon-showdown/.data-dist/pokedex")
   .Pokedex;
 
 let non_standard_list = [];

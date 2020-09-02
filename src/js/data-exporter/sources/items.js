@@ -1,15 +1,13 @@
 const {
   vv,
-  lcvv,
   slugize,
   assets_dir,
   list_files,
   titleize,
-  print_joined_props,
   aliasize,
 } = require("../tools");
 const fs = require("fs");
-const items = require("./../../../node_modules/pokemon-showdown/.data-dist/items")
+const items = require("pokemon-showdown/.data-dist/items")
   .Items;
 //
 // print_joined_props(items)

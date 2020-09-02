@@ -1,15 +1,10 @@
 const {
   vv,
   lcvv,
-  slugize,
-  assets_dir,
-  list_files,
-  titleize,
-  print_joined_props,
-  aliasize,
+  slugize
 } = require("../tools");
 const fs = require("fs");
-const items = require("./../../../node_modules/pokemon-showdown/.data-dist/learnsets")
+const items = require("pokemon-showdown/.data-dist/learnsets")
   .Learnsets;
 const nonstandard = require("./nonstandard-pokemon");
 

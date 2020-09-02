@@ -1,10 +1,10 @@
 const fs = require("fs");
-const { output_dir } = require("./tools");
-const abilities = require("./data/abilities");
-const items = require("./data/items");
-const learnsets = require("./data/learnsets");
-const moves = require("./data/moves");
-const pokemon = require("./data/pokemon");
+const {output_dir} = require("./tools");
+const abilities = require("./sources/abilities");
+const items = require("./sources/items");
+const learnsets = require("./sources/learnsets");
+const moves = require("./sources/moves");
+const pokemon = require("./sources/pokemon");
 
 fs.writeFileSync(
   output_dir + "/abilities.json",

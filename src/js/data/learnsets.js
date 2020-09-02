@@ -9,7 +9,8 @@ const {
   aliasize,
 } = require("../tools");
 const fs = require("fs");
-const items = require("./../../../node_modules/pokemon-showdown/.data-dist/learnsets").Learnsets;
+const items = require("./../../../node_modules/pokemon-showdown/.data-dist/learnsets")
+  .Learnsets;
 const nonstandard = require("./nonstandard-pokemon");
 
 //
@@ -21,7 +22,7 @@ const base_obj = {
   learnset: {},
   eventData: [],
   encounters: [],
-  eventOnly: false
+  eventOnly: false,
 };
 
 const create_base_obj = () => JSON.parse(JSON.stringify(base_obj));
@@ -31,13 +32,13 @@ let normalized_data = [];
 (() => {
   for (let [key, item] of Object.entries(items)) {
     if (
-      nonstandard.includes(key)
-      || ['pokestargiant2', 'pokestargiantpropo2'].includes(key)
+      nonstandard.includes(key) ||
+      ["pokestargiant2", "pokestargiantpropo2"].includes(key)
     ) {
       continue;
     }
     let obj = Object.assign({}, create_base_obj(), item, {
-      pokemon: key
+      pokemon: key,
     });
 
     normalized_data.push(obj);

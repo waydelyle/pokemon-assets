@@ -39,7 +39,7 @@ const base_obj = {
   color: null,
   evos: [],
   eggGroups: [],
-  hasLearnset:false,
+  hasLearnset: false,
   baseForme: null,
   baseFormeSprite: null,
   cosmeticFormes: [],

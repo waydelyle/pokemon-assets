@@ -151,7 +151,7 @@ const check_pngs = (filename) => {
 
   let k = titleize(sprite);
 
-  if(normalized_data[k] !== undefined){
+  if (normalized_data[k] !== undefined) {
     throw new Error(`Object property .${k} already exists`);
   }
 

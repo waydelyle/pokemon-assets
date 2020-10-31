@@ -34,10 +34,10 @@
     "icebeam": ["8M", "7M"],
     "icywind": ["8M", "7T"],
     "lightscreen": ["8M", "7M"],
-    "magiccoat": ["8L49", "7T", "7L43"],
+    "magiccoat": ["8L49", "8S3", "7T", "7L43"],
     "magicroom": ["8M", "7T"],
     "meteorbeam": ["8T"],
-    "moonblast": ["8L56", "7L47", "7S2"],
+    "moonblast": ["8L56", "8S3", "7L47", "7S2"],
     "moongeistbeam": ["8L0", "7L1", "7S0", "7S1", "7S2"],
     "moonlight": ["8L35", "7L31", "7S2"],
     "nightdaze": ["8L42", "7L37", "7S0", "7S1"],
@@ -57,7 +57,7 @@
     "round": ["8M", "7M"],
     "safeguard": ["8M", "7M"],
     "scaryface": ["8M"],
-    "shadowball": ["8M", "8L28", "7M", "7L23", "7S0", "7S1"],
+    "shadowball": ["8M", "8L28", "8S3", "7M", "7L23", "7S0", "7S1"],
     "shadowclaw": ["8M", "7M"],
     "shockwave": ["7T"],
     "signalbeam": ["7T"],
@@ -70,7 +70,7 @@
     "substitute": ["8M", "7M"],
     "sunnyday": ["8M", "7M"],
     "swagger": ["7M"],
-    "swift": ["8M"],
+    "swift": ["8M", "8S3"],
     "tailwind": ["7T"],
     "telekinesis": ["7T"],
     "teleport": ["8L1", "7L1"],
@@ -102,6 +102,12 @@
       "shiny": true,
       "moves": ["moongeistbeam", "psyshock", "moonblast", "moonlight"],
       "pokeball": "cherishball"
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["shadowball", "moonblast", "magiccoat", "swift"]
     }
   ],
   "encounters": [],

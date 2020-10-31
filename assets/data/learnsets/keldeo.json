@@ -28,7 +28,7 @@
     "hail": ["8M", "7M", "6M", "5M"],
     "helpinghand": ["8M", "8L1", "7T", "7L25", "6T", "6L25", "5T", "5L25"],
     "hiddenpower": ["7M", "6M", "5M"],
-    "hydropump": ["8M", "8L63", "7L67", "6L67", "6S2", "5L67", "5S1"],
+    "hydropump": ["8M", "8L63", "8S4", "7L67", "6L67", "6S2", "5L67", "5S1"],
     "hyperbeam": ["8M", "7M", "6M", "5M"],
     "icywind": ["8M", "7T", "6T", "5T"],
     "lastresort": ["7T", "6T", "5T"],
@@ -51,11 +51,11 @@
     "roar": ["7M", "6M", "5M"],
     "rocksmash": ["6M", "5M"],
     "round": ["8M", "7M", "6M", "5M"],
-    "sacredsword": ["8L49", "7L43", "6L43", "5L43", "5S1"],
+    "sacredsword": ["8L49", "8S4", "7L43", "6L43", "5L43", "5S1"],
     "safeguard": ["8M", "7M", "6M", "5M"],
     "scald": ["8M", "7M", "6M", "5M"],
     "secretpower": ["6M"],
-    "secretsword": ["8L1", "7T", "6T", "5T"],
+    "secretsword": ["8L1", "8S4", "7T", "6T", "5T"],
     "sleeptalk": ["8M", "7M", "6M", "5T"],
     "smartstrike": ["8M"],
     "snore": ["8M", "7T", "6T", "5T"],
@@ -70,6 +70,7 @@
     "swordsdance": [
       "8M",
       "8L56",
+      "8S4",
       "7M",
       "7L49",
       "6M",
@@ -109,6 +110,11 @@
       "level": 100,
       "moves": ["aquajet", "leer", "doublekick", "bubblebeam"],
       "pokeball": "cherishball"
+    },
+    {
+      "generation": 8,
+      "level": 65,
+      "moves": ["secretsword", "sacredsword", "swordsdance", "hydropump"]
     }
   ],
   "encounters": [],

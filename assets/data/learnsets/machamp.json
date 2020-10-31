@@ -31,7 +31,7 @@
     "darkestlariat": ["8M"],
     "detect": ["7V"],
     "dig": ["8M", "8V", "7V", "6M", "6S2", "5M", "4M", "3M"],
-    "doubleedge": ["8L66", "7S3", "7V", "3T"],
+    "doubleedge": ["8L66", "7V", "7S3", "3T"],
     "doubleteam": ["7M", "7V", "6M", "5M", "4M", "3M"],
     "dualchop": ["8L36", "7T", "7L33", "6T", "6L33", "5T"],
     "dynamicpunch": [
@@ -146,7 +146,7 @@
     "snore": ["8M", "7T", "7V", "6T", "5T", "4T", "3T"],
     "stompingtantrum": ["8M", "7T"],
     "stoneedge": ["8M", "7M", "6M", "6S1", "5M", "4M"],
-    "strength": ["8L31", "8V", "7L1", "7S3", "7V", "6M", "5M", "4M", "3M"],
+    "strength": ["8L31", "8V", "7L1", "7V", "7S3", "6M", "5M", "4M", "3M"],
     "submission": ["8V", "7L37", "7V", "6L36", "5L36", "4L32", "3L41"],
     "substitute": ["8M", "8V", "7M", "7V", "6M", "5M", "4M", "3T"],
     "sunnyday": ["8M", "7M", "7V", "6M", "5M", "4M", "3M"],

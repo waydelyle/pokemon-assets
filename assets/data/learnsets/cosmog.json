@@ -1,14 +1,20 @@
 {
   "pokemon": "cosmog",
   "learnset": {
-    "splash": ["8L1", "7L1", "7S0"],
-    "teleport": ["8L1", "7L23"]
+    "splash": ["8L1", "8S1", "7L1", "7S0"],
+    "teleport": ["8L1", "8S1", "7L23"]
   },
   "eventData": [
     {
       "generation": 7,
       "level": 5,
       "moves": ["splash"]
+    },
+    {
+      "generation": 8,
+      "level": 5,
+      "moves": ["splash", "teleport"],
+      "pokeball": "pokeball"
     }
   ],
   "encounters": [],

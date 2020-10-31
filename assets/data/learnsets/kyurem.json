@@ -57,8 +57,18 @@
     "hiddenpower": ["7M", "6M", "5M"],
     "honeclaws": ["6M", "5M"],
     "hyperbeam": ["8M", "7M", "6M", "5M"],
-    "hypervoice": ["8M", "8L40", "7T", "7L92", "6T", "6L92", "5T", "5L92"],
-    "icebeam": ["8M", "8L32", "7M", "7L22", "6M", "6L22", "5M", "5L22"],
+    "hypervoice": [
+      "8M",
+      "8L40",
+      "8S5",
+      "7T",
+      "7L92",
+      "6T",
+      "6L92",
+      "5T",
+      "5L92"
+    ],
+    "icebeam": ["8M", "8L32", "8S5", "7M", "7L22", "6M", "6L22", "5M", "5L22"],
     "iciclespear": ["8M"],
     "icywind": ["8M", "7T", "7L1", "6T", "6L1", "5T", "5L1"],
     "imprison": ["8M", "8L64", "7L64", "6L8", "5L8", "5S0", "5S1"],
@@ -84,6 +94,7 @@
     "scaryface": [
       "8M",
       "8L48",
+      "8S5",
       "7L43",
       "7S4",
       "6L43",
@@ -93,7 +104,7 @@
       "5S1"
     ],
     "secretpower": ["6M"],
-    "shadowball": ["8M", "7M", "6M", "5M"],
+    "shadowball": ["8M", "8S5", "7M", "6M", "5M"],
     "shadowclaw": ["8M", "7M", "6M", "5M"],
     "sheercold": ["8L88"],
     "signalbeam": ["7T", "6T", "5T"],
@@ -141,6 +152,12 @@
       "level": 60,
       "shiny": 1,
       "moves": ["slash", "scaryface", "glaciate", "dragonpulse"]
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["icebeam", "hypervoice", "shadowball", "scaryface"]
     }
   ],
   "encounters": [],

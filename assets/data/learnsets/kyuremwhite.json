@@ -40,15 +40,35 @@
     "focusblast": ["8M", "7M", "6M", "5M"],
     "freezedry": ["8L1"],
     "frustration": ["7M", "6M", "5M"],
-    "fusionflare": ["8L48", "7L43", "7S4", "6L43", "6S2", "6S3", "5L50", "5S1"],
+    "fusionflare": [
+      "8L48",
+      "8S5",
+      "7L43",
+      "7S4",
+      "6L43",
+      "6S2",
+      "6S3",
+      "5L50",
+      "5S1"
+    ],
     "gigaimpact": ["8M", "7M", "6M", "5M"],
     "hail": ["8M", "7M", "6M", "5M"],
     "helpinghand": ["8M"],
     "hiddenpower": ["7M", "6M", "5M"],
     "honeclaws": ["6M", "5M"],
     "hyperbeam": ["8M", "7M", "6M", "5M"],
-    "hypervoice": ["8M", "8L40", "7T", "7L92", "6T", "6L92", "5T", "5L92"],
-    "icebeam": ["8M", "8L32", "7M", "7L22", "6M", "6L22", "5M", "5L22"],
+    "hypervoice": [
+      "8M",
+      "8L40",
+      "8S5",
+      "7T",
+      "7L92",
+      "6T",
+      "6L92",
+      "5T",
+      "5L92"
+    ],
+    "icebeam": ["8M", "8L32", "8S5", "7M", "7L22", "6M", "6L22", "5M", "5L22"],
     "iceburn": [
       "8L80",
       "7L50",
@@ -84,7 +104,7 @@
     "scaleshot": ["8T"],
     "scaryface": ["8M"],
     "secretpower": ["6M"],
-    "shadowball": ["8M", "7M", "6M", "5M"],
+    "shadowball": ["8M", "8S5", "7M", "6M", "5M"],
     "shadowclaw": ["8M", "7M", "6M", "5M"],
     "sheercold": ["8L88"],
     "signalbeam": ["7T", "6T", "5T"],
@@ -132,6 +152,12 @@
       "level": 60,
       "shiny": 1,
       "moves": ["slash", "fusionflare", "iceburn", "dragonpulse"]
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["icebeam", "hypervoice", "shadowball", "fusionflare"]
     }
   ],
   "encounters": [],

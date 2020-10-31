@@ -117,7 +117,7 @@
       "3L8"
     ],
     "secretpower": ["6M", "4M", "3M"],
-    "shadowball": ["8M", "8V", "7M", "7S2", "7V", "6M", "5M", "4M", "3M"],
+    "shadowball": ["8M", "8V", "7M", "7V", "7S2", "6M", "5M", "4M", "3M"],
     "shockwave": ["7T", "6T", "4M", "3M"],
     "signalbeam": ["7T", "6T", "5T", "4T"],
     "skullbash": ["7V"],
@@ -159,7 +159,7 @@
       "3M",
       "3L52"
     ],
-    "thunderbolt": ["8M", "8V", "7M", "7S2", "7V", "6M", "5M", "4M", "3M"],
+    "thunderbolt": ["8M", "8V", "7M", "7V", "7S2", "6M", "5M", "4M", "3M"],
     "thunderfang": ["8M", "8L30", "7L20", "6L20", "5L43", "4L43"],
     "thundershock": [
       "8L0",

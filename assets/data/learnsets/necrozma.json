@@ -3,13 +3,13 @@
   "learnset": {
     "aerialace": ["7M"],
     "allyswitch": ["8M", "7T"],
-    "autotomize": ["8L80", "7L47"],
+    "autotomize": ["8L80", "8S3", "7L47"],
     "breakingswipe": ["8M"],
     "brickbreak": ["8M", "7M"],
     "brutalswing": ["8M", "7M"],
     "bulldoze": ["8M", "7M"],
     "calmmind": ["8M", "7M"],
-    "chargebeam": ["8L1", "7M", "7L1"],
+    "chargebeam": ["8L1", "8S3", "7M", "7L1"],
     "confide": ["7M"],
     "confusion": ["8L1", "7L1"],
     "cosmicpower": ["8M"],
@@ -48,12 +48,12 @@
     "nightslash": ["8L24", "7L23", "7S1"],
     "outrage": ["8M", "7T"],
     "photongeyser": ["8L72", "7L50", "7S1"],
-    "powergem": ["8M", "8L64", "7L43", "7S1"],
+    "powergem": ["8M", "8L64", "8S3", "7L43", "7S1"],
     "prismaticlaser": ["8L88", "7L73", "7S0"],
     "protect": ["8M", "7M"],
     "psychic": ["8M", "7M"],
     "psychicfangs": ["8M"],
-    "psychocut": ["8M", "8L32", "7L37"],
+    "psychocut": ["8M", "8L32", "8S3", "7L37"],
     "psyshock": ["8M", "7M"],
     "recycle": ["7T"],
     "reflect": ["8M", "7M"],
@@ -104,6 +104,12 @@
       "shiny": true,
       "moves": ["lightscreen", "substitute", "moonlight"],
       "pokeball": "cherishball"
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["psychocut", "chargebeam", "powergem", "autotomize"]
     }
   ],
   "encounters": [],

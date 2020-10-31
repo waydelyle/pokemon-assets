@@ -13,7 +13,7 @@
     "doubleteam": ["7M", "6M", "5M"],
     "dracometeor": ["8T", "7T", "7S6", "6T", "5T", "5S2"],
     "dragonbreath": ["8L1", "7L29", "6L29", "6S3", "5L29", "5S0"],
-    "dragonclaw": ["8M", "7M", "6M", "5M"],
+    "dragonclaw": ["8M", "8S7", "7M", "6M", "5M"],
     "dragondance": ["8M"],
     "dragonpulse": [
       "8M",
@@ -36,6 +36,7 @@
     "endure": ["8M"],
     "extrasensory": [
       "8L24",
+      "8S7",
       "7L43",
       "7S4",
       "7S5",
@@ -57,6 +58,7 @@
     "frustration": ["7M", "6M", "5M"],
     "fusionflare": [
       "8L48",
+      "8S7",
       "7L50",
       "7S4",
       "7S5",
@@ -82,7 +84,7 @@
     "lightscreen": ["8M", "7M", "6M", "5M"],
     "mist": ["5S2"],
     "mysticalfire": ["8M"],
-    "nobleroar": ["8L1", "7L64"],
+    "nobleroar": ["8L1", "8S7", "7L64"],
     "outrage": ["8M", "8L80", "7T", "7L85", "6T", "6L85", "5T", "5L85"],
     "overheat": ["8M", "7M", "6M", "5M"],
     "payback": ["8M", "7M", "6M", "5M"],
@@ -160,6 +162,12 @@
       "level": 100,
       "moves": ["fusionflare", "blueflare", "dracometeor", "earthpower"],
       "pokeball": "cherishball"
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["nobleroar", "extrasensory", "fusionflare", "dragonclaw"]
     }
   ],
   "encounters": [],

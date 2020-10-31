@@ -70,7 +70,7 @@
     "thief": ["8M", "7M", "6M"],
     "toxic": ["7M", "6M"],
     "trick": ["8M", "8L40", "7T", "7L1", "6T", "6L1"],
-    "trickortreat": ["8L1", "8L12", "8L24", "8L36", "7L23", "6L6"],
+    "trickortreat": ["8L1", "7L23", "6L6"],
     "trickroom": ["8M", "7M", "6M"],
     "willowisp": ["8M", "7M", "6M"],
     "worryseed": ["8L28", "7T", "7L11", "6T", "6L11"]

@@ -1,15 +1,29 @@
 # pokemon-assets
 
-Essential Pokémon assets for any kind of project: menu icons, fonts, data, SASS/CSS sprites and more.
+Essential Pokémon assets for any kind of project: menu sprites, fonts, JSON data, SASS/CSS spritesheet and more.
+
+## Install
+
+You can either clone this project or install it in your project with npm or yarn:
+
+```
+npm install pokemon-assets
+```
+
+or
+
+```
+yarn add pokemon-assets
+```
 
 ## Contents
 
 - All Pokémon menu icon sprites up to Gen 8, with their shiny version.
 - Icon sprites for items, ribbons, marks and UI symbols.
 - Sprite sheets for all sprite sets, with CSS and SASS files.
-- PkIcon React component.
+- PkIcon JS React component.
 - Data of the essential metagame info (abilities, items, moves, natures, pokemon, learn sets).
-- JS Data API helper class.
+- JS Data API wrapper class.
 - SVG images for type symbols and other UI elements.
 - Fonts from the GBC, GBA and DS games.
 - Music of the most relevant game events.
@@ -30,6 +44,8 @@ You can check all available assets in the following [reference pages](https://it
 - [Types](https://itsjavi.com/pokemon-assets/assets/data/types.json)
 - [Egg Groups](https://itsjavi.com/pokemon-assets/assets/data/egg-groups.json)
 
+You can find all data under [assets/data](https://github.com/itsjavi/pokemon-assets/tree/master/assets/data).
+
 ### Imagery and CSS
 
 - [Pokémon](https://itsjavi.com/pokemon-assets/ref/pokemon)
@@ -39,35 +55,34 @@ You can check all available assets in the following [reference pages](https://it
 - [Ribbons](https://itsjavi.com/pokemon-assets/ref/ribbons)
 - [Symbols](https://itsjavi.com/pokemon-assets/ref/symbols)
 
-<br>
+### Other Resources
+- [Fonts](https://github.com/itsjavi/pokemon-assets/tree/master/assets/fonts)
+- [Audios](https://github.com/itsjavi/pokemon-assets/tree/master/assets/audio)
+- [SVG Images](https://github.com/itsjavi/pokemon-assets/tree/master/assets/svg)
+- [JS React components](https://github.com/itsjavi/pokemon-assets/tree/master/assets/js/components)
+- [JS Data API wrapper](https://github.com/itsjavi/pokemon-assets/tree/master/assets/js/data-api)
+- [CSS spritesheet files](https://github.com/itsjavi/pokemon-assets/tree/master/assets/css)
+- [SASS spritesheet files](https://github.com/itsjavi/pokemon-assets/tree/master/assets/sass)
 
----
 
-For fonts and audio reference,
-check the [`/assets/`](https://github.com/itsjavi/pokemon-assets/tree/master/assets) folder.
+## Maintenance
 
----
+The only dependency you need to maintain this project is Docker and
+the ability to run `make` commands. The most important ones are:
 
-## Development Dependencies
 
-Apart from the package.json devDependencies, your machine (which has to be macOS or Linux) should to have
-the following software in order to run the maintenance scripts:
+- `make install`: initializes the project dependencies, needed to build the assets.
+- `make build`: builds the assets.
+- `make publish`: publishes to the gh-pages branch and to npm. This one needs remote permissions.
 
-- node 10+
-- ImageMagick 7.0+
-- pandoc 2.10+
-- ffmpeg 4.3+
-
-Maintenance scripts are self-explanatory by checking the Makefile.
-You don't need them or anything under the 'src` folder to use the assets.
 
 ## Credits
 
 Created by [@route1rodent](https://route1rodent.com) with the help of other projects:
 
-- Sprites: [msikma/pokesprite](https://github.com/msikma/pokesprite)
-- SVGs: [zukan.pokemon.co.jp](https://zukan.pokemon.co.jp)
-- Data: [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown/tree/master/data),
+- Menu Icon Sprites: [msikma/pokesprite](https://github.com/msikma/pokesprite)
+- Some SVGs from: [zukan.pokemon.co.jp](https://zukan.pokemon.co.jp)
+- Data sources: [smogon/pokemon-showdown](https://github.com/smogon/pokemon-showdown/tree/master/data),
 [veekun/pokedex](https://github.com/veekun/pokedex)
 
 ## License

@@ -20,5 +20,5 @@ cp -R tmp/output-pokemon-shiny .gh-pages/ref/pokemon/shiny
 cp -R tmp/output-ribbons .gh-pages/ref/ribbons
 cp -R tmp/output-symbols .gh-pages/ref/symbols
 
-make index-page
+./src/scripts/build-index-page.sh
 cp tmp/pandoc-css/pandoc.css .gh-pages/gfm.css

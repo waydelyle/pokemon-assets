@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="pokeball-banner.svg"
+   id="svg42"
+   version="1.1"
+   viewBox="0 0 395 70">
+  <metadata
+     id="metadata46">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="レイヤー_1-2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="23"
+     inkscape:window-x="0"
+     inkscape:cy="180.02675"
+     inkscape:cx="214.62554"
+     inkscape:zoom="1.8655647"
+     showgrid="false"
+     id="namedview44"
+     inkscape:window-height="948"
+     inkscape:window-width="1680"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs12">
+    <style
+       id="style10">.cls-1{fill:none;}.cls-2{fill:#ccc;}.cls-3{fill:#fff;}.cls-4{fill:#262626;}.cls-5{fill:#e40b20;}.cls-6{fill:#b2b2b2;}</style>
+  </defs>
+  <title
+     id="title14">ttl_evolution_2</title>
+  <g
+     data-name="レイヤー 2"
+     id="レイヤー_2">
+    <g
+       data-name="レイヤー 1"
+       id="レイヤー_1-2">
+      <path
+         id="path16"
+         d="M49.8,37.5a11.76,11.76,0,0,0,0-5,13.06,13.06,0,0,0-4.55-7.28,11,11,0,0,0-1-.78,14.69,14.69,0,0,0-1.58-.95,16.28,16.28,0,0,0-4.59-1.64c-.45-.09-.92-.17-1.39-.22.41.05.82.13,1.22.22a14.24,14.24,0,0,1,5.41,2.59,10.92,10.92,0,0,1,.9.78,13.49,13.49,0,0,1,4,7.28,13.76,13.76,0,0,1,0,5,13.53,13.53,0,0,1-10.3,10.65c-.4.09-.81.17-1.22.22.47,0,.94-.13,1.39-.22C44,47,48.67,42.78,49.8,37.5Z"
+         class="cls-1" />
+      <polygon
+         id="polygon18"
+         points="358.04 66.5 36.67 66.5 36.67 70 358.04 70 358.04 66.5 358.04 66.5"
+         class="cls-2" />
+      <path
+         id="path20"
+         d="M36.67,3.5V21.62c.47.05.94.13,1.39.22a16.28,16.28,0,0,1,4.59,1.64,14.69,14.69,0,0,1,1.58.95,11,11,0,0,1,1,.78,13.06,13.06,0,0,1,4.55,7.28,11.76,11.76,0,0,1,0,5C48.67,42.78,44,47,38.06,48.15c-.45.09-.92.17-1.39.22V66.5H358V47.16l.43,0a13.08,13.08,0,0,0,0-26.16c-.15,0-.29,0-.43,0V3.5H36.67Z"
+         class="cls-3" />
+      <path
+         id="path22"
+         d="M361.54,3.53V18a16.39,16.39,0,0,1,0,32.2V66.46a31.5,31.5,0,0,0,0-62.93Z"
+         class="cls-3" />
+      <polygon
+         id="polygon24"
+         points="358.04 3.5 358.04 3.5 358.04 0 36.67 0 36.67 3.5 358.04 3.5"
+         class="cls-2" />
+      <path
+         id="path26"
+         d="M44.92,35a10,10,0,1,0-10,10A10,10,0,0,0,44.92,35Zm-10,6.46A6.47,6.47,0,1,1,41.39,35,6.47,6.47,0,0,1,34.92,41.46Z"
+         class="cls-3" />
+      <path
+         id="path28"
+         d="M36.67,48.37c.41,0,.82-.13,1.22-.22A13.53,13.53,0,0,0,48.19,37.5a13.76,13.76,0,0,0,0-5,13.49,13.49,0,0,0-4-7.28,10.92,10.92,0,0,0-.9-.78,14.24,14.24,0,0,0-5.41-2.59c-.4-.09-.81-.17-1.22-.22V0H35L33.17,0A34.92,34.92,0,0,0,23,2.12c-1.07.39-2.12.84-3.14,1.33A35.14,35.14,0,0,0,6,15.43c-.62.93-1.21,1.89-1.75,2.88a35,35,0,0,0,0,33.37c.54,1,1.13,2,1.75,2.88a35.14,35.14,0,0,0,13.85,12A32.11,32.11,0,0,0,23,67.87,34.92,34.92,0,0,0,33.17,70L35,70h1.67V48.37Zm-3.5,18.07a31.5,31.5,0,0,1,0-62.89V21.62a13.49,13.49,0,0,0,0,26.75ZM34.92,45a10,10,0,1,1,10-10A10,10,0,0,1,34.92,45Z"
+         class="cls-4" />
+      <path
+         id="path30"
+         d="M21.42,35A13.51,13.51,0,0,1,33.17,21.62V3.55a31.5,31.5,0,0,0,0,62.89V48.37A13.51,13.51,0,0,1,21.42,35Z"
+         class="cls-5" />
+      <circle
+         id="circle32"
+         transform="translate(-5.15 6.05) rotate(-9.22)"
+         r="6.47"
+         cy="34.99"
+         cx="34.92"
+         class="cls-6" />
+      <path
+         id="path34"
+         d="M393.42,24.59a34.79,34.79,0,0,0-2.65-6.28c-.54-1-1.12-1.95-1.75-2.88A35.17,35.17,0,0,0,378.15,5.06c-.94-.57-1.91-1.08-2.9-1.56A35,35,0,0,0,361.54,0L360,0h-2V21.05c.14,0,.28,0,.43,0a13.08,13.08,0,0,1,0,26.16l-.43,0V70h2l1.54,0a35.07,35.07,0,0,0,13.69-3.46c1-.48,2-1,2.92-1.57A35.17,35.17,0,0,0,389,54.56c.63-.93,1.21-1.89,1.75-2.88a35,35,0,0,0,2.65-27.09ZM361.54,66.46V50.2a16.39,16.39,0,0,0,0-32.2V3.53a31.5,31.5,0,0,1,0,62.93Z"
+         class="cls-4" />
+    </g>
+  </g>
+</svg>

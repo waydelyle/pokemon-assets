@@ -1,0 +1,512 @@
+.pkribbon-wrapper {
+  width: 67px;
+  height: 58px;
+  line-height: 56px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 1px;
+}
+
+@mixin sprite-rect($w, $h, $x, $y) {
+  width: $w;
+  height: $h;
+  background-position: $x $y;
+}
+.pkribbon {
+  background-image: url(../../assets/img/ribbons.png);
+
+  display: inline-block;
+  vertical-align: middle;
+  image-rendering: crisp-edges;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: -webkit-crisp-edges;
+  image-rendering: pixelated;
+}
+
+.pkribbon-beauty-ribbon-hoenn {
+  @include sprite-rect(16px, 23px, 0px, 0px);
+}
+.pkribbon-cool-ribbon-hoenn {
+  @include sprite-rect(16px, 23px, -18px, 0px);
+}
+.pkribbon-cute-ribbon-hoenn {
+  @include sprite-rect(16px, 23px, -36px, 0px);
+}
+.pkribbon-smart-ribbon-hoenn {
+  @include sprite-rect(16px, 23px, -54px, 0px);
+}
+.pkribbon-tough-ribbon-hoenn {
+  @include sprite-rect(16px, 23px, -72px, 0px);
+}
+.pkribbon-beauty-ribbon-sinnoh {
+  @include sprite-rect(18px, 25px, -90px, 0px);
+}
+.pkribbon-cool-ribbon-sinnoh {
+  @include sprite-rect(18px, 25px, -110px, 0px);
+}
+.pkribbon-cute-ribbon-sinnoh {
+  @include sprite-rect(18px, 25px, -130px, 0px);
+}
+.pkribbon-smart-ribbon-sinnoh {
+  @include sprite-rect(18px, 25px, -150px, 0px);
+}
+.pkribbon-tough-ribbon-sinnoh {
+  @include sprite-rect(18px, 25px, -170px, 0px);
+}
+.pkribbon-battle-tree-great {
+  @include sprite-rect(17px, 28px, -190px, 0px);
+}
+.pkribbon-beauty-ribbon-super-hoenn {
+  @include sprite-rect(18px, 26px, -209px, 0px);
+}
+.pkribbon-cool-ribbon-super-hoenn {
+  @include sprite-rect(18px, 26px, -229px, 0px);
+}
+.pkribbon-cute-ribbon-super-hoenn {
+  @include sprite-rect(18px, 26px, -249px, 0px);
+}
+.pkribbon-smart-ribbon-super-hoenn {
+  @include sprite-rect(18px, 26px, -269px, 0px);
+}
+.pkribbon-tough-ribbon-super-hoenn {
+  @include sprite-rect(18px, 26px, -289px, 0px);
+}
+.pkribbon-battle-tree-master {
+  @include sprite-rect(18px, 28px, -309px, 0px);
+}
+.pkribbon-beauty-ribbon-great-sinnoh {
+  @include sprite-rect(20px, 27px, -329px, 0px);
+}
+.pkribbon-champion {
+  @include sprite-rect(18px, 28px, -351px, 0px);
+}
+.pkribbon-cool-ribbon-great-sinnoh {
+  @include sprite-rect(20px, 27px, -371px, 0px);
+}
+.pkribbon-cute-ribbon-great-sinnoh {
+  @include sprite-rect(20px, 27px, -393px, 0px);
+}
+.pkribbon-gorgeous {
+  @include sprite-rect(18px, 28px, -415px, 0px);
+}
+.pkribbon-smart-ribbon-great-sinnoh {
+  @include sprite-rect(20px, 27px, -435px, 0px);
+}
+.pkribbon-tough-ribbon-great-sinnoh {
+  @include sprite-rect(20px, 27px, -457px, 0px);
+}
+.pkribbon-ability {
+  @include sprite-rect(20px, 29px, -479px, 0px);
+}
+.pkribbon-alert {
+  @include sprite-rect(20px, 28px, -501px, 0px);
+}
+.pkribbon-careless {
+  @include sprite-rect(20px, 28px, -523px, 0px);
+}
+.pkribbon-double-ability {
+  @include sprite-rect(20px, 29px, -545px, 0px);
+}
+.pkribbon-downcast {
+  @include sprite-rect(20px, 28px, -567px, 0px);
+}
+.pkribbon-great-ability {
+  @include sprite-rect(20px, 29px, -589px, 0px);
+}
+.pkribbon-kalos-champion {
+  @include sprite-rect(20px, 28px, 0px, -31px);
+}
+.pkribbon-relax {
+  @include sprite-rect(20px, 28px, -22px, -31px);
+}
+.pkribbon-shock {
+  @include sprite-rect(20px, 28px, -44px, -31px);
+}
+.pkribbon-smile {
+  @include sprite-rect(20px, 28px, -66px, -31px);
+}
+.pkribbon-snooze {
+  @include sprite-rect(20px, 28px, -88px, -31px);
+}
+.pkribbon-victory {
+  @include sprite-rect(20px, 29px, -110px, -31px);
+}
+.pkribbon-winning {
+  @include sprite-rect(20px, 29px, -132px, -31px);
+}
+.pkribbon-artist {
+  @include sprite-rect(28px, 22px, -154px, -31px);
+}
+.pkribbon-hoenn-champion {
+  @include sprite-rect(20px, 30px, -184px, -31px);
+}
+.pkribbon-record {
+  @include sprite-rect(20px, 30px, -206px, -31px);
+}
+.pkribbon-best-friends {
+  @include sprite-rect(28px, 25px, -228px, -31px);
+}
+.pkribbon-effort {
+  @include sprite-rect(26px, 26px, -258px, -31px);
+}
+.pkribbon-event {
+  @include sprite-rect(22px, 30px, -286px, -31px);
+}
+.pkribbon-history {
+  @include sprite-rect(22px, 30px, -310px, -31px);
+}
+.pkribbon-multi-ability {
+  @include sprite-rect(22px, 31px, -334px, -31px);
+}
+.pkribbon-royal {
+  @include sprite-rect(22px, 30px, -358px, -31px);
+}
+.pkribbon-tough-ribbon-hyper-hoenn {
+  @include sprite-rect(28px, 25px, -382px, -31px);
+}
+.pkribbon-beauty-ribbon-hyper-hoenn {
+  @include sprite-rect(28px, 26px, -412px, -31px);
+}
+.pkribbon-beauty-ribbon-ultra-sinnoh {
+  @include sprite-rect(28px, 27px, -442px, -31px);
+}
+.pkribbon-blue {
+  @include sprite-rect(26px, 29px, -472px, -31px);
+}
+.pkribbon-cool-ribbon-hyper-hoenn {
+  @include sprite-rect(28px, 26px, -500px, -31px);
+}
+.pkribbon-cool-ribbon-ultra-sinnoh {
+  @include sprite-rect(28px, 27px, -530px, -31px);
+}
+.pkribbon-cute-ribbon-hyper-hoenn {
+  @include sprite-rect(28px, 26px, -560px, -31px);
+}
+.pkribbon-cute-ribbon-ultra-sinnoh {
+  @include sprite-rect(28px, 27px, -590px, -31px);
+}
+.pkribbon-gorgeous-royal {
+  @include sprite-rect(24px, 30px, -620px, -31px);
+}
+.pkribbon-green {
+  @include sprite-rect(25px, 29px, -646px, -31px);
+}
+.pkribbon-red {
+  @include sprite-rect(26px, 29px, -673px, -31px);
+}
+.pkribbon-smart-ribbon-hyper-hoenn {
+  @include sprite-rect(28px, 26px, -701px, -31px);
+}
+.pkribbon-smart-ribbon-ultra-sinnoh {
+  @include sprite-rect(28px, 27px, -731px, -31px);
+}
+.pkribbon-tough-ribbon-ultra-sinnoh {
+  @include sprite-rect(28px, 27px, -761px, -31px);
+}
+.pkribbon-alola-champion {
+  @include sprite-rect(24px, 33px, 0px, -64px);
+}
+.pkribbon-beauty-ribbon-master-hoenn {
+  @include sprite-rect(28px, 29px, -26px, -64px);
+}
+.pkribbon-cool-ribbon-master-hoenn {
+  @include sprite-rect(28px, 29px, -56px, -64px);
+}
+.pkribbon-cute-ribbon-master-hoenn {
+  @include sprite-rect(28px, 29px, -86px, -64px);
+}
+.pkribbon-smart-ribbon-master-hoenn {
+  @include sprite-rect(28px, 29px, -116px, -64px);
+}
+.pkribbon-special {
+  @include sprite-rect(28px, 28px, -146px, -64px);
+}
+.pkribbon-tough-ribbon-master-hoenn {
+  @include sprite-rect(28px, 29px, -176px, -64px);
+}
+.pkribbon-battle-champion {
+  @include sprite-rect(28px, 31px, -206px, -64px);
+}
+.pkribbon-beauty-ribbon-master-sinnoh {
+  @include sprite-rect(28px, 30px, -236px, -64px);
+}
+.pkribbon-birthday {
+  @include sprite-rect(28px, 30px, -266px, -64px);
+}
+.pkribbon-classic {
+  @include sprite-rect(30px, 29px, -296px, -64px);
+}
+.pkribbon-cool-ribbon-master-sinnoh {
+  @include sprite-rect(28px, 30px, -328px, -64px);
+}
+.pkribbon-country {
+  @include sprite-rect(28px, 30px, -358px, -64px);
+}
+.pkribbon-cute-ribbon-master-sinnoh {
+  @include sprite-rect(28px, 30px, -388px, -64px);
+}
+.pkribbon-legend {
+  @include sprite-rect(28px, 30px, -418px, -64px);
+}
+.pkribbon-national-champion {
+  @include sprite-rect(30px, 29px, -448px, -64px);
+}
+.pkribbon-national {
+  @include sprite-rect(28px, 30px, -480px, -64px);
+}
+.pkribbon-sinnoh-champion {
+  @include sprite-rect(30px, 28px, -510px, -64px);
+}
+.pkribbon-skillful-battler {
+  @include sprite-rect(30px, 28px, -542px, -64px);
+}
+.pkribbon-smart-ribbon-master-sinnoh {
+  @include sprite-rect(28px, 30px, -574px, -64px);
+}
+.pkribbon-tough-ribbon-master-sinnoh {
+  @include sprite-rect(28px, 30px, -604px, -64px);
+}
+.pkribbon-training {
+  @include sprite-rect(31px, 27px, -634px, -64px);
+}
+.pkribbon-world-champion {
+  @include sprite-rect(30px, 29px, -667px, -64px);
+}
+.pkribbon-earth {
+  @include sprite-rect(32px, 28px, -699px, -64px);
+}
+.pkribbon-expert-battler {
+  @include sprite-rect(30px, 31px, -733px, -64px);
+}
+.pkribbon-land {
+  @include sprite-rect(30px, 30px, -765px, -64px);
+}
+.pkribbon-marine {
+  @include sprite-rect(30px, 30px, -797px, -64px);
+}
+.pkribbon-pair-ability {
+  @include sprite-rect(30px, 30px, -829px, -64px);
+}
+.pkribbon-premier {
+  @include sprite-rect(30px, 30px, -861px, -64px);
+}
+.pkribbon-sky {
+  @include sprite-rect(30px, 30px, -893px, -64px);
+}
+.pkribbon-world-ability {
+  @include sprite-rect(30px, 30px, 0px, -99px);
+}
+.pkribbon-world {
+  @include sprite-rect(32px, 28px, -32px, -99px);
+}
+.pkribbon-battle-royal-master {
+  @include sprite-rect(25px, 37px, -66px, -99px);
+}
+.pkribbon-beauty-master {
+  @include sprite-rect(34px, 28px, -93px, -99px);
+}
+.pkribbon-carnival {
+  @include sprite-rect(32px, 31px, -129px, -99px);
+}
+.pkribbon-cleverness-master {
+  @include sprite-rect(34px, 28px, -163px, -99px);
+}
+.pkribbon-coolness-master {
+  @include sprite-rect(34px, 28px, -199px, -99px);
+}
+.pkribbon-cuteness-master {
+  @include sprite-rect(34px, 28px, -235px, -99px);
+}
+.pkribbon-festival {
+  @include sprite-rect(32px, 31px, -271px, -99px);
+}
+.pkribbon-footprint {
+  @include sprite-rect(32px, 30px, -305px, -99px);
+}
+.pkribbon-regional-champion {
+  @include sprite-rect(32px, 31px, -339px, -99px);
+}
+.pkribbon-souvenir {
+  @include sprite-rect(32px, 31px, -373px, -99px);
+}
+.pkribbon-toughness-master {
+  @include sprite-rect(34px, 28px, -407px, -99px);
+}
+.pkribbon-wishing {
+  @include sprite-rect(32px, 31px, -443px, -99px);
+}
+.pkribbon-battle-memory {
+  @include sprite-rect(31px, 36px, -477px, -99px);
+}
+.pkribbon-contest-memory {
+  @include sprite-rect(31px, 35px, -510px, -99px);
+}
+.pkribbon-contest-star {
+  @include sprite-rect(36px, 32px, -543px, -99px);
+}
+.pkribbon-battle-memory-ribbon-gold {
+  @include sprite-rect(39px, 37px, -581px, -99px);
+}
+.pkribbon-contest-memory-ribbon-gold {
+  @include sprite-rect(39px, 37px, -622px, -99px);
+}
+.pkribbon-tower-master-gen8 {
+  @include sprite-rect(27px, 58px, -663px, -99px);
+}
+.pkribbon-battle-tree-great-gen8 {
+  @include sprite-rect(36px, 58px, -692px, -99px);
+}
+.pkribbon-battle-tree-master-gen8 {
+  @include sprite-rect(36px, 58px, -730px, -99px);
+}
+.pkribbon-alola-champion-gen8 {
+  @include sprite-rect(37px, 58px, -768px, -99px);
+}
+.pkribbon-galar-champion-gen8 {
+  @include sprite-rect(36px, 58px, -807px, -99px);
+}
+.pkribbon-record-gen8 {
+  @include sprite-rect(37px, 58px, -845px, -99px);
+}
+.pkribbon-battle-royal-master-gen8 {
+  @include sprite-rect(40px, 58px, -884px, -99px);
+}
+.pkribbon-gorgeous-gen8 {
+  @include sprite-rect(41px, 58px, -926px, -99px);
+}
+.pkribbon-alert-gen8 {
+  @include sprite-rect(43px, 58px, -969px, -99px);
+}
+.pkribbon-careless-gen8 {
+  @include sprite-rect(43px, 58px, -1014px, -99px);
+}
+.pkribbon-downcast-gen8 {
+  @include sprite-rect(43px, 58px, -1059px, -99px);
+}
+.pkribbon-relax-gen8 {
+  @include sprite-rect(43px, 58px, 0px, -159px);
+}
+.pkribbon-shock-gen8 {
+  @include sprite-rect(43px, 58px, -45px, -159px);
+}
+.pkribbon-smile-gen8 {
+  @include sprite-rect(43px, 58px, -90px, -159px);
+}
+.pkribbon-snooze-gen8 {
+  @include sprite-rect(43px, 58px, -135px, -159px);
+}
+.pkribbon-event-gen8 {
+  @include sprite-rect(44px, 58px, -180px, -159px);
+}
+.pkribbon-champion-gen8 {
+  @include sprite-rect(44px, 58px, -226px, -159px);
+}
+.pkribbon-hoenn-champion-gen8 {
+  @include sprite-rect(45px, 58px, -272px, -159px);
+}
+.pkribbon-kalos-champion-gen8 {
+  @include sprite-rect(45px, 58px, -319px, -159px);
+}
+.pkribbon-royal-gen8 {
+  @include sprite-rect(45px, 58px, -366px, -159px);
+}
+.pkribbon-artist-gen8 {
+  @include sprite-rect(67px, 53px, -413px, -159px);
+}
+.pkribbon-beauty-master-gen8 {
+  @include sprite-rect(67px, 53px, -482px, -159px);
+}
+.pkribbon-cleverness-master-gen8 {
+  @include sprite-rect(67px, 53px, -551px, -159px);
+}
+.pkribbon-coolness-master-gen8 {
+  @include sprite-rect(67px, 53px, -620px, -159px);
+}
+.pkribbon-cuteness-master-gen8 {
+  @include sprite-rect(67px, 53px, -689px, -159px);
+}
+.pkribbon-toughness-master-gen8 {
+  @include sprite-rect(67px, 53px, -758px, -159px);
+}
+.pkribbon-best-friends-gen8 {
+  @include sprite-rect(67px, 55px, -827px, -159px);
+}
+.pkribbon-earth-gen8 {
+  @include sprite-rect(67px, 55px, -896px, -159px);
+}
+.pkribbon-gorgeous-royal-gen8 {
+  @include sprite-rect(47px, 58px, -965px, -159px);
+}
+.pkribbon-world-gen8 {
+  @include sprite-rect(67px, 55px, -1014px, -159px);
+}
+.pkribbon-training-gen8 {
+  @include sprite-rect(67px, 56px, -1083px, -159px);
+}
+.pkribbon-battle-champion-gen8 {
+  @include sprite-rect(51px, 58px, -1152px, -159px);
+}
+.pkribbon-contest-star-gen8 {
+  @include sprite-rect(65px, 58px, -1205px, -159px);
+}
+.pkribbon-country-gen8 {
+  @include sprite-rect(51px, 58px, -1272px, -159px);
+}
+.pkribbon-national-gen8 {
+  @include sprite-rect(51px, 58px, -1325px, -159px);
+}
+.pkribbon-skillful-battler-gen8 {
+  @include sprite-rect(65px, 58px, -1378px, -159px);
+}
+.pkribbon-souvenir-gen8 {
+  @include sprite-rect(65px, 58px, -1445px, -159px);
+}
+.pkribbon-battle-memory-gen8 {
+  @include sprite-rect(52px, 58px, -1512px, -159px);
+}
+.pkribbon-contest-memory-gen8 {
+  @include sprite-rect(52px, 58px, -1566px, -159px);
+}
+.pkribbon-birthday-gen8 {
+  @include sprite-rect(55px, 58px, -1620px, -159px);
+}
+.pkribbon-regional-champion-gen8 {
+  @include sprite-rect(54px, 58px, -1677px, -159px);
+}
+.pkribbon-wishing-gen8 {
+  @include sprite-rect(62px, 58px, 0px, -219px);
+}
+.pkribbon-footprint-gen8 {
+  @include sprite-rect(61px, 58px, -64px, -219px);
+}
+.pkribbon-special-gen8 {
+  @include sprite-rect(56px, 58px, -127px, -219px);
+}
+.pkribbon-master-rank-gen8 {
+  @include sprite-rect(57px, 58px, -185px, -219px);
+}
+.pkribbon-expert-battler-gen8 {
+  @include sprite-rect(58px, 58px, -244px, -219px);
+}
+.pkribbon-legend-gen8 {
+  @include sprite-rect(58px, 58px, -304px, -219px);
+}
+.pkribbon-national-champion-gen8 {
+  @include sprite-rect(57px, 58px, -364px, -219px);
+}
+.pkribbon-premier-gen8 {
+  @include sprite-rect(57px, 58px, -423px, -219px);
+}
+.pkribbon-effort-gen8 {
+  @include sprite-rect(58px, 58px, -482px, -219px);
+}
+.pkribbon-world-champion-gen8 {
+  @include sprite-rect(58px, 58px, -542px, -219px);
+}
+.pkribbon-classic-gen8 {
+  @include sprite-rect(59px, 58px, -602px, -219px);
+}
+.pkribbon-sinnoh-champion-gen8 {
+  @include sprite-rect(59px, 58px, -663px, -219px);
+}

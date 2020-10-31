@@ -26,8 +26,8 @@
     "extremespeed": [
       "8L0",
       "7L34",
-      "7S1",
       "7V",
+      "7S1",
       "6L34",
       "5L39",
       "4L39",
@@ -63,7 +63,7 @@
     "outrage": ["8M", "8V", "7T", "6T", "5T"],
     "overheat": ["8M", "7M", "6M", "5M", "4M", "3M"],
     "playrough": ["8M", "8L1", "8V"],
-    "protect": ["8M", "8V", "7M", "7S1", "7V", "6M", "5M", "4M", "3M"],
+    "protect": ["8M", "8V", "7M", "7V", "7S1", "6M", "5M", "4M", "3M"],
     "psychicfangs": ["8M"],
     "rage": ["7V"],
     "reflect": ["8V", "7V"],

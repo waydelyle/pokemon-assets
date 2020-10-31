@@ -7,7 +7,7 @@
     "bounce": ["8M", "7T", "6T", "5T"],
     "brickbreak": ["8M"],
     "calmmind": ["8M", "7M", "6M", "5M"],
-    "closecombat": ["8M", "8L70", "7L1", "6L1", "5L73"],
+    "closecombat": ["8M", "8L70", "8S5", "7L1", "6L1", "5L73"],
     "coaching": ["8T"],
     "confide": ["7M", "6M"],
     "cut": ["6M", "5M"],
@@ -52,7 +52,7 @@
     "hiddenpower": ["7M", "6M", "5M"],
     "hyperbeam": ["8M", "7M", "6M", "5M"],
     "laserfocus": ["7T"],
-    "leafblade": ["8M", "8L63", "7L1", "7S4", "6L1", "5L67"],
+    "leafblade": ["8M", "8L63", "8S5", "7L1", "7S4", "6L1", "5L67"],
     "leafstorm": ["8M"],
     "leer": ["8L1", "7L1", "6L1", "5L1"],
     "lightscreen": ["8M", "7M", "6M", "5M"],
@@ -85,6 +85,7 @@
     "round": ["8M", "7M", "6M", "5M"],
     "sacredsword": [
       "8L49",
+      "8S5",
       "7L31",
       "7S4",
       "6L42",
@@ -112,6 +113,7 @@
     "swordsdance": [
       "8M",
       "8L56",
+      "8S5",
       "7M",
       "7L37",
       "7S4",
@@ -161,6 +163,12 @@
       "level": 60,
       "shiny": 1,
       "moves": ["sacredsword", "swordsdance", "gigadrain", "leafblade"]
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["sacredsword", "swordsdance", "leafblade", "closecombat"]
     }
   ],
   "encounters": [],

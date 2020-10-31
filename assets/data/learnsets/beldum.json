@@ -3,10 +3,12 @@
   "learnset": {
     "headbutt": ["4T"],
     "holdback": ["6S0"],
-    "irondefense": ["7T", "6T", "6S0", "5T", "4T"],
-    "ironhead": ["7T", "6T", "6S0", "5T", "5D", "4T"],
+    "irondefense": ["8M", "7T", "6T", "6S0", "5T", "4T"],
+    "ironhead": ["8M", "7T", "6T", "6S0", "5T", "5D", "4T"],
+    "steelbeam": ["8T"],
+    "tackle": ["8L1"],
     "takedown": ["7L1", "6L1", "5L1", "5D", "4L1", "3L1"],
-    "zenheadbutt": ["7T", "6T", "6S0", "5T", "5D", "4T"]
+    "zenheadbutt": ["8M", "7T", "6T", "6S0", "5T", "5D", "4T"]
   },
   "eventData": [
     {

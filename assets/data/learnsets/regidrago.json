@@ -1,0 +1,51 @@
+{
+  "pokemon": "regidrago",
+  "learnset": {
+    "ancientpower": ["8L12"],
+    "bite": ["8L6"],
+    "bodyslam": ["8M"],
+    "breakingswipe": ["8M"],
+    "crunch": ["8M", "8L30"],
+    "dracometeor": ["8T"],
+    "dragonbreath": ["8L18"],
+    "dragonclaw": ["8M", "8L36", "8S0"],
+    "dragondance": ["8M", "8L48"],
+    "dragonenergy": ["8L66", "8S0"],
+    "dragonpulse": ["8M"],
+    "endure": ["8M"],
+    "explosion": ["8L78"],
+    "facade": ["8M"],
+    "firefang": ["8M"],
+    "focusenergy": ["8M", "8L24"],
+    "gigaimpact": ["8M"],
+    "hammerarm": ["8L42", "8S0"],
+    "hyperbeam": ["8M", "8L72"],
+    "laserfocus": ["8L60", "8S0"],
+    "lightscreen": ["8M"],
+    "outrage": ["8M"],
+    "protect": ["8M"],
+    "reflect": ["8M"],
+    "rest": ["8M"],
+    "reversal": ["8M"],
+    "round": ["8M"],
+    "scaleshot": ["8T"],
+    "selfdestruct": ["8M"],
+    "sleeptalk": ["8M"],
+    "snore": ["8M"],
+    "substitute": ["8M"],
+    "thrash": ["8L54"],
+    "thunderfang": ["8M"],
+    "twister": ["8L1"],
+    "visegrip": ["8L1"]
+  },
+  "eventData": [
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["dragonenergy", "dragonclaw", "hammerarm", "laserfocus"]
+    }
+  ],
+  "encounters": [],
+  "eventOnly": true
+}

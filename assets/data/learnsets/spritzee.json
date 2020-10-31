@@ -15,7 +15,7 @@
     "disable": ["8E", "7E", "6E"],
     "disarmingvoice": ["7L50", "6L50"],
     "doubleteam": ["7M", "6M"],
-    "drainingkiss": ["8M", "8L9", "8L15", "7L21", "6L21"],
+    "drainingkiss": ["8M", "8L9", "7L21", "6L21"],
     "dreameater": ["7M", "6M"],
     "echoedvoice": ["8L6", "7M", "7L13", "6M", "6L13"],
     "encore": ["8M"],

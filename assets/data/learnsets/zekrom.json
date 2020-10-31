@@ -17,6 +17,7 @@
     "dragonclaw": [
       "8M",
       "8L32",
+      "8S7",
       "7M",
       "7L54",
       "7S4",
@@ -45,6 +46,7 @@
     "frustration": ["7M", "6M", "5M"],
     "fusionbolt": [
       "8L48",
+      "8S7",
       "7L50",
       "7S4",
       "7S5",
@@ -67,7 +69,7 @@
     "laserfocus": ["7T"],
     "lightscreen": ["8M", "7M", "6M", "5M"],
     "magnetrise": ["7T", "6T", "5T"],
-    "nobleroar": ["8L1", "7L64"],
+    "nobleroar": ["8L1", "8S7", "7L64"],
     "outrage": [
       "8M",
       "8L80",
@@ -100,7 +102,7 @@
     "shadowclaw": ["8M", "7M", "6M", "5M"],
     "shockwave": ["7T", "6T"],
     "signalbeam": ["7T", "6T", "5T"],
-    "slash": ["8L8", "7L36", "7S4", "7S5", "6L36", "6S3", "5L36", "5S0"],
+    "slash": ["8L8", "8S7", "7L36", "7S4", "7S5", "6L36", "6S3", "5L36", "5S0"],
     "sleeptalk": ["8M", "7M", "6M", "5T"],
     "snore": ["8M", "7T", "6T", "5T"],
     "steelwing": ["8M", "7M", "6M"],
@@ -175,6 +177,12 @@
       "level": 100,
       "moves": ["fusionbolt", "boltstrike", "outrage", "stoneedge"],
       "pokeball": "cherishball"
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["nobleroar", "slash", "fusionbolt", "dragonclaw"]
     }
   ],
   "encounters": [],

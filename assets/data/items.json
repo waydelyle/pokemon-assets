@@ -5,7 +5,7 @@
     "alias": "abomasite",
     "sprite": "abomasite",
     "gen": 6,
-    "desc": "If held by an Abomasnow, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -68,7 +68,7 @@
     "alias": "absolite",
     "sprite": "absolite",
     "gen": 6,
-    "desc": "If held by an Absol, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -131,7 +131,7 @@
     "alias": "absorbbulb",
     "sprite": "absorb-bulb",
     "gen": 5,
-    "desc": "Raises holder's Sp. Atk by 1 stage if hit by a Water-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -193,7 +193,7 @@
     "alias": "adamantorb",
     "sprite": "adamant-orb",
     "gen": 4,
-    "desc": "If held by a Dialga, its Steel- and Dragon-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -214,7 +214,7 @@
     "itemUser": ["Dialga"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 15,
     "isBerry": false,
     "zMove": false,
@@ -256,7 +256,7 @@
     "alias": "adrenalineorb",
     "sprite": "adrenaline-orb",
     "gen": 7,
-    "desc": "Raises holder's Speed by 1 stage if it gets affected by Intimidate. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -318,7 +318,7 @@
     "alias": "aerodactylite",
     "sprite": "aerodactylite",
     "gen": 6,
-    "desc": "If held by an Aerodactyl, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -381,7 +381,7 @@
     "alias": "aggronite",
     "sprite": "aggronite",
     "gen": 6,
-    "desc": "If held by an Aggron, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -444,7 +444,7 @@
     "alias": "aguavberry",
     "sprite": "aguav-berry",
     "gen": 3,
-    "desc": "Restores 33% max HP at 1/4 max HP or less; confuses if -SpD Nature. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -507,7 +507,7 @@
     "alias": "airballoon",
     "sprite": "air-balloon",
     "gen": 5,
-    "desc": "Holder is immune to Ground-type attacks. Pops when holder is hit.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -570,7 +570,7 @@
     "alias": "alakazite",
     "sprite": "alakazite",
     "gen": 6,
-    "desc": "If held by an Alakazam, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -633,7 +633,7 @@
     "alias": "aloraichiumz",
     "sprite": "aloraichium-z--held",
     "gen": 7,
-    "desc": "If held by an Alolan Raichu with Thunderbolt, it can use Stoked Sparksurfer.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -697,7 +697,7 @@
     "alias": "altarianite",
     "sprite": "altarianite",
     "gen": 6,
-    "desc": "If held by an Altaria, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -760,7 +760,7 @@
     "alias": "ampharosite",
     "sprite": "ampharosite",
     "gen": 6,
-    "desc": "If held by an Ampharos, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -823,7 +823,7 @@
     "alias": "apicotberry",
     "sprite": "apicot-berry",
     "gen": 3,
-    "desc": "Raises holder's Sp. Def by 1 stage when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -886,7 +886,7 @@
     "alias": "armorfossil",
     "sprite": "armor-fossil",
     "gen": 4,
-    "desc": "Can be revived into Shieldon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -949,7 +949,7 @@
     "alias": "aspearberry",
     "sprite": "aspear-berry",
     "gen": 3,
-    "desc": "Holder is cured if it is frozen. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1012,7 +1012,7 @@
     "alias": "assaultvest",
     "sprite": "assault-vest",
     "gen": 6,
-    "desc": "Holder's Sp. Def is 1.5x, but it can only select damaging moves.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1075,7 +1075,7 @@
     "alias": "audinite",
     "sprite": "audinite",
     "gen": 6,
-    "desc": "If held by an Audino, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1138,7 +1138,7 @@
     "alias": "babiriberry",
     "sprite": "babiri-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Steel-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1201,7 +1201,7 @@
     "alias": "banettite",
     "sprite": "banettite",
     "gen": 6,
-    "desc": "If held by a Banette, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1264,7 +1264,7 @@
     "alias": "beastball",
     "sprite": "beast-ball",
     "gen": 7,
-    "desc": "A special Poke Ball designed to catch Ultra Beasts.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1327,7 +1327,7 @@
     "alias": "beedrillite",
     "sprite": "beedrillite",
     "gen": 6,
-    "desc": "If held by a Beedrill, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1390,7 +1390,7 @@
     "alias": "belueberry",
     "sprite": "belue-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1454,7 +1454,7 @@
     "alias": "berryjuice",
     "sprite": "berry-juice",
     "gen": 2,
-    "desc": "Restores 20 HP when at 1/2 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1517,7 +1517,7 @@
     "alias": "berrysweet",
     "sprite": "berry-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1580,7 +1580,7 @@
     "alias": "bigroot",
     "sprite": "big-root",
     "gen": 4,
-    "desc": "Holder gains 1.3x HP from draining/Aqua Ring/Ingrain/Leech Seed/Strength Sap.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1643,7 +1643,7 @@
     "alias": "bindingband",
     "sprite": "binding-band",
     "gen": 5,
-    "desc": "Holder's partial-trapping moves deal 1/6 max HP per turn instead of 1/8.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1706,7 +1706,7 @@
     "alias": "blackbelt",
     "sprite": "black-belt",
     "gen": 2,
-    "desc": "Holder's Fighting-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1769,7 +1769,7 @@
     "alias": "blacksludge",
     "sprite": "black-sludge",
     "gen": 4,
-    "desc": "Each turn, if holder is a Poison type, restores 1/16 max HP; loses 1/8 if not.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1832,7 +1832,7 @@
     "alias": "blackglasses",
     "sprite": "black-glasses",
     "gen": 2,
-    "desc": "Holder's Dark-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1895,7 +1895,7 @@
     "alias": "blastoisinite",
     "sprite": "blastoisinite",
     "gen": 6,
-    "desc": "If held by a Blastoise, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -1958,7 +1958,7 @@
     "alias": "blazikenite",
     "sprite": "blazikenite",
     "gen": 6,
-    "desc": "If held by a Blaziken, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2021,7 +2021,7 @@
     "alias": "blueorb",
     "sprite": "blue-orb",
     "gen": 6,
-    "desc": "If held by a Kyogre, this item triggers its Primal Reversion in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2084,7 +2084,7 @@
     "alias": "blukberry",
     "sprite": "bluk-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2148,7 +2148,7 @@
     "alias": "blunderpolicy",
     "sprite": "blunder-policy",
     "gen": 8,
-    "desc": "If the holder misses due to accuracy, its Speed is raised by 2 stages. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2211,7 +2211,7 @@
     "alias": "bottlecap",
     "sprite": "bottle-cap",
     "gen": 7,
-    "desc": "Used for Hyper Training. One of a Pokemon's stats is calculated with an IV of 31.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2274,7 +2274,7 @@
     "alias": "brightpowder",
     "sprite": "bright-powder",
     "gen": 2,
-    "desc": "The accuracy of attacks against the holder is 0.9x.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2337,7 +2337,7 @@
     "alias": "buggem",
     "sprite": "bug-gem",
     "gen": 5,
-    "desc": "Holder's first successful Bug-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2400,7 +2400,7 @@
     "alias": "bugmemory",
     "sprite": "bug-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Bug type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2463,7 +2463,7 @@
     "alias": "buginiumz",
     "sprite": "buginium-z--held",
     "gen": 7,
-    "desc": "If holder has a Bug move, this item allows it to use a Bug Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2527,7 +2527,7 @@
     "alias": "burndrive",
     "sprite": "burn-drive",
     "gen": 5,
-    "desc": "Holder's Techno Blast is Fire type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2548,7 +2548,7 @@
     "itemUser": ["Genesect-Burn"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": false,
     "zMove": false,
@@ -2590,7 +2590,7 @@
     "alias": "cameruptite",
     "sprite": "cameruptite",
     "gen": 6,
-    "desc": "If held by a Camerupt, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2653,7 +2653,7 @@
     "alias": "cellbattery",
     "sprite": "cell-battery",
     "gen": 5,
-    "desc": "Raises holder's Attack by 1 if hit by an Electric-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2715,7 +2715,7 @@
     "alias": "charcoal",
     "sprite": "charcoal",
     "gen": 2,
-    "desc": "Holder's Fire-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2778,7 +2778,7 @@
     "alias": "charizarditex",
     "sprite": "charizardite-x",
     "gen": 6,
-    "desc": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2841,7 +2841,7 @@
     "alias": "charizarditey",
     "sprite": "charizardite-y",
     "gen": 6,
-    "desc": "If held by a Charizard, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2904,7 +2904,7 @@
     "alias": "chartiberry",
     "sprite": "charti-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Rock-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -2967,7 +2967,7 @@
     "alias": "cheriberry",
     "sprite": "cheri-berry",
     "gen": 3,
-    "desc": "Holder cures itself if it is paralyzed. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3030,7 +3030,7 @@
     "alias": "cherishball",
     "sprite": "cherish-ball",
     "gen": 4,
-    "desc": "A rare Poke Ball that has been crafted to commemorate an occasion.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3093,7 +3093,7 @@
     "alias": "chestoberry",
     "sprite": "chesto-berry",
     "gen": 3,
-    "desc": "Holder wakes up if it is asleep. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3156,7 +3156,7 @@
     "alias": "chilanberry",
     "sprite": "chilan-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a Normal-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3219,7 +3219,7 @@
     "alias": "chilldrive",
     "sprite": "chill-drive",
     "gen": 5,
-    "desc": "Holder's Techno Blast is Ice type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3240,7 +3240,7 @@
     "itemUser": ["Genesect-Chill"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": false,
     "zMove": false,
@@ -3282,7 +3282,7 @@
     "alias": "chippedpot",
     "sprite": "chipped-pot",
     "gen": 8,
-    "desc": "Evolves Sinistea-Antique into Polteageist-Antique when used.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3345,7 +3345,7 @@
     "alias": "choiceband",
     "sprite": "choice-band",
     "gen": 3,
-    "desc": "Holder's Attack is 1.5x, but it can only select the first move it executes.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3408,7 +3408,7 @@
     "alias": "choicescarf",
     "sprite": "choice-scarf",
     "gen": 4,
-    "desc": "Holder's Speed is 1.5x, but it can only select the first move it executes.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3471,7 +3471,7 @@
     "alias": "choicespecs",
     "sprite": "choice-specs",
     "gen": 4,
-    "desc": "Holder's Sp. Atk is 1.5x, but it can only select the first move it executes.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3534,7 +3534,7 @@
     "alias": "chopleberry",
     "sprite": "chople-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Fighting-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3597,7 +3597,7 @@
     "alias": "clawfossil",
     "sprite": "claw-fossil",
     "gen": 3,
-    "desc": "Can be revived into Anorith.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3660,7 +3660,7 @@
     "alias": "cloversweet",
     "sprite": "clover-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3723,7 +3723,7 @@
     "alias": "cobaberry",
     "sprite": "coba-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Flying-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3786,7 +3786,7 @@
     "alias": "colburberry",
     "sprite": "colbur-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Dark-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3849,7 +3849,7 @@
     "alias": "cornnberry",
     "sprite": "cornn-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3913,7 +3913,7 @@
     "alias": "coverfossil",
     "sprite": "cover-fossil",
     "gen": 5,
-    "desc": "Can be revived into Tirtouga.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -3976,7 +3976,7 @@
     "alias": "crackedpot",
     "sprite": "cracked-pot",
     "gen": 8,
-    "desc": "Evolves Sinistea into Polteageist when used.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4039,7 +4039,7 @@
     "alias": "custapberry",
     "sprite": "custap-berry",
     "gen": 4,
-    "desc": "Holder moves first in its priority bracket when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4060,7 +4060,7 @@
     "itemUser": [],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Unobtainable",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": true,
     "zMove": false,
@@ -4102,7 +4102,7 @@
     "alias": "damprock",
     "sprite": "damp-rock",
     "gen": 4,
-    "desc": "Holder's use of Rain Dance lasts 8 turns instead of 5.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4165,7 +4165,7 @@
     "alias": "darkgem",
     "sprite": "dark-gem",
     "gen": 5,
-    "desc": "Holder's first successful Dark-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4228,7 +4228,7 @@
     "alias": "darkmemory",
     "sprite": "dark-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Dark type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4291,7 +4291,7 @@
     "alias": "darkiniumz",
     "sprite": "darkinium-z--held",
     "gen": 7,
-    "desc": "If holder has a Dark move, this item allows it to use a Dark Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4355,8 +4355,8 @@
     "alias": "dawnstone",
     "sprite": "dawn-stone",
     "gen": 4,
-    "desc": "Evolves male Kirlia into Gallade and female Snorunt into Froslass when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -4418,7 +4418,7 @@
     "alias": "decidiumz",
     "sprite": "decidium-z--held",
     "gen": 7,
-    "desc": "If held by a Decidueye with Spirit Shackle, it can use Sinister Arrow Raid.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4482,8 +4482,8 @@
     "alias": "deepseascale",
     "sprite": "deep-sea-scale",
     "gen": 3,
-    "desc": "If held by a Clamperl, its Sp. Def is doubled. Evolves Clamperl into Gorebyss when traded.",
-    "shortDesc": "If held by a Clamperl, its Sp. Def is doubled.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -4545,8 +4545,8 @@
     "alias": "deepseatooth",
     "sprite": "deep-sea-tooth",
     "gen": 3,
-    "desc": "If held by a Clamperl, its Sp. Atk is doubled. Evolves Clamperl into Huntail when traded.",
-    "shortDesc": "If held by a Clamperl, its Sp. Atk is doubled.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -4608,7 +4608,7 @@
     "alias": "destinyknot",
     "sprite": "destiny-knot",
     "gen": 4,
-    "desc": "If holder becomes infatuated, the other Pokemon also becomes infatuated.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4671,7 +4671,7 @@
     "alias": "diancite",
     "sprite": "diancite",
     "gen": 6,
-    "desc": "If held by a Diancie, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4734,7 +4734,7 @@
     "alias": "diveball",
     "sprite": "dive-ball",
     "gen": 3,
-    "desc": "A Poke Ball that works especially well on Pokemon that live underwater.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4797,7 +4797,7 @@
     "alias": "domefossil",
     "sprite": "dome-fossil",
     "gen": 3,
-    "desc": "Can be revived into Kabuto.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4860,7 +4860,7 @@
     "alias": "dousedrive",
     "sprite": "douse-drive",
     "gen": 5,
-    "desc": "Holder's Techno Blast is Water type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4881,7 +4881,7 @@
     "itemUser": ["Genesect-Douse"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": false,
     "zMove": false,
@@ -4923,7 +4923,7 @@
     "alias": "dracoplate",
     "sprite": "draco-plate",
     "gen": 4,
-    "desc": "Holder's Dragon-type attacks have 1.2x power. Judgment is Dragon type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -4986,7 +4986,7 @@
     "alias": "dragonfang",
     "sprite": "dragon-fang",
     "gen": 2,
-    "desc": "Holder's Dragon-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5049,7 +5049,7 @@
     "alias": "dragongem",
     "sprite": "dragon-gem",
     "gen": 5,
-    "desc": "Holder's first successful Dragon-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5112,7 +5112,7 @@
     "alias": "dragonmemory",
     "sprite": "dragon-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Dragon type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5175,7 +5175,7 @@
     "alias": "dragonscale",
     "sprite": "dragon-scale",
     "gen": 2,
-    "desc": "Evolves Seadra into Kingdra when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5238,7 +5238,7 @@
     "alias": "dragoniumz",
     "sprite": "dragonium-z--held",
     "gen": 7,
-    "desc": "If holder has a Dragon move, this item allows it to use a Dragon Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5302,7 +5302,7 @@
     "alias": "dreadplate",
     "sprite": "dread-plate",
     "gen": 4,
-    "desc": "Holder's Dark-type attacks have 1.2x power. Judgment is Dark type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5365,7 +5365,7 @@
     "alias": "dreamball",
     "sprite": "dream-ball",
     "gen": 5,
-    "desc": "A Poke Ball that makes it easier to catch wild Pokémon while they're asleep.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5428,7 +5428,7 @@
     "alias": "dubiousdisc",
     "sprite": "dubious-disc",
     "gen": 4,
-    "desc": "Evolves Porygon2 into Porygon-Z when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5491,7 +5491,7 @@
     "alias": "durinberry",
     "sprite": "durin-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5555,7 +5555,7 @@
     "alias": "duskball",
     "sprite": "dusk-ball",
     "gen": 4,
-    "desc": "A Poke Ball that makes it easier to catch wild Pokemon at night or in caves.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5618,8 +5618,8 @@
     "alias": "duskstone",
     "sprite": "dusk-stone",
     "gen": 4,
-    "desc": "Evolves Murkrow into Honchkrow, Misdreavus into Mismagius, Lampent into Chandelure, and Doublade into Aegislash when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -5681,7 +5681,7 @@
     "alias": "earthplate",
     "sprite": "earth-plate",
     "gen": 4,
-    "desc": "Holder's Ground-type attacks have 1.2x power. Judgment is Ground type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5744,7 +5744,7 @@
     "alias": "eeviumz",
     "sprite": "eevium-z--held",
     "gen": 7,
-    "desc": "If held by an Eevee with Last Resort, it can use Extreme Evoboost.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5808,7 +5808,7 @@
     "alias": "ejectbutton",
     "sprite": "eject-button",
     "gen": 5,
-    "desc": "If holder survives a hit, it immediately switches out to a chosen ally. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5871,7 +5871,7 @@
     "alias": "ejectpack",
     "sprite": "eject-pack",
     "gen": 8,
-    "desc": "If the holder's stat stages are lowered, it switches to a chosen ally. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5934,7 +5934,7 @@
     "alias": "electirizer",
     "sprite": "electirizer",
     "gen": 4,
-    "desc": "Evolves Electabuzz into Electivire when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -5997,7 +5997,7 @@
     "alias": "electricgem",
     "sprite": "electric-gem",
     "gen": 5,
-    "desc": "Holder's first successful Electric-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6060,7 +6060,7 @@
     "alias": "electricmemory",
     "sprite": "electric-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Electric type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6123,7 +6123,7 @@
     "alias": "electricseed",
     "sprite": "electric-seed",
     "gen": 7,
-    "desc": "If the terrain is Electric Terrain, raises holder's Defense by 1 stage. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6185,7 +6185,7 @@
     "alias": "electriumz",
     "sprite": "electrium-z--held",
     "gen": 7,
-    "desc": "If holder has an Electric move, this item allows it to use an Electric Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6249,7 +6249,7 @@
     "alias": "energypowder",
     "sprite": "energy-powder",
     "gen": 2,
-    "desc": "Restores 60 HP to one Pokemon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6312,7 +6312,7 @@
     "alias": "enigmaberry",
     "sprite": "enigma-berry",
     "gen": 3,
-    "desc": "Restores 1/4 max HP after holder is hit by a supereffective move. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6333,7 +6333,7 @@
     "itemUser": [],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Unobtainable",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": true,
     "zMove": false,
@@ -6375,7 +6375,7 @@
     "alias": "eviolite",
     "sprite": "eviolite",
     "gen": 5,
-    "desc": "If holder's species can evolve, its Defense and Sp. Def are 1.5x.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6438,7 +6438,7 @@
     "alias": "expertbelt",
     "sprite": "expert-belt",
     "gen": 4,
-    "desc": "Holder's attacks that are super effective against the target do 1.2x damage.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6501,7 +6501,7 @@
     "alias": "fairiumz",
     "sprite": "fairium-z--held",
     "gen": 7,
-    "desc": "If holder has a Fairy move, this item allows it to use a Fairy Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6565,7 +6565,7 @@
     "alias": "fairygem",
     "sprite": "fairy-gem",
     "gen": 6,
-    "desc": "Holder's first successful Fairy-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6628,7 +6628,7 @@
     "alias": "fairymemory",
     "sprite": "fairy-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Fairy type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6691,7 +6691,7 @@
     "alias": "fastball",
     "sprite": "fast-ball",
     "gen": 2,
-    "desc": "A Poke Ball that makes it easier to catch Pokemon which are quick to run away.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6754,7 +6754,7 @@
     "alias": "fightinggem",
     "sprite": "fighting-gem",
     "gen": 5,
-    "desc": "Holder's first successful Fighting-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6817,7 +6817,7 @@
     "alias": "fightingmemory",
     "sprite": "fighting-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Fighting type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6880,7 +6880,7 @@
     "alias": "fightiniumz",
     "sprite": "fightinium-z--held",
     "gen": 7,
-    "desc": "If holder has a Fighting move, this item allows it to use a Fighting Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -6944,7 +6944,7 @@
     "alias": "figyberry",
     "sprite": "figy-berry",
     "gen": 3,
-    "desc": "Restores 33% max HP at 1/4 max HP or less; confuses if -Atk Nature. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7007,7 +7007,7 @@
     "alias": "firegem",
     "sprite": "fire-gem",
     "gen": 5,
-    "desc": "Holder's first successful Fire-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7070,7 +7070,7 @@
     "alias": "firememory",
     "sprite": "fire-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Fire type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7133,8 +7133,8 @@
     "alias": "firestone",
     "sprite": "fire-stone",
     "gen": 1,
-    "desc": "Evolves Vulpix into Ninetales, Growlithe into Arcanine, Eevee into Flareon, and Pansear into Simisear when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -7196,7 +7196,7 @@
     "alias": "firiumz",
     "sprite": "firium-z--held",
     "gen": 7,
-    "desc": "If holder has a Fire move, this item allows it to use a Fire Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7260,7 +7260,7 @@
     "alias": "fistplate",
     "sprite": "fist-plate",
     "gen": 4,
-    "desc": "Holder's Fighting-type attacks have 1.2x power. Judgment is Fighting type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7323,7 +7323,7 @@
     "alias": "flameorb",
     "sprite": "flame-orb",
     "gen": 4,
-    "desc": "At the end of every turn, this item attempts to burn the holder.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7387,7 +7387,7 @@
     "alias": "flameplate",
     "sprite": "flame-plate",
     "gen": 4,
-    "desc": "Holder's Fire-type attacks have 1.2x power. Judgment is Fire type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7450,7 +7450,7 @@
     "alias": "floatstone",
     "sprite": "float-stone",
     "gen": 5,
-    "desc": "Holder's weight is halved.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7513,7 +7513,7 @@
     "alias": "flowersweet",
     "sprite": "flower-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7576,7 +7576,7 @@
     "alias": "flyinggem",
     "sprite": "flying-gem",
     "gen": 5,
-    "desc": "Holder's first successful Flying-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7639,7 +7639,7 @@
     "alias": "flyingmemory",
     "sprite": "flying-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Flying type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7702,7 +7702,7 @@
     "alias": "flyiniumz",
     "sprite": "flyinium-z--held",
     "gen": 7,
-    "desc": "If holder has a Flying move, this item allows it to use a Flying Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7766,7 +7766,7 @@
     "alias": "focusband",
     "sprite": "focus-band",
     "gen": 2,
-    "desc": "Holder has a 10% chance to survive an attack that would KO it with 1 HP.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7829,7 +7829,7 @@
     "alias": "focussash",
     "sprite": "focus-sash",
     "gen": 4,
-    "desc": "If holder's HP is full, will survive an attack that would KO it with 1 HP. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7892,7 +7892,7 @@
     "alias": "fossilizedbird",
     "sprite": "fossilized-bird",
     "gen": 8,
-    "desc": "Can revive into Arctovish with Fossilized Fish or Arctozolt with Fossilized Dino.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -7955,7 +7955,7 @@
     "alias": "fossilizeddino",
     "sprite": "fossilized-dino",
     "gen": 8,
-    "desc": "Can revive into Dracozolt with Fossilized Drake or Arctozolt with Fossilized Bird.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8018,7 +8018,7 @@
     "alias": "fossilizeddrake",
     "sprite": "fossilized-drake",
     "gen": 8,
-    "desc": "Can revive into Dracozolt with Fossilized Dino or Dracovish with Fossilized Fish.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8081,7 +8081,7 @@
     "alias": "fossilizedfish",
     "sprite": "fossilized-fish",
     "gen": 8,
-    "desc": "Can revive into Dracovish with Fossilized Drake or Arctovish with Fossilized Bird.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8144,7 +8144,7 @@
     "alias": "friendball",
     "sprite": "friend-ball",
     "gen": 2,
-    "desc": "A Poke Ball that makes caught Pokemon more friendly.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8207,7 +8207,7 @@
     "alias": "fullincense",
     "sprite": "full-incense",
     "gen": 4,
-    "desc": "Holder moves last in its priority bracket.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8265,13 +8265,139 @@
     "spritenum": 155,
     "onFractionalPriority": -0.1
   },
+  "galaricacuff": {
+    "num": 1582,
+    "name": "Galarica Cuff",
+    "alias": "galaricacuff",
+    "sprite": "galarica-cuff",
+    "gen": 8,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 30
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0,
+    "spritenum": 739
+  },
+  "galaricawreath": {
+    "num": 1592,
+    "name": "Galarica Wreath",
+    "alias": "galaricawreath",
+    "sprite": "galarica-wreath",
+    "gen": 8,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 30
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0,
+    "spritenum": 740
+  },
   "galladite": {
     "num": 756,
     "name": "Galladite",
     "alias": "galladite",
     "sprite": "galladite",
     "gen": 6,
-    "desc": "If held by a Gallade, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8334,7 +8460,7 @@
     "alias": "ganlonberry",
     "sprite": "ganlon-berry",
     "gen": 3,
-    "desc": "Raises holder's Defense by 1 stage when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8397,7 +8523,7 @@
     "alias": "garchompite",
     "sprite": "garchompite",
     "gen": 6,
-    "desc": "If held by a Garchomp, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8460,7 +8586,7 @@
     "alias": "gardevoirite",
     "sprite": "gardevoirite",
     "gen": 6,
-    "desc": "If held by a Gardevoir, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8523,7 +8649,7 @@
     "alias": "gengarite",
     "sprite": "gengarite",
     "gen": 6,
-    "desc": "If held by a Gengar, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8586,7 +8712,7 @@
     "alias": "ghostgem",
     "sprite": "ghost-gem",
     "gen": 5,
-    "desc": "Holder's first successful Ghost-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8649,7 +8775,7 @@
     "alias": "ghostmemory",
     "sprite": "ghost-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Ghost type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8712,7 +8838,7 @@
     "alias": "ghostiumz",
     "sprite": "ghostium-z--held",
     "gen": 7,
-    "desc": "If holder has a Ghost move, this item allows it to use a Ghost Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8776,7 +8902,7 @@
     "alias": "glalitite",
     "sprite": "glalitite",
     "gen": 6,
-    "desc": "If held by a Glalie, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8839,7 +8965,7 @@
     "alias": "goldbottlecap",
     "sprite": "gold-bottle-cap",
     "gen": 7,
-    "desc": "Used for Hyper Training. All of a Pokemon's stats are calculated with an IV of 31.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8902,7 +9028,7 @@
     "alias": "grassgem",
     "sprite": "grass-gem",
     "gen": 5,
-    "desc": "Holder's first successful Grass-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -8965,7 +9091,7 @@
     "alias": "grassmemory",
     "sprite": "grass-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Grass type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9028,7 +9154,7 @@
     "alias": "grassiumz",
     "sprite": "grassium-z--held",
     "gen": 7,
-    "desc": "If holder has a Grass move, this item allows it to use a Grass Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9092,7 +9218,7 @@
     "alias": "grassyseed",
     "sprite": "grassy-seed",
     "gen": 7,
-    "desc": "If the terrain is Grassy Terrain, raises holder's Defense by 1 stage. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9154,7 +9280,7 @@
     "alias": "greatball",
     "sprite": "great-ball",
     "gen": 1,
-    "desc": "A high-performance Ball that provides a higher catch rate than a Poke Ball.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9217,7 +9343,7 @@
     "alias": "grepaberry",
     "sprite": "grepa-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9281,7 +9407,7 @@
     "alias": "gripclaw",
     "sprite": "grip-claw",
     "gen": 4,
-    "desc": "Holder's partial-trapping moves always last 7 turns.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9344,7 +9470,7 @@
     "alias": "griseousorb",
     "sprite": "griseous-orb",
     "gen": 4,
-    "desc": "If held by a Giratina, its Ghost- and Dragon-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9365,7 +9491,7 @@
     "itemUser": ["Giratina-Origin"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 15,
     "isBerry": false,
     "zMove": false,
@@ -9407,7 +9533,7 @@
     "alias": "groundgem",
     "sprite": "ground-gem",
     "gen": 5,
-    "desc": "Holder's first successful Ground-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9470,7 +9596,7 @@
     "alias": "groundmemory",
     "sprite": "ground-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Ground type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9533,7 +9659,7 @@
     "alias": "groundiumz",
     "sprite": "groundium-z--held",
     "gen": 7,
-    "desc": "If holder has a Ground move, this item allows it to use a Ground Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9597,7 +9723,7 @@
     "alias": "gyaradosite",
     "sprite": "gyaradosite",
     "gen": 6,
-    "desc": "If held by a Gyarados, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9660,7 +9786,7 @@
     "alias": "habanberry",
     "sprite": "haban-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Dragon-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9723,7 +9849,7 @@
     "alias": "hardstone",
     "sprite": "hard-stone",
     "gen": 2,
-    "desc": "Holder's Rock-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9786,7 +9912,7 @@
     "alias": "healball",
     "sprite": "heal-ball",
     "gen": 4,
-    "desc": "A remedial Poke Ball that restores the caught Pokemon's HP and status problem.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9849,7 +9975,7 @@
     "alias": "heatrock",
     "sprite": "heat-rock",
     "gen": 4,
-    "desc": "Holder's use of Sunny Day lasts 8 turns instead of 5.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9912,7 +10038,7 @@
     "alias": "heavyball",
     "sprite": "heavy-ball",
     "gen": 2,
-    "desc": "A Poke Ball for catching very heavy Pokemon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -9975,7 +10101,7 @@
     "alias": "heavydutyboots",
     "sprite": "heavy-duty-boots",
     "gen": 8,
-    "desc": "When switching in, the holder is unaffected by hazards on its side of the field.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10038,7 +10164,7 @@
     "alias": "helixfossil",
     "sprite": "helix-fossil",
     "gen": 3,
-    "desc": "Can be revived into Omanyte.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10101,7 +10227,7 @@
     "alias": "heracronite",
     "sprite": "heracronite",
     "gen": 6,
-    "desc": "If held by a Heracross, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10164,7 +10290,7 @@
     "alias": "hondewberry",
     "sprite": "hondew-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10228,7 +10354,7 @@
     "alias": "houndoominite",
     "sprite": "houndoominite",
     "gen": 6,
-    "desc": "If held by a Houndoom, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10291,7 +10417,7 @@
     "alias": "iapapaberry",
     "sprite": "iapapa-berry",
     "gen": 3,
-    "desc": "Restores 33% max HP at 1/4 max HP or less; confuses if -Def Nature. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10354,7 +10480,7 @@
     "alias": "icegem",
     "sprite": "ice-gem",
     "gen": 5,
-    "desc": "Holder's first successful Ice-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10417,7 +10543,7 @@
     "alias": "icememory",
     "sprite": "ice-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Ice type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10480,8 +10606,8 @@
     "alias": "icestone",
     "sprite": "ice-stone",
     "gen": 7,
-    "desc": "Evolves Alolan Sandshrew into Alolan Sandslash, Alolan Vulpix into Alolan Ninetales, Eevee into Glaceon, and Galarian Darumaka into Galarian Darmanitan when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -10543,7 +10669,7 @@
     "alias": "icicleplate",
     "sprite": "icicle-plate",
     "gen": 4,
-    "desc": "Holder's Ice-type attacks have 1.2x power. Judgment is Ice type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10606,7 +10732,7 @@
     "alias": "iciumz",
     "sprite": "icium-z--held",
     "gen": 7,
-    "desc": "If holder has an Ice move, this item allows it to use an Ice Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10670,7 +10796,7 @@
     "alias": "icyrock",
     "sprite": "icy-rock",
     "gen": 4,
-    "desc": "Holder's use of Hail lasts 8 turns instead of 5.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10733,7 +10859,7 @@
     "alias": "inciniumz",
     "sprite": "incinium-z--held",
     "gen": 7,
-    "desc": "If held by an Incineroar with Darkest Lariat, it can use Malicious Moonsault.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10797,7 +10923,7 @@
     "alias": "insectplate",
     "sprite": "insect-plate",
     "gen": 4,
-    "desc": "Holder's Bug-type attacks have 1.2x power. Judgment is Bug type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10860,7 +10986,7 @@
     "alias": "ironball",
     "sprite": "iron-ball",
     "gen": 4,
-    "desc": "Holder is grounded, Speed halved. If Flying type, takes neutral Ground damage.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10923,7 +11049,7 @@
     "alias": "ironplate",
     "sprite": "iron-plate",
     "gen": 4,
-    "desc": "Holder's Steel-type attacks have 1.2x power. Judgment is Steel type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -10986,7 +11112,7 @@
     "alias": "jabocaberry",
     "sprite": "jaboca-berry",
     "gen": 4,
-    "desc": "If holder is hit by a physical move, attacker loses 1/8 of its max HP. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11007,7 +11133,7 @@
     "itemUser": [],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Unobtainable",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": true,
     "zMove": false,
@@ -11049,7 +11175,7 @@
     "alias": "jawfossil",
     "sprite": "jaw-fossil",
     "gen": 6,
-    "desc": "Can be revived into Tyrunt.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11112,7 +11238,7 @@
     "alias": "kasibberry",
     "sprite": "kasib-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Ghost-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11175,7 +11301,7 @@
     "alias": "kebiaberry",
     "sprite": "kebia-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Poison-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11238,7 +11364,7 @@
     "alias": "keeberry",
     "sprite": "kee-berry",
     "gen": 6,
-    "desc": "Raises holder's Defense by 1 stage after it is hit by a physical attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11301,7 +11427,7 @@
     "alias": "kelpsyberry",
     "sprite": "kelpsy-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11365,7 +11491,7 @@
     "alias": "kangaskhanite",
     "sprite": "kangaskhanite",
     "gen": 6,
-    "desc": "If held by a Kangaskhan, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11428,8 +11554,8 @@
     "alias": "kingsrock",
     "sprite": "kings-rock",
     "gen": 2,
-    "desc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch. Evolves Poliwhirl into Politoed and Slowpoke into Slowking when traded.",
-    "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -11492,7 +11618,7 @@
     "alias": "kommoniumz",
     "sprite": "kommonium-z--held",
     "gen": 7,
-    "desc": "If held by a Kommo-o with Clanging Scales, it can use Clangorous Soulblaze.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11556,7 +11682,7 @@
     "alias": "laggingtail",
     "sprite": "lagging-tail",
     "gen": 4,
-    "desc": "Holder moves last in its priority bracket.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11620,7 +11746,7 @@
     "alias": "lansatberry",
     "sprite": "lansat-berry",
     "gen": 3,
-    "desc": "Holder gains the Focus Energy effect when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11683,7 +11809,7 @@
     "alias": "latiasite",
     "sprite": "latiasite",
     "gen": 6,
-    "desc": "If held by a Latias, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11746,7 +11872,7 @@
     "alias": "latiosite",
     "sprite": "latiosite",
     "gen": 6,
-    "desc": "If held by a Latios, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11809,7 +11935,7 @@
     "alias": "laxincense",
     "sprite": "lax-incense",
     "gen": 3,
-    "desc": "The accuracy of attacks against the holder is 0.9x.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11872,8 +11998,8 @@
     "alias": "leafstone",
     "sprite": "leaf-stone",
     "gen": 1,
-    "desc": "Evolves Gloom into Vileplume, Weepinbell into Victreebel, Exeggcute into Exeggutor or Alolan Exeggutor, Eevee into Leafeon, Nuzleaf into Shiftry, and Pansage into Simisage when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -11935,7 +12061,7 @@
     "alias": "leek",
     "sprite": "leek",
     "gen": 8,
-    "desc": "If held by a Farfetch’d or Sirfetch’d, its critical hit ratio is raised by 2 stages.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -11998,7 +12124,7 @@
     "alias": "leftovers",
     "sprite": "leftovers",
     "gen": 2,
-    "desc": "At the end of every turn, holder restores 1/16 of its max HP.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12061,7 +12187,7 @@
     "alias": "leppaberry",
     "sprite": "leppa-berry",
     "gen": 3,
-    "desc": "Restores 10 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12124,7 +12250,7 @@
     "alias": "levelball",
     "sprite": "level-ball",
     "gen": 2,
-    "desc": "A Poke Ball for catching Pokemon that are a lower level than your own.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12187,7 +12313,7 @@
     "alias": "liechiberry",
     "sprite": "liechi-berry",
     "gen": 3,
-    "desc": "Raises holder's Attack by 1 stage when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12250,7 +12376,7 @@
     "alias": "lifeorb",
     "sprite": "life-orb",
     "gen": 4,
-    "desc": "Holder's attacks do 1.3x damage, and it loses 1/10 its max HP after the attack.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12313,7 +12439,7 @@
     "alias": "lightball",
     "sprite": "light-ball",
     "gen": 2,
-    "desc": "If held by a Pikachu, its Attack and Sp. Atk are doubled.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12377,7 +12503,7 @@
     "alias": "lightclay",
     "sprite": "light-clay",
     "gen": 4,
-    "desc": "Holder's use of Aurora Veil, Light Screen, or Reflect lasts 8 turns instead of 5.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12440,7 +12566,7 @@
     "alias": "lopunnite",
     "sprite": "lopunnite",
     "gen": 6,
-    "desc": "If held by a Lopunny, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12503,7 +12629,7 @@
     "alias": "loveball",
     "sprite": "love-ball",
     "gen": 2,
-    "desc": "Poke Ball for catching Pokemon that are the opposite gender of your Pokemon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12566,7 +12692,7 @@
     "alias": "lovesweet",
     "sprite": "love-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12629,7 +12755,7 @@
     "alias": "lucarionite",
     "sprite": "lucarionite",
     "gen": 6,
-    "desc": "If held by a Lucario, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12692,7 +12818,7 @@
     "alias": "luckypunch",
     "sprite": "lucky-punch",
     "gen": 2,
-    "desc": "If held by a Chansey, its critical hit ratio is raised by 2 stages.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12755,7 +12881,7 @@
     "alias": "lumberry",
     "sprite": "lum-berry",
     "gen": 3,
-    "desc": "Holder cures itself if it is confused or has a major status condition. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12818,7 +12944,7 @@
     "alias": "luminousmoss",
     "sprite": "luminous-moss",
     "gen": 6,
-    "desc": "Raises holder's Sp. Def by 1 stage if hit by a Water-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12880,7 +13006,7 @@
     "alias": "lunaliumz",
     "sprite": "lunalium-z--held",
     "gen": 7,
-    "desc": "Lunala or Dawn Wings Necrozma with Moongeist Beam can use a special Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -12944,7 +13070,7 @@
     "alias": "lureball",
     "sprite": "lure-ball",
     "gen": 2,
-    "desc": "A Poke Ball for catching Pokemon hooked by a Rod when fishing.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13007,7 +13133,7 @@
     "alias": "lustrousorb",
     "sprite": "lustrous-orb",
     "gen": 4,
-    "desc": "If held by a Palkia, its Water- and Dragon-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13028,7 +13154,7 @@
     "itemUser": ["Palkia"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 15,
     "isBerry": false,
     "zMove": false,
@@ -13070,7 +13196,7 @@
     "alias": "luxuryball",
     "sprite": "luxury-ball",
     "gen": 3,
-    "desc": "A comfortable Poke Ball that makes a caught wild Pokemon quickly grow friendly.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13133,7 +13259,7 @@
     "alias": "lycaniumz",
     "sprite": "lycanium-z--held",
     "gen": 7,
-    "desc": "If held by a Lycanroc forme with Stone Edge, it can use Splintered Stormshards.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13197,7 +13323,7 @@
     "alias": "machobrace",
     "sprite": "macho-brace",
     "gen": 3,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13260,7 +13386,7 @@
     "alias": "magmarizer",
     "sprite": "magmarizer",
     "gen": 4,
-    "desc": "Evolves Magmar into Magmortar when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13323,7 +13449,7 @@
     "alias": "magnet",
     "sprite": "magnet",
     "gen": 2,
-    "desc": "Holder's Electric-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13386,7 +13512,7 @@
     "alias": "magoberry",
     "sprite": "mago-berry",
     "gen": 3,
-    "desc": "Restores 33% max HP at 1/4 max HP or less; confuses if -Spe Nature. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13449,7 +13575,7 @@
     "alias": "magostberry",
     "sprite": "magost-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13513,7 +13639,7 @@
     "alias": "mail",
     "sprite": "mail",
     "gen": 2,
-    "desc": "Cannot be given to or taken from a Pokemon, except by Covet/Knock Off/Thief.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13576,7 +13702,7 @@
     "alias": "manectite",
     "sprite": "manectite",
     "gen": 6,
-    "desc": "If held by a Manectric, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13639,7 +13765,7 @@
     "alias": "marangaberry",
     "sprite": "maranga-berry",
     "gen": 6,
-    "desc": "Raises holder's Sp. Def by 1 stage after it is hit by a special attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13702,7 +13828,7 @@
     "alias": "marshadiumz",
     "sprite": "marshadium-z--held",
     "gen": 7,
-    "desc": "If held by Marshadow with Spectral Thief, it can use Soul-Stealing 7-Star Strike.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13766,7 +13892,7 @@
     "alias": "masterball",
     "sprite": "master-ball",
     "gen": 1,
-    "desc": "The best Ball with the ultimate performance. It will catch any wild Pokemon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13829,7 +13955,7 @@
     "alias": "mawilite",
     "sprite": "mawilite",
     "gen": 6,
-    "desc": "If held by a Mawile, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13892,7 +14018,7 @@
     "alias": "meadowplate",
     "sprite": "meadow-plate",
     "gen": 4,
-    "desc": "Holder's Grass-type attacks have 1.2x power. Judgment is Grass type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -13955,7 +14081,7 @@
     "alias": "medichamite",
     "sprite": "medichamite",
     "gen": 6,
-    "desc": "If held by a Medicham, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14018,7 +14144,7 @@
     "alias": "mentalherb",
     "sprite": "mental-herb",
     "gen": 3,
-    "desc": "Cures holder of Attract, Disable, Encore, Heal Block, Taunt, Torment. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14081,7 +14207,7 @@
     "alias": "metagrossite",
     "sprite": "metagrossite",
     "gen": 6,
-    "desc": "If held by a Metagross, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14144,8 +14270,8 @@
     "alias": "metalcoat",
     "sprite": "metal-coat",
     "gen": 2,
-    "desc": "Holder's Steel-type attacks have 1.2x power. Evolves Onix into Steelix and Scyther into Scizor when traded.",
-    "shortDesc": "Holder's Steel-type attacks have 1.2x power.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -14207,7 +14333,7 @@
     "alias": "metalpowder",
     "sprite": "metal-powder",
     "gen": 2,
-    "desc": "If held by a Ditto that hasn't Transformed, its Defense is doubled.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14270,7 +14396,7 @@
     "alias": "metronome",
     "sprite": "metronome",
     "gen": 4,
-    "desc": "Damage of moves used on consecutive turns is increased. Max 2x after 5 turns.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14332,7 +14458,7 @@
     "alias": "mewniumz",
     "sprite": "mewnium-z--held",
     "gen": 7,
-    "desc": "If held by a Mew with Psychic, it can use Genesis Supernova.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14396,7 +14522,7 @@
     "alias": "mewtwonitex",
     "sprite": "mewtwonite-x",
     "gen": 6,
-    "desc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14459,7 +14585,7 @@
     "alias": "mewtwonitey",
     "sprite": "mewtwonite-y",
     "gen": 6,
-    "desc": "If held by a Mewtwo, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14522,7 +14648,7 @@
     "alias": "micleberry",
     "sprite": "micle-berry",
     "gen": 4,
-    "desc": "Holder's next move has 1.2x accuracy when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14543,7 +14669,7 @@
     "itemUser": [],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Unobtainable",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": true,
     "zMove": false,
@@ -14585,7 +14711,7 @@
     "alias": "mimikiumz",
     "sprite": "mimikium-z--held",
     "gen": 7,
-    "desc": "If held by a Mimikyu with Play Rough, it can use Let's Snuggle Forever.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14654,7 +14780,7 @@
     "alias": "mindplate",
     "sprite": "mind-plate",
     "gen": 4,
-    "desc": "Holder's Psychic-type attacks have 1.2x power. Judgment is Psychic type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14717,7 +14843,7 @@
     "alias": "miracleseed",
     "sprite": "miracle-seed",
     "gen": 2,
-    "desc": "Holder's Grass-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14780,7 +14906,7 @@
     "alias": "mistyseed",
     "sprite": "misty-seed",
     "gen": 7,
-    "desc": "If the terrain is Misty Terrain, raises holder's Sp. Def by 1 stage. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14842,7 +14968,7 @@
     "alias": "moonball",
     "sprite": "moon-ball",
     "gen": 2,
-    "desc": "A Poke Ball for catching Pokemon that evolve using the Moon Stone.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -14905,8 +15031,8 @@
     "alias": "moonstone",
     "sprite": "moon-stone",
     "gen": 1,
-    "desc": "Evolves Nidorina into Nidoqueen, Nidorino into Nidoking, Clefairy into Clefable, Jigglypuff into Wigglytuff, Skitty into Delcatty, and Munna into Musharna when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -14968,7 +15094,7 @@
     "alias": "muscleband",
     "sprite": "muscle-band",
     "gen": 4,
-    "desc": "Holder's physical attacks have 1.1x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15031,7 +15157,7 @@
     "alias": "mysticwater",
     "sprite": "mystic-water",
     "gen": 2,
-    "desc": "Holder's Water-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15094,7 +15220,7 @@
     "alias": "nanabberry",
     "sprite": "nanab-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15158,7 +15284,7 @@
     "alias": "nestball",
     "sprite": "nest-ball",
     "gen": 3,
-    "desc": "A Poke Ball that works especially well on weaker Pokemon in the wild.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15221,7 +15347,7 @@
     "alias": "netball",
     "sprite": "net-ball",
     "gen": 3,
-    "desc": "A Poke Ball that works especially well on Water- and Bug-type Pokemon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15284,7 +15410,7 @@
     "alias": "nevermeltice",
     "sprite": "never-melt-ice",
     "gen": 2,
-    "desc": "Holder's Ice-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15347,7 +15473,7 @@
     "alias": "nomelberry",
     "sprite": "nomel-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15411,7 +15537,7 @@
     "alias": "normalgem",
     "sprite": "normal-gem",
     "gen": 5,
-    "desc": "Holder's first successful Normal-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15474,7 +15600,7 @@
     "alias": "normaliumz",
     "sprite": "normalium-z--held",
     "gen": 7,
-    "desc": "If holder has a Normal move, this item allows it to use a Normal Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15538,7 +15664,7 @@
     "alias": "occaberry",
     "sprite": "occa-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Fire-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15601,7 +15727,7 @@
     "alias": "oddincense",
     "sprite": "odd-incense",
     "gen": 4,
-    "desc": "Holder's Psychic-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15664,7 +15790,7 @@
     "alias": "oldamber",
     "sprite": "old-amber",
     "gen": 3,
-    "desc": "Can be revived into Aerodactyl.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15727,7 +15853,7 @@
     "alias": "oranberry",
     "sprite": "oran-berry",
     "gen": 3,
-    "desc": "Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15790,7 +15916,7 @@
     "alias": "ovalstone",
     "sprite": "oval-stone",
     "gen": 4,
-    "desc": "Evolves Happiny into Chansey when held and leveled up during the day.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15853,7 +15979,7 @@
     "alias": "pamtreberry",
     "sprite": "pamtre-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15917,7 +16043,7 @@
     "alias": "parkball",
     "sprite": "park-ball",
     "gen": 4,
-    "desc": "A special Poke Ball for the Pal Park.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -15980,7 +16106,7 @@
     "alias": "passhoberry",
     "sprite": "passho-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Water-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16043,7 +16169,7 @@
     "alias": "payapaberry",
     "sprite": "payapa-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Psychic-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16106,7 +16232,7 @@
     "alias": "pechaberry",
     "sprite": "pecha-berry",
     "gen": 3,
-    "desc": "Holder is cured if it is poisoned. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16169,7 +16295,7 @@
     "alias": "persimberry",
     "sprite": "persim-berry",
     "gen": 3,
-    "desc": "Holder is cured if it is confused. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16232,7 +16358,7 @@
     "alias": "petayaberry",
     "sprite": "petaya-berry",
     "gen": 3,
-    "desc": "Raises holder's Sp. Atk by 1 stage when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16295,7 +16421,7 @@
     "alias": "pidgeotite",
     "sprite": "pidgeotite",
     "gen": 6,
-    "desc": "If held by a Pidgeot, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16358,7 +16484,7 @@
     "alias": "pikaniumz",
     "sprite": "pikanium-z--held",
     "gen": 7,
-    "desc": "If held by a Pikachu with Volt Tackle, it can use Catastropika.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16422,7 +16548,7 @@
     "alias": "pikashuniumz",
     "sprite": "pikashunium-z--held",
     "gen": 7,
-    "desc": "If held by cap Pikachu with Thunderbolt, it can use 10,000,000 Volt Thunderbolt.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16494,7 +16620,7 @@
     "alias": "pinapberry",
     "sprite": "pinap-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16558,7 +16684,7 @@
     "alias": "pinsirite",
     "sprite": "pinsirite",
     "gen": 6,
-    "desc": "If held by a Pinsir, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16621,7 +16747,7 @@
     "alias": "pixieplate",
     "sprite": "pixie-plate",
     "gen": 6,
-    "desc": "Holder's Fairy-type attacks have 1.2x power. Judgment is Fairy type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16684,7 +16810,7 @@
     "alias": "plumefossil",
     "sprite": "plume-fossil",
     "gen": 5,
-    "desc": "Can be revived into Archen.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16747,7 +16873,7 @@
     "alias": "poisonbarb",
     "sprite": "poison-barb",
     "gen": 2,
-    "desc": "Holder's Poison-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16811,7 +16937,7 @@
     "alias": "poisongem",
     "sprite": "poison-gem",
     "gen": 5,
-    "desc": "Holder's first successful Poison-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16874,7 +17000,7 @@
     "alias": "poisonmemory",
     "sprite": "poison-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Poison type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -16937,7 +17063,7 @@
     "alias": "poisoniumz",
     "sprite": "poisonium-z--held",
     "gen": 7,
-    "desc": "If holder has a Poison move, this item allows it to use a Poison Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17001,7 +17127,7 @@
     "alias": "pokeball",
     "sprite": "poke-ball",
     "gen": 1,
-    "desc": "A device for catching wild Pokemon. It is designed as a capsule system.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17064,7 +17190,7 @@
     "alias": "pomegberry",
     "sprite": "pomeg-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17128,7 +17254,7 @@
     "alias": "poweranklet",
     "sprite": "power-anklet",
     "gen": 4,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17191,7 +17317,7 @@
     "alias": "powerband",
     "sprite": "power-band",
     "gen": 4,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17254,7 +17380,7 @@
     "alias": "powerbelt",
     "sprite": "power-belt",
     "gen": 4,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17317,7 +17443,7 @@
     "alias": "powerbracer",
     "sprite": "power-bracer",
     "gen": 4,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17380,7 +17506,7 @@
     "alias": "powerherb",
     "sprite": "power-herb",
     "gen": 4,
-    "desc": "Holder's two-turn moves complete in one turn (except Sky Drop). Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17443,7 +17569,7 @@
     "alias": "powerlens",
     "sprite": "power-lens",
     "gen": 4,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17506,7 +17632,7 @@
     "alias": "powerweight",
     "sprite": "power-weight",
     "gen": 4,
-    "desc": "Holder's Speed is halved. The Klutz Ability does not ignore this effect.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17569,7 +17695,7 @@
     "alias": "premierball",
     "sprite": "premier-ball",
     "gen": 3,
-    "desc": "A rare Poke Ball that has been crafted to commemorate an event.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17632,7 +17758,7 @@
     "alias": "primariumz",
     "sprite": "primarium-z--held",
     "gen": 7,
-    "desc": "If held by a Primarina with Sparkling Aria, it can use Oceanic Operetta.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17696,7 +17822,7 @@
     "alias": "prismscale",
     "sprite": "prism-scale",
     "gen": 5,
-    "desc": "Evolves Feebas into Milotic when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17759,7 +17885,7 @@
     "alias": "protectivepads",
     "sprite": "protective-pads",
     "gen": 7,
-    "desc": "Holder's moves are protected from adverse contact effects, except Pickpocket.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17822,7 +17948,7 @@
     "alias": "protector",
     "sprite": "protector",
     "gen": 4,
-    "desc": "Evolves Rhydon into Rhyperior when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17885,7 +18011,7 @@
     "alias": "psychicgem",
     "sprite": "psychic-gem",
     "gen": 5,
-    "desc": "Holder's first successful Psychic-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -17948,7 +18074,7 @@
     "alias": "psychicmemory",
     "sprite": "psychic-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Psychic type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18011,7 +18137,7 @@
     "alias": "psychicseed",
     "sprite": "psychic-seed",
     "gen": 7,
-    "desc": "If the terrain is Psychic Terrain, raises holder's Sp. Def by 1 stage. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18073,7 +18199,7 @@
     "alias": "psychiumz",
     "sprite": "psychium-z--held",
     "gen": 7,
-    "desc": "If holder has a Psychic move, this item allows it to use a Psychic Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18137,7 +18263,7 @@
     "alias": "qualotberry",
     "sprite": "qualot-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18201,7 +18327,7 @@
     "alias": "quickball",
     "sprite": "quick-ball",
     "gen": 4,
-    "desc": "A Poke Ball that provides a better catch rate at the start of a wild encounter.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18264,7 +18390,7 @@
     "alias": "quickclaw",
     "sprite": "quick-claw",
     "gen": 2,
-    "desc": "Each turn, holder has a 20% chance to move first in its priority bracket.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18327,7 +18453,7 @@
     "alias": "quickpowder",
     "sprite": "quick-powder",
     "gen": 4,
-    "desc": "If held by a Ditto that hasn't Transformed, its Speed is doubled.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18390,7 +18516,7 @@
     "alias": "rabutaberry",
     "sprite": "rabuta-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18454,7 +18580,7 @@
     "alias": "rarebone",
     "sprite": "rare-bone",
     "gen": 4,
-    "desc": "No competitive use other than when used with Fling.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18517,7 +18643,7 @@
     "alias": "rawstberry",
     "sprite": "rawst-berry",
     "gen": 3,
-    "desc": "Holder is cured if it is burned. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18580,8 +18706,8 @@
     "alias": "razorclaw",
     "sprite": "razor-claw",
     "gen": 4,
-    "desc": "Holder's critical hit ratio is raised by 1 stage. Evolves Sneasel into Weavile when held and leveled up during the night.",
-    "shortDesc": "Holder's critical hit ratio is raised by 1 stage.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -18643,8 +18769,8 @@
     "alias": "razorfang",
     "sprite": "razor-fang",
     "gen": 4,
-    "desc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch. Evolves Gligar into Gliscor when held and leveled up during the night.",
-    "shortDesc": "Holder's attacks without a chance to flinch gain a 10% chance to flinch.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -18707,7 +18833,7 @@
     "alias": "razzberry",
     "sprite": "razz-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18771,7 +18897,7 @@
     "alias": "reapercloth",
     "sprite": "reaper-cloth",
     "gen": 4,
-    "desc": "Evolves Dusclops into Dusknoir when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18834,7 +18960,7 @@
     "alias": "redcard",
     "sprite": "red-card",
     "gen": 5,
-    "desc": "If holder survives a hit, attacker is forced to switch to a random ally. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18897,7 +19023,7 @@
     "alias": "redorb",
     "sprite": "red-orb",
     "gen": 6,
-    "desc": "If held by a Groudon, this item triggers its Primal Reversion in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -18960,7 +19086,7 @@
     "alias": "repeatball",
     "sprite": "repeat-ball",
     "gen": 3,
-    "desc": "A Poke Ball that works well on Pokemon species that were previously caught.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19023,7 +19149,7 @@
     "alias": "ribbonsweet",
     "sprite": "ribbon-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19086,7 +19212,7 @@
     "alias": "rindoberry",
     "sprite": "rindo-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Grass-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19149,7 +19275,7 @@
     "alias": "ringtarget",
     "sprite": "ring-target",
     "gen": 5,
-    "desc": "The holder's type immunities granted solely by its typing are negated.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19212,7 +19338,7 @@
     "alias": "rockgem",
     "sprite": "rock-gem",
     "gen": 5,
-    "desc": "Holder's first successful Rock-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19275,7 +19401,7 @@
     "alias": "rockincense",
     "sprite": "rock-incense",
     "gen": 4,
-    "desc": "Holder's Rock-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19338,7 +19464,7 @@
     "alias": "rockmemory",
     "sprite": "rock-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Rock type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19401,7 +19527,7 @@
     "alias": "rockiumz",
     "sprite": "rockium-z--held",
     "gen": 7,
-    "desc": "If holder has a Rock move, this item allows it to use a Rock Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19465,7 +19591,7 @@
     "alias": "rockyhelmet",
     "sprite": "rocky-helmet",
     "gen": 5,
-    "desc": "If holder is hit by a contact move, the attacker loses 1/6 of its max HP.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19528,7 +19654,7 @@
     "alias": "roomservice",
     "sprite": "room-service",
     "gen": 8,
-    "desc": "If Trick Room is active, the holder's Speed is lowered by 1 stage. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19590,7 +19716,7 @@
     "alias": "rootfossil",
     "sprite": "root-fossil",
     "gen": 3,
-    "desc": "Can be revived into Lileep.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19653,7 +19779,7 @@
     "alias": "roseincense",
     "sprite": "rose-incense",
     "gen": 4,
-    "desc": "Holder's Grass-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19716,7 +19842,7 @@
     "alias": "roseliberry",
     "sprite": "roseli-berry",
     "gen": 6,
-    "desc": "Halves damage taken from a supereffective Fairy-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19779,7 +19905,7 @@
     "alias": "rowapberry",
     "sprite": "rowap-berry",
     "gen": 4,
-    "desc": "If holder is hit by a special move, attacker loses 1/8 of its max HP. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19800,7 +19926,7 @@
     "itemUser": [],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Unobtainable",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": true,
     "zMove": false,
@@ -19842,7 +19968,7 @@
     "alias": "rustedshield",
     "sprite": "rusted-shield",
     "gen": 8,
-    "desc": "If held by a Zamazenta, this item changes its forme to Crowned Shield.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19905,7 +20031,7 @@
     "alias": "rustedsword",
     "sprite": "rusted-sword",
     "gen": 8,
-    "desc": "If held by a Zacian, this item changes its forme to Crowned Sword.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -19968,7 +20094,7 @@
     "alias": "sablenite",
     "sprite": "sablenite",
     "gen": 6,
-    "desc": "If held by a Sableye, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20031,7 +20157,7 @@
     "alias": "sachet",
     "sprite": "sachet",
     "gen": 6,
-    "desc": "Evolves Spritzee into Aromatisse when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20094,7 +20220,7 @@
     "alias": "safariball",
     "sprite": "safari-ball",
     "gen": 1,
-    "desc": "A special Poke Ball that is used only in the Safari Zone and Great Marsh.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20157,7 +20283,7 @@
     "alias": "safetygoggles",
     "sprite": "safety-goggles",
     "gen": 6,
-    "desc": "Holder is immune to powder moves and damage from Sandstorm or Hail.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20220,7 +20346,7 @@
     "alias": "sailfossil",
     "sprite": "sail-fossil",
     "gen": 6,
-    "desc": "Can be revived into Amaura.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20283,7 +20409,7 @@
     "alias": "salacberry",
     "sprite": "salac-berry",
     "gen": 3,
-    "desc": "Raises holder's Speed by 1 stage when at 1/4 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20346,7 +20472,7 @@
     "alias": "salamencite",
     "sprite": "salamencite",
     "gen": 6,
-    "desc": "If held by a Salamence, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20409,7 +20535,7 @@
     "alias": "sceptilite",
     "sprite": "sceptilite",
     "gen": 6,
-    "desc": "If held by a Sceptile, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20472,7 +20598,7 @@
     "alias": "scizorite",
     "sprite": "scizorite",
     "gen": 6,
-    "desc": "If held by a Scizor, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20535,7 +20661,7 @@
     "alias": "scopelens",
     "sprite": "scope-lens",
     "gen": 2,
-    "desc": "Holder's critical hit ratio is raised by 1 stage.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20598,7 +20724,7 @@
     "alias": "seaincense",
     "sprite": "sea-incense",
     "gen": 3,
-    "desc": "Holder's Water-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20661,7 +20787,7 @@
     "alias": "sharpbeak",
     "sprite": "sharp-beak",
     "gen": 2,
-    "desc": "Holder's Flying-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20724,7 +20850,7 @@
     "alias": "sharpedonite",
     "sprite": "sharpedonite",
     "gen": 6,
-    "desc": "If held by a Sharpedo, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20787,7 +20913,7 @@
     "alias": "shedshell",
     "sprite": "shed-shell",
     "gen": 4,
-    "desc": "Holder may switch out even when trapped by another Pokemon, or by Ingrain.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20850,7 +20976,7 @@
     "alias": "shellbell",
     "sprite": "shell-bell",
     "gen": 3,
-    "desc": "After an attack, holder gains 1/8 of the damage in HP dealt to other Pokemon.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20913,8 +21039,8 @@
     "alias": "shinystone",
     "sprite": "shiny-stone",
     "gen": 4,
-    "desc": "Evolves Togetic into Togekiss, Roselia into Roserade, Minccino into Cinccino, and Floette into Florges when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -20976,7 +21102,7 @@
     "alias": "shockdrive",
     "sprite": "shock-drive",
     "gen": 5,
-    "desc": "Holder's Techno Blast is Electric type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -20997,7 +21123,7 @@
     "itemUser": ["Genesect-Shock"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 0,
     "isBerry": false,
     "zMove": false,
@@ -21039,7 +21165,7 @@
     "alias": "shucaberry",
     "sprite": "shuca-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Ground-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21102,7 +21228,7 @@
     "alias": "silkscarf",
     "sprite": "silk-scarf",
     "gen": 3,
-    "desc": "Holder's Normal-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21165,7 +21291,7 @@
     "alias": "silverpowder",
     "sprite": "silver-powder",
     "gen": 2,
-    "desc": "Holder's Bug-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21228,7 +21354,7 @@
     "alias": "sitrusberry",
     "sprite": "sitrus-berry",
     "gen": 3,
-    "desc": "Restores 1/4 max HP when at 1/2 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21291,7 +21417,7 @@
     "alias": "skullfossil",
     "sprite": "skull-fossil",
     "gen": 4,
-    "desc": "Can be revived into Cranidos.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21354,7 +21480,7 @@
     "alias": "skyplate",
     "sprite": "sky-plate",
     "gen": 4,
-    "desc": "Holder's Flying-type attacks have 1.2x power. Judgment is Flying type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21417,7 +21543,7 @@
     "alias": "slowbronite",
     "sprite": "slowbronite",
     "gen": 6,
-    "desc": "If held by a Slowbro, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21480,7 +21606,7 @@
     "alias": "smoothrock",
     "sprite": "smooth-rock",
     "gen": 4,
-    "desc": "Holder's use of Sandstorm lasts 8 turns instead of 5.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21543,7 +21669,7 @@
     "alias": "snorliumz",
     "sprite": "snorlium-z--held",
     "gen": 7,
-    "desc": "If held by a Snorlax with Giga Impact, it can use Pulverizing Pancake.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21607,7 +21733,7 @@
     "alias": "snowball",
     "sprite": "snowball",
     "gen": 6,
-    "desc": "Raises holder's Attack by 1 if hit by an Ice-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21669,7 +21795,7 @@
     "alias": "softsand",
     "sprite": "soft-sand",
     "gen": 2,
-    "desc": "Holder's Ground-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21732,7 +21858,7 @@
     "alias": "solganiumz",
     "sprite": "solganium-z--held",
     "gen": 7,
-    "desc": "Solgaleo or Dusk Mane Necrozma with Sunsteel Strike can use a special Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21796,7 +21922,7 @@
     "alias": "souldew",
     "sprite": "soul-dew",
     "gen": 3,
-    "desc": "If held by a Latias/Latios, its Dragon- and Psychic-type moves have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21817,7 +21943,7 @@
     "itemUser": ["Latios", "Latias"],
     "megaStone": null,
     "megaEvolves": null,
-    "isNonstandard": "Past",
+    "isNonstandard": null,
     "onBasePowerPriority": 15,
     "isBerry": false,
     "zMove": false,
@@ -21859,7 +21985,7 @@
     "alias": "spelltag",
     "sprite": "spell-tag",
     "gen": 2,
-    "desc": "Holder's Ghost-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21922,7 +22048,7 @@
     "alias": "spelonberry",
     "sprite": "spelon-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -21986,7 +22112,7 @@
     "alias": "splashplate",
     "sprite": "splash-plate",
     "gen": 4,
-    "desc": "Holder's Water-type attacks have 1.2x power. Judgment is Water type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22049,7 +22175,7 @@
     "alias": "spookyplate",
     "sprite": "spooky-plate",
     "gen": 4,
-    "desc": "Holder's Ghost-type attacks have 1.2x power. Judgment is Ghost type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22112,7 +22238,7 @@
     "alias": "sportball",
     "sprite": "sport-ball",
     "gen": 2,
-    "desc": "A special Poke Ball for the Bug-Catching Contest.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22175,7 +22301,7 @@
     "alias": "starfberry",
     "sprite": "starf-berry",
     "gen": 3,
-    "desc": "Raises a random stat by 2 when at 1/4 max HP or less (not acc/eva). Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22238,7 +22364,7 @@
     "alias": "starsweet",
     "sprite": "star-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22301,7 +22427,7 @@
     "alias": "steelixite",
     "sprite": "steelixite",
     "gen": 6,
-    "desc": "If held by a Steelix, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22364,7 +22490,7 @@
     "alias": "steelgem",
     "sprite": "steel-gem",
     "gen": 5,
-    "desc": "Holder's first successful Steel-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22427,7 +22553,7 @@
     "alias": "steelmemory",
     "sprite": "steel-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Steel type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22490,7 +22616,7 @@
     "alias": "steeliumz",
     "sprite": "steelium-z--held",
     "gen": 7,
-    "desc": "If holder has a Steel move, this item allows it to use a Steel Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22554,7 +22680,7 @@
     "alias": "stick",
     "sprite": "leek",
     "gen": 2,
-    "desc": "If held by a Farfetch’d, its critical hit ratio is raised by 2 stages.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22617,7 +22743,7 @@
     "alias": "stickybarb",
     "sprite": "sticky-barb",
     "gen": 4,
-    "desc": "Each turn, holder loses 1/8 max HP. An attacker making contact can receive it.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22680,7 +22806,7 @@
     "alias": "stoneplate",
     "sprite": "stone-plate",
     "gen": 4,
-    "desc": "Holder's Rock-type attacks have 1.2x power. Judgment is Rock type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22743,7 +22869,7 @@
     "alias": "strawberrysweet",
     "sprite": "strawberry-sweet",
     "gen": 8,
-    "desc": "Evolves Milcery into Alcremie when held and spun around.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22806,8 +22932,8 @@
     "alias": "sunstone",
     "sprite": "sun-stone",
     "gen": 2,
-    "desc": "Evolves Gloom into Bellossom, Sunkern into Sunflora, Cottonee into Whimsicott, Petilil into Lilligant, and Helioptile into Heliolisk when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -22869,7 +22995,7 @@
     "alias": "swampertite",
     "sprite": "swampertite",
     "gen": 6,
-    "desc": "If held by a Swampert, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22932,7 +23058,7 @@
     "alias": "sweetapple",
     "sprite": "sweet-apple",
     "gen": 8,
-    "desc": "Evolves Applin into Appletun when used.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -22995,7 +23121,7 @@
     "alias": "tamatoberry",
     "sprite": "tamato-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23059,7 +23185,7 @@
     "alias": "tangaberry",
     "sprite": "tanga-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Bug-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23122,7 +23248,7 @@
     "alias": "tapuniumz",
     "sprite": "tapunium-z--held",
     "gen": 7,
-    "desc": "If held by a Tapu with Nature's Madness, it can use Guardian of Alola.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23186,7 +23312,7 @@
     "alias": "tartapple",
     "sprite": "tart-apple",
     "gen": 8,
-    "desc": "Evolves Applin into Flapple when used.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23249,7 +23375,7 @@
     "alias": "terrainextender",
     "sprite": "terrain-extender",
     "gen": 7,
-    "desc": "Holder's use of Electric/Grassy/Misty/Psychic Terrain lasts 8 turns instead of 5.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23312,7 +23438,7 @@
     "alias": "thickclub",
     "sprite": "thick-club",
     "gen": 2,
-    "desc": "If held by a Cubone or a Marowak, its Attack is doubled.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23375,7 +23501,7 @@
     "alias": "throatspray",
     "sprite": "throat-spray",
     "gen": 8,
-    "desc": "Raises holder's Special Attack by 1 stage after it uses a sound move. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23437,8 +23563,8 @@
     "alias": "thunderstone",
     "sprite": "thunder-stone",
     "gen": 1,
-    "desc": "Evolves Pikachu into Raichu or Alolan Raichu, Eevee into Jolteon, Eelektrik into Eelektross, and Charjabug into Vikavolt when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -23500,7 +23626,7 @@
     "alias": "timerball",
     "sprite": "timer-ball",
     "gen": 3,
-    "desc": "A Poke Ball that becomes better the more turns there are in a battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23563,7 +23689,7 @@
     "alias": "toxicorb",
     "sprite": "toxic-orb",
     "gen": 4,
-    "desc": "At the end of every turn, this item attempts to badly poison the holder.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23627,7 +23753,7 @@
     "alias": "toxicplate",
     "sprite": "toxic-plate",
     "gen": 4,
-    "desc": "Holder's Poison-type attacks have 1.2x power. Judgment is Poison type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23690,7 +23816,7 @@
     "alias": "tr00",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Swords Dance. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23753,7 +23879,7 @@
     "alias": "tr01",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Body Slam. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23816,7 +23942,7 @@
     "alias": "tr02",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Flamethrower. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23879,7 +24005,7 @@
     "alias": "tr03",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Hydro Pump. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -23942,7 +24068,7 @@
     "alias": "tr04",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Surf. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24005,7 +24131,7 @@
     "alias": "tr05",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Ice Beam. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24068,7 +24194,7 @@
     "alias": "tr06",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Blizzard. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24131,7 +24257,7 @@
     "alias": "tr07",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Low Kick. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24194,7 +24320,7 @@
     "alias": "tr08",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Thunderbolt. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24257,7 +24383,7 @@
     "alias": "tr09",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Thunder. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24320,7 +24446,7 @@
     "alias": "tr10",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Earthquake. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24383,7 +24509,7 @@
     "alias": "tr11",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Psychic. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24446,7 +24572,7 @@
     "alias": "tr12",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Agility. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24509,7 +24635,7 @@
     "alias": "tr13",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Focus Energy. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24572,7 +24698,7 @@
     "alias": "tr14",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Metronome. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24635,7 +24761,7 @@
     "alias": "tr15",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Fire Blast. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24698,7 +24824,7 @@
     "alias": "tr16",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Waterfall. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24761,7 +24887,7 @@
     "alias": "tr17",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Amnesia. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24824,7 +24950,7 @@
     "alias": "tr18",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Leech Life. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24887,7 +25013,7 @@
     "alias": "tr19",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Tri Attack. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -24950,7 +25076,7 @@
     "alias": "tr20",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Substitute. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25013,7 +25139,7 @@
     "alias": "tr21",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Reversal. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25076,7 +25202,7 @@
     "alias": "tr22",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Sludge Bomb. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25139,7 +25265,7 @@
     "alias": "tr23",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Spikes. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25202,7 +25328,7 @@
     "alias": "tr24",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Outrage. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25265,7 +25391,7 @@
     "alias": "tr25",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Psyshock. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25328,7 +25454,7 @@
     "alias": "tr26",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Endure. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25391,7 +25517,7 @@
     "alias": "tr27",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Sleep Talk. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25454,7 +25580,7 @@
     "alias": "tr28",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Megahorn. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25517,7 +25643,7 @@
     "alias": "tr29",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Baton Pass. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25580,7 +25706,7 @@
     "alias": "tr30",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Encore. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25643,7 +25769,7 @@
     "alias": "tr31",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Iron Tail. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25706,7 +25832,7 @@
     "alias": "tr32",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Crunch. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25769,7 +25895,7 @@
     "alias": "tr33",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Shadow Ball. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25832,7 +25958,7 @@
     "alias": "tr34",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Future Sight. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25895,7 +26021,7 @@
     "alias": "tr35",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Uproar. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -25958,7 +26084,7 @@
     "alias": "tr36",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Heat Wave. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26021,7 +26147,7 @@
     "alias": "tr37",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Taunt. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26084,7 +26210,7 @@
     "alias": "tr38",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Trick. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26147,7 +26273,7 @@
     "alias": "tr39",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Superpower. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26210,7 +26336,7 @@
     "alias": "tr40",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Skill Swap. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26273,7 +26399,7 @@
     "alias": "tr41",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Blaze Kick. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26336,7 +26462,7 @@
     "alias": "tr42",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Hyper Voice. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26399,7 +26525,7 @@
     "alias": "tr43",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Overheat. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26462,7 +26588,7 @@
     "alias": "tr44",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Cosmic Power. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26525,7 +26651,7 @@
     "alias": "tr45",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Muddy Water. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26588,7 +26714,7 @@
     "alias": "tr46",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Iron Defense. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26651,7 +26777,7 @@
     "alias": "tr47",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Dragon Claw. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26714,7 +26840,7 @@
     "alias": "tr48",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Bulk Up. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26777,7 +26903,7 @@
     "alias": "tr49",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Calm Mind. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26840,7 +26966,7 @@
     "alias": "tr50",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Leaf Blade. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26903,7 +27029,7 @@
     "alias": "tr51",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Dragon Dance. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -26966,7 +27092,7 @@
     "alias": "tr52",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Gyro Ball. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27029,7 +27155,7 @@
     "alias": "tr53",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Close Combat. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27092,7 +27218,7 @@
     "alias": "tr54",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Toxic Spikes. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27155,7 +27281,7 @@
     "alias": "tr55",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Flare Blitz. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27218,7 +27344,7 @@
     "alias": "tr56",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Aura Sphere. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27281,7 +27407,7 @@
     "alias": "tr57",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Poison Jab. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27344,7 +27470,7 @@
     "alias": "tr58",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Dark Pulse. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27407,7 +27533,7 @@
     "alias": "tr59",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Seed Bomb. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27470,7 +27596,7 @@
     "alias": "tr60",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move X-Scissor. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27533,7 +27659,7 @@
     "alias": "tr61",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Bug Buzz. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27596,7 +27722,7 @@
     "alias": "tr62",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Dragon Pulse. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27659,7 +27785,7 @@
     "alias": "tr63",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Power Gem. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27722,7 +27848,7 @@
     "alias": "tr64",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Focus Blast. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27785,7 +27911,7 @@
     "alias": "tr65",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Energy Ball. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27848,7 +27974,7 @@
     "alias": "tr66",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Brave Bird. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27911,7 +28037,7 @@
     "alias": "tr67",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Earth Power. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -27974,7 +28100,7 @@
     "alias": "tr68",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Nasty Plot. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28037,7 +28163,7 @@
     "alias": "tr69",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Zen Headbutt. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28100,7 +28226,7 @@
     "alias": "tr70",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Flash Cannon. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28163,7 +28289,7 @@
     "alias": "tr71",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Leaf Storm. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28226,7 +28352,7 @@
     "alias": "tr72",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Power Whip. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28289,7 +28415,7 @@
     "alias": "tr73",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Gunk Shot. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28352,7 +28478,7 @@
     "alias": "tr74",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Iron Head. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28415,7 +28541,7 @@
     "alias": "tr75",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Stone Edge. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28478,7 +28604,7 @@
     "alias": "tr76",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Stealth Rock. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28541,7 +28667,7 @@
     "alias": "tr77",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Grass Knot. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28604,7 +28730,7 @@
     "alias": "tr78",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Sludge Wave. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28667,7 +28793,7 @@
     "alias": "tr79",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Heavy Slam. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28730,7 +28856,7 @@
     "alias": "tr80",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Electro Ball. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28793,7 +28919,7 @@
     "alias": "tr81",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Foul Play. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28856,7 +28982,7 @@
     "alias": "tr82",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Stored Power. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28919,7 +29045,7 @@
     "alias": "tr83",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Ally Switch. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -28982,7 +29108,7 @@
     "alias": "tr84",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Scald. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29045,7 +29171,7 @@
     "alias": "tr85",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Work Up. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29108,7 +29234,7 @@
     "alias": "tr86",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Wild Charge. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29171,7 +29297,7 @@
     "alias": "tr87",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Drill Run. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29234,7 +29360,7 @@
     "alias": "tr88",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Heat Crash. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29297,7 +29423,7 @@
     "alias": "tr89",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Hurricane. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29360,7 +29486,7 @@
     "alias": "tr90",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Play Rough. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29423,7 +29549,7 @@
     "alias": "tr91",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Venom Drench. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29486,7 +29612,7 @@
     "alias": "tr92",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Dazzling Gleam. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29549,7 +29675,7 @@
     "alias": "tr93",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Darkest Lariat. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29612,7 +29738,7 @@
     "alias": "tr94",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move High Horsepower. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29675,7 +29801,7 @@
     "alias": "tr95",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Throat Chop. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29738,7 +29864,7 @@
     "alias": "tr96",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Pollen Puff. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29801,7 +29927,7 @@
     "alias": "tr97",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Psychic Fangs. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29864,7 +29990,7 @@
     "alias": "tr98",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Liquidation. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29927,7 +30053,7 @@
     "alias": "tr99",
     "sprite": "normal-tr",
     "gen": 8,
-    "desc": "Teaches certain Pokemon the move Body Press. One use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -29990,7 +30116,7 @@
     "alias": "twistedspoon",
     "sprite": "twisted-spoon",
     "gen": 2,
-    "desc": "Holder's Psychic-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30053,7 +30179,7 @@
     "alias": "tyranitarite",
     "sprite": "tyranitarite",
     "gen": 6,
-    "desc": "If held by a Tyranitar, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30116,7 +30242,7 @@
     "alias": "ultraball",
     "sprite": "ultra-ball",
     "gen": 1,
-    "desc": "An ultra-performance Ball that provides a higher catch rate than a Great Ball.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30179,7 +30305,7 @@
     "alias": "ultranecroziumz",
     "sprite": "ultranecrozium-z--held",
     "gen": 7,
-    "desc": "Dusk Mane/Dawn Wings Necrozma: Ultra Burst, then Z-Move w/ Photon Geyser.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30243,7 +30369,7 @@
     "alias": "upgrade",
     "sprite": "up-grade",
     "gen": 2,
-    "desc": "Evolves Porygon into Porygon2 when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30306,8 +30432,8 @@
     "alias": "utilityumbrella",
     "sprite": "utility-umbrella",
     "gen": 8,
-    "desc": "The holder ignores rain- and sun-based effects. Damage and accuracy calculations from attacks used by the holder are affected by rain and sun, but not attacks used against the holder.",
-    "shortDesc": "The holder ignores rain- and sun-based effects.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -30369,7 +30495,7 @@
     "alias": "venusaurite",
     "sprite": "venusaurite",
     "gen": 6,
-    "desc": "If held by a Venusaur, this item allows it to Mega Evolve in battle.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30432,7 +30558,7 @@
     "alias": "wacanberry",
     "sprite": "wacan-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Electric-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30495,7 +30621,7 @@
     "alias": "watergem",
     "sprite": "water-gem",
     "gen": 5,
-    "desc": "Holder's first successful Water-type attack will have 1.3x power. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30558,7 +30684,7 @@
     "alias": "watermemory",
     "sprite": "water-memory",
     "gen": 7,
-    "desc": "Holder's Multi-Attack is Water type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30621,8 +30747,8 @@
     "alias": "waterstone",
     "sprite": "water-stone",
     "gen": 1,
-    "desc": "Evolves Poliwhirl into Poliwrath, Shellder into Cloyster, Staryu into Starmie, Eevee into Vaporeon, Lombre into Ludicolo, and Panpour into Simipour when used.",
-    "shortDesc": "Evolves certain species of Pokemon when used.",
+    "desc": null,
+    "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
       "atk": 0,
@@ -30684,7 +30810,7 @@
     "alias": "wateriumz",
     "sprite": "waterium-z--held",
     "gen": 7,
-    "desc": "If holder has a Water move, this item allows it to use a Water Z-Move.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30748,7 +30874,7 @@
     "alias": "watmelberry",
     "sprite": "watmel-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30812,7 +30938,7 @@
     "alias": "waveincense",
     "sprite": "wave-incense",
     "gen": 4,
-    "desc": "Holder's Water-type attacks have 1.2x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30875,7 +31001,7 @@
     "alias": "weaknesspolicy",
     "sprite": "weakness-policy",
     "gen": 6,
-    "desc": "If holder is hit super effectively, raises Attack, Sp. Atk by 2 stages. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -30928,7 +31054,7 @@
     "onDamagingHitOrder": 0,
     "onTrapPokemonPriority": 0,
     "onAfterMoveSecondarySelfPriority": 0,
-    "onHitPriority": 1,
+    "onHitPriority": 0,
     "onSourceModifyAccuracyPriority": 0,
     "spritenum": 609
   },
@@ -30938,7 +31064,7 @@
     "alias": "wepearberry",
     "sprite": "wepear-berry",
     "gen": 3,
-    "desc": "Cannot be eaten by the holder. No effect when eaten with Bug Bite or Pluck.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31002,7 +31128,7 @@
     "alias": "whippeddream",
     "sprite": "whipped-dream",
     "gen": 6,
-    "desc": "Evolves Swirlix into Slurpuff when traded.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31065,7 +31191,7 @@
     "alias": "whiteherb",
     "sprite": "white-herb",
     "gen": 3,
-    "desc": "Restores all lowered stat stages to 0 when one is less than 0. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31128,7 +31254,7 @@
     "alias": "widelens",
     "sprite": "wide-lens",
     "gen": 4,
-    "desc": "The accuracy of attacks by the holder is 1.1x.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31191,7 +31317,7 @@
     "alias": "wikiberry",
     "sprite": "wiki-berry",
     "gen": 3,
-    "desc": "Restores 33% max HP at 1/4 max HP or less; confuses if -SpA Nature. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31254,7 +31380,7 @@
     "alias": "wiseglasses",
     "sprite": "wise-glasses",
     "gen": 4,
-    "desc": "Holder's special attacks have 1.1x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31317,7 +31443,7 @@
     "alias": "yacheberry",
     "sprite": "yache-berry",
     "gen": 4,
-    "desc": "Halves damage taken from a supereffective Ice-type attack. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31380,7 +31506,7 @@
     "alias": "zapplate",
     "sprite": "zap-plate",
     "gen": 4,
-    "desc": "Holder's Electric-type attacks have 1.2x power. Judgment is Electric type.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31443,7 +31569,7 @@
     "alias": "zoomlens",
     "sprite": "zoom-lens",
     "gen": 4,
-    "desc": "The accuracy of attacks by the holder is 1.2x if it moves after its target.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31506,7 +31632,7 @@
     "alias": "berserkgene",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) On switch-in, raises holder's Attack by 2 and confuses it. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31569,7 +31695,7 @@
     "alias": "berry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Restores 10 HP when at 1/2 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31632,7 +31758,7 @@
     "alias": "bitterberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder is cured if it is confused. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31695,7 +31821,7 @@
     "alias": "burntberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder is cured if it is frozen. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31758,7 +31884,7 @@
     "alias": "goldberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Restores 30 HP when at 1/2 max HP or less. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31821,7 +31947,7 @@
     "alias": "iceberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder is cured if it is burned. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31884,7 +32010,7 @@
     "alias": "mintberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder wakes up if it is asleep. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -31947,7 +32073,7 @@
     "alias": "miracleberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder cures itself if it is confused or has a status condition. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -32010,7 +32136,7 @@
     "alias": "mysteryberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Restores 5 PP to the first of the holder's moves to reach 0 PP. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -32073,7 +32199,7 @@
     "alias": "pinkbow",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -32136,7 +32262,7 @@
     "alias": "polkadotbow",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder's Normal-type attacks have 1.1x power.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -32199,7 +32325,7 @@
     "alias": "przcureberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder cures itself if it is paralyzed. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -32262,7 +32388,7 @@
     "alias": "psncureberry",
     "sprite": "unknown-item",
     "gen": 2,
-    "desc": "(Gen 2) Holder is cured if it is poisoned. Single use.",
+    "desc": null,
     "shortDesc": null,
     "canBeHeld": true,
     "boosts": {
@@ -32324,6 +32450,68 @@
     "name": "Ability Capsule",
     "alias": "abilitycapsule",
     "sprite": "ability-capsule",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
+  "abilitypatch": {
+    "num": -1,
+    "name": "Ability Patch",
+    "alias": "abilitypatch",
+    "sprite": "ability-patch",
     "gen": -1,
     "desc": null,
     "shortDesc": null,
@@ -34675,6 +34863,68 @@
     "onHitPriority": 0,
     "onSourceModifyAccuracyPriority": 0
   },
+  "blackmanehair": {
+    "num": -1,
+    "name": "Black Mane Hair",
+    "alias": "blackmanehair",
+    "sprite": "black-mane-hair",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
   "blackpokecandy": {
     "num": -1,
     "name": "Black Poke Candy",
@@ -36721,6 +36971,68 @@
     "onHitPriority": 0,
     "onSourceModifyAccuracyPriority": 0
   },
+  "carrotseeds": {
+    "num": -1,
+    "name": "Carrot Seeds",
+    "alias": "carrotseeds",
+    "sprite": "carrot-seeds",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
   "casteliacone": {
     "num": -1,
     "name": "Casteliacone",
@@ -37904,6 +38216,68 @@
     "name": "Courage Xl Av Candy",
     "alias": "couragexlavcandy",
     "sprite": "courage-xl-av-candy",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
+  "crownpass": {
+    "num": -1,
+    "name": "Crown Pass",
+    "alias": "crownpass",
+    "sprite": "crown-pass",
     "gen": -1,
     "desc": null,
     "shortDesc": null,
@@ -39826,6 +40200,68 @@
     "name": "Dynamax Crystal",
     "alias": "dynamaxcrystal",
     "sprite": "dynamax-crystal",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
+  "dyniteore": {
+    "num": -1,
+    "name": "Dynite Ore",
+    "alias": "dyniteore",
+    "sprite": "dynite-ore",
     "gen": -1,
     "desc": null,
     "shortDesc": null,
@@ -43236,68 +43672,6 @@
     "name": "Galactic Key",
     "alias": "galactickey",
     "sprite": "galactic-key",
-    "gen": -1,
-    "desc": null,
-    "shortDesc": null,
-    "canBeHeld": true,
-    "boosts": {
-      "atk": 0,
-      "spa": 0
-    },
-    "fling": {
-      "basePower": 0
-    },
-    "naturalGift": {
-      "basePower": 0,
-      "type": null
-    },
-    "condition": {
-      "duration": 0,
-      "onSourceModifyAccuracyPriority": 0
-    },
-    "itemUser": [],
-    "megaStone": null,
-    "megaEvolves": null,
-    "isNonstandard": null,
-    "onBasePowerPriority": 0,
-    "isBerry": false,
-    "zMove": false,
-    "zMoveFrom": null,
-    "onModifySpDPriority": 0,
-    "isPokeball": false,
-    "onTryHealPriority": 0,
-    "onResidualOrder": 0,
-    "onResidualSubOrder": 0,
-    "onModifyAccuracyPriority": 0,
-    "isGem": false,
-    "onMemory": null,
-    "forcedForme": null,
-    "onPlate": null,
-    "zMoveType": null,
-    "onDrive": null,
-    "onModifyAtkPriority": 0,
-    "isChoice": false,
-    "onModifySpAPriority": 0,
-    "onFractionalPriorityPriority": 0,
-    "onAttractPriority": 0,
-    "onAfterMoveSecondaryPriority": 0,
-    "onModifyDefPriority": 0,
-    "onModifyMovePriority": 0,
-    "ignoreKlutz": false,
-    "onBoostPriority": 0,
-    "onDamagePriority": 0,
-    "onNegateImmunity": false,
-    "onDamagingHitOrder": 0,
-    "onTrapPokemonPriority": 0,
-    "onAfterMoveSecondarySelfPriority": 0,
-    "onHitPriority": 0,
-    "onSourceModifyAccuracyPriority": 0
-  },
-  "galaricacuff": {
-    "num": -1,
-    "name": "Galarica Cuff",
-    "alias": "galaricacuff",
-    "sprite": "galarica-cuff",
     "gen": -1,
     "desc": null,
     "shortDesc": null,
@@ -46827,6 +47201,68 @@
     "onHitPriority": 0,
     "onSourceModifyAccuracyPriority": 0
   },
+  "icerootcarrot": {
+    "num": -1,
+    "name": "Ice Root Carrot",
+    "alias": "icerootcarrot",
+    "sprite": "ice-root-carrot",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
   "icetm": {
     "num": -1,
     "name": "Ice Tm",
@@ -48072,6 +48508,68 @@
     "name": "Leaf Letter Pikachu",
     "alias": "leafletterpikachu",
     "sprite": "leaf-letter-pikachu",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
+  "legendaryclue": {
+    "num": -1,
+    "name": "Legendary Clue",
+    "alias": "legendaryclue",
+    "sprite": "legendary-clue",
     "gen": -1,
     "desc": null,
     "shortDesc": null,
@@ -57057,6 +57555,68 @@
     "onHitPriority": 0,
     "onSourceModifyAccuracyPriority": 0
   },
+  "radiantpetal": {
+    "num": -1,
+    "name": "Radiant Petal",
+    "alias": "radiantpetal",
+    "sprite": "radiant-petal",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
   "ragecandybar": {
     "num": -1,
     "name": "Rage Candy Bar",
@@ -61278,6 +61838,68 @@
     "name": "Secret Potion",
     "alias": "secretpotion",
     "sprite": "secret-potion",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
+  "shaderootcarrot": {
+    "num": -1,
+    "name": "Shade Root Carrot",
+    "alias": "shaderootcarrot",
+    "sprite": "shade-root-carrot",
     "gen": -1,
     "desc": null,
     "shortDesc": null,
@@ -67783,6 +68405,68 @@
     "onHitPriority": 0,
     "onSourceModifyAccuracyPriority": 0
   },
+  "whitemanehair": {
+    "num": -1,
+    "name": "White Mane Hair",
+    "alias": "whitemanehair",
+    "sprite": "white-mane-hair",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
   "whitepokecandy": {
     "num": -1,
     "name": "White Poke Candy",
@@ -70888,6 +71572,68 @@
     "name": "Wood Mail",
     "alias": "woodmail",
     "sprite": "wood-mail",
+    "gen": -1,
+    "desc": null,
+    "shortDesc": null,
+    "canBeHeld": true,
+    "boosts": {
+      "atk": 0,
+      "spa": 0
+    },
+    "fling": {
+      "basePower": 0
+    },
+    "naturalGift": {
+      "basePower": 0,
+      "type": null
+    },
+    "condition": {
+      "duration": 0,
+      "onSourceModifyAccuracyPriority": 0
+    },
+    "itemUser": [],
+    "megaStone": null,
+    "megaEvolves": null,
+    "isNonstandard": null,
+    "onBasePowerPriority": 0,
+    "isBerry": false,
+    "zMove": false,
+    "zMoveFrom": null,
+    "onModifySpDPriority": 0,
+    "isPokeball": false,
+    "onTryHealPriority": 0,
+    "onResidualOrder": 0,
+    "onResidualSubOrder": 0,
+    "onModifyAccuracyPriority": 0,
+    "isGem": false,
+    "onMemory": null,
+    "forcedForme": null,
+    "onPlate": null,
+    "zMoveType": null,
+    "onDrive": null,
+    "onModifyAtkPriority": 0,
+    "isChoice": false,
+    "onModifySpAPriority": 0,
+    "onFractionalPriorityPriority": 0,
+    "onAttractPriority": 0,
+    "onAfterMoveSecondaryPriority": 0,
+    "onModifyDefPriority": 0,
+    "onModifyMovePriority": 0,
+    "ignoreKlutz": false,
+    "onBoostPriority": 0,
+    "onDamagePriority": 0,
+    "onNegateImmunity": false,
+    "onDamagingHitOrder": 0,
+    "onTrapPokemonPriority": 0,
+    "onAfterMoveSecondarySelfPriority": 0,
+    "onHitPriority": 0,
+    "onSourceModifyAccuracyPriority": 0
+  },
+  "woodencrown": {
+    "num": -1,
+    "name": "Wooden Crown",
+    "alias": "woodencrown",
+    "sprite": "wooden-crown",
     "gen": -1,
     "desc": null,
     "shortDesc": null,

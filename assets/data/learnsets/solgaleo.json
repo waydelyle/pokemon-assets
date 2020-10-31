@@ -15,7 +15,7 @@
     "expandingforce": ["8T"],
     "facade": ["8M", "7M"],
     "fireblast": ["8M", "7M"],
-    "firespin": ["8M"],
+    "firespin": ["8M", "8S3"],
     "flamecharge": ["7M"],
     "flamethrower": ["8M", "7M"],
     "flareblitz": ["8M", "8L70", "7L61"],
@@ -33,7 +33,7 @@
     "hypervoice": ["8M", "7T"],
     "irondefense": ["8M", "7T"],
     "ironhead": ["8M", "8L7", "7T", "7L7"],
-    "irontail": ["8M", "7T"],
+    "irontail": ["8M", "8S3", "7T"],
     "knockoff": ["7T"],
     "lastresort": ["7T"],
     "lightscreen": ["8M", "7M"],
@@ -43,7 +43,7 @@
     "meteorbeam": ["8T"],
     "morningsun": ["8L35", "7L31", "7S2"],
     "mysticalfire": ["8M"],
-    "nobleroar": ["8L1", "7L59", "7S2"],
+    "nobleroar": ["8L1", "8S3", "7L59", "7S2"],
     "outrage": ["8M", "7T"],
     "protect": ["8M", "7M"],
     "psychic": ["8M", "7M"],
@@ -83,7 +83,7 @@
     "wideguard": ["8L77", "7L67"],
     "wildcharge": ["8M", "8L56", "7M"],
     "workup": ["8M", "7M"],
-    "zenheadbutt": ["8M", "8L21", "7T", "7L19", "7S0", "7S1", "7S2"]
+    "zenheadbutt": ["8M", "8L21", "8S3", "7T", "7L19", "7S0", "7S1", "7S2"]
   },
   "eventData": [
     {
@@ -102,6 +102,12 @@
       "shiny": true,
       "moves": ["sunsteelstrike", "zenheadbutt", "nobleroar", "morningsun"],
       "pokeball": "cherishball"
+    },
+    {
+      "generation": 8,
+      "level": 70,
+      "shiny": 1,
+      "moves": ["zenheadbutt", "firespin", "irontail", "nobleroar"]
     }
   ],
   "encounters": [],

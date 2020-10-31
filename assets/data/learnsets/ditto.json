@@ -1,7 +1,7 @@
 {
   "pokemon": "ditto",
   "learnset": {
-    "transform": ["8L1", "8V", "7L1", "7S0", "7V", "6L1", "5L1", "4L1", "3L1"]
+    "transform": ["8L1", "8V", "7L1", "7V", "7S0", "6L1", "5L1", "4L1", "3L1"]
   },
   "eventData": [
     {

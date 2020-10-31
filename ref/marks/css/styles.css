@@ -1,13 +1,14 @@
-.pkmark-wrapper {
-  width: 67px;
-  height: 58px;
-  line-height: 56px;
-  text-align: center;
-  display: inline-block;
-  vertical-align: middle;
-  padding: 1px;
-}
 
+.pkmark-wrapper {
+    width:67px;
+    height:58px;
+    line-height:56px;
+    text-align:center;
+    display:inline-block;
+    vertical-align:middle;
+    padding:1px;
+}
+ 
 .pkmark {
   background-image: url(../img/marks.png);
 
@@ -17,229 +18,230 @@
   image-rendering: -moz-crisp-edges;
   image-rendering: -webkit-crisp-edges;
   image-rendering: pixelated;
+
 }
-.pkmark-smiley {
-  width: 67px;
-  height: 49px;
+.pkmark-smiley{
+  width:67px;
+  height:49px;
   background-position: 0px 0px;
 }
-.pkmark-rare {
-  width: 40px;
-  height: 58px;
+.pkmark-rare{
+  width:40px;
+  height:58px;
   background-position: -69px 0px;
 }
-.pkmark-zero-energy {
-  width: 38px;
-  height: 58px;
+.pkmark-zero-energy{
+  width:38px;
+  height:58px;
   background-position: -111px 0px;
 }
-.pkmark-kindly {
-  width: 67px;
-  height: 49px;
+.pkmark-kindly{
+  width:67px;
+  height:49px;
   background-position: -151px 0px;
 }
-.pkmark-unsure {
-  width: 60px;
-  height: 58px;
+.pkmark-unsure{
+  width:60px;
+  height:58px;
   background-position: -220px 0px;
 }
-.pkmark-prideful {
-  width: 41px;
-  height: 58px;
+.pkmark-prideful{
+  width:41px;
+  height:58px;
   background-position: -282px 0px;
 }
-.pkmark-teary {
-  width: 63px;
-  height: 58px;
+.pkmark-teary{
+  width:63px;
+  height:58px;
   background-position: -325px 0px;
 }
-.pkmark-zoned-out {
-  width: 44px;
-  height: 58px;
+.pkmark-zoned-out{
+  width:44px;
+  height:58px;
   background-position: -390px 0px;
 }
-.pkmark-snowy {
-  width: 43px;
-  height: 58px;
+.pkmark-snowy{
+  width:43px;
+  height:58px;
   background-position: -436px 0px;
 }
-.pkmark-scowling {
-  width: 67px;
-  height: 56px;
+.pkmark-scowling{
+  width:67px;
+  height:56px;
   background-position: -481px 0px;
 }
-.pkmark-flustered {
-  width: 47px;
-  height: 58px;
+.pkmark-flustered{
+  width:47px;
+  height:58px;
   background-position: -550px 0px;
 }
-.pkmark-peeved {
-  width: 49px;
-  height: 58px;
+.pkmark-peeved{
+  width:49px;
+  height:58px;
   background-position: -599px 0px;
 }
-.pkmark-lunchtime {
-  width: 47px;
-  height: 58px;
+.pkmark-lunchtime{
+  width:47px;
+  height:58px;
   background-position: -650px 0px;
 }
-.pkmark-sleepy-time {
-  width: 67px;
-  height: 43px;
+.pkmark-sleepy-time{
+  width:67px;
+  height:43px;
   background-position: -699px 0px;
 }
-.pkmark-humble {
-  width: 60px;
-  height: 58px;
+.pkmark-humble{
+  width:60px;
+  height:58px;
   background-position: -768px 0px;
 }
-.pkmark-sandstorm {
-  width: 59px;
-  height: 58px;
+.pkmark-sandstorm{
+  width:59px;
+  height:58px;
   background-position: -830px 0px;
 }
-.pkmark-angry {
-  width: 59px;
-  height: 58px;
+.pkmark-angry{
+  width:59px;
+  height:58px;
   background-position: -891px 0px;
 }
-.pkmark-dusk {
-  width: 67px;
-  height: 49px;
+.pkmark-dusk{
+  width:67px;
+  height:49px;
   background-position: -952px 0px;
 }
-.pkmark-pumped-up {
-  width: 67px;
-  height: 50px;
+.pkmark-pumped-up{
+  width:67px;
+  height:50px;
   background-position: -1021px 0px;
 }
-.pkmark-vigor {
-  width: 57px;
-  height: 58px;
+.pkmark-vigor{
+  width:57px;
+  height:58px;
   background-position: -1090px 0px;
 }
-.pkmark-calmness {
-  width: 67px;
-  height: 55px;
+.pkmark-calmness{
+  width:67px;
+  height:55px;
   background-position: -1149px 0px;
 }
-.pkmark-misty {
-  width: 62px;
-  height: 58px;
+.pkmark-misty{
+  width:62px;
+  height:58px;
   background-position: -1218px 0px;
 }
-.pkmark-upbeat {
-  width: 66px;
-  height: 58px;
+.pkmark-upbeat{
+  width:66px;
+  height:58px;
   background-position: -1282px 0px;
 }
-.pkmark-rowdy {
-  width: 54px;
-  height: 58px;
+.pkmark-rowdy{
+  width:54px;
+  height:58px;
   background-position: -1350px 0px;
 }
-.pkmark-absent-minded {
-  width: 57px;
-  height: 58px;
+.pkmark-absent-minded{
+  width:57px;
+  height:58px;
   background-position: -1406px 0px;
 }
-.pkmark-intense {
-  width: 47px;
-  height: 58px;
+.pkmark-intense{
+  width:47px;
+  height:58px;
   background-position: -1465px 0px;
 }
-.pkmark-joyful {
-  width: 67px;
-  height: 57px;
+.pkmark-joyful{
+  width:67px;
+  height:57px;
   background-position: -1514px 0px;
 }
-.pkmark-rainy {
-  width: 58px;
-  height: 58px;
+.pkmark-rainy{
+  width:58px;
+  height:58px;
   background-position: -1583px 0px;
 }
-.pkmark-cloudy {
-  width: 67px;
-  height: 51px;
+.pkmark-cloudy{
+  width:67px;
+  height:51px;
   background-position: -1643px 0px;
 }
-.pkmark-crafty {
-  width: 67px;
-  height: 56px;
+.pkmark-crafty{
+  width:67px;
+  height:56px;
   background-position: -1712px 0px;
 }
-.pkmark-destiny {
-  width: 67px;
-  height: 57px;
+.pkmark-destiny{
+  width:67px;
+  height:57px;
   background-position: 0px -60px;
 }
-.pkmark-charismatic {
-  width: 65px;
-  height: 58px;
+.pkmark-charismatic{
+  width:65px;
+  height:58px;
   background-position: -69px -60px;
 }
-.pkmark-curry {
-  width: 65px;
-  height: 58px;
+.pkmark-curry{
+  width:65px;
+  height:58px;
   background-position: -136px -60px;
 }
-.pkmark-dawn {
-  width: 65px;
-  height: 58px;
+.pkmark-dawn{
+  width:65px;
+  height:58px;
   background-position: -203px -60px;
 }
-.pkmark-intellectual {
-  width: 63px;
-  height: 58px;
+.pkmark-intellectual{
+  width:63px;
+  height:58px;
   background-position: -270px -60px;
 }
-.pkmark-excited {
-  width: 61px;
-  height: 58px;
+.pkmark-excited{
+  width:61px;
+  height:58px;
   background-position: -335px -60px;
 }
-.pkmark-ferocious {
-  width: 60px;
-  height: 58px;
+.pkmark-ferocious{
+  width:60px;
+  height:58px;
   background-position: -398px -60px;
 }
-.pkmark-slump {
-  width: 59px;
-  height: 58px;
+.pkmark-slump{
+  width:59px;
+  height:58px;
   background-position: -460px -60px;
 }
-.pkmark-thorny {
-  width: 52px;
-  height: 58px;
+.pkmark-thorny{
+  width:52px;
+  height:58px;
   background-position: -521px -60px;
 }
-.pkmark-fishing {
-  width: 63px;
-  height: 58px;
+.pkmark-fishing{
+  width:63px;
+  height:58px;
   background-position: -575px -60px;
 }
-.pkmark-stormy {
-  width: 52px;
-  height: 58px;
+.pkmark-stormy{
+  width:52px;
+  height:58px;
   background-position: -640px -60px;
 }
-.pkmark-jittery {
-  width: 67px;
-  height: 58px;
+.pkmark-jittery{
+  width:67px;
+  height:58px;
   background-position: -694px -60px;
 }
-.pkmark-uncommon {
-  width: 64px;
-  height: 58px;
+.pkmark-uncommon{
+  width:64px;
+  height:58px;
   background-position: -763px -60px;
 }
-.pkmark-blizzard {
-  width: 57px;
-  height: 58px;
+.pkmark-blizzard{
+  width:57px;
+  height:58px;
   background-position: -829px -60px;
 }
-.pkmark-dry {
-  width: 58px;
-  height: 58px;
+.pkmark-dry{
+  width:58px;
+  height:58px;
   background-position: -888px -60px;
 }

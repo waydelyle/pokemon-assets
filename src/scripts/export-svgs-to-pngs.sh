@@ -1,8 +1,8 @@
 #!/usr/bin/env zsh
 
 function create_png() {
-  npx svgexport "src/svg/${1}.svg" "assets/img/symbols/${2}.png" pad 128:128
-  npx svgexport "src/svg/${1}.svg" "assets/img/symbols/${2}-32px.png" pad 32:32
+  npx svgexport "assets/svg/${1}.svg" "assets/img/symbols/${2}.png" pad 128:128
+  npx svgexport "assets/svg/${1}.svg" "assets/img/symbols/${2}-32px.png" pad 32:32
 }
 
 create_png gender-female gender-female

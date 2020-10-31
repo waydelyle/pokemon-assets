@@ -12,3 +12,5 @@ webpack.config*
 .editorconfig
 .gitignore
 .npmignore
+Makefile
+/src/

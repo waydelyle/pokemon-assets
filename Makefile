@@ -1,29 +1,34 @@
+DC_RUN=docker-compose run --rm maker
 default: build
 
-build: spritesheets data pages pretty
+build:
+	$(DC_RUN) build
+
+version:
+	$(DC_RUN) version
 
 install:
-	./src/scripts/install.sh
+	$(DC_RUN) install
 
 publish:
-	./src/scripts/publish-gh-pages.sh
+	$(DC_RUN) publish-gh-pages
 
 spritesheets:
-	./src/scripts/generate-all-spritesheets.sh
+	$(DC_RUN) generate-all-spritesheets
 
 data:
-	./src/scripts/build-json-data.sh
+	$(DC_RUN) build-json-data
 
 pages:
-	./src/scripts/build-gh-pages.sh
+	$(DC_RUN) build-gh-pages
 
 pretty:
-	./src/scripts/prettify-code.sh
+	$(DC_RUN) prettify-code
 
 # ----- ONE-OFFs
 
 pngs:
-	./src/scripts/export-svgs-to-pngs.sh
+	$(DC_RUN) export-svgs-to-pngs
 
 npm-audit-fix:
 	rm -rf package-lock.json ./node_modules

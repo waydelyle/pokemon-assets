@@ -189,7 +189,7 @@ for img in *.png; do
   if [ "${W}" -ge "${_MAX_IMG_WIDTH}" ] || [ "${H}" -ge "${_MAX_IMG_HEIGHT}" ]; then
 
     # resize all PNGs to the maximum
-    magick mogrify -resize "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}" $img
+    mogrify -resize "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}" $img
     #convert "$img" -resize "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}^" -gravity center -extent "${_MAX_IMG_WIDTH}x${_MAX_IMG_HEIGHT}" "$img"
   fi
 

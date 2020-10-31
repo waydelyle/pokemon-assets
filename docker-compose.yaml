@@ -1,0 +1,7 @@
+version: "3.7"
+services:
+  maker:
+    build:
+      context: ./
+    volumes:
+      - './:/app'

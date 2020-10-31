@@ -61,10 +61,10 @@ module.exports = {
   lcvv: lcvv,
   slugize: slugize,
   print_joined_props: print_joined_props,
-  assets_dir: __dirname + "/../../../assets",
-  output_dir: __dirname + "/../../../assets/data",
+  assets_dir: __dirname + "/../../assets",
+  output_dir: __dirname + "/../../assets/data",
   list_files: list_files,
   titleize: titleize,
   aliasize: aliasize,
-  regex_png: /.*\.png$/gi
+  regex_png: /.*\.png$/gi,
 };

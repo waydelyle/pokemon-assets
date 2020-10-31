@@ -25,8 +25,20 @@ pages:
 pretty:
 	$(DC_RUN) prettify-code
 
-# ----- ONE-OFFs
+version-major:
+	npm version major
 
+version-minor:
+	npm version minor
+
+version-patch:
+	npm version patch
+
+version-fix: version-patch
+version: version-minor
+
+
+# ----- ONE-OFFs
 pngs:
 	$(DC_RUN) export-svgs-to-pngs
 

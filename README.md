@@ -67,13 +67,14 @@ You can find all data under [assets/data](https://github.com/itsjavi/pokemon-ass
 
 ## Maintenance
 
-The only dependency you need to maintain this project is Docker and
+The only dependencies you need to maintain this project are git, zsh, Docker and
 the ability to run `make` commands. The most important ones are:
 
 
 - `make install`: initializes the project dependencies, needed to build the assets.
 - `make build`: builds the assets.
-- `make publish`: publishes to the gh-pages branch and to npm. This one needs remote permissions.
+- `make publish-pages`: publishes the current assets to the gh-pages branch
+- `make publish-npm`: publishes the current assets to npm with the current package.json version
 
 
 ## Credits

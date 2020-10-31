@@ -10,8 +10,11 @@ version:
 install:
 	$(DC_RUN) install
 
-publish:
-	$(DC_RUN) publish-gh-pages
+publish-npm:
+	npm publish
+
+publish-pages:
+	./src/scripts/publish-gh-pages.sh
 
 spritesheets:
 	$(DC_RUN) generate-all-spritesheets

@@ -1,8 +1,10 @@
-[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/pokemon-assets.svg)](https://badge.fury.io/js/pokemon-assets) ![Updated for](https://img.shields.io/badge/GEN-8--IsleArmor-blueviolet)
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/pokemon-assets.svg)](https://badge.fury.io/js/pokemon-assets) ![Generations](https://img.shields.io/badge/Generations-1--8-blue) ![Updated for](https://img.shields.io/badge/Updated%20For-Isle%20of%20Armor-yellow)
 
 # pokemon-assets
 
 Essential Pokémon assets for any kind of project: menu sprites, fonts, JSON data, SASS/CSS spritesheet and more.
+
+> Please note that this is an early version and the JSON API format and the project structure and contents may change until we release the first stable version, `1.0.0`.
 
 ## Install
 

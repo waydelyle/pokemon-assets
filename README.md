@@ -1,3 +1,5 @@
+[![MIT license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/pokemon-assets.svg)](https://badge.fury.io/js/pokemon-assets) ![Updated for](https://img.shields.io/badge/GEN-8--IsleArmor-blueviolet)
+
 # pokemon-assets
 
 Essential Pokémon assets for any kind of project: menu sprites, fonts, JSON data, SASS/CSS spritesheet and more.
